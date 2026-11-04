@@ -58,7 +58,7 @@ foreach ($c in $consultas) {
             $base[$id] = [pscustomobject]@{
                 id = $id; tipo = $c.tipo; ambito = $c.ambito; numero = $num
                 titulo = $titulo; texto = $texto; autores = $autores; descriptores = $desc
-                url = "https://www.saij.gob.ar/$($meta.'friendly-url'.description)"
+                url = "https://www.saij.gob.ar/$id"
                 agregado = $hoy
             }
             $nuevos++; $obtenidos++
@@ -85,6 +85,8 @@ foreach ($doc in $pend) {
 Write-Host "Datos completados: $hechos de $($pend.Count)"
 
 New-Item -ItemType Directory -Force (Split-Path $salida) | Out-Null
+# La direccion "amigable" de SAIJ da error 500; la que funciona es saij.gob.ar/<id>
+foreach ($d in $base.Values) { $d.url = "https://www.saij.gob.ar/$($d.id)" }
 $todos = @($base.Values | Sort-Object agregado -Descending)
 $jsonOut = ConvertTo-Json -InputObject $todos -Depth 6 -Compress
 [System.IO.File]::WriteAllText($salida, $jsonOut, (New-Object System.Text.UTF8Encoding $false))
