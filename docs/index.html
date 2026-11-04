@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="referrer" content="no-referrer">
+<title>Buscador Jurídico</title>
+<style>
+  :root { --bg:#f7f6f2; --card:#fff; --tx:#1d1d1b; --mut:#6b6a63; --ac:#7a1f2b; --bd:#e2e0d8; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#17171a; --card:#212126; --tx:#ecebe6; --mut:#9c9b94; --ac:#e08a96; --bd:#33333a; } }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--tx); font:16px/1.5 Georgia, 'Times New Roman', serif; }
+  main { max-width: 860px; margin: 0 auto; padding: 24px 16px 64px; }
+  h1 { margin:0 0 4px; font-size:1.6rem; }
+  .sub { color:var(--mut); font:.85rem system-ui, sans-serif; margin-bottom:18px; }
+  .barra { display:flex; gap:8px; flex-wrap:wrap; font-family:system-ui,sans-serif; }
+  input[type=search] { flex:1 1 280px; padding:12px 14px; font-size:1rem; border:1px solid var(--bd); border-radius:8px; background:var(--card); color:var(--tx); }
+  select { padding:10px; border:1px solid var(--bd); border-radius:8px; background:var(--card); color:var(--tx); }
+  .res { margin-top:18px; }
+  article { background:var(--card); border:1px solid var(--bd); border-radius:10px; padding:14px 16px; margin-bottom:12px; }
+  article h2 { margin:0 0 6px; font-size:1.05rem; }
+  article a { color:var(--ac); text-decoration:none; } article a:hover { text-decoration:underline; }
+  .tags { font:.75rem system-ui,sans-serif; color:var(--mut); margin-bottom:6px; }
+  .tag { display:inline-block; border:1px solid var(--bd); border-radius:99px; padding:1px 8px; margin-right:4px; }
+  p { margin:0; color:var(--tx); font-size:.95rem; }
+  mark { background:#ffe58a55; color:inherit; border-radius:2px; }
+  .estado { font:.85rem system-ui,sans-serif; color:var(--mut); }
+  .aviso { margin-top:32px; font:.78rem system-ui,sans-serif; color:var(--mut); border-top:1px solid var(--bd); padding-top:12px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Buscador de jurisprudencia y doctrina</h1>
+  <div class="sub" id="meta">Cargando base…</div>
+  <div class="barra">
+    <input type="search" id="q" placeholder="Ej.: daño moral accidente de tránsito, desalojo, prescripción…" autofocus>
+    <select id="tipo"><option value="">Todo</option><option>Jurisprudencia</option><option>Doctrina</option></select>
+    <select id="ambito"><option value="">Todos los ámbitos</option><option>Entre Ríos</option><option>Nacional</option></select>
+  </div>
+  <div class="res" id="res"></div>
+  <p class="aviso">Fuente: SAIJ (Sistema Argentino de Información Jurídica, datos públicos). Base actualizada automáticamente cada día. Verificá siempre el texto completo del fallo o la obra en la fuente antes de citar.</p>
+</main>
+<script src="vendor/minisearch.min.js"></script>
+<script>
+const $ = id => document.getElementById(id);
+let docs = [], mini = null;
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+function resaltar(t, terms) {
+  let s = esc(t);
+  terms.forEach(w => { if (w.length > 2) s = s.replace(new RegExp('(' + w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')', 'gi'), '<mark>$1</mark>'); });
+  return s;
+}
+function render(lista, terms) {
+  $('res').innerHTML = (lista.length ? '<div class="estado">' + lista.length + ' resultado(s)</div>' : '<div class="estado">Sin resultados.</div>') +
+    lista.slice(0, 50).map(d => `
+      <article>
+        <div class="tags"><span class="tag">${esc(d.tipo)}</span><span class="tag">${esc(d.ambito)}</span>${d.numero ? '<span class="tag">' + esc(d.numero) + '</span>' : ''}<span class="tag">agregado ${esc(d.agregado)}</span></div>
+        <h2><a href="${esc(d.url)}" target="_blank" rel="noopener">${resaltar(d.titulo || '(sin título)', terms)}</a></h2>
+        ${d.autores && d.autores.length ? '<div class="tags">Autor(es): ' + esc(d.autores.join(', ')) + '</div>' : ''}
+        ${d.texto ? '<p>' + resaltar(d.texto.length > 420 ? d.texto.slice(0, 420) + '…' : d.texto, terms) + '</p>' : ''}
+      </article>`).join('');
+}
+function buscar() {
+  const q = $('q').value.trim(), tipo = $('tipo').value, ambito = $('ambito').value;
+  const filtro = d => (!tipo || d.tipo === tipo) && (!ambito || d.ambito === ambito);
+  if (!q) return render(docs.filter(filtro), []);
+  const r = mini.search(q, { prefix: true, fuzzy: 0.15, combineWith: 'AND', boost: { titulo: 3, descriptores: 2 }, filter: filtro });
+  const terms = q.split(/\s+/);
+  render(r.length ? r : mini.search(q, { prefix: true, fuzzy: 0.2, combineWith: 'OR', filter: filtro }), terms);
+}
+(async () => {
+  try {
+    const [d, m] = await Promise.all([fetch('data/docs.json').then(r => r.json()), fetch('data/meta.json').then(r => r.json())]);
+    docs = d.map(x => ({ ...x, descriptores: (x.descriptores || []).join(' '), _desc: x.descriptores, autoresTxt: (x.autores || []).join(' ') }));
+    mini = new MiniSearch({ fields: ['titulo', 'texto', 'descriptores', 'autoresTxt'], storeFields: Object.keys(docs[0] || {}),
+      processTerm: t => t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '') });
+    mini.addAll(docs);
+    $('meta').textContent = m.total + ' documentos · actualizado ' + new Date(m.actualizado).toLocaleString('es-AR');
+    buscar();
+  } catch (e) { $('meta').textContent = 'No se pudo cargar la base: ' + e.message; }
+  ['q', 'tipo', 'ambito'].forEach(i => $(i).addEventListener('input', buscar));
+})();
+</script>
+</body>
+</html>
