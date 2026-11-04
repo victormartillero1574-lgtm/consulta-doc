@@ -1,6 +1,6 @@
 # Recolector diario de jurisprudencia (sumarios) y doctrina desde SAIJ (datos publicos).
 # Compatible con Windows PowerShell 5.1 y PowerShell 7 (pwsh en GitHub Actions).
-param([int]$PorConsulta = 100, [int]$Pagina = 50)
+param([int]$PorConsulta = 100, [int]$Pagina = 50, [int]$MaxEnriquecer = 0)
 
 $ErrorActionPreference = 'Stop'
 $raiz = Split-Path -Parent $PSScriptRoot
@@ -67,6 +67,22 @@ foreach ($c in $consultas) {
     }
     Write-Host "$($c.ambito) / $($c.tipo): $obtenidos nuevos"
 }
+
+# Completar datos del fallo (fecha, caratula, provincia, materia, publicacion) desde SAIJ
+if ($MaxEnriquecer -le 0) { $MaxEnriquecer = if ($PorConsulta -ge 1000) { 3000 } else { 700 } }
+$pend = @($base.Values | Where-Object { -not $_.PSObject.Properties['enriquecido'] } | Sort-Object agregado, id | Select-Object -First $MaxEnriquecer)
+$hechos = 0
+foreach ($doc in $pend) {
+    try {
+        $r = Invoke-WebRequest -Uri "https://www.saij.gob.ar/view-document?guid=$($doc.id)" -Headers $headers -UseBasicParsing -TimeoutSec 40
+        $c = (($r.Content | ConvertFrom-Json).data | ConvertFrom-Json).document.content
+    } catch { continue }
+    $nuevo = [ordered]@{ fecha = $c.fecha; caratula = ("$($c.caratula)" -replace '\s+', ' ').Trim(); provincia = $c.provincia; materia = $c.materia; sala = $c.sala; publicacion = $c.publicacion; enriquecido = $true }
+    foreach ($k in $nuevo.Keys) { $doc | Add-Member -NotePropertyName $k -NotePropertyValue $nuevo[$k] -Force }
+    $hechos++
+    Start-Sleep -Milliseconds 300
+}
+Write-Host "Datos completados: $hechos de $($pend.Count)"
 
 New-Item -ItemType Directory -Force (Split-Path $salida) | Out-Null
 $todos = @($base.Values | Sort-Object agregado -Descending)
