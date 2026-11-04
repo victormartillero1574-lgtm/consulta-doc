@@ -56,9 +56,9 @@ function render(lista, terms) {
   $('res').innerHTML = (lista.length ? '<div class="estado">' + lista.length + ' resultado(s)</div>' : '<div class="estado">Sin resultados.</div>') +
     lista.slice(0, 50).map(d => `
       <article>
-        <div class="tags"><span class="tag">${esc(d.tipo)}</span><span class="tag">${esc(d.ambito)}</span>${d.numero ? '<span class="tag">' + esc(d.numero) + '</span>' : ''}<span class="tag">agregado ${esc(d.agregado)}</span></div>
+        <div class="tags"><span class="tag">${esc(d.tipo)}</span><span class="tag">${esc(d.ambito)}</span>${d.numero ? '<span class="tag">' + esc(d.numero) + '</span>' : ''}${d.fecha ? '<span class="tag">Fecha ' + esc(d.fecha) + '</span>' : ''}${d.provincia ? '<span class="tag">' + esc(d.provincia) + '</span>' : ''}</div>
         <h2><a href="https://www.saij.gob.ar/${esc(d.id)}" target="_blank" rel="noopener">${resaltar(d.titulo || '(sin título)', terms)}</a></h2>
-        ${d.autores && d.autores.length ? '<div class="tags">Autor(es): ' + esc(d.autores.join(', ')) + '</div>' : ''}
+        ${d.caratula ? '<div class="tags"><b>' + resaltar(d.caratula, terms) + '</b></div>' : ''}${d.publicacion ? '<div class="tags">' + esc(d.publicacion) + '</div>' : ''}${d.autores && d.autores.length ? '<div class="tags">Autor(es): ' + esc(d.autores.join(', ')) + '</div>' : ''}
         ${d.texto ? '<p>' + resaltar(d.texto.length > 420 ? d.texto.slice(0, 420) + '…' : d.texto, terms) + '</p>' : ''}
       </article>`).join('');
 }
@@ -73,8 +73,8 @@ function buscar() {
 (async () => {
   try {
     const [d, m] = await Promise.all([fetch('data/docs.json').then(r => r.json()), fetch('data/meta.json').then(r => r.json())]);
-    docs = d.map(x => ({ ...x, descriptores: (x.descriptores || []).join(' '), _desc: x.descriptores, autoresTxt: (x.autores || []).join(' ') }));
-    mini = new MiniSearch({ fields: ['titulo', 'texto', 'descriptores', 'autoresTxt'], storeFields: Object.keys(docs[0] || {}),
+    docs = d.map(x => ({ ...x, descriptores: (x.descriptores || []).join(' '), _desc: x.descriptores, autoresTxt: (x.autores || []).join(' '), caratula: x.caratula || '', materia: x.materia || '' }));
+    mini = new MiniSearch({ fields: ['titulo', 'texto', 'descriptores', 'autoresTxt', 'caratula', 'materia'], storeFields: ['id','tipo','ambito','numero','titulo','texto','autores','url','agregado','fecha','caratula','provincia','materia','publicacion'],
       processTerm: t => t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '') });
     mini.addAll(docs);
     $('meta').textContent = m.total + ' documentos · actualizado ' + new Date(m.actualizado).toLocaleString('es-AR');
