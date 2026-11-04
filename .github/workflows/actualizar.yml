@@ -1,0 +1,42 @@
+name: Actualizar base y publicar
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Recolectar novedades
+        shell: pwsh
+        run: ./scripts/actualizar.ps1 -PorConsulta ${{ github.event_name == 'workflow_dispatch' && 1500 || 100 }}
+      - name: Guardar base actualizada
+        run: |
+          git config user.name "bot-actualizador"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/data
+          git diff --cached --quiet || git commit -m "Base actualizada $(date -u +%F)"
+          git push || true
+      - name: Incluir libreria de busqueda propia (sin CDN para el visitante)
+        run: |
+          mkdir -p docs/vendor
+          curl -fsSL https://cdn.jsdelivr.net/npm/minisearch@7.1.0/dist/umd/index.min.js -o docs/vendor/minisearch.min.js
+      - name: Verificar que la base es JSON valido
+        run: python3 -c "import json; print(len(json.load(open('docs/data/docs.json', encoding='utf-8'))), 'documentos')"
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - uses: actions/deploy-pages@v4
