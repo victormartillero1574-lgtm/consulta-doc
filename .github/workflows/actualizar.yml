@@ -22,11 +22,13 @@ jobs:
       - name: Recolectar novedades
         shell: pwsh
         run: ./scripts/actualizar.ps1 -PorConsulta ${{ github.event_name == 'workflow_dispatch' && 1500 || 100 }}
+      - name: Exportar fuentes para NotebookLM
+        run: python3 scripts/exportar_notebooklm.py
       - name: Guardar base actualizada
         run: |
           git config user.name "bot-actualizador"
           git config user.email "bot@users.noreply.github.com"
-          git add docs/data
+          git add docs/data docs/notebooklm
           git diff --cached --quiet || git commit -m "Base actualizada $(date -u +%F)"
           git push || true
       - name: Incluir libreria de busqueda propia (sin CDN para el visitante)
