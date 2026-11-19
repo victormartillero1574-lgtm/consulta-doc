@@ -2,21 +2,6 @@
 
 Fuente: SAIJ (datos publicos). Verificar cada cita en la URL indicada antes de usarla en un escrito.
 
-## Derecho laboral, fecha cierta, ingreso al trabajo, carga probatoria dinámica, prueba pericial
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085873
-- **Caratula:** Muñóz Griselda María Lucrecia c/ Lonardi Álvaro c/ s/ Cobro de pesos y entrega de certificación laboral
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, fecha cierta, ingreso al trabajo, carga probatoria dinámica, prueba pericial
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3785-800isoiramus
-
-Cuando la relación laboral se encuentra formalmente registrada (registración que, en el caso, fue confirmada como legalmente llevada por la pericia contable), la carga de la prueba pesa sobre la actora si cuestiona los datos, como la fecha de...
-
----
-
 ## Derecho laboral, fecha cierta, ingreso al trabajo, carga probatoria dinámica, prueba testimonial
 
 - **Tipo:** Jurisprudencia
@@ -47,19 +32,18 @@ Si la sentencia que decreta el divorcio vincular no fija una fecha determinada d
 
 ---
 
-## Interés superior del niño, estado de adoptabilidad, padres biológicos, derechos de las niñas, niños y adolescentes, adopción
+## Derecho laboral, fecha cierta, ingreso al trabajo, carga probatoria dinámica, prueba pericial
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086668
-- **Caratula:** O., J. E. y O., L. K. c/ s/ Declaración Judicial de Situación de Adoptabilidad
-- **Fecha:** 2026-09-14
+- **Numero:** I0085873
+- **Caratula:** Muñóz Griselda María Lucrecia c/ Lonardi Álvaro c/ s/ Cobro de pesos y entrega de certificación laboral
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** interés superior del niño, estado de adoptabilidad, padres biológicos, derechos del niño, adopción
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8666-800isoiramus
+- **Materia:** LABORAL
+- **Descriptores:** Derecho laboral, fecha cierta, ingreso al trabajo, carga probatoria dinámica, prueba pericial
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3785-800isoiramus
 
-El principio de preservación familiar impone desplegar medidas razonables para evitar separaciones innecesarias, pero no obliga a mantener indefinidamente procesos de revinculación cuando no logran consolidar vínculos protectores, generan...
+Cuando la relación laboral se encuentra formalmente registrada (registración que, en el caso, fue confirmada como legalmente llevada por la pericia contable), la carga de la prueba pesa sobre la actora si cuestiona los datos, como la fecha de...
 
 ---
 
@@ -76,6 +60,70 @@ El principio de preservación familiar impone desplegar medidas razonables para 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7666-800isoiramus
 
 La preservación de la familia de origen integra el interés superior, pero no es su único componente ni necesariamente el prevalente cuando la reintegración no resulta posible dentro de un tiempo razonable. El derecho de los progenitores a...
+
+---
+
+## Interés superior del niño, estado de adoptabilidad, padres biológicos, derechos de las niñas, niños y adolescentes, adopción
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086668
+- **Caratula:** O., J. E. y O., L. K. c/ s/ Declaración Judicial de Situación de Adoptabilidad
+- **Fecha:** 2026-09-14
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** interés superior del niño, estado de adoptabilidad, padres biológicos, derechos del niño, adopción
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8666-800isoiramus
+
+El principio de preservación familiar impone desplegar medidas razonables para evitar separaciones innecesarias, pero no obliga a mantener indefinidamente procesos de revinculación cuando no logran consolidar vínculos protectores, generan...
+
+---
+
+## Cuota alimentaria, alimentos, alimentado de escasos recursos, grupos vulnerables
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086647
+- **Caratula:** P., H. O. y J., I. G. c/ P., I. E. s/ Incidente de cese de cuota alimentaria
+- **Fecha:** 2026-09-08
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** cuota alimentaria, alimentos, alimentado de escasos recursos, grupos vulnerables
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7466-800isoiramus
+
+Las circunstancias de salud constituyen un elemento relevante para valorar en concreto las posibilidades actuales de autosustento. La mayoría de edad, por sí sola, no puede operar como presunción automática de capacidad económica cuando se encuentra...
+
+---
+
+## Derecho a la información, acción de amparo, acceso a la información pública, ley de protección de los datos personales
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086671
+- **Caratula:** Albarenque Marcelo Alberto c/ Instituto Aurtárquico Provincial del Seguro de Entre Ríos s/ Acción de Amparo
+- **Fecha:** 2026-09-08
+- **Provincia:** Entre Ríos
+- **Materia:** CONSTITUCIONAL-PROCESAL
+- **Descriptores:** derecho a la información, acción de amparo, acceso a la información pública, ley de protección de los datos personales, datos personales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1766-800isoiramus
+
+Conforme lo dispone el art. 2 de la Ley de Protección de Datos Personales 25.326, los datos personales son aquellos vinculados a personas físicas o de existencia ideal determinada o determinables, mientras que los datos sensibles son aquellos que...
+
+---
+
+## Cuota alimentaria, alimentos, alimentado de escasos recursos, grupos vulnerables, derecho a la salud
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086648
+- **Caratula:** P., H. O. y J., I. G. c/ P., I. E. s/ Incidente de cese de cuota alimentaria
+- **Fecha:** 2026-09-08
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** cuota alimentaria, alimentos, alimentado de escasos recursos, grupos vulnerables, derecho a la salud
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8466-800isoiramus
+
+La obligación alimentaria prevista para el hijo mayor de veintiún años que continúa estudios constituye un supuesto especial y exige que esa actividad le impida proveerse de medios para su sustento. La falta de acreditación de ese extremo no impide...
 
 ---
 
@@ -111,86 +159,6 @@ La cuota alimentaria puede funcionar como un instrumento de acompañamiento haci
 
 ---
 
-## Cuota alimentaria, alimentos, alimentado de escasos recursos, grupos vulnerables
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086647
-- **Caratula:** P., H. O. y J., I. G. c/ P., I. E. s/ Incidente de cese de cuota alimentaria
-- **Fecha:** 2026-09-08
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** cuota alimentaria, alimentos, alimentado de escasos recursos, grupos vulnerables
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7466-800isoiramus
-
-Las circunstancias de salud constituyen un elemento relevante para valorar en concreto las posibilidades actuales de autosustento. La mayoría de edad, por sí sola, no puede operar como presunción automática de capacidad económica cuando se encuentra...
-
----
-
-## Cuota alimentaria, alimentos, alimentado de escasos recursos, grupos vulnerables, derecho a la salud
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086648
-- **Caratula:** P., H. O. y J., I. G. c/ P., I. E. s/ Incidente de cese de cuota alimentaria
-- **Fecha:** 2026-09-08
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** cuota alimentaria, alimentos, alimentado de escasos recursos, grupos vulnerables, derecho a la salud
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8466-800isoiramus
-
-La obligación alimentaria prevista para el hijo mayor de veintiún años que continúa estudios constituye un supuesto especial y exige que esa actividad le impida proveerse de medios para su sustento. La falta de acreditación de ese extremo no impide...
-
----
-
-## Derecho a la información, acción de amparo, acceso a la información pública, ley de protección de los datos personales
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086671
-- **Caratula:** Albarenque Marcelo Alberto c/ Instituto Aurtárquico Provincial del Seguro de Entre Ríos s/ Acción de Amparo
-- **Fecha:** 2026-09-08
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL-PROCESAL
-- **Descriptores:** derecho a la información, acción de amparo, acceso a la información pública, ley de protección de los datos personales, datos personales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1766-800isoiramus
-
-Conforme lo dispone el art. 2 de la Ley de Protección de Datos Personales 25.326, los datos personales son aquellos vinculados a personas físicas o de existencia ideal determinada o determinables, mientras que los datos sensibles son aquellos que...
-
----
-
-## Violencia de género, código penal, incumplimiento de resolución judicial, revocación de la libertad condicional, derechos de la víctima, pena privativa de la libertad, reglas de conducta, voto en disidencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086651
-- **Caratula:** M., D. K. Desobediencia en contexto de violencia de género y amenazas c/ s/ Recurso de Casación
-- **Fecha:** 2026-09-03
-- **Provincia:** Entre Ríos
-- **Materia:** PENAL
-- **Descriptores:** violencia de género, código penal, incumplimiento de resolución judicial, revocación de la libertad condicional, derechos de la víctima, pena privativa de la libertad, reglas de conducta, voto en disidencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1566-800isoiramus
-
-En relación a la entidad de la regla incumplida, se consideró que la regla territorial era accesoria, amplia y confusa, mientras que las prohibiciones centrales -acercamiento, contacto y actos de violencia- no habían sido incumplidas. Se estimó por...
-
----
-
-## Revocación de la libertad condicional, violencia de género, código penal, incumplimiento de resolución judicial, derechos de la víctima, pena privativa de la libertad, reglas de conducta, restricción de acercamiento
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086654
-- **Caratula:** M., D. K. Desobediencia en contexto de violencia de género y amenazas c/ s/ Recurso de Casación
-- **Fecha:** 2026-09-03
-- **Provincia:** Entre Ríos
-- **Materia:** PENAL
-- **Descriptores:** revocación de la libertad condicional, violencia de género, código penal, incumplimiento de resolución judicial, derechos de la víctima, pena privativa de la libertad, reglas de conducta, restricción de acercamiento
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4566-800isoiramus
-
-El sistema progresivo del art. 27 bis del Código Penal diseña un esquema escalonado y prudencial frente al quebrantamiento de las reglas de conducta. La norma prevé, ante un primer incumplimiento, la facultad judicial de no computar el tiempo...
-
----
-
 ## Revocación de la libertad condicional, violencia de género, código penal, incumplimiento de resolución judicial, derechos de la víctima, pena privativa de la libertad, reglas de conducta, restricción de acercamiento
 
 - **Tipo:** Jurisprudencia
@@ -204,6 +172,22 @@ El sistema progresivo del art. 27 bis del Código Penal diseña un esquema escal
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3566-800isoiramus
 
 La persistencia que exige la ley penal de fondo, no puede medirse de forma meramente cuantitativa, sino sustancial. Requiere que el encausado haya sido previamente advertido, intimado o sancionado con el descuento del plazo, y que, pese a dicho...
+
+---
+
+## Violencia de género, código penal, incumplimiento de resolución judicial, revocación de la libertad condicional, derechos de la víctima, pena privativa de la libertad, voto en disidencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086652
+- **Caratula:** M., D. K. Desobediencia en contexto de violencia de género y amenazas c/ s/ Recurso de Casación
+- **Fecha:** 2026-09-03
+- **Provincia:** Entre Ríos
+- **Materia:** PENAL
+- **Descriptores:** violencia de género, código penal, incumplimiento de resolución judicial, revocación de la libertad condicional, derechos de la víctima, pena privativa de la libertad, voto en disidencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2566-800isoiramus
+
+Para activar los mecanismos de control, convocar a una audiencia de apercibimiento o incluso solicitar la intervención judicial no se requiere un estándar de certeza propio de la acreditación de un delito autónomo, sino un grado de verosimilitud,...
 
 ---
 
@@ -239,22 +223,6 @@ Una correcta interpretación indica que cuando la norma exige persistencia o rei
 
 ---
 
-## Violencia de género, código penal, incumplimiento de resolución judicial, revocación de la libertad condicional, derechos de la víctima, pena privativa de la libertad, voto en disidencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086652
-- **Caratula:** M., D. K. Desobediencia en contexto de violencia de género y amenazas c/ s/ Recurso de Casación
-- **Fecha:** 2026-09-03
-- **Provincia:** Entre Ríos
-- **Materia:** PENAL
-- **Descriptores:** violencia de género, código penal, incumplimiento de resolución judicial, revocación de la libertad condicional, derechos de la víctima, pena privativa de la libertad, voto en disidencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2566-800isoiramus
-
-Para activar los mecanismos de control, convocar a una audiencia de apercibimiento o incluso solicitar la intervención judicial no se requiere un estándar de certeza propio de la acreditación de un delito autónomo, sino un grado de verosimilitud,...
-
----
-
 ## Pena privativa de la libertad, violencia de género, código penal, incumplimiento de resolución judicial, revocación de la libertad condicional, derechos de la víctima, reglas de conducta
 
 - **Tipo:** Jurisprudencia
@@ -268,6 +236,38 @@ Para activar los mecanismos de control, convocar a una audiencia de apercibimien
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9466-800isoiramus
 
 Exigir que se produzca una agresión física hacia la víctima o un intento delictual violento para recién autorizar la revocación de la condena condicional, implica neutralizar la función preventiva de la regla de conducta. Implica reducir al Estado a...
+
+---
+
+## Revocación de la libertad condicional, violencia de género, código penal, incumplimiento de resolución judicial, derechos de la víctima, pena privativa de la libertad, reglas de conducta, restricción de acercamiento
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086654
+- **Caratula:** M., D. K. Desobediencia en contexto de violencia de género y amenazas c/ s/ Recurso de Casación
+- **Fecha:** 2026-09-03
+- **Provincia:** Entre Ríos
+- **Materia:** PENAL
+- **Descriptores:** revocación de la libertad condicional, violencia de género, código penal, incumplimiento de resolución judicial, derechos de la víctima, pena privativa de la libertad, reglas de conducta, restricción de acercamiento
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4566-800isoiramus
+
+El sistema progresivo del art. 27 bis del Código Penal diseña un esquema escalonado y prudencial frente al quebrantamiento de las reglas de conducta. La norma prevé, ante un primer incumplimiento, la facultad judicial de no computar el tiempo...
+
+---
+
+## Violencia de género, código penal, incumplimiento de resolución judicial, revocación de la libertad condicional, derechos de la víctima, pena privativa de la libertad, reglas de conducta, voto en disidencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086651
+- **Caratula:** M., D. K. Desobediencia en contexto de violencia de género y amenazas c/ s/ Recurso de Casación
+- **Fecha:** 2026-09-03
+- **Provincia:** Entre Ríos
+- **Materia:** PENAL
+- **Descriptores:** violencia de género, código penal, incumplimiento de resolución judicial, revocación de la libertad condicional, derechos de la víctima, pena privativa de la libertad, reglas de conducta, voto en disidencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1566-800isoiramus
+
+En relación a la entidad de la regla incumplida, se consideró que la regla territorial era accesoria, amplia y confusa, mientras que las prohibiciones centrales -acercamiento, contacto y actos de violencia- no habían sido incumplidas. Se estimó por...
 
 ---
 
@@ -287,19 +287,19 @@ El ingreso reiterado del condenado al barrio donde reside la víctima, constituy
 
 ---
 
-## Medios de prueba, apreciación de la prueba, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, autonomía de la voluntad, restricciones a la capacidad, facultades jurisdiccionales, debido proceso
+## Código civil y comercial, Convención sobre los Derechos de las Personas con Discapacidad, grupos vulnerables, derechos humanos de las personas con discapacidad, derecho de voto, derechos políticos, sistemas de apoyo, autonomía de la voluntad, restricciones a la capacidad
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086638
+- **Numero:** I0086634
 - **Caratula:** S., M. A. c/ s/ Restricciones a la Capacidad
 - **Fecha:** 2026-08-27
 - **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL-DERECHOS HUMANOS
-- **Descriptores:** medios de prueba, valoración probatoria, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, autonomía de la voluntad, restricciones a la capacidad, tutela judicial efectiva, debido proceso
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8366-800isoiramus
+- **Materia:** CIVIL-DERECHOS HUMANOS-CONSTITUCIONAL
+- **Descriptores:** código civil y comercial, Convención sobre los Derechos de las Personas con Discapacidad, grupos vulnerables, derechos humanos de las personas con discapacidad, derecho de voto, derechos políticos, sistemas de apoyo, autonomía de la voluntad, restricciones a la capacidad
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4366-800isoiramus
 
-No se encuentran reunidos los presupuestos excepcionales que permitirían mantener la declaración de incapacidad dispuesta en el año 2018. Es cierto que la persona presenta trastorno del espectro autista, epilepsia y discapacidad intelectual...
+El art. 29 de la Convención sobre los Derechos de las Personas con Discapacidad obliga a garantizar a las personas con discapacidad los derechos políticos y la posibilidad de gozarlos en igualdad de condiciones con las demás. El propio informe...
 
 ---
 
@@ -335,22 +335,6 @@ El art. 43 del Código Civil y Comercial define como apoyo toda medida judicial 
 
 ---
 
-## Código civil y comercial, Convención sobre los Derechos de las Personas con Discapacidad, grupos vulnerables, derechos humanos de las personas con discapacidad, derecho de voto, derechos políticos, sistemas de apoyo, autonomía de la voluntad, restricciones a la capacidad
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086634
-- **Caratula:** S., M. A. c/ s/ Restricciones a la Capacidad
-- **Fecha:** 2026-08-27
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-DERECHOS HUMANOS-CONSTITUCIONAL
-- **Descriptores:** código civil y comercial, Convención sobre los Derechos de las Personas con Discapacidad, grupos vulnerables, derechos humanos de las personas con discapacidad, derecho de voto, derechos políticos, sistemas de apoyo, autonomía de la voluntad, restricciones a la capacidad
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4366-800isoiramus
-
-El art. 29 de la Convención sobre los Derechos de las Personas con Discapacidad obliga a garantizar a las personas con discapacidad los derechos políticos y la posibilidad de gozarlos en igualdad de condiciones con las demás. El propio informe...
-
----
-
 ## Medios de prueba, apreciación de la prueba, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, autonomía de la voluntad, restricciones a la capacidad, facultades jurisdiccionales, debido proceso
 
 - **Tipo:** Jurisprudencia
@@ -364,6 +348,22 @@ El art. 29 de la Convención sobre los Derechos de las Personas con Discapacidad
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7366-800isoiramus
 
 El informe interdisciplinario resulta contundente en cuanto a que la persona no comprende cabalmente el valor del dinero, presenta limitaciones para efectuar operaciones económicas y no cuenta actualmente con aptitudes suficientes para administrar o...
+
+---
+
+## Medios de prueba, apreciación de la prueba, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, autonomía de la voluntad, restricciones a la capacidad, facultades jurisdiccionales, debido proceso
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086638
+- **Caratula:** S., M. A. c/ s/ Restricciones a la Capacidad
+- **Fecha:** 2026-08-27
+- **Provincia:** Entre Ríos
+- **Materia:** CONSTITUCIONAL-DERECHOS HUMANOS
+- **Descriptores:** medios de prueba, valoración probatoria, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, autonomía de la voluntad, restricciones a la capacidad, tutela judicial efectiva, debido proceso
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8366-800isoiramus
+
+No se encuentran reunidos los presupuestos excepcionales que permitirían mantener la declaración de incapacidad dispuesta en el año 2018. Es cierto que la persona presenta trastorno del espectro autista, epilepsia y discapacidad intelectual...
 
 ---
 
@@ -383,19 +383,19 @@ Una restricción general y anticipada para intervenir en procesos judiciales no 
 
 ---
 
-## Acción de amparo, fallos del Superior Tribunal, jurisprudencia no aplicable, tutela ambiental, protección del medio ambiente, Municipalidad, poder de policía municipal, gestión ambiental, contaminación ambiental, daño ambiental, división de poderes, ordenanzas municipales, política ambiental, políticas públicas, Administración Pública
+## Facultades del Poder Judicial, Administración Pública, división de poderes, tutela ambiental, protección del medio ambiente, Municipalidad, política ambiental, políticas públicas, poder de policía municipal, gestión ambiental, ordenanzas municipales, razones de oportunidad, mérito o conveniencia
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086683
+- **Numero:** I0086686
 - **Caratula:** Frette Mónica y otros c/ Municipalidad de La Paz s/ Acción de Amparo
 - **Fecha:** 2026-08-25
 - **Provincia:** Entre Ríos
-- **Materia:** MEDIO AMBIENTE-PROCESAL
-- **Descriptores:** acción de amparo, fallos del Superior Tribunal, jurisprudencia no aplicable, tutela ambiental, protección del medio ambiente, Municipalidad, poder de policía municipal, gestión ambiental, contaminación ambiental, daño ambiental, división de poderes, ordenanzas municipales, política ambiental, políticas públicas, Administración Pública
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3866-800isoiramus
+- **Materia:** CONSTITUCIONAL-MEDIO AMBIENTE
+- **Descriptores:** facultades del Poder Judicial, Administración Pública, división de poderes, tutela ambiental, protección del medio ambiente, Municipalidad, política ambiental, políticas públicas, poder de policía municipal, gestión ambiental, ordenanzas municipales, razones de oportunidad, mérito o conveniencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6866-800isoiramus
 
-Este Superior Tribunal en diversos precedentes vinculados con la tutela del ambiente frente a la existencia de basurales a cielo abierto, ha considerado procedente una intervención jurisdiccional particularmente intensa. Sin embargo, las...
+La función del juez consiste en asegurar el cumplimiento de los mandatos constitucionales de tutela ambiental y fijar los objetivos que la recomposición debe alcanzar, pero sin sustituir a la Administración en la elección de los medios técnicos, la...
 
 ---
 
@@ -415,6 +415,38 @@ Si bien la tutela del derecho a un ambiente sano justifica una intervención jud
 
 ---
 
+## Acción de amparo, fallos del Superior Tribunal, jurisprudencia no aplicable, tutela ambiental, protección del medio ambiente, Municipalidad, poder de policía municipal, gestión ambiental, contaminación ambiental, daño ambiental, división de poderes, ordenanzas municipales, política ambiental, políticas públicas, Administración Pública
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086683
+- **Caratula:** Frette Mónica y otros c/ Municipalidad de La Paz s/ Acción de Amparo
+- **Fecha:** 2026-08-25
+- **Provincia:** Entre Ríos
+- **Materia:** MEDIO AMBIENTE-PROCESAL
+- **Descriptores:** acción de amparo, fallos del Superior Tribunal, jurisprudencia no aplicable, tutela ambiental, protección del medio ambiente, Municipalidad, poder de policía municipal, gestión ambiental, contaminación ambiental, daño ambiental, división de poderes, ordenanzas municipales, política ambiental, políticas públicas, Administración Pública
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3866-800isoiramus
+
+Este Superior Tribunal en diversos precedentes vinculados con la tutela del ambiente frente a la existencia de basurales a cielo abierto, ha considerado procedente una intervención jurisdiccional particularmente intensa. Sin embargo, las...
+
+---
+
+## Fallos de la Corte Suprema, jurisprudencia aplicable, control de razonabilidad, división de poderes, revisión judicial, política ambiental, políticas públicas, Administración Pública
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086685
+- **Caratula:** Frette Mónica y otros c/ Municipalidad de La Paz s/ Acción de Amparo
+- **Fecha:** 2026-08-25
+- **Provincia:** Entre Ríos
+- **Materia:** CONSTITUCIONAL-MEDIO AMBIENTE
+- **Descriptores:** fallos de la Corte Suprema, jurisprudencia aplicable, control de razonabilidad, división de poderes, control judicial, política ambiental, políticas públicas, Administración Pública
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5866-800isoiramus
+
+La jurisprudencia de la Corte Suprema de Justicia de la Nación reconoce que el diseño, implementación y ejecución de las políticas públicas ambientales constituye una competencia primaria de los poderes políticos, reservando al Poder Judicial una...
+
+---
+
 ## División de poderes, tutela ambiental, protección del medio ambiente, Municipalidad, política ambiental, políticas públicas, poder de policía municipal, gestión ambiental, ordenanzas municipales, Administración Pública, razones de oportunidad, mérito o conveniencia
 
 - **Tipo:** Jurisprudencia
@@ -426,6 +458,22 @@ Si bien la tutela del derecho a un ambiente sano justifica una intervención jud
 - **Materia:** ADMINISTRATIVO-MEDIO AMBIENTE
 - **Descriptores:** división de poderes, tutela ambiental, protección del medio ambiente, Municipalidad, política ambiental, políticas públicas, poder de policía municipal, gestión ambiental, ordenanzas municipales, Administración Pública, razones de oportunidad, mérito o conveniencia
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2866-800isoiramus
+
+La problemática ambiental reclamada por los amparistas fue asumida por las autoridades competentes mediante la activación de los instrumentos institucionales previstos por el ordenamiento jurídico, circunstancia que también fue expresamente...
+
+---
+
+## División de poderes, tutela ambiental, protección del medio ambiente, Municipalidad, política ambiental, políticas públicas, poder de policía municipal, gestión ambiental, ordenanzas municipales, Administración Pública, razones de oportunidad, mérito o conveniencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086684
+- **Caratula:** Frette Mónica y otros c/ Municipalidad de La Paz s/ Acción de Amparo
+- **Fecha:** 2026-08-25
+- **Provincia:** Entre Ríos
+- **Materia:** ADMINISTRATIVO-MEDIO AMBIENTE
+- **Descriptores:** división de poderes, tutela ambiental, protección del medio ambiente, Municipalidad, política ambiental, políticas públicas, poder de policía municipal, gestión ambiental, ordenanzas municipales, Administración Pública, razones de oportunidad, mérito o conveniencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4866-800isoiramus
 
 La problemática ambiental reclamada por los amparistas fue asumida por las autoridades competentes mediante la activación de los instrumentos institucionales previstos por el ordenamiento jurídico, circunstancia que también fue expresamente...
 
@@ -447,54 +495,6 @@ El rol del Poder Judicial en materia ambiental se configura como una pieza de eq
 
 ---
 
-## División de poderes, tutela ambiental, protección del medio ambiente, Municipalidad, política ambiental, políticas públicas, poder de policía municipal, gestión ambiental, ordenanzas municipales, Administración Pública, razones de oportunidad, mérito o conveniencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086684
-- **Caratula:** Frette Mónica y otros c/ Municipalidad de La Paz s/ Acción de Amparo
-- **Fecha:** 2026-08-25
-- **Provincia:** Entre Ríos
-- **Materia:** ADMINISTRATIVO-MEDIO AMBIENTE
-- **Descriptores:** división de poderes, tutela ambiental, protección del medio ambiente, Municipalidad, política ambiental, políticas públicas, poder de policía municipal, gestión ambiental, ordenanzas municipales, Administración Pública, razones de oportunidad, mérito o conveniencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4866-800isoiramus
-
-La problemática ambiental reclamada por los amparistas fue asumida por las autoridades competentes mediante la activación de los instrumentos institucionales previstos por el ordenamiento jurídico, circunstancia que también fue expresamente...
-
----
-
-## Facultades del Poder Judicial, Administración Pública, división de poderes, tutela ambiental, protección del medio ambiente, Municipalidad, política ambiental, políticas públicas, poder de policía municipal, gestión ambiental, ordenanzas municipales, razones de oportunidad, mérito o conveniencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086686
-- **Caratula:** Frette Mónica y otros c/ Municipalidad de La Paz s/ Acción de Amparo
-- **Fecha:** 2026-08-25
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL-MEDIO AMBIENTE
-- **Descriptores:** facultades del Poder Judicial, Administración Pública, división de poderes, tutela ambiental, protección del medio ambiente, Municipalidad, política ambiental, políticas públicas, poder de policía municipal, gestión ambiental, ordenanzas municipales, razones de oportunidad, mérito o conveniencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6866-800isoiramus
-
-La función del juez consiste en asegurar el cumplimiento de los mandatos constitucionales de tutela ambiental y fijar los objetivos que la recomposición debe alcanzar, pero sin sustituir a la Administración en la elección de los medios técnicos, la...
-
----
-
-## Fallos de la Corte Suprema, jurisprudencia aplicable, control de razonabilidad, división de poderes, revisión judicial, política ambiental, políticas públicas, Administración Pública
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086685
-- **Caratula:** Frette Mónica y otros c/ Municipalidad de La Paz s/ Acción de Amparo
-- **Fecha:** 2026-08-25
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL-MEDIO AMBIENTE
-- **Descriptores:** fallos de la Corte Suprema, jurisprudencia aplicable, control de razonabilidad, división de poderes, control judicial, política ambiental, políticas públicas, Administración Pública
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5866-800isoiramus
-
-La jurisprudencia de la Corte Suprema de Justicia de la Nación reconoce que el diseño, implementación y ejecución de las políticas públicas ambientales constituye una competencia primaria de los poderes políticos, reservando al Poder Judicial una...
-
----
-
 ## Grupos vulnerables, embarazada, condiciones dignas de trabajo, discriminación arbitraria, licencia con goce de sueldo, protección de la maternidad, ENTRE RÍOS, acción de amparo, Ley de protección integral para prevenir sancionar y erradicar la violencia contra las mujeres, discriminación de la mujer, violencia de género, perspectiva de género
 
 - **Tipo:** Jurisprudencia
@@ -508,22 +508,6 @@ La jurisprudencia de la Corte Suprema de Justicia de la Nación reconoce que el 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1966-800isoiramus
 
 El cese en el empleo de una trabajadora embarazada constituye un paradigma de acto discriminatorio y, como tal, se encuentra tutelado por los tratados internacionales de derechos humanos que protegen a la mujer embarazada, por la Ley 23.592 que...
-
----
-
-## Grupos vulnerables, embarazada, condiciones dignas de trabajo, discriminación arbitraria, protección de la maternidad, acción de amparo, Constitución Nacional, discriminación de la mujer, violencia de género, perspectiva de género, C190 Convenio de la OIT sobre la eliminación de la violencia y el acoso en el mundo del trabajo, violencia laboral, control de razonabilidad, derechos de la mujer
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086692
-- **Caratula:** Pérez Agustina Belen c/ Hospital Materno Infantil San Roque y Superior Gobierno de Entre Ríos s/ Acción de amparo
-- **Fecha:** 2026-08-22
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL-LABORAL-DERECHOS HUMANOS-INTERNACIONAL PUBLICO
-- **Descriptores:** grupos vulnerables, embarazada, condiciones dignas de trabajo, discriminación arbitraria, protección de la maternidad, acción de amparo, Constitución Nacional, discriminación de la mujer, violencia de género, perspectiva de género, C190 Convenio de la OIT sobre la eliminación de la violencia y el acoso en el mundo del trabajo, violencia laboral, control de razonabilidad, derechos humanos de la mujer
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2966-800isoiramus
-
-Cuando una mujer alega haber perdido el empleo en función de su estado de embarazo o por razones vinculadas con su maternidad no caben dudas que está denunciando la vulneración de su derecho humano fundamental a no ser discriminada. A su vez, la...
 
 ---
 
@@ -543,51 +527,19 @@ El caso debe ser examinado a la luz del marco constitucional, convencional y leg
 
 ---
 
-## Convención sobre los derechos del niño, código civil y comercial, interés superior del niño, reconocimiento de hijo extramatrimonial
+## Grupos vulnerables, embarazada, condiciones dignas de trabajo, discriminación arbitraria, protección de la maternidad, acción de amparo, Constitución Nacional, discriminación de la mujer, violencia de género, perspectiva de género, C190 Convenio de la OIT sobre la eliminación de la violencia y el acoso en el mundo del trabajo, violencia laboral, control de razonabilidad, derechos de la mujer
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086620
-- **Caratula:** B., D. A. c/ D. S. J. I. s/ Ordinario filiación e indemnización de daños
-- **Fecha:** 2026-08-11
+- **Numero:** I0086692
+- **Caratula:** Pérez Agustina Belen c/ Hospital Materno Infantil San Roque y Superior Gobierno de Entre Ríos s/ Acción de amparo
+- **Fecha:** 2026-08-22
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** Convención sobre los derechos del niño, código civil y comercial, interés superior del niño, reconocimiento de la filiación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0266-800isoiramus
+- **Materia:** CONSTITUCIONAL-LABORAL-DERECHOS HUMANOS-INTERNACIONAL PUBLICO
+- **Descriptores:** grupos vulnerables, embarazada, condiciones dignas de trabajo, discriminación arbitraria, protección de la maternidad, acción de amparo, Constitución Nacional, discriminación de la mujer, violencia de género, perspectiva de género, C190 Convenio de la OIT sobre la eliminación de la violencia y el acoso en el mundo del trabajo, violencia laboral, control de razonabilidad, derechos humanos de la mujer
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2966-800isoiramus
 
-El carácter voluntario del acto jurídico de reconocimiento, no lo hace discrecional y más bien se relaciona con su carácter individual, ya que se trata de un deber, que no está librado al arbitrio del progenitor ni a ninguna condición, porque existe...
-
----
-
-## Daños y perjuicios, interés superior del niño, daño moral, filiación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086617
-- **Caratula:** B., D. A. c/ D. S. J. I. s/ Ordinario filiación e indemnización de daños
-- **Fecha:** 2026-08-11
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** daños y perjuicios, interés superior del niño, daño moral, filiación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7166-800isoiramus
-
-Los pocos años de vida de la niña constituyen un elemento de valoración del monto a resarcir, toda vez que la indemnización debe determinarse acorde con la magnitud del perjuicio, y aquella edad infiere una menor incidencia negativa de la falta de...
-
----
-
-## Código civil y comercial, relaciones de familia, daños y perjuicios, daño moral, factores atributivos de responsabilidad, interés superior del niño, responsabilidad civil
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086619
-- **Caratula:** B., D. A. c/ D. S. J. I. s/ Ordinario filiación e indemnización de daños
-- **Fecha:** 2026-08-11
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** código civil y comercial, relaciones de familia, daños y perjuicios, daño moral, factores atributivos de responsabilidad, interés superior del niño, responsabilidad civil
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9166-800isoiramus
-
-El Código Civil y Comercial receptó la corriente positiva y mayoritaria que admite la procedencia de la reparación de los daños generados por la falta de reconocimiento voluntario del hijo y regula de manera expresa al considerar que esa omisión...
+Cuando una mujer alega haber perdido el empleo en función de su estado de embarazo o por razones vinculadas con su maternidad no caben dudas que está denunciando la vulneración de su derecho humano fundamental a no ser discriminada. A su vez, la...
 
 ---
 
@@ -607,35 +559,51 @@ El factor de Atribución es la razón jurídica por la que se debe responder y o
 
 ---
 
-## Derecho a la información, libertad de expresión, interés público
+## Daños y perjuicios, interés superior del niño, daño moral, filiación
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086629
-- **Caratula:** Fleytas Roossi María Verónica c/ Colegio de Médicos Veterinarios de la Provincia de Entre Ríos s/ Acción de Amparo
-- **Fecha:** 2026-08-04
+- **Numero:** I0086617
+- **Caratula:** B., D. A. c/ D. S. J. I. s/ Ordinario filiación e indemnización de daños
+- **Fecha:** 2026-08-11
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** derecho a la información, libertad de expresión, interés público
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9266-800isoiramus
+- **Descriptores:** daños y perjuicios, interés superior del niño, daño moral, filiación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7166-800isoiramus
 
-Según doctrina especializada, si bien la norma convencional parecería referir a la libertad de expresión, en la voz "buscar y recibir información" se encuentra reconocido el derecho a ser informado y la correlativa obligación de darla en caso de ser...
+Los pocos años de vida de la niña constituyen un elemento de valoración del monto a resarcir, toda vez que la indemnización debe determinarse acorde con la magnitud del perjuicio, y aquella edad infiere una menor incidencia negativa de la falta de...
 
 ---
 
-## Phishing, bancos, facultades jurisdiccionales, cuentas bancarias, relación de consumo, plataformas electrónicas, estafa informática, ley de defensa del consumidor, in dubio pro consumidor
+## Convención sobre los derechos del niño, código civil y comercial, interés superior del niño, reconocimiento de hijo extramatrimonial
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086644
-- **Caratula:** Taborda Maximiliano Ariel c/ s/ Medida Cautelar Innovativa
-- **Fecha:** 2026-08-04
+- **Numero:** I0086620
+- **Caratula:** B., D. A. c/ D. S. J. I. s/ Ordinario filiación e indemnización de daños
+- **Fecha:** 2026-08-11
 - **Provincia:** Entre Ríos
-- **Materia:** PENAL
-- **Descriptores:** phishing, bancos, tutela judicial efectiva, cuentas bancarias, relación de consumo, plataformas electrónicas, estafa informática, ley de defensa del consumidor, in dubio pro consumidor
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4466-800isoiramus
+- **Materia:** CIVIL
+- **Descriptores:** Convención sobre los derechos del niño, código civil y comercial, interés superior del niño, reconocimiento de la filiación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0266-800isoiramus
 
-La maniobra que el actor alega haber sido víctima se relaciona con la nuevas modalidades de fraude conocidas como "phishing" o "vishing" cuando es telefónica, que consisten en un conjunto de técnicas que persiguen engañar a la víctima haciéndose...
+El carácter voluntario del acto jurídico de reconocimiento, no lo hace discrecional y más bien se relaciona con su carácter individual, ya que se trata de un deber, que no está librado al arbitrio del progenitor ni a ninguna condición, porque existe...
+
+---
+
+## Código civil y comercial, relaciones de familia, daños y perjuicios, daño moral, factores atributivos de responsabilidad, interés superior del niño, responsabilidad civil
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086619
+- **Caratula:** B., D. A. c/ D. S. J. I. s/ Ordinario filiación e indemnización de daños
+- **Fecha:** 2026-08-11
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** código civil y comercial, relaciones de familia, daños y perjuicios, daño moral, factores atributivos de responsabilidad, interés superior del niño, responsabilidad civil
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9166-800isoiramus
+
+El Código Civil y Comercial receptó la corriente positiva y mayoritaria que admite la procedencia de la reparación de los daños generados por la falta de reconocimiento voluntario del hijo y regula de manera expresa al considerar que esa omisión...
 
 ---
 
@@ -671,6 +639,54 @@ Dados los hechos descriptos y los derechos en juego, el vínculo entre los litig
 
 ---
 
+## Derecho a la información, participación ciudadana, sistema republicano, publicidad de los actos de gobierno, Constitución Nacional, interés público, acceso a la información pública
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086631
+- **Caratula:** Fleytas Roossi María Verónica c/ Colegio de Médicos Veterinarios de la Provincia de Entre Ríos s/ Acción de Amparo
+- **Fecha:** 2026-08-04
+- **Provincia:** Entre Ríos
+- **Materia:** CONSTITUCIONAL
+- **Descriptores:** derecho a la información, participación ciudadana, sistema republicano, publicidad de los actos de gobierno, Constitución Nacional, interés público, acceso a la información pública
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1366-800isoiramus
+
+La información pública es un derecho individual, pero a su vez constituye un bien público o social, ya que el empleo instrumental de la información importa un mecanismo de control institucional de los ciudadanos hacia cualquiera de los poderes del...
+
+---
+
+## Phishing, bancos, facultades jurisdiccionales, cuentas bancarias, relación de consumo, plataformas electrónicas, estafa informática, ley de defensa del consumidor, in dubio pro consumidor
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086644
+- **Caratula:** Taborda Maximiliano Ariel c/ s/ Medida Cautelar Innovativa
+- **Fecha:** 2026-08-04
+- **Provincia:** Entre Ríos
+- **Materia:** PENAL
+- **Descriptores:** phishing, bancos, tutela judicial efectiva, cuentas bancarias, relación de consumo, plataformas electrónicas, estafa informática, ley de defensa del consumidor, in dubio pro consumidor
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4466-800isoiramus
+
+La maniobra que el actor alega haber sido víctima se relaciona con la nuevas modalidades de fraude conocidas como "phishing" o "vishing" cuando es telefónica, que consisten en un conjunto de técnicas que persiguen engañar a la víctima haciéndose...
+
+---
+
+## Derecho a la información, libertad de expresión, interés público
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086629
+- **Caratula:** Fleytas Roossi María Verónica c/ Colegio de Médicos Veterinarios de la Provincia de Entre Ríos s/ Acción de Amparo
+- **Fecha:** 2026-08-04
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** derecho a la información, libertad de expresión, interés público
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9266-800isoiramus
+
+Según doctrina especializada, si bien la norma convencional parecería referir a la libertad de expresión, en la voz "buscar y recibir información" se encuentra reconocido el derecho a ser informado y la correlativa obligación de darla en caso de ser...
+
+---
+
 ## Medidas cautelares, peligro en la demora, phishing, bancos, facultades jurisdiccionales, daño irreparable, cuentas bancarias, gravamen irreparable, relación de consumo, código civil y comercial, plataformas electrónicas, estafa informática, ley de defensa del consumidor, in dubio pro consumidor
 
 - **Tipo:** Jurisprudencia
@@ -684,22 +700,6 @@ Dados los hechos descriptos y los derechos en juego, el vínculo entre los litig
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2466-800isoiramus
 
 En casos de phishing o estafa informática, se ha calificado a las plataformas digitales como cosa riesgosa, ponderando los medios empleados o las circunstancias de su realización. Prestigiosa doctrina ha señalado que el sistema tradicional sólo...
-
----
-
-## Medidas cautelares, peligro en la demora, phishing, bancos, daño irreparable, gravamen irreparable, relación de consumo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086641
-- **Caratula:** Taborda Maximiliano Ariel c/ s/ Medida Cautelar Innovativa
-- **Fecha:** 2026-08-04
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** medidas cautelares, peligro en la demora, phishing, bancos, daño irreparable, gravamen irreparable, relación de consumo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1466-800isoiramus
-
-La cognición en las medidas cautelares es sumaria, enderezada sólo a la demostración de la probabilidad de la existencia del derecho que se invoca y no a su certeza, por lo que la eventual responsabilidad del usuario por interrupción del nexo causal...
 
 ---
 
@@ -719,22 +719,6 @@ Respecto de los colegios profesionales con funciones públicas delegadas están 
 
 ---
 
-## Derecho a la información, participación ciudadana, sistema republicano, publicidad de los actos de gobierno, Constitución Nacional, interés público, acceso a la información pública
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086631
-- **Caratula:** Fleytas Roossi María Verónica c/ Colegio de Médicos Veterinarios de la Provincia de Entre Ríos s/ Acción de Amparo
-- **Fecha:** 2026-08-04
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL
-- **Descriptores:** derecho a la información, participación ciudadana, sistema republicano, publicidad de los actos de gobierno, Constitución Nacional, interés público, acceso a la información pública
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1366-800isoiramus
-
-La información pública es un derecho individual, pero a su vez constituye un bien público o social, ya que el empleo instrumental de la información importa un mecanismo de control institucional de los ciudadanos hacia cualquiera de los poderes del...
-
----
-
 ## Medios de prueba, verosimilitud del derecho invocado, medidas cautelares, peligro en la demora, phishing, bancos, facultades jurisdiccionales, daño irreparable, cuentas bancarias, gravamen irreparable, relación de consumo
 
 - **Tipo:** Jurisprudencia
@@ -748,6 +732,22 @@ La información pública es un derecho individual, pero a su vez constituye un b
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0466-800isoiramus
 
 El accionante incorporó prueba que aporta la probabilidad cierta de la ocurrencia de los hechos que describe, y con ello la suficiente verosimilitud del derecho que se requiere, en conjunción con la relación de consumo que lo vincula con la...
+
+---
+
+## Medidas cautelares, peligro en la demora, phishing, bancos, daño irreparable, gravamen irreparable, relación de consumo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086641
+- **Caratula:** Taborda Maximiliano Ariel c/ s/ Medida Cautelar Innovativa
+- **Fecha:** 2026-08-04
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** medidas cautelares, peligro en la demora, phishing, bancos, daño irreparable, gravamen irreparable, relación de consumo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1466-800isoiramus
+
+La cognición en las medidas cautelares es sumaria, enderezada sólo a la demostración de la probabilidad de la existencia del derecho que se invoca y no a su certeza, por lo que la eventual responsabilidad del usuario por interrupción del nexo causal...
 
 ---
 
@@ -799,6 +799,22 @@ En la especie no surge controvertido que se trate de un trámite propio de insti
 
 ---
 
+## Medidas cautelares, alimentos provisionales, interés superior del niño, gastos del proceso, costas, grupos vulnerables
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086614
+- **Caratula:** F., N. c/ S. P. s/ autorización judicial autorización judicial
+- **Fecha:** 2026-07-29
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** medidas cautelares, alimentos provisionales, interés superior del niño, gastos del proceso, costas, grupos vulnerables
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4166-800isoiramus
+
+Debe recordarse que la finalidad de esta medida cautelar de alimentos provisorios es subvenir las necesidades básicas de los niños o adolescentes hasta la sentencia. El principio general establecido por la jurisprudencia en materia de fijación de...
+
+---
+
 ## Relaciones de familia, costas en el orden causado, gastos del proceso
 
 - **Tipo:** Jurisprudencia
@@ -812,22 +828,6 @@ En la especie no surge controvertido que se trate de un trámite propio de insti
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2166-800isoiramus
 
 Cuando se trata de asuntos de familia en que se debatan cuestiones referidas a los regímenes de responsabilidad parental, cuidado personal y de comunicación de los hijos las costas deben, por regla general, imponerse en el orden causado y no...
-
----
-
-## Costas en el orden causado, gastos del proceso, responsabilidad de los padres, interés superior del niño, relaciones de familia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086611
-- **Caratula:** F., N. c/ S. P. s/ autorización judicial autorización judicial
-- **Fecha:** 2026-07-29
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** costas en el orden causado, gastos del proceso, responsabilidad de los padres, interés superior del niño, relaciones de familia, costas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1166-800isoiramus
-
-En este caso no se da ninguna circunstancia que habilite la excepción a la regla, esto es que las actuaciones de los progenitores sean meramente caprichosas o disparatadas, habiendo acudido ante sede judicial en el ejercicio de su responsabilidad...
 
 ---
 
@@ -847,22 +847,6 @@ Si bien en la especie la Sección 2 de la Ley Procesal de Familia 10.668 titulad
 
 ---
 
-## Medidas cautelares, alimentos provisionales, interés superior del niño, gastos del proceso, costas, grupos vulnerables
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086614
-- **Caratula:** F., N. c/ S. P. s/ autorización judicial autorización judicial
-- **Fecha:** 2026-07-29
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** medidas cautelares, alimentos provisionales, interés superior del niño, gastos del proceso, costas, grupos vulnerables
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4166-800isoiramus
-
-Debe recordarse que la finalidad de esta medida cautelar de alimentos provisorios es subvenir las necesidades básicas de los niños o adolescentes hasta la sentencia. El principio general establecido por la jurisprudencia en materia de fijación de...
-
----
-
 ## Costas en el orden causado, gastos del proceso, interés superior del niño, Ley Procesal de Familia de Entre Ríos, CÓDIGO PROCESAL CIVIL Y COMERCIAL DE ENTRE RÍOS, recurso de apelación (procesal)
 
 - **Tipo:** Jurisprudencia
@@ -879,19 +863,35 @@ Las costas de esta segunda instancia, considerando que la apelación por parte d
 
 ---
 
-## Accidentes de trabajo, indemnización por accidente de trabajo, actualización monetaria, liquidación definitiva
+## Costas en el orden causado, gastos del proceso, responsabilidad de los padres, interés superior del niño, relaciones de familia
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086608
-- **Caratula:** Ovelar Ernesto c/ Instituto Autárquico Provincial del Seguro (IAPSER) s/ Accidente de trabajo. Recurso de inaplicabilidad de ley
+- **Numero:** I0086611
+- **Caratula:** F., N. c/ S. P. s/ autorización judicial autorización judicial
+- **Fecha:** 2026-07-29
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** costas en el orden causado, gastos del proceso, responsabilidad de los padres, interés superior del niño, relaciones de familia, costas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1166-800isoiramus
+
+En este caso no se da ninguna circunstancia que habilite la excepción a la regla, esto es que las actuaciones de los progenitores sean meramente caprichosas o disparatadas, habiendo acudido ante sede judicial en el ejercicio de su responsabilidad...
+
+---
+
+## Medidas cautelares, alimentos provisionales, cuota alimentaria, verosimilitud del derecho invocado, derechos de las niñas, niños y adolescentes, interés superior del niño
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086615
+- **Caratula:** K., M. S. c/ D. N. D. y Otros s/ Alimentos
 - **Fecha:** 2026-07-28
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** accidentes de trabajo, indemnización por accidente de trabajo, actualización monetaria, liquidación definitiva
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8066-800isoiramus
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** medidas cautelares, alimentos provisionales, cuota alimentaria, verosimilitud del derecho invocado, derechos de las niñas, niños y adolescentes, interés superior del niño
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5166-800isoiramus
 
-La liquidación practicada al dictarse la sentencia constituye una estimación del crédito a esa fecha y debe ser actualizada al momento de practicarse la liquidación definitiva una vez firme la condena, conforme a las pautas establecidas en el propio...
+Debe recordarse que la finalidad de esta medida cautelar de alimentos provisorios es subvenir las necesidades básicas de los niños o adolescentes hasta la sentencia. El principio general establecido por la jurisprudencia en materia de fijación de...
 
 ---
 
@@ -959,6 +959,22 @@ El mecanismo de actualización del ingreso base previsto en el art. 12 de la ley
 
 ---
 
+## Accidentes de trabajo, indemnización por accidente de trabajo, actualización monetaria, liquidación definitiva
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086608
+- **Caratula:** Ovelar Ernesto c/ Instituto Autárquico Provincial del Seguro (IAPSER) s/ Accidente de trabajo. Recurso de inaplicabilidad de ley
+- **Fecha:** 2026-07-28
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** accidentes de trabajo, indemnización por accidente de trabajo, actualización monetaria, liquidación definitiva
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8066-800isoiramus
+
+La liquidación practicada al dictarse la sentencia constituye una estimación del crédito a esa fecha y debe ser actualizada al momento de practicarse la liquidación definitiva una vez firme la condena, conforme a las pautas establecidas en el propio...
+
+---
+
 ## Intereses, tasa activa, BANCO NACIÓN, sustanciación del recurso, indemnización por accidente de trabajo
 
 - **Tipo:** Jurisprudencia
@@ -972,22 +988,6 @@ El mecanismo de actualización del ingreso base previsto en el art. 12 de la ley
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6066-800isoiramus
 
 Los intereses a la tasa activa del Banco de la Nación Argentina previstos en la sentencia proceden a partir del incumplimiento de la obligación de pago, una vez firme la condena, y no durante el lapso en que la sentencia permaneció suspendida por la...
-
----
-
-## Medidas cautelares, alimentos provisionales, cuota alimentaria, verosimilitud del derecho invocado, derechos de las niñas, niños y adolescentes, interés superior del niño
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086615
-- **Caratula:** K., M. S. c/ D. N. D. y Otros s/ Alimentos
-- **Fecha:** 2026-07-28
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** medidas cautelares, alimentos provisionales, cuota alimentaria, verosimilitud del derecho invocado, derechos de las niñas, niños y adolescentes, interés superior del niño
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5166-800isoiramus
-
-Debe recordarse que la finalidad de esta medida cautelar de alimentos provisorios es subvenir las necesidades básicas de los niños o adolescentes hasta la sentencia. El principio general establecido por la jurisprudencia en materia de fijación de...
 
 ---
 
@@ -1039,35 +1039,35 @@ La discusión no consiste en determinar si dentro de la comunidad científica ex
 
 ---
 
-## Medios de prueba, apreciación de la prueba, interés superior del niño, responsabilidad de los padres, vacunación obligatoria, prevención de enfermedades, Salud pública, derechos de las niñas, niños y adolescentes, derecho a la salud, medidas autosatisfactivas, medidas cautelares
+## Medios de prueba, apreciación de la prueba, interés superior del niño, responsabilidad de los padres, vacunación obligatoria, prevención de enfermedades, Salud pública, derechos de las niñas, niños y adolescentes, derecho a la salud, medidas autosatisfactivas, medidas cautelares, jurisprudencia aplicable, fallos de la Corte Suprema
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086665
+- **Numero:** I0086666
 - **Caratula:** Defensora Pública en resguardo de E. M. F. c/ R., M. A. Y F., G. A. s/ Medida autosatisfactiva (con habilitación)
 - **Fecha:** 2026-07-24
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-DERECHOS HUMANOS-PROCESAL
-- **Descriptores:** medios de prueba, valoración probatoria, interés superior del niño, responsabilidad de los padres, vacunación obligatoria, vacunación, prevención de enfermedades, Salud pública, derechos del niño, derecho a la salud, medidas autosatisfactivas, medidas cautelares
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5666-800isoiramus
+- **Descriptores:** medios de prueba, valoración probatoria, interés superior del niño, responsabilidad de los padres, vacunación obligatoria, vacunación, prevención de enfermedades, Salud pública, derechos del niño, derecho a la salud, medidas autosatisfactivas, medidas cautelares, jurisprudencia aplicable, fallos de la Corte Suprema
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6666-800isoiramus
 
-Este proceso presenta una situación probatoria particularmente significativa. No existe una mera confrontación entre dos opiniones médicas de similar entidad científica. Por el contrario, obran en autos tres informes técnicos independientes,...
+La jurisprudencia nacional ha sostenido de manera constante que la negativa de los progenitores únicamente puede prevalecer cuando se acredita, mediante evidencia médica objetiva, concreta y referida al niño involucrado, que la vacunación representa...
 
 ---
 
-## Interés superior del niño, responsabilidad de los padres, vacunación obligatoria, prevención de enfermedades, Salud pública, derechos de las niñas, niños y adolescentes, derecho a la salud, medidas autosatisfactivas, medidas cautelares, Derechos humanos
+## Interés superior del niño, responsabilidad de los padres, vacunación obligatoria, prevención de enfermedades, Salud pública, derechos de las niñas, niños y adolescentes, derecho a la salud, medidas autosatisfactivas, medidas cautelares
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086660
+- **Numero:** I0086659
 - **Caratula:** Defensora Pública en resguardo de E. M. F. c/ R., M. A. Y F., G. A. s/ Medida autosatisfactiva (con habilitación)
 - **Fecha:** 2026-07-24
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-CONSTITUCIONAL-DERECHOS HUMANOS-PROCESAL
-- **Descriptores:** interés superior del niño, responsabilidad de los padres, vacunación obligatoria, vacunación, prevención de enfermedades, Salud pública, derechos del niño, derecho a la salud, medidas autosatisfactivas, medidas cautelares, Derechos humanos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0666-800isoiramus
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** interés superior del niño, responsabilidad de los padres, vacunación obligatoria, vacunación, prevención de enfermedades, Salud pública, derechos del niño, derecho a la salud, medidas autosatisfactivas, medidas cautelares
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9566-800isoiramus
 
-Corresponde hacer prevalecer el derecho fundamental de la niña al disfrute del más alto nivel posible de salud, asegurando el acceso efectivo a las vacunas correspondientes al nacimiento, solución que armoniza con el interés superior de la niña, con...
+Acreditada la inexistencia de una contraindicación médica individual que justifique diferir la vacunación y constatado que la negativa de los progenitores impide el acceso de la niña a una prestación sanitaria obligatoria, corresponde analizar la...
 
 ---
 
@@ -1084,6 +1084,54 @@ Corresponde hacer prevalecer el derecho fundamental de la niña al disfrute del 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3666-800isoiramus
 
 Admitir la pretensión de los progenitores implicaría sustituir una política pública sanitaria respaldada por evidencia científica, por una hipótesis preventiva que carece de sustento clínico individual respecto de la niña involucrada. Tal solución...
+
+---
+
+## Interés superior del niño, responsabilidad de los padres, vacunación obligatoria, prevención de enfermedades, Salud pública, derechos de las niñas, niños y adolescentes, derecho a la salud, medidas autosatisfactivas, medidas cautelares
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086658
+- **Caratula:** Defensora Pública en resguardo de E. M. F. c/ R., M. A. Y F., G. A. s/ Medida autosatisfactiva (con habilitación)
+- **Fecha:** 2026-07-24
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** interés superior del niño, responsabilidad de los padres, vacunación obligatoria, vacunación, prevención de enfermedades, Salud pública, derechos del niño, derecho a la salud, medidas autosatisfactivas, medidas cautelares
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8566-800isoiramus
+
+La urgencia no deriva únicamente de la existencia de un conflicto entre los progenitores y el sistema de salud, sino de la naturaleza misma del derecho comprometido y del carácter preventivo de la prestación cuya satisfacción se reclama. La tutela...
+
+---
+
+## Interés superior del niño, responsabilidad de los padres, vacunación obligatoria, prevención de enfermedades, Salud pública, derechos de las niñas, niños y adolescentes, derecho a la salud
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086657
+- **Caratula:** Defensora Pública en resguardo de E. M. F. c/ R., M. A. Y F., G. A. s/ Medida autosatisfactiva (con habilitación)
+- **Fecha:** 2026-07-24
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** interés superior del niño, responsabilidad de los padres, vacunación obligatoria, vacunación, prevención de enfermedades, Salud pública, derechos del niño, derecho a la salud
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7566-800isoiramus
+
+Mantener la negativa de quienes ejercen la responsabilidad parental implicaría colocar las convicciones personales de los adultos por encima del derecho fundamental de la niña a acceder oportunamente a una prestación sanitaria obligatoria, resultado...
+
+---
+
+## Medios de prueba, apreciación de la prueba, interés superior del niño, responsabilidad de los padres, vacunación obligatoria, prevención de enfermedades, Salud pública, derechos de las niñas, niños y adolescentes, derecho a la salud, medidas autosatisfactivas, medidas cautelares
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086665
+- **Caratula:** Defensora Pública en resguardo de E. M. F. c/ R., M. A. Y F., G. A. s/ Medida autosatisfactiva (con habilitación)
+- **Fecha:** 2026-07-24
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-DERECHOS HUMANOS-PROCESAL
+- **Descriptores:** medios de prueba, valoración probatoria, interés superior del niño, responsabilidad de los padres, vacunación obligatoria, vacunación, prevención de enfermedades, Salud pública, derechos del niño, derecho a la salud, medidas autosatisfactivas, medidas cautelares
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5666-800isoiramus
+
+Este proceso presenta una situación probatoria particularmente significativa. No existe una mera confrontación entre dos opiniones médicas de similar entidad científica. Por el contrario, obran en autos tres informes técnicos independientes,...
 
 ---
 
@@ -1119,67 +1167,51 @@ La responsabilidad parental tiene naturaleza eminentemente funcional. Los derech
 
 ---
 
-## Medios de prueba, apreciación de la prueba, interés superior del niño, responsabilidad de los padres, vacunación obligatoria, prevención de enfermedades, Salud pública, derechos de las niñas, niños y adolescentes, derecho a la salud, medidas autosatisfactivas, medidas cautelares, jurisprudencia aplicable, fallos de la Corte Suprema
+## Interés superior del niño, responsabilidad de los padres, vacunación obligatoria, prevención de enfermedades, Salud pública, derechos de las niñas, niños y adolescentes, derecho a la salud, medidas autosatisfactivas, medidas cautelares, Derechos humanos
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086666
+- **Numero:** I0086660
 - **Caratula:** Defensora Pública en resguardo de E. M. F. c/ R., M. A. Y F., G. A. s/ Medida autosatisfactiva (con habilitación)
 - **Fecha:** 2026-07-24
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-DERECHOS HUMANOS-PROCESAL
-- **Descriptores:** medios de prueba, valoración probatoria, interés superior del niño, responsabilidad de los padres, vacunación obligatoria, vacunación, prevención de enfermedades, Salud pública, derechos del niño, derecho a la salud, medidas autosatisfactivas, medidas cautelares, jurisprudencia aplicable, fallos de la Corte Suprema
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6666-800isoiramus
+- **Materia:** CIVIL-CONSTITUCIONAL-DERECHOS HUMANOS-PROCESAL
+- **Descriptores:** interés superior del niño, responsabilidad de los padres, vacunación obligatoria, vacunación, prevención de enfermedades, Salud pública, derechos del niño, derecho a la salud, medidas autosatisfactivas, medidas cautelares, Derechos humanos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0666-800isoiramus
 
-La jurisprudencia nacional ha sostenido de manera constante que la negativa de los progenitores únicamente puede prevalecer cuando se acredita, mediante evidencia médica objetiva, concreta y referida al niño involucrado, que la vacunación representa...
+Corresponde hacer prevalecer el derecho fundamental de la niña al disfrute del más alto nivel posible de salud, asegurando el acceso efectivo a las vacunas correspondientes al nacimiento, solución que armoniza con el interés superior de la niña, con...
 
 ---
 
-## Interés superior del niño, responsabilidad de los padres, vacunación obligatoria, prevención de enfermedades, Salud pública, derechos de las niñas, niños y adolescentes, derecho a la salud, medidas autosatisfactivas, medidas cautelares
+## Contrato de trabajo, despido discriminatorio, carga de la prueba, discriminación
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086658
-- **Caratula:** Defensora Pública en resguardo de E. M. F. c/ R., M. A. Y F., G. A. s/ Medida autosatisfactiva (con habilitación)
-- **Fecha:** 2026-07-24
+- **Numero:** I0086588
+- **Caratula:** Mista Mario Alberto c/ Granja Tres Arroyos SA. s/ Cobro de pesos. Recurso de inaplicabilidad de ley
+- **Fecha:** 2026-06-26
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** interés superior del niño, responsabilidad de los padres, vacunación obligatoria, vacunación, prevención de enfermedades, Salud pública, derechos del niño, derecho a la salud, medidas autosatisfactivas, medidas cautelares
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8566-800isoiramus
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** contrato de trabajo, despido discriminatorio, carga de la prueba, discriminación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8856-800isoiramus
 
-La urgencia no deriva únicamente de la existencia de un conflicto entre los progenitores y el sistema de salud, sino de la naturaleza misma del derecho comprometido y del carácter preventivo de la prestación cuya satisfacción se reclama. La tutela...
+Acreditados hechos que permitan presumir la existencia de un acto discriminatorio, corresponde a la parte demandada acreditar que la decisión extintiva obedeció a motivos ajenos a toda discriminación.
 
 ---
 
-## Interés superior del niño, responsabilidad de los padres, vacunación obligatoria, prevención de enfermedades, Salud pública, derechos de las niñas, niños y adolescentes, derecho a la salud, medidas autosatisfactivas, medidas cautelares
+## Sentencia arbitraria, ley de contrato de trabajo, revocación de sentencia, medios de prueba, despido discriminatorio
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086659
-- **Caratula:** Defensora Pública en resguardo de E. M. F. c/ R., M. A. Y F., G. A. s/ Medida autosatisfactiva (con habilitación)
-- **Fecha:** 2026-07-24
+- **Numero:** I0086582
+- **Caratula:** Pedroza Félix c/ Super SA. s/ Acción de reinstalación. Recurso de inaplicabilidad de ley
+- **Fecha:** 2026-06-26
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** interés superior del niño, responsabilidad de los padres, vacunación obligatoria, vacunación, prevención de enfermedades, Salud pública, derechos del niño, derecho a la salud, medidas autosatisfactivas, medidas cautelares
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9566-800isoiramus
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** sentencia arbitraria, ley de contrato de trabajo, revocación de sentencia, medios de prueba, despido discriminatorio
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2856-800isoiramus
 
-Acreditada la inexistencia de una contraindicación médica individual que justifique diferir la vacunación y constatado que la negativa de los progenitores impide el acceso de la niña a una prestación sanitaria obligatoria, corresponde analizar la...
-
----
-
-## Interés superior del niño, responsabilidad de los padres, vacunación obligatoria, prevención de enfermedades, Salud pública, derechos de las niñas, niños y adolescentes, derecho a la salud
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086657
-- **Caratula:** Defensora Pública en resguardo de E. M. F. c/ R., M. A. Y F., G. A. s/ Medida autosatisfactiva (con habilitación)
-- **Fecha:** 2026-07-24
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** interés superior del niño, responsabilidad de los padres, vacunación obligatoria, vacunación, prevención de enfermedades, Salud pública, derechos del niño, derecho a la salud
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7566-800isoiramus
-
-Mantener la negativa de quienes ejercen la responsabilidad parental implicaría colocar las convicciones personales de los adultos por encima del derecho fundamental de la niña a acceder oportunamente a una prestación sanitaria obligatoria, resultado...
+Resulta arbitraria la sentencia que luego de considerar insuficiente la prueba producida para acreditar la causa objetiva invocada por el empleador (Art., 212 de la Ley de Contrato de Trabajo), utiliza esos mismos elementos probatorios para concluir...
 
 ---
 
@@ -1215,54 +1247,6 @@ La prohibición de la reformatio in pejus impide modificar en perjuicio de la tr
 
 ---
 
-## Sentencia arbitraria, ley de contrato de trabajo, revocación de sentencia, medios de prueba, despido discriminatorio
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086582
-- **Caratula:** Pedroza Félix c/ Super SA. s/ Acción de reinstalación. Recurso de inaplicabilidad de ley
-- **Fecha:** 2026-06-26
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** sentencia arbitraria, ley de contrato de trabajo, revocación de sentencia, medios de prueba, despido discriminatorio
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2856-800isoiramus
-
-Resulta arbitraria la sentencia que luego de considerar insuficiente la prueba producida para acreditar la causa objetiva invocada por el empleador (Art., 212 de la Ley de Contrato de Trabajo), utiliza esos mismos elementos probatorios para concluir...
-
----
-
-## Baremo, decreto reglamentario, incapacidad laboral, determinación de la incapacidad, revocación de sentencia, procedencia del recurso, comisiones médicas, ley sobre riesgos del trabajo, ley complementaria, instancia administrativa previa, reformatio in pejus, irretroactividad de la ley, derecho de propiedad, derechos adquiridos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086537
-- **Caratula:** Silvestri Luz Marina c/ Instituto Autárquico Provincial del Seguro s/ Accidente de trabajo
-- **Fecha:** 2026-06-26
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL-LABORAL
-- **Descriptores:** baremo, decreto reglamentario, incapacidad laboral, determinación de la incapacidad, revocación de sentencia, procedencia del recurso, comisiones médicas, ley sobre riesgos del trabajo, ley complementaria, instancia administrativa previa, reformatio in pejus, irretroactividad de la ley, derecho de propiedad, derechos adquiridos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7356-800isoiramus
-
-Cabe revocar la decisión que aplicó la actualización de la tabla para evaluar incapacidades laborales dispuesta por el Decreto 549/2025 a los fines de determinar la capacidad laboral previamente establecida por el dictamen emitido por la Comisión...
-
----
-
-## Contrato de trabajo, despido discriminatorio, carga de la prueba, discriminación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086588
-- **Caratula:** Mista Mario Alberto c/ Granja Tres Arroyos SA. s/ Cobro de pesos. Recurso de inaplicabilidad de ley
-- **Fecha:** 2026-06-26
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** contrato de trabajo, despido discriminatorio, carga de la prueba, discriminación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8856-800isoiramus
-
-Acreditados hechos que permitan presumir la existencia de un acto discriminatorio, corresponde a la parte demandada acreditar que la decisión extintiva obedeció a motivos ajenos a toda discriminación.
-
----
-
 ## Recurso de inaplicabilidad de ley, tribunal de alzada, preclusión, inadmisibilidad del recurso
 
 - **Tipo:** Jurisprudencia
@@ -1295,19 +1279,19 @@ La exigencia de prueba directa del motivo discriminatorio desatiende el estánda
 
 ---
 
-## Carga de la prueba, revocación de sentencia, medios de prueba, despido discriminatorio, presunciones, salud del trabajador
+## Baremo, decreto reglamentario, incapacidad laboral, determinación de la incapacidad, revocación de sentencia, procedencia del recurso, comisiones médicas, ley sobre riesgos del trabajo, ley complementaria, instancia administrativa previa, reformatio in pejus, irretroactividad de la ley, derecho de propiedad, derechos adquiridos
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086583
-- **Caratula:** Pedroza Félix c/ Super SA. s/ Acción de reinstalación. Recurso de inaplicabilidad de ley
+- **Numero:** I0086537
+- **Caratula:** Silvestri Luz Marina c/ Instituto Autárquico Provincial del Seguro s/ Accidente de trabajo
 - **Fecha:** 2026-06-26
 - **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** carga de la prueba, revocación de sentencia, medios de prueba, despido discriminatorio, presunciones, salud del trabajador
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3856-800isoiramus
+- **Materia:** CONSTITUCIONAL-LABORAL
+- **Descriptores:** baremo, decreto reglamentario, incapacidad laboral, determinación de la incapacidad, revocación de sentencia, procedencia del recurso, comisiones médicas, ley sobre riesgos del trabajo, ley complementaria, instancia administrativa previa, reformatio in pejus, irretroactividad de la ley, derecho de propiedad, derechos adquiridos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7356-800isoiramus
 
-La acreditación del estado de salud del trabajador, de sus limitaciones funcionales y de la previa intimación por trato discriminatorio constituye un cuadro indiciario suficiente para activar el estándar probatorio aplicable en materia de despido...
+Cabe revocar la decisión que aplicó la actualización de la tabla para evaluar incapacidades laborales dispuesta por el Decreto 549/2025 a los fines de determinar la capacidad laboral previamente establecida por el dictamen emitido por la Comisión...
 
 ---
 
@@ -1343,6 +1327,22 @@ El traslado previsto por el art. 66 del Código Procesal Laboral de Entre Ríos 
 
 ---
 
+## Carga de la prueba, revocación de sentencia, medios de prueba, despido discriminatorio, presunciones, salud del trabajador
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086583
+- **Caratula:** Pedroza Félix c/ Super SA. s/ Acción de reinstalación. Recurso de inaplicabilidad de ley
+- **Fecha:** 2026-06-26
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** carga de la prueba, revocación de sentencia, medios de prueba, despido discriminatorio, presunciones, salud del trabajador
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3856-800isoiramus
+
+La acreditación del estado de salud del trabajador, de sus limitaciones funcionales y de la previa intimación por trato discriminatorio constituye un cuadro indiciario suficiente para activar el estándar probatorio aplicable en materia de despido...
+
+---
+
 ## Violencia familiar, medidas cautelares, protección de personas, peligro en la demora, verosimilitud del derecho invocado, daño físico, daño psíquico
 
 - **Tipo:** Jurisprudencia
@@ -1356,70 +1356,6 @@ El traslado previsto por el art. 66 del Código Procesal Laboral de Entre Ríos 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2556-800isoiramus
 
 La normativa dictada en materia de violencia familiar apunta a constituir una herramienta de naturaleza cautelar que otorga al juez la potestad de adoptar medidas de índole variada con la finalidad de lograr un eficaz e inmediato cese a la situación...
-
----
-
-## Buena fe, ley de contrato de trabajo, presunciones
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086579
-- **Caratula:** Cepellotti Alberto Matías c/ Lussa Cristian Ariel s/ Cobro de pesos y entrega de certificación laboral. Recurso de inaplicabilidad de ley
-- **Fecha:** 2026-06-24
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** buena fe, ley de contrato de trabajo, presunciones
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9756-800isoiramus
-
-La conducta de la empleadora que mantiene una relación laboral deficientemente registrada y, frente a los reclamos extrajudiciales del trabajador, niega las irregularidades acreditadas en juicio, vulnera el deber de buena fe previsto en el art. 63...
-
----
-
-## Recursos, alimentos provisionales, medidas cautelares, obligación alimentaria, principio de contradicción, interés superior del niño, responsabilidad parental, cuota alimentaria, Ley Procesal de Familia de Entre Ríos, deberes del juez, procesos de familia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086570
-- **Caratula:** G., V. N. c/ A. M. A., R. S. F. Y A. G. M. s/ Medida cautelar alimentos provisorios
-- **Fecha:** 2026-06-24
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** recursos, alimentos provisionales, medidas cautelares, obligación alimentaria, principio de contradicción, interés superior del niño, responsabilidad parental, cuota alimentaria, Ley Procesal de Familia de Entre Ríos, deberes del juez, procesos de familia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0756-800isoiramus
-
-El reclamo cautelar de alimentos exige un trámite diferencial, aún más breve que el que prevé la norma de rito y también la sustancial para el proceso de alimentos, lo cual tiene su razón de ser en la urgencia que presupone el pedido para satisfacer...
-
----
-
-## Contrato de trabajo, principio de continuidad, obligaciones del empleador
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086576
-- **Caratula:** Cepellotti Alberto Matías c/ Lussa Cristian Ariel s/ Cobro de pesos y entrega de certificación laboral. Recurso de inaplicabilidad de ley
-- **Fecha:** 2026-06-24
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** contrato de trabajo, principio de continuidad, obligaciones del empleador
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6756-800isoiramus
-
-El principio de continuidad del contrato de trabajo no puede ser interpretado en perjuicio del trabajador ni utilizado para exigirle la permanencia en una relación laboral frente al incumplimiento de obligaciones esenciales por parte de la...
-
----
-
-## Ley de contrato de trabajo, obligaciones del empleador, abandono de trabajo, intimación fehaciente
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086578
-- **Caratula:** Cepellotti Alberto Matías c/ Lussa Cristian Ariel s/ Cobro de pesos y entrega de certificación laboral. Recurso de inaplicabilidad de ley
-- **Fecha:** 2026-06-24
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** ley de contrato de trabajo, obligaciones del empleador, abandono de trabajo, intimación fehaciente
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8756-800isoiramus
-
-No resulta procedente la intimación prevista en el art. 244 de la Ley de Contrato de Trabajo cuando no se encuentra acreditado un incumplimiento previo del trabajador que habilite su constitución en mora, especialmente si permanecen incumplidas...
 
 ---
 
@@ -1439,22 +1375,6 @@ En los procesos de familia las medidas cautelares pueden adoptarse inaudita part
 
 ---
 
-## Recursos, alimentos provisionales, medidas cautelares, obligación alimentaria, principio de contradicción, interés superior del niño, responsabilidad parental, cuota alimentaria, procesos de familia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086569
-- **Caratula:** G., V. N. c/ A. M. A., R. S. F. Y A. G. M. s/ Medida cautelar alimentos provisorios
-- **Fecha:** 2026-06-24
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** recursos, alimentos provisionales, medidas cautelares, obligación alimentaria, principio de contradicción, interés superior del niño, responsabilidad parental, cuota alimentaria, procesos de familia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9656-800isoiramus
-
-El remedio recursivo es el medio procesal para garantizar la bilateralidad en el supuesto de que los alimentos provisorios hubieran sido fijados sin sustanciación. En concreto, el carácter urgente de los alimentos provisorios, importa que sean...
-
----
-
 ## Despido verbal, relación de dependencia, medios de prueba, carga de la prueba, presunciones
 
 - **Tipo:** Jurisprudencia
@@ -1471,19 +1391,35 @@ Acreditada la registración deficiente de la relación laboral y la negativa pat
 
 ---
 
-## Ley de contrato de trabajo, abandono de trabajo, intimación al trabajador, obligaciones del empleador, intimación fehaciente
+## Contrato de trabajo, principio de continuidad, obligaciones del empleador
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086577
+- **Numero:** I0086576
 - **Caratula:** Cepellotti Alberto Matías c/ Lussa Cristian Ariel s/ Cobro de pesos y entrega de certificación laboral. Recurso de inaplicabilidad de ley
 - **Fecha:** 2026-06-24
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL
-- **Descriptores:** ley de contrato de trabajo, abandono de trabajo, intimación al trabajador, obligaciones del empleador, intimación fehaciente
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7756-800isoiramus
+- **Descriptores:** contrato de trabajo, principio de continuidad, obligaciones del empleador
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6756-800isoiramus
 
-La configuración del abandono de trabajo exige la acreditación de un incumplimiento previo del trabajador y una intimación fehaciente cursada en forma legítima. La mera remisión de una intimación patronal no satisface los recaudos del art. 244 de la...
+El principio de continuidad del contrato de trabajo no puede ser interpretado en perjuicio del trabajador ni utilizado para exigirle la permanencia en una relación laboral frente al incumplimiento de obligaciones esenciales por parte de la...
+
+---
+
+## Buena fe, ley de contrato de trabajo, presunciones
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086579
+- **Caratula:** Cepellotti Alberto Matías c/ Lussa Cristian Ariel s/ Cobro de pesos y entrega de certificación laboral. Recurso de inaplicabilidad de ley
+- **Fecha:** 2026-06-24
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** buena fe, ley de contrato de trabajo, presunciones
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9756-800isoiramus
+
+La conducta de la empleadora que mantiene una relación laboral deficientemente registrada y, frente a los reclamos extrajudiciales del trabajador, niega las irregularidades acreditadas en juicio, vulnera el deber de buena fe previsto en el art. 63...
 
 ---
 
@@ -1503,6 +1439,70 @@ El régimen de cuidado compartido no comporta una dinámica de cuidado exclusivo
 
 ---
 
+## Recursos, alimentos provisionales, medidas cautelares, obligación alimentaria, principio de contradicción, interés superior del niño, responsabilidad parental, cuota alimentaria, procesos de familia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086569
+- **Caratula:** G., V. N. c/ A. M. A., R. S. F. Y A. G. M. s/ Medida cautelar alimentos provisorios
+- **Fecha:** 2026-06-24
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** recursos, alimentos provisionales, medidas cautelares, obligación alimentaria, principio de contradicción, interés superior del niño, responsabilidad parental, cuota alimentaria, procesos de familia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9656-800isoiramus
+
+El remedio recursivo es el medio procesal para garantizar la bilateralidad en el supuesto de que los alimentos provisorios hubieran sido fijados sin sustanciación. En concreto, el carácter urgente de los alimentos provisorios, importa que sean...
+
+---
+
+## Recursos, alimentos provisionales, medidas cautelares, obligación alimentaria, principio de contradicción, interés superior del niño, responsabilidad parental, cuota alimentaria, Ley Procesal de Familia de Entre Ríos, deberes del juez, procesos de familia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086570
+- **Caratula:** G., V. N. c/ A. M. A., R. S. F. Y A. G. M. s/ Medida cautelar alimentos provisorios
+- **Fecha:** 2026-06-24
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** recursos, alimentos provisionales, medidas cautelares, obligación alimentaria, principio de contradicción, interés superior del niño, responsabilidad parental, cuota alimentaria, Ley Procesal de Familia de Entre Ríos, deberes del juez, procesos de familia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0756-800isoiramus
+
+El reclamo cautelar de alimentos exige un trámite diferencial, aún más breve que el que prevé la norma de rito y también la sustancial para el proceso de alimentos, lo cual tiene su razón de ser en la urgencia que presupone el pedido para satisfacer...
+
+---
+
+## Ley de contrato de trabajo, obligaciones del empleador, abandono de trabajo, intimación fehaciente
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086578
+- **Caratula:** Cepellotti Alberto Matías c/ Lussa Cristian Ariel s/ Cobro de pesos y entrega de certificación laboral. Recurso de inaplicabilidad de ley
+- **Fecha:** 2026-06-24
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** ley de contrato de trabajo, obligaciones del empleador, abandono de trabajo, intimación fehaciente
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8756-800isoiramus
+
+No resulta procedente la intimación prevista en el art. 244 de la Ley de Contrato de Trabajo cuando no se encuentra acreditado un incumplimiento previo del trabajador que habilite su constitución en mora, especialmente si permanecen incumplidas...
+
+---
+
+## Ley de contrato de trabajo, abandono de trabajo, intimación al trabajador, obligaciones del empleador, intimación fehaciente
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086577
+- **Caratula:** Cepellotti Alberto Matías c/ Lussa Cristian Ariel s/ Cobro de pesos y entrega de certificación laboral. Recurso de inaplicabilidad de ley
+- **Fecha:** 2026-06-24
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** ley de contrato de trabajo, abandono de trabajo, intimación al trabajador, obligaciones del empleador, intimación fehaciente
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7756-800isoiramus
+
+La configuración del abandono de trabajo exige la acreditación de un incumplimiento previo del trabajador y una intimación fehaciente cursada en forma legítima. La mera remisión de una intimación patronal no satisface los recaudos del art. 244 de la...
+
+---
+
 ## Restitución de cosas, responsabilidad contractual, incumplimiento del contrato, daños y perjuicios, prescripción decenal, locación de inmuebles, monto de la indemnización, obligaciones del locatario
 
 - **Tipo:** Jurisprudencia
@@ -1516,22 +1516,6 @@ El régimen de cuidado compartido no comporta una dinámica de cuidado exclusivo
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1956-800isoiramus
 
 Lo que el locatario deba, luego de vencidos esos plazos -de restitución de la cosa- no es a titulo de "alquiler" sino de "daños", por lo que su monto se vincula más a aquella privación que efectivamente sufrió el locador, que el monto originalmente...
-
----
-
-## Restitución de cosas, responsabilidad contractual, incumplimiento del contrato, daños y perjuicios, prescripción decenal, locación de inmuebles, monto de la indemnización, obligaciones del locatario
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086590
-- **Caratula:** Bolzan Gani Victoria Agostina y Otra c/ Superior Gobierno de la prov. Entre Ríos s/ Desalojo y cobro alquileres
-- **Fecha:** 2026-06-18
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** restitución de cosas, responsabilidad contractual, incumplimiento del contrato, daños y perjuicios, prescripción decenal, locación de inmuebles, monto de la indemnización, obligaciones del locatario
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0956-800isoiramus
-
-El monto indemnizatorio -por no restituir el locatario la cosa en debido tiempo- debe reflejar el valor real de mercado del inmueble, pues se ha señalado que la responsabilidad por daños que incumbe al locatario es contractual, ya que se trata del...
 
 ---
 
@@ -1567,6 +1551,22 @@ La finalidad esencial del contrato de locación es entregar el uso y goce de la 
 
 ---
 
+## Restitución de cosas, responsabilidad contractual, incumplimiento del contrato, daños y perjuicios, prescripción decenal, locación de inmuebles, monto de la indemnización, obligaciones del locatario
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086590
+- **Caratula:** Bolzan Gani Victoria Agostina y Otra c/ Superior Gobierno de la prov. Entre Ríos s/ Desalojo y cobro alquileres
+- **Fecha:** 2026-06-18
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** restitución de cosas, responsabilidad contractual, incumplimiento del contrato, daños y perjuicios, prescripción decenal, locación de inmuebles, monto de la indemnización, obligaciones del locatario
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0956-800isoiramus
+
+El monto indemnizatorio -por no restituir el locatario la cosa en debido tiempo- debe reflejar el valor real de mercado del inmueble, pues se ha señalado que la responsabilidad por daños que incumbe al locatario es contractual, ya que se trata del...
+
+---
+
 ## Medidas precautelares, tutela anticipada, resolución inaudita parte, medidas cautelares, alimentos provisionales, incumplimiento de la obligación alimentaria, deber de colaboración, Ley Procesal de Familia de Entre Ríos, medidas urgentes, debido proceso
 
 - **Tipo:** Jurisprudencia
@@ -1580,86 +1580,6 @@ La finalidad esencial del contrato de locación es entregar el uso y goce de la 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6956-800isoiramus
 
 El alimento provisorio es un dispositivo judicial que pretende garantizar el goce rápido de los derechos de los alimentados. Se trata de medidas precautelares o subcautelares de protección, en las cuales cede el rigor de la exigencia de la...
-
----
-
-## Ley Procesal de Familia de Entre Ríos, procesos de familia, medidas precautelares, tutela anticipada, verosimilitud del derecho invocado, peligro en la demora, debido proceso, resolución inaudita parte, defensa en juicio
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086600
-- **Caratula:** P., L. c/ R. M. F. s/ Medida cautelar alimentos provisorios
-- **Fecha:** 2026-06-16
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** Ley Procesal de Familia de Entre Ríos, procesos de familia, medidas precautelares, tutela anticipada, verosimilitud del derecho invocado, peligro en la demora, debido proceso, resolución inaudita parte, defensa en juicio
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0066-800isoiramus
-
-En los procesos de familia las medidas cautelares pueden adoptarse inaudita parte -sin oir a la otra parte- siempre que se encuentre justificada la verosimilitud del derecho invocado y el peligro en la demora, por lo que la falta de traslado previo...
-
----
-
-## Facultades jurisdiccionales, obligación alimentaria, incumplimiento de la obligación alimentaria, medidas cautelares, código civil y comercial, control de razonabilidad, deberes del juez, facultades del Poder Judicial, cumplimiento de resolución judicial, medidas urgentes, medidas precautelares, tutela anticipada, alimentos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086593
-- **Caratula:** P., L. c/ R. M. F. s/ Medida cautelar alimentos provisorios
-- **Fecha:** 2026-06-16
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** tutela judicial efectiva, obligación alimentaria, incumplimiento de la obligación alimentaria, medidas cautelares, código civil y comercial, control de razonabilidad, deberes del juez, facultades del Poder Judicial, cumplimiento de resolución judicial, medidas urgentes, medidas precautelares, tutela anticipada, alimentos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3956-800isoiramus
-
-El art. 553 del Código Civil y Comercial dispone que el juez puede imponer al responsable del incumplimiento reiterado de la obligación alimentaria medidas razonables para asegurar la eficacia de la sentencia. La disposición opera a modo de reforzar...
-
----
-
-## Medidas precautelares, tutela anticipada, resolución inaudita parte, alimentos, Ley Procesal de Familia de Entre Ríos, medidas urgentes, procesos de familia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086598
-- **Caratula:** P., L. c/ R. M. F. s/ Medida cautelar alimentos provisorios
-- **Fecha:** 2026-06-16
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** medidas precautelares, tutela anticipada, resolución inaudita parte, alimentos, Ley Procesal de Familia de Entre Ríos, medidas urgentes, procesos de familia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8956-800isoiramus
-
-El reclamo cautelar de alimentos exige un trámite diferencial, aún más breve que el que prevé la norma de rito y también la sustancial para el proceso de alimentos, lo cual tiene su razón de ser en la urgencia que presupone el pedido para satisfacer...
-
----
-
-## Medidas precautelares, tutela anticipada, resolución inaudita parte, defensa en juicio, derechos y garantías constitucionales, principio de contradicción, alimentos, debido proceso
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086597
-- **Caratula:** P., L. c/ R. M. F. s/ Medida cautelar alimentos provisorios
-- **Fecha:** 2026-06-16
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** medidas precautelares, tutela anticipada, resolución inaudita parte, defensa en juicio, garantías constitucionales, principio de contradicción, alimentos, debido proceso
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7956-800isoiramus
-
-El remedio recursivo es el medio procesal para garantizar la bilateralidad en el supuesto de que los alimentos provisorios hubieran sido fijados sin sustanciación. Así se ha dicho, que si bien los alimentos provisorios pueden ser decretados inaudita...
-
----
-
-## Medidas cautelares, alimentos provisionales, incumplimiento de la obligación alimentaria, apreciación de la prueba, presunciones, CÓDIGO PROCESAL CIVIL Y COMERCIAL DE ENTRE RÍOS, deber de colaboración, medidas precautelares
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086594
-- **Caratula:** P., L. c/ R. M. F. s/ Medida cautelar alimentos provisorios
-- **Fecha:** 2026-06-16
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** medidas cautelares, alimentos provisionales, incumplimiento de la obligación alimentaria, valoración probatoria, presunciones, CÓDIGO PROCESAL CIVIL Y COMERCIAL DE ENTRE RÍOS, deber de colaboración, obligación alimentaria, medidas precautelares
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4956-800isoiramus
-
-En los procesos cautelares juega el principio de colaboración, conforme el cual los litigantes deben priorizar aquel interés que sea superior, por lo que su incumplimiento genera una presunción en contra de quien lo incumple, como especie de...
 
 ---
 
@@ -1679,6 +1599,70 @@ Cuando se encuentran en juego los derechos de niños y adolescentes, el interés
 
 ---
 
+## Medidas cautelares, alimentos provisionales, incumplimiento de la obligación alimentaria, apreciación de la prueba, presunciones, CÓDIGO PROCESAL CIVIL Y COMERCIAL DE ENTRE RÍOS, deber de colaboración, medidas precautelares
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086594
+- **Caratula:** P., L. c/ R. M. F. s/ Medida cautelar alimentos provisorios
+- **Fecha:** 2026-06-16
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** medidas cautelares, alimentos provisionales, incumplimiento de la obligación alimentaria, valoración probatoria, presunciones, CÓDIGO PROCESAL CIVIL Y COMERCIAL DE ENTRE RÍOS, deber de colaboración, obligación alimentaria, medidas precautelares
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4956-800isoiramus
+
+En los procesos cautelares juega el principio de colaboración, conforme el cual los litigantes deben priorizar aquel interés que sea superior, por lo que su incumplimiento genera una presunción en contra de quien lo incumple, como especie de...
+
+---
+
+## Medidas precautelares, tutela anticipada, resolución inaudita parte, defensa en juicio, derechos y garantías constitucionales, principio de contradicción, alimentos, debido proceso
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086597
+- **Caratula:** P., L. c/ R. M. F. s/ Medida cautelar alimentos provisorios
+- **Fecha:** 2026-06-16
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** medidas precautelares, tutela anticipada, resolución inaudita parte, defensa en juicio, garantías constitucionales, principio de contradicción, alimentos, debido proceso
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7956-800isoiramus
+
+El remedio recursivo es el medio procesal para garantizar la bilateralidad en el supuesto de que los alimentos provisorios hubieran sido fijados sin sustanciación. Así se ha dicho, que si bien los alimentos provisorios pueden ser decretados inaudita...
+
+---
+
+## Ley Procesal de Familia de Entre Ríos, procesos de familia, medidas precautelares, tutela anticipada, verosimilitud del derecho invocado, peligro en la demora, debido proceso, resolución inaudita parte, defensa en juicio
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086600
+- **Caratula:** P., L. c/ R. M. F. s/ Medida cautelar alimentos provisorios
+- **Fecha:** 2026-06-16
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** Ley Procesal de Familia de Entre Ríos, procesos de familia, medidas precautelares, tutela anticipada, verosimilitud del derecho invocado, peligro en la demora, debido proceso, resolución inaudita parte, defensa en juicio
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0066-800isoiramus
+
+En los procesos de familia las medidas cautelares pueden adoptarse inaudita parte -sin oir a la otra parte- siempre que se encuentre justificada la verosimilitud del derecho invocado y el peligro en la demora, por lo que la falta de traslado previo...
+
+---
+
+## Medidas precautelares, tutela anticipada, resolución inaudita parte, alimentos, Ley Procesal de Familia de Entre Ríos, medidas urgentes, procesos de familia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086598
+- **Caratula:** P., L. c/ R. M. F. s/ Medida cautelar alimentos provisorios
+- **Fecha:** 2026-06-16
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** medidas precautelares, tutela anticipada, resolución inaudita parte, alimentos, Ley Procesal de Familia de Entre Ríos, medidas urgentes, procesos de familia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8956-800isoiramus
+
+El reclamo cautelar de alimentos exige un trámite diferencial, aún más breve que el que prevé la norma de rito y también la sustancial para el proceso de alimentos, lo cual tiene su razón de ser en la urgencia que presupone el pedido para satisfacer...
+
+---
+
 ## Alimentos provisionales, incumplimiento de la obligación alimentaria, facultades jurisdiccionales, deberes del juez, medidas urgentes, medidas precautelares, medidas cautelares
 
 - **Tipo:** Jurisprudencia
@@ -1692,6 +1676,22 @@ Cuando se encuentran en juego los derechos de niños y adolescentes, el interés
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5956-800isoiramus
 
 La característica anticipatoria y de urgencia conlleva a que la determinación de la cuota de alimentos en el aludido marco deba fijarse necesariamente a partir de los elementos de prueba que se aportan al proceso. Esto no importa que deba efectuarse...
+
+---
+
+## Facultades jurisdiccionales, obligación alimentaria, incumplimiento de la obligación alimentaria, medidas cautelares, código civil y comercial, control de razonabilidad, deberes del juez, facultades del Poder Judicial, cumplimiento de resolución judicial, medidas urgentes, medidas precautelares, tutela anticipada, alimentos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086593
+- **Caratula:** P., L. c/ R. M. F. s/ Medida cautelar alimentos provisorios
+- **Fecha:** 2026-06-16
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** tutela judicial efectiva, obligación alimentaria, incumplimiento de la obligación alimentaria, medidas cautelares, código civil y comercial, control de razonabilidad, deberes del juez, facultades del Poder Judicial, cumplimiento de resolución judicial, medidas urgentes, medidas precautelares, tutela anticipada, alimentos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3956-800isoiramus
+
+El art. 553 del Código Civil y Comercial dispone que el juez puede imponer al responsable del incumplimiento reiterado de la obligación alimentaria medidas razonables para asegurar la eficacia de la sentencia. La disposición opera a modo de reforzar...
 
 ---
 
@@ -1759,6 +1759,22 @@ Ante la colisión de dos criterios atributivos de competencia, las cuestiones qu
 
 ---
 
+## Ley de tránsito, relación de causalidad, accidente de tránsito, velocidad máxima, presunciones, apreciación de la prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086562
+- **Caratula:** De Luca Nicolás Jeremías c/ Bertonchini Ricardo José y Otros s/ Ordinario. Accidentes de tránsito
+- **Fecha:** 2026-06-02
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** ley de tránsito, relación de causalidad, accidente de tránsito, velocidad máxima, presunciones, valoración probatoria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2656-800isoiramus
+
+La velocidad máxima de circulación en calles es de 40 km/h, en avenidas de 60 km/h y en las encrucijadas, de 30km/h y su incumplimiento hace presumir la responsabilidad del infractor en el siniestro, sin perjuicio de resultar indispensable que medie...
+
+---
+
 ## Factores atributivos de responsabilidad, código civil y comercial, concausa, accidente de tránsito, responsabilidad del dueño o guardián de la cosa, presunciones, relación de causalidad, eximentes de responsabilidad
 
 - **Tipo:** Jurisprudencia
@@ -1772,22 +1788,6 @@ Ante la colisión de dos criterios atributivos de competencia, las cuestiones qu
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6656-800isoiramus
 
 Si el hecho de la víctima contribuye de manera exclusiva a la producción del daño, el dueño o guardián queda eximido de responsabilidad; si tuvo incidencia parcial en su generación estamos ante un supuesto de concausas que conlleva la reducción de...
-
----
-
-## Accidente de tránsito, responsabilidad del conductor, responsabilidad objetiva, responsabilidad del dueño o guardián de la cosa, factores atributivos de responsabilidad, presunciones, relación de causalidad
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086565
-- **Caratula:** De Luca Nicolás Jeremías c/ Bertonchini Ricardo José y Otros s/ Ordinario. Accidentes de tránsito
-- **Fecha:** 2026-06-02
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** accidente de tránsito, responsabilidad del conductor, responsabilidad objetiva, responsabilidad del dueño o guardián de la cosa, factores atributivos de responsabilidad, presunciones, relación de causalidad
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5656-800isoiramus
-
-Frente a la colisión entre dos o más automóviles, las presunciones de responsabilidad de la ley por los recíprocos riesgos introducidos, no se compensan ni se neutralizan, sino que en atención a que el factor de atribución objetivo de...
 
 ---
 
@@ -1807,6 +1807,22 @@ Cualquiera sea la forma en que se producen, los accidentes de automotores caen b
 
 ---
 
+## Accidente de tránsito, responsabilidad del conductor, responsabilidad objetiva, responsabilidad del dueño o guardián de la cosa, factores atributivos de responsabilidad, presunciones, relación de causalidad
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086565
+- **Caratula:** De Luca Nicolás Jeremías c/ Bertonchini Ricardo José y Otros s/ Ordinario. Accidentes de tránsito
+- **Fecha:** 2026-06-02
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** accidente de tránsito, responsabilidad del conductor, responsabilidad objetiva, responsabilidad del dueño o guardián de la cosa, factores atributivos de responsabilidad, presunciones, relación de causalidad
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5656-800isoiramus
+
+Frente a la colisión entre dos o más automóviles, las presunciones de responsabilidad de la ley por los recíprocos riesgos introducidos, no se compensan ni se neutralizan, sino que en atención a que el factor de atribución objetivo de...
+
+---
+
 ## Ley de tránsito, relación de causalidad, accidente de tránsito, velocidad máxima, prioridad de paso, responsabilidad objetiva, responsabilidad del conductor
 
 - **Tipo:** Jurisprudencia
@@ -1820,38 +1836,6 @@ Cualquiera sea la forma en que se producen, los accidentes de automotores caen b
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3656-800isoiramus
 
 No resulta atendible el argumento de haber arribado primero a la encrucijada en tanto la prioridad de paso resulta absoluta con independencia del vehículo que ingresa primero a la intersección (Art. 41 Ley de Tránsito 24.449; y art. 41 del Dec....
-
----
-
-## Ley de tránsito, relación de causalidad, accidente de tránsito, velocidad máxima, presunciones, apreciación de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086562
-- **Caratula:** De Luca Nicolás Jeremías c/ Bertonchini Ricardo José y Otros s/ Ordinario. Accidentes de tránsito
-- **Fecha:** 2026-06-02
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** ley de tránsito, relación de causalidad, accidente de tránsito, velocidad máxima, presunciones, valoración probatoria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2656-800isoiramus
-
-La velocidad máxima de circulación en calles es de 40 km/h, en avenidas de 60 km/h y en las encrucijadas, de 30km/h y su incumplimiento hace presumir la responsabilidad del infractor en el siniestro, sin perjuicio de resultar indispensable que medie...
-
----
-
-## Código civil y comercial, medios de prueba, apreciación de la prueba, inmuebles por accesión, prescripción adquisitiva, derechos reales, dominio, posesión de buena fe
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086550
-- **Caratula:** Pavón Marcelo Ramón c/ Propietario desconocido s/ Usucapión
-- **Fecha:** 2026-05-20
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** código civil y comercial, medios de prueba, valoración probatoria, inmuebles por accesión, prescripción adquisitiva, derechos reales, dominio, posesión de buena fe
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0556-800isoiramus
-
-La usucapión como modo excepcional de adquirir el dominio se encuentra prevista los arts. 2524 inc. 7 y 3948 y su correlato en los arts. 2565 y 1897 del Código Civil y Comercial. Y para tal fin, se debe conjugar: a) la posesión de la cosa o "corpus"...
 
 ---
 
@@ -1903,19 +1887,19 @@ El contrato de locación de un inmueble puede ser una concreta manifestación de
 
 ---
 
-## Interés superior del niño, derechos de las niñas, niños y adolescentes, plan de parentalidad, ejercicio de la responsabilidad parental, relaciones de familia, responsabilidad de los padres, parentalidad compartida, cuidado personal unilateral, derecho a la integridad psíquica y moral
+## Código civil y comercial, medios de prueba, apreciación de la prueba, inmuebles por accesión, prescripción adquisitiva, derechos reales, dominio, posesión de buena fe
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086547
-- **Caratula:** B., C. A. Y P., J. E. c/ Homologación de Convenio s/ Incidente modificación régimen de visitas
-- **Fecha:** 2026-05-19
+- **Numero:** I0086550
+- **Caratula:** Pavón Marcelo Ramón c/ Propietario desconocido s/ Usucapión
+- **Fecha:** 2026-05-20
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-DERECHOS HUMANOS
-- **Descriptores:** interés superior del niño, derechos del niño, plan de parentalidad, ejercicio de la responsabilidad parental, relaciones de familia, responsabilidad de los padres, cuidado personal compartido, cuidado personal unilateral, derecho a la integridad psíquica y moral
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7456-800isoiramus
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** código civil y comercial, medios de prueba, valoración probatoria, inmuebles por accesión, prescripción adquisitiva, derechos reales, dominio, posesión de buena fe
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0556-800isoiramus
 
-La comunicación materno o paterno filial es ante todo, un deber de los padres, consistente en mantener contacto personal con los hijos, función familiar, que pondera la activa intervención de ambos progenitores en la vida de aquellos en beneficio de...
+La usucapión como modo excepcional de adquirir el dominio se encuentra prevista los arts. 2524 inc. 7 y 3948 y su correlato en los arts. 2565 y 1897 del Código Civil y Comercial. Y para tal fin, se debe conjugar: a) la posesión de la cosa o "corpus"...
 
 ---
 
@@ -1932,38 +1916,6 @@ La comunicación materno o paterno filial es ante todo, un deber de los padres, 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5456-800isoiramus
 
 El cuidado personal puede ser compartido o unilateral conforme las particularidades de cada familia, pero el ordenamiento establece como regla el cuidado personal compartido en el que ambos padres toman decisiones y se distribuyen responsabilidades...
-
----
-
-## Código civil y comercial, parentalidad compartida, interés superior del niño, derechos de las niñas, niños y adolescentes, plan de parentalidad, deberes del juez, equipo interdisciplinario, responsabilidad de los padres, interpretación amplia, centro de vida de niñas, niños y adolescentes
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086542
-- **Caratula:** B., C. A. Y P., J. E. c/ Homologación de Convenio s/ Incidente modificación régimen de visitas
-- **Fecha:** 2026-05-19
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** código civil y comercial, cuidado personal compartido, interés superior del niño, derechos del niño, plan de parentalidad, deberes del juez, equipo interdisciplinario, responsabilidad de los padres, interpretación amplia, centro de vida de niñas, niños y adolescentes
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2456-800isoiramus
-
-El régimen de comunicación paterno filial, no debe asociarse con la figura de un progenitor mero visitador que tiene como contracara a otro progenitor que asume la crianza de los hijos en forma exclusiva, ya que la regla o primera alternativa es...
-
----
-
-## Interés superior del niño, deberes del juez, plan de parentalidad, derechos y obligaciones de los padres, parentalidad compartida, derechos de las niñas, niños y adolescentes, responsabilidad de los padres, relaciones de familia, ejercicio de la responsabilidad parental
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086539
-- **Caratula:** B., C. A. Y P., J. E. c/ Homologación de Convenio s/ Incidente modificación régimen de visitas
-- **Fecha:** 2026-05-19
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** interés superior del niño, deberes del juez, plan de parentalidad, derechos y obligaciones de los padres, parentalidad compartida, derechos del niño, responsabilidad de los padres, relaciones de familia, ejercicio de la responsabilidad parental
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9356-800isoiramus
-
-Ante la falta de concordia entre los adultos, es la magistratura la que debe fijar el régimen de parentalidad, teniendo en cuenta el interés superior de la niña ceñido a su derecho a ser criada por ambos padres y como contracara, el cumplimiento del...
 
 ---
 
@@ -1999,19 +1951,19 @@ La prevalencia del cuidado personal compartido y también de la modalidad indist
 
 ---
 
-## Derecho de las niñas, niños y adolescentes a ser oídos, interés superior del niño, derechos de las niñas, niños y adolescentes, plan de parentalidad, deberes del juez, ley de protección integral de los derechos de las niñas, niños y adolescentes, equipo interdisciplinario, relaciones de familia, ejercicio de la responsabilidad parental, responsabilidad de los padres, interpretación amplia, código civil y comercial, Convención sobre los derechos del niño, parentalidad compartida
+## Código civil y comercial, parentalidad compartida, interés superior del niño, derechos de las niñas, niños y adolescentes, plan de parentalidad, deberes del juez, equipo interdisciplinario, responsabilidad de los padres, interpretación amplia, centro de vida de niñas, niños y adolescentes
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086543
+- **Numero:** I0086542
 - **Caratula:** B., C. A. Y P., J. E. c/ Homologación de Convenio s/ Incidente modificación régimen de visitas
 - **Fecha:** 2026-05-19
 - **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS
-- **Descriptores:** derecho de las niñas, niños y adolescentes a ser oídos, interés superior del niño, derechos del niño, plan de parentalidad, deberes del juez, ley de protección integral de los derechos de las niñas, niños y adolescentes, equipo interdisciplinario, relaciones de familia, ejercicio de la responsabilidad parental, responsabilidad de los padres, interpretación amplia, código civil y comercial, Convención sobre los derechos del niño, cuidado personal compartido
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3456-800isoiramus
+- **Materia:** CIVIL
+- **Descriptores:** código civil y comercial, cuidado personal compartido, interés superior del niño, derechos del niño, plan de parentalidad, deberes del juez, equipo interdisciplinario, responsabilidad de los padres, interpretación amplia, centro de vida de niñas, niños y adolescentes
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2456-800isoiramus
 
-En 2005 la Ley de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes 26.061 prescribió la prevalencia del cuidado personal compartido y de la modalidad indistinta, al disponer que el padre y la madre tienen responsabilidades y...
+El régimen de comunicación paterno filial, no debe asociarse con la figura de un progenitor mero visitador que tiene como contracara a otro progenitor que asume la crianza de los hijos en forma exclusiva, ya que la regla o primera alternativa es...
 
 ---
 
@@ -2028,6 +1980,54 @@ En 2005 la Ley de Protección Integral de los Derechos de las Niñas, Niños y A
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6456-800isoiramus
 
 El cuidado personal de los hijos requiere de una cercanía del progenitor en la cotidianeidad de hijo y conlleva de parte del adulto conductas enderezadas al cumplimiento del rol o función parental de protección, desarrollo y formación integral del...
+
+---
+
+## Interés superior del niño, deberes del juez, plan de parentalidad, derechos y obligaciones de los padres, parentalidad compartida, derechos de las niñas, niños y adolescentes, responsabilidad de los padres, relaciones de familia, ejercicio de la responsabilidad parental
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086539
+- **Caratula:** B., C. A. Y P., J. E. c/ Homologación de Convenio s/ Incidente modificación régimen de visitas
+- **Fecha:** 2026-05-19
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** interés superior del niño, deberes del juez, plan de parentalidad, derechos y obligaciones de los padres, parentalidad compartida, derechos del niño, responsabilidad de los padres, relaciones de familia, ejercicio de la responsabilidad parental
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9356-800isoiramus
+
+Ante la falta de concordia entre los adultos, es la magistratura la que debe fijar el régimen de parentalidad, teniendo en cuenta el interés superior de la niña ceñido a su derecho a ser criada por ambos padres y como contracara, el cumplimiento del...
+
+---
+
+## Derecho de las niñas, niños y adolescentes a ser oídos, interés superior del niño, derechos de las niñas, niños y adolescentes, plan de parentalidad, deberes del juez, ley de protección integral de los derechos de las niñas, niños y adolescentes, equipo interdisciplinario, relaciones de familia, ejercicio de la responsabilidad parental, responsabilidad de los padres, interpretación amplia, código civil y comercial, Convención sobre los derechos del niño, parentalidad compartida
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086543
+- **Caratula:** B., C. A. Y P., J. E. c/ Homologación de Convenio s/ Incidente modificación régimen de visitas
+- **Fecha:** 2026-05-19
+- **Provincia:** Entre Ríos
+- **Materia:** DERECHOS HUMANOS
+- **Descriptores:** derecho de las niñas, niños y adolescentes a ser oídos, interés superior del niño, derechos del niño, plan de parentalidad, deberes del juez, ley de protección integral de los derechos de las niñas, niños y adolescentes, equipo interdisciplinario, relaciones de familia, ejercicio de la responsabilidad parental, responsabilidad de los padres, interpretación amplia, código civil y comercial, Convención sobre los derechos del niño, cuidado personal compartido
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3456-800isoiramus
+
+En 2005 la Ley de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes 26.061 prescribió la prevalencia del cuidado personal compartido y de la modalidad indistinta, al disponer que el padre y la madre tienen responsabilidades y...
+
+---
+
+## Interés superior del niño, derechos de las niñas, niños y adolescentes, plan de parentalidad, ejercicio de la responsabilidad parental, relaciones de familia, responsabilidad de los padres, parentalidad compartida, cuidado personal unilateral, derecho a la integridad psíquica y moral
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086547
+- **Caratula:** B., C. A. Y P., J. E. c/ Homologación de Convenio s/ Incidente modificación régimen de visitas
+- **Fecha:** 2026-05-19
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-DERECHOS HUMANOS
+- **Descriptores:** interés superior del niño, derechos del niño, plan de parentalidad, ejercicio de la responsabilidad parental, relaciones de familia, responsabilidad de los padres, cuidado personal compartido, cuidado personal unilateral, derecho a la integridad psíquica y moral
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7456-800isoiramus
+
+La comunicación materno o paterno filial es ante todo, un deber de los padres, consistente en mantener contacto personal con los hijos, función familiar, que pondera la activa intervención de ambos progenitores en la vida de aquellos en beneficio de...
 
 ---
 
@@ -2079,22 +2079,6 @@ La omisión de registros y planillas impone la operatividad de las presunciones 
 
 ---
 
-## Establecimientos educacionales, discriminación por enfermedad, viajes de egresados, principio de no discriminación, epilepsia, grupos vulnerables
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086601
-- **Caratula:** C.S.M.L. y P.L. en rep. de su hija menor de edad con discapacidad L.P. c/ XXX XX s/ Acción de Amparo
-- **Fecha:** 2026-04-20
-- **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS
-- **Descriptores:** establecimientos educacionales, discriminación por enfermedad, viajes de egresados, principio de no discriminación, discriminación, epilepsia, grupos vulnerables
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1066-800isoiramus
-
-Resulta arbitraria por discriminatoria la conducta de la institución educativa demandada en tanto negó a la alumna que padece epilepsia a participar del viaje de sexto año excluyéndola sobre la base de su enfermedad a participar del evento del...
-
----
-
 ## Apreciación de la prueba, establecimientos educacionales, discriminación por enfermedad, viajes de egresados, principio de no discriminación, grupos vulnerables, responsabilidad de los padres, acción de amparo, medios de prueba
 
 - **Tipo:** Jurisprudencia
@@ -2108,6 +2092,22 @@ Resulta arbitraria por discriminatoria la conducta de la institución educativa 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2066-800isoiramus
 
 Se encuentra sobradamente acreditada la actitud discriminatoria de la institución educativa  accionada en perjuicio de su alumna, una adolescente que por sufrir epilepsia fue excluida de participar del viaje de sexto año junto a sus compañeros...
+
+---
+
+## Establecimientos educacionales, discriminación por enfermedad, viajes de egresados, principio de no discriminación, epilepsia, grupos vulnerables
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086601
+- **Caratula:** C.S.M.L. y P.L. en rep. de su hija menor de edad con discapacidad L.P. c/ XXX XX s/ Acción de Amparo
+- **Fecha:** 2026-04-20
+- **Provincia:** Entre Ríos
+- **Materia:** DERECHOS HUMANOS
+- **Descriptores:** establecimientos educacionales, discriminación por enfermedad, viajes de egresados, principio de no discriminación, discriminación, epilepsia, grupos vulnerables
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1066-800isoiramus
+
+Resulta arbitraria por discriminatoria la conducta de la institución educativa demandada en tanto negó a la alumna que padece epilepsia a participar del viaje de sexto año excluyéndola sobre la base de su enfermedad a participar del evento del...
 
 ---
 
@@ -2127,38 +2127,6 @@ La posesión a título de coheredero no es idónea para usucapir el todo de la c
 
 ---
 
-## Cesación de pagos, concursos, LEY DE CONCURSOS, recursos, fallido
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086504
-- **Caratula:** Isaurralde Fabricio Gonzalo c/ s/ Quiebra
-- **Fecha:** 2026-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** cesación de pagos, concursos, LEY DE CONCURSOS, recursos, fallido
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4056-800isoiramus
-
-La legitimación recursiva del fallido respecto de la resolución que fija la fecha de cesación de pagos no se encuentra condicionada a la previa observación del informe general del síndico. La mención diferenciada del fallido en el art. 117 de la Ley...
-
----
-
-## Oblito quirúrgico, negligencia, médicos, apreciación de la prueba, daño moral, daño psíquico, daño resarcible, relación de causalidad, sentencia arbitraria, mala praxis, culpabilidad, responsabilidad profesional, código civil y comercial, carga de la prueba, presunción juris tantum, inversión de la carga de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086511
-- **Caratula:** Gonzalez Trapp Darío Javier c/ Clínica Modelo S.A. y Otros s/ Ordinario Daños y perjuicios
-- **Fecha:** 2026-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** oblito quirúrgico, negligencia, médicos, valoración probatoria, daño moral, daño psíquico, daño indemnizable, relación de causalidad, sentencia arbitraria, mala praxis, culpabilidad, responsabilidad profesional, código civil y comercial, carga de la prueba, presunción iuris tantum, inversión de la carga de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1156-800isoiramus
-
-El daño moral derivado del oblito quirúrgico se presume de la naturaleza misma del hecho dañoso sin necesidad de una acreditación específica de su existencia, sin perjuicio de la prueba producida en autos sobre su magnitud (art. 1744 del Código...
-
----
-
 ## Oblito quirúrgico, negligencia, médicos, apreciación de la prueba, daño moral, daño psíquico, daño resarcible, relación de causalidad, sentencia arbitraria, mala praxis, culpabilidad, responsabilidad profesional, código civil y comercial, carga de la prueba, presunción juris tantum, inversión de la carga de la prueba
 
 - **Tipo:** Jurisprudencia
@@ -2172,6 +2140,22 @@ El daño moral derivado del oblito quirúrgico se presume de la naturaleza misma
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0156-800isoiramus
 
 La esencia de la culpabilidad profesional reside en la omisión en que incurre el galeno al prescindir de las medidas preventivas de control -como el recuento del instrumental antes y después del acto quirúrgico- que le permitirían advertir el...
+
+---
+
+## Cesación de pagos, concursos, LEY DE CONCURSOS, recursos, fallido
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086504
+- **Caratula:** Isaurralde Fabricio Gonzalo c/ s/ Quiebra
+- **Fecha:** 2026-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** cesación de pagos, concursos, LEY DE CONCURSOS, recursos, fallido
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4056-800isoiramus
+
+La legitimación recursiva del fallido respecto de la resolución que fija la fecha de cesación de pagos no se encuentra condicionada a la previa observación del informe general del síndico. La mención diferenciada del fallido en el art. 117 de la Ley...
 
 ---
 
@@ -2191,6 +2175,22 @@ Si bien el médico no influyó en la evolución de la patología lumbar preexist
 
 ---
 
+## Oblito quirúrgico, negligencia, médicos, apreciación de la prueba, daño moral, daño psíquico, daño resarcible, relación de causalidad, sentencia arbitraria, mala praxis, culpabilidad, responsabilidad profesional, código civil y comercial, carga de la prueba, presunción juris tantum, inversión de la carga de la prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086511
+- **Caratula:** Gonzalez Trapp Darío Javier c/ Clínica Modelo S.A. y Otros s/ Ordinario Daños y perjuicios
+- **Fecha:** 2026-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** oblito quirúrgico, negligencia, médicos, valoración probatoria, daño moral, daño psíquico, daño indemnizable, relación de causalidad, sentencia arbitraria, mala praxis, culpabilidad, responsabilidad profesional, código civil y comercial, carga de la prueba, presunción iuris tantum, inversión de la carga de la prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1156-800isoiramus
+
+El daño moral derivado del oblito quirúrgico se presume de la naturaleza misma del hecho dañoso sin necesidad de una acreditación específica de su existencia, sin perjuicio de la prueba producida en autos sobre su magnitud (art. 1744 del Código...
+
+---
+
 ## Apreciación de la prueba, relación de causalidad, pericia médica, revocación de sentencia, sentencia arbitraria, procedencia del recurso, mala praxis, médicos, oblito quirúrgico, inversión de la carga de la prueba
 
 - **Tipo:** Jurisprudencia
@@ -2204,22 +2204,6 @@ Si bien el médico no influyó en la evolución de la patología lumbar preexist
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8056-800isoiramus
 
 Si bien la valoración de la prueba y la determinación del nexo causal son en principio ajenas a la casación, la sentencia incurre en una arbitrariedad normativa y fáctica al segmentar indebidamente el daño. A partir de la valoración excluyente de la...
-
----
-
-## Competencia, competencia federal, cuestiones de competencia, competencia por la persona, competencia ordinaria, juicios contra el Estado, Constitución Nacional, competencia excepcional
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086503
-- **Caratula:** Lazaro Fernández y Pablo Javier Feuillade SH c/ Banco de la Nación Argentina s/ ordinario. Daños y Perjuicios
-- **Fecha:** 2026-04-06
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** competencia, competencia federal, cuestiones de competencia, competencia por la persona, competencia ordinaria, demandas contra el Estado, Constitución Nacional, competencia excepcional
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3056-800isoiramus
-
-Corresponde recordar que, cuando la demanda se dirige contra el Estado Nacional o contra una entidad nacional -autárquica o descentralizada-, la competencia federal se funda directamente en el art. 116 de la Constitución Nacional y en los arts. 2...
 
 ---
 
@@ -2239,35 +2223,35 @@ La sola verificación de que el sujeto demandado es aforado (art. 116 de la Cons
 
 ---
 
-## Prescripción adquisitiva, legitimación pasiva, quiebra, bienes inmuebles, subasta
+## Competencia, competencia federal, cuestiones de competencia, competencia por la persona, competencia ordinaria, juicios contra el Estado, Constitución Nacional, competencia excepcional
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086467
-- **Caratula:** Peter, Marcelo Alejandro y otro c/ Celulosa Jujuy S.A. y otra s/ usucapión
-- **Fecha:** 2026-03-30
+- **Numero:** I0086503
+- **Caratula:** Lazaro Fernández y Pablo Javier Feuillade SH c/ Banco de la Nación Argentina s/ ordinario. Daños y Perjuicios
+- **Fecha:** 2026-04-06
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** prescripción adquisitiva, legitimación pasiva, quiebra, bienes inmuebles, subasta
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7646-800isoiramus
+- **Materia:** PROCESAL
+- **Descriptores:** competencia, competencia federal, cuestiones de competencia, competencia por la persona, competencia ordinaria, demandas contra el Estado, Constitución Nacional, competencia excepcional
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3056-800isoiramus
 
-Si la empresa titular registral ya no dispone del bien a usucapir como consecuencia de un proceso judicial de quiebra y liquidación judicial, y el inmueble fue adquirido por un tercero en subasta judicial, los legitimados pasivos necesarios son la...
+Corresponde recordar que, cuando la demanda se dirige contra el Estado Nacional o contra una entidad nacional -autárquica o descentralizada-, la competencia federal se funda directamente en el art. 116 de la Constitución Nacional y en los arts. 2...
 
 ---
 
-## Fallos de la Corte Suprema, jurisprudencia aplicable, acción de amparo, despido por maternidad, embarazada, empleo público, perspectiva de género, derechos de la mujer, derechos y garantías constitucionales
+## Sucesiones, gastos de sepelio, coeficientes de distribución, traspaso de deudas
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086681
-- **Caratula:** Fabre Florencia Jacqueline c/ Consejo General de educación y Superior Gobierno de Entre Ríos s/ Acción de Amparo
+- **Numero:** I0086471
+- **Caratula:** Iannelli, Alberto Enrique c/ s/ sucesorio ab intestato
 - **Fecha:** 2026-03-30
 - **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL-PROCESAL
-- **Descriptores:** fallos de la Corte Suprema, jurisprudencia aplicable, acción de amparo, despido por maternidad, embarazada, empleo público, perspectiva de género, derechos de la mujer, derechos y garantías constitucionales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1866-800isoiramus
+- **Materia:** CIVIL
+- **Descriptores:** sucesiones, gastos de sepelio, coeficientes de distribución, traspaso de deudas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1746-800isoiramus
 
-Cuando la denuncia sobre el comportamiento estatal incide sobre una categoría sospechosa de discriminación (como sucede en el caso), corresponde examinar con especial rigor las razones invocadas por la administración, pues en tales supuestos el...
+Si el causante en vida suscribió pagarés, el posterior reconocimiento de deuda y acuerdo de pago efectuado por uno de los herederos requiere del consentimiento de todos los herederos o en su defecto, pedir en caso de urgencia o peligro de un...
 
 ---
 
@@ -2303,35 +2287,19 @@ Si la cónyuge supérstite abonó una deuda contraída en vida por el causante, 
 
 ---
 
-## Prescripción adquisitiva, legitimación pasiva, quiebra, bienes inmuebles, subasta
+## Fallos de la Corte Suprema, jurisprudencia aplicable, acción de amparo, despido por maternidad, embarazada, empleo público, perspectiva de género, derechos de la mujer, derechos y garantías constitucionales
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086468
-- **Caratula:** Peter, Marcelo Alejandro y otro c/ Celulosa Jujuy S.A. y otra s/ usucapión
-- **Fecha:** 2026-03-30
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** prescripción adquisitiva, legitimación pasiva, quiebra, bienes inmuebles, subasta
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8646-800isoiramus
-
-Si la empresa titular registral ya no dispone del bien a usucapir como consecuencia de un proceso judicial de quiebra y liquidación judicial, debe destacarse que el interés de los acreedores en el proceso concursal es de orden público; su exclusión...
-
----
-
-## Medios de prueba, acción de amparo, empleo público, denuncia del embarazo, despido por maternidad, embarazada, discriminación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086678
+- **Numero:** I0086681
 - **Caratula:** Fabre Florencia Jacqueline c/ Consejo General de educación y Superior Gobierno de Entre Ríos s/ Acción de Amparo
 - **Fecha:** 2026-03-30
 - **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** medios de prueba, acción de amparo, empleo público, denuncia del embarazo, despido por maternidad, embarazada, discriminación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8766-800isoiramus
+- **Materia:** CONSTITUCIONAL-PROCESAL
+- **Descriptores:** fallos de la Corte Suprema, jurisprudencia aplicable, acción de amparo, despido por maternidad, embarazada, empleo público, perspectiva de género, derechos de la mujer, derechos y garantías constitucionales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1866-800isoiramus
 
-En lo que respecta al conocimiento del estado de embarazo por parte de la administración, no puede obviarse el certificado médico que tiene sello de recepción correspondiente a la dependencia en que la actora prestaba funciones. El informe de la...
+Cuando la denuncia sobre el comportamiento estatal incide sobre una categoría sospechosa de discriminación (como sucede en el caso), corresponde examinar con especial rigor las razones invocadas por la administración, pues en tales supuestos el...
 
 ---
 
@@ -2351,6 +2319,22 @@ El supuesto no puede ser examinado únicamente desde la óptica de la eventual i
 
 ---
 
+## Medios de prueba, acción de amparo, empleo público, denuncia del embarazo, despido por maternidad, embarazada, discriminación
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086678
+- **Caratula:** Fabre Florencia Jacqueline c/ Consejo General de educación y Superior Gobierno de Entre Ríos s/ Acción de Amparo
+- **Fecha:** 2026-03-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** medios de prueba, acción de amparo, empleo público, denuncia del embarazo, despido por maternidad, embarazada, discriminación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8766-800isoiramus
+
+En lo que respecta al conocimiento del estado de embarazo por parte de la administración, no puede obviarse el certificado médico que tiene sello de recepción correspondiente a la dependencia en que la actora prestaba funciones. El informe de la...
+
+---
+
 ## Sucesiones, gastos de sepelio, coeficientes de distribución, traspaso de deudas
 
 - **Tipo:** Jurisprudencia
@@ -2367,35 +2351,19 @@ Los gastos de sepelio y funerarios son a cargo de la masa hereditaria, por lo qu
 
 ---
 
-## Fallos de la Corte Suprema, jurisprudencia aplicable, carga de la prueba, discriminación de la mujer, discriminación laboral, embarazada
+## Prescripción adquisitiva, legitimación pasiva, quiebra, bienes inmuebles, subasta
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086674
-- **Caratula:** Fabre Florencia Jacqueline c/ Consejo General de educación y Superior Gobierno de Entre Ríos s/ Acción de Amparo
+- **Numero:** I0086468
+- **Caratula:** Peter, Marcelo Alejandro y otro c/ Celulosa Jujuy S.A. y otra s/ usucapión
 - **Fecha:** 2026-03-30
 - **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** fallos de la Corte Suprema, jurisprudencia aplicable, carga de la prueba, discriminación de la mujer, discriminación laboral, embarazada
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4766-800isoiramus
+- **Materia:** CIVIL
+- **Descriptores:** prescripción adquisitiva, legitimación pasiva, quiebra, bienes inmuebles, subasta
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8646-800isoiramus
 
-Si el reclamante puede acreditar la existencia de hechos de los que pueda presumirse su carácter discriminatorio, corresponderá al demandado la prueba de su inexistencia. (Del Voto de la Dra. Schumacher conformando la mayoría) En el mismo sentido:...
-
----
-
-## Control de convencionalidad, derechos y garantías constitucionales, competencia consultiva de la Corte Interamericana, opinión consultiva, despido por maternidad, embarazada, empleo público, perspectiva de género, derechos de la mujer
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086679
-- **Caratula:** Fabre Florencia Jacqueline c/ Consejo General de educación y Superior Gobierno de Entre Ríos s/ Acción de Amparo
-- **Fecha:** 2026-03-30
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL-LABORAL-INTERNACIONAL PUBLICO
-- **Descriptores:** control de convencionalidad, derechos y garantías constitucionales, competencia consultiva de la Corte Interamericana, opinión consultiva, despido por maternidad, embarazada, empleo público, perspectiva de género, derechos de la mujer
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9766-800isoiramus
-
-Recientemente en la Opinión Consultiva relativa a los cuidados y los derechos humanos, la Corte Interamericana de Derechos Humanos reiteró que los tratados de derechos humanos son instrumentos vivos cuya interpretación tiene que acompañar la...
+Si la empresa titular registral ya no dispone del bien a usucapir como consecuencia de un proceso judicial de quiebra y liquidación judicial, debe destacarse que el interés de los acreedores en el proceso concursal es de orden público; su exclusión...
 
 ---
 
@@ -2415,19 +2383,19 @@ Si se acredita el daño en la psiquis de la víctima a raíz del siniestro vial,
 
 ---
 
-## Sucesiones, gastos de sepelio, coeficientes de distribución, traspaso de deudas
+## Prescripción adquisitiva, legitimación pasiva, quiebra, bienes inmuebles, subasta
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086471
-- **Caratula:** Iannelli, Alberto Enrique c/ s/ sucesorio ab intestato
+- **Numero:** I0086467
+- **Caratula:** Peter, Marcelo Alejandro y otro c/ Celulosa Jujuy S.A. y otra s/ usucapión
 - **Fecha:** 2026-03-30
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** sucesiones, gastos de sepelio, coeficientes de distribución, traspaso de deudas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1746-800isoiramus
+- **Descriptores:** prescripción adquisitiva, legitimación pasiva, quiebra, bienes inmuebles, subasta
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7646-800isoiramus
 
-Si el causante en vida suscribió pagarés, el posterior reconocimiento de deuda y acuerdo de pago efectuado por uno de los herederos requiere del consentimiento de todos los herederos o en su defecto, pedir en caso de urgencia o peligro de un...
+Si la empresa titular registral ya no dispone del bien a usucapir como consecuencia de un proceso judicial de quiebra y liquidación judicial, y el inmueble fue adquirido por un tercero en subasta judicial, los legitimados pasivos necesarios son la...
 
 ---
 
@@ -2444,6 +2412,38 @@ Si el causante en vida suscribió pagarés, el posterior reconocimiento de deuda
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9546-800isoiramus
 
 La indemnización reconocida con motivo de una incapacidad sobreviniente consiste en una deuda de valor en los términos del art. 772 CCC. En miras a su cuantificación, resulta correcto utilizar como variable del cálculo de la fórmula matemática el...
+
+---
+
+## Control de convencionalidad, derechos y garantías constitucionales, competencia consultiva de la Corte Interamericana, opinión consultiva, despido por maternidad, embarazada, empleo público, perspectiva de género, derechos de la mujer
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086679
+- **Caratula:** Fabre Florencia Jacqueline c/ Consejo General de educación y Superior Gobierno de Entre Ríos s/ Acción de Amparo
+- **Fecha:** 2026-03-30
+- **Provincia:** Entre Ríos
+- **Materia:** CONSTITUCIONAL-LABORAL-INTERNACIONAL PUBLICO
+- **Descriptores:** control de convencionalidad, derechos y garantías constitucionales, competencia consultiva de la Corte Interamericana, opinión consultiva, despido por maternidad, embarazada, empleo público, perspectiva de género, derechos de la mujer
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9766-800isoiramus
+
+Recientemente en la Opinión Consultiva relativa a los cuidados y los derechos humanos, la Corte Interamericana de Derechos Humanos reiteró que los tratados de derechos humanos son instrumentos vivos cuya interpretación tiene que acompañar la...
+
+---
+
+## Fallos de la Corte Suprema, jurisprudencia aplicable, carga de la prueba, discriminación de la mujer, discriminación laboral, embarazada
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086674
+- **Caratula:** Fabre Florencia Jacqueline c/ Consejo General de educación y Superior Gobierno de Entre Ríos s/ Acción de Amparo
+- **Fecha:** 2026-03-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** fallos de la Corte Suprema, jurisprudencia aplicable, carga de la prueba, discriminación de la mujer, discriminación laboral, embarazada
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4766-800isoiramus
+
+Si el reclamante puede acreditar la existencia de hechos de los que pueda presumirse su carácter discriminatorio, corresponderá al demandado la prueba de su inexistencia. (Del Voto de la Dra. Schumacher conformando la mayoría) En el mismo sentido:...
 
 ---
 
@@ -2499,6 +2499,38 @@ Las cautelares que autorizan los arts. 173 LPF y 722 CCC tienden a dar una prote
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
+- **Numero:** I0086456
+- **Caratula:** Seguí, María Rosa c/ Toni, Pedro Damián y otros s/ ordinario daños y perjuicios
+- **Fecha:** 2026-03-20
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** accidente de tránsito, eximentes de responsabilidad, culpa de la víctima
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6546-800isoiramus
+
+Conforme a lo establecido por el art. 64 último párrafo de la Ley Nacional de Tránsito, el peatón goza del beneficio de la duda y presunciones en su favor en tanto no incurra en graves violaciones a las reglas del tránsito, expresión que refiere a...
+
+---
+
+## Accidente de tránsito, eximentes de responsabilidad, culpa de la víctima
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086457
+- **Caratula:** Seguí, María Rosa c/ Toni, Pedro Damián y otros s/ ordinario daños y perjuicios
+- **Fecha:** 2026-03-20
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** accidente de tránsito, eximentes de responsabilidad, culpa de la víctima
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7546-800isoiramus
+
+En el curso del proceso judicial, el asegurado no puede reconocer su responsabilidad ni celebrar transacción sin anuencia del asegurador (art. 116 LS), y las consecuencias de este incumplimiento pueden liberar al asegurador de la mayor extensión de...
+
+---
+
+## Accidente de tránsito, eximentes de responsabilidad, culpa de la víctima
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
 - **Numero:** I0086453
 - **Caratula:** Seguí, María Rosa c/ Toni, Pedro Damián y otros s/ ordinario daños y perjuicios
 - **Fecha:** 2026-03-20
@@ -2531,22 +2563,6 @@ Si bien el conductor de un vehículo y el peatón deben cumplir las normas orden
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086457
-- **Caratula:** Seguí, María Rosa c/ Toni, Pedro Damián y otros s/ ordinario daños y perjuicios
-- **Fecha:** 2026-03-20
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** accidente de tránsito, eximentes de responsabilidad, culpa de la víctima
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7546-800isoiramus
-
-En el curso del proceso judicial, el asegurado no puede reconocer su responsabilidad ni celebrar transacción sin anuencia del asegurador (art. 116 LS), y las consecuencias de este incumplimiento pueden liberar al asegurador de la mayor extensión de...
-
----
-
-## Accidente de tránsito, eximentes de responsabilidad, culpa de la víctima
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
 - **Numero:** I0086454
 - **Caratula:** Seguí, María Rosa c/ Toni, Pedro Damián y otros s/ ordinario daños y perjuicios
 - **Fecha:** 2026-03-20
@@ -2556,22 +2572,6 @@ En el curso del proceso judicial, el asegurado no puede reconocer su responsabil
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4546-800isoiramus
 
 Cuando media concurrencia causal entre riesgo del automóvil y conducta de la víctima -en el caso, un peatón-, no puede perderse de vista que ya existe una responsabilidad asignada de tipo objetiva, aunque se atienda a la influencia causal de la...
-
----
-
-## Accidente de tránsito, eximentes de responsabilidad, culpa de la víctima
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086456
-- **Caratula:** Seguí, María Rosa c/ Toni, Pedro Damián y otros s/ ordinario daños y perjuicios
-- **Fecha:** 2026-03-20
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** accidente de tránsito, eximentes de responsabilidad, culpa de la víctima
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6546-800isoiramus
-
-Conforme a lo establecido por el art. 64 último párrafo de la Ley Nacional de Tránsito, el peatón goza del beneficio de la duda y presunciones en su favor en tanto no incurra en graves violaciones a las reglas del tránsito, expresión que refiere a...
 
 ---
 
@@ -2623,6 +2623,38 @@ Cuando la obligación judicialmente reconocida es debida en moneda extranjera -e
 
 ---
 
+## Revocación de sentencia, simulación, sucesiones, donación, legítima, acción de reducción, herederos, error judicial, simulación lícita, simulación ilícita, código civil y comercial, derechos hereditarios
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086526
+- **Caratula:** Bonetto Ornela Agostina y Otra c/ Aranda Analía Noemí s/ Ordinario Simulación
+- **Fecha:** 2026-03-16
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** revocación de sentencia, simulación, sucesiones, donación, legítima, acción de reducción, herederos, error in iudicando, simulación lícita, simulación ilícita, código civil y comercial, derechos hereditarios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6256-800isoiramus
+
+La alzada concluyó que el acto cuestionado fue simulado pero, como entiende que no perjudica los derechos de las accionantes a sus respectivas legítimas, asume que se trató de una simulación lícita. Esta forma de razonar constituye un error in...
+
+---
+
+## Denegatoria del recurso, confirmación de sentencia, simulación
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086524
+- **Caratula:** Bonetto Ornela Agostina y Otra c/ Aranda Analía Noemí s/ Ordinario Simulación
+- **Fecha:** 2026-03-16
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** rechazo del recurso, confirmación de sentencia, simulación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4256-800isoiramus
+
+Los argumentos que se expresan en el escrito recursivo, resultan insuficientes para provocar la apertura de esta instancia casatoria y, en consecuencia, para lograr la revisión del pronunciamiento aquí controvertido (del voto en mayoría de la Dra....
+
+---
+
 ## Revocación de sentencia, simulación, sucesiones, donación, legítima, acción de reducción, herederos, simulación lícita, simulación ilícita, error judicial, código civil y comercial, acervo sucesorio, derechos hereditarios
 
 - **Tipo:** Jurisprudencia
@@ -2652,22 +2684,6 @@ Lo que se designó como ausencia de "perjuicio" no constituye un defecto de legi
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7946-800isoiramus
 
 El derecho real atribuye a su titular la facultad de hacer valer su preferencia y persecución contra cualquiera que obstaculice su ejercicio. Conforme esta inteligencia, quienes reconocieron expresamente habitar el inmueble, constituyeron domicilio...
-
----
-
-## Revocación de sentencia, simulación, sucesiones, donación, legítima, acción de reducción, herederos, simulación lícita, simulación ilícita, error judicial, acervo sucesorio
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086527
-- **Caratula:** Bonetto Ornela Agostina y Otra c/ Aranda Analía Noemí s/ Ordinario Simulación
-- **Fecha:** 2026-03-16
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** revocación de sentencia, simulación, sucesiones, donación, legítima, acción de reducción, herederos, simulación lícita, simulación ilícita, error in iudicando, acervo sucesorio
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7256-800isoiramus
-
-El fallo confunde el presupuesto de procedencia de la acción de simulación con el carácter lícito o ilícito de la misma. La acción de simulación persigue descorrer el velo del acto ostensible para que aflore la verdad material subyacente. La...
 
 ---
 
@@ -2703,19 +2719,19 @@ La acción reivindicatoria puede dirigirse no sólo contra el poseedor, sino tam
 
 ---
 
-## Revocación de sentencia, simulación, sucesiones, donación, legítima, acción de reducción, herederos, error judicial, simulación lícita, simulación ilícita, código civil y comercial, derechos hereditarios
+## Revocación de sentencia, simulación, sucesiones, donación, legítima, acción de reducción, herederos, simulación lícita, simulación ilícita, error judicial, acervo sucesorio
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086526
+- **Numero:** I0086527
 - **Caratula:** Bonetto Ornela Agostina y Otra c/ Aranda Analía Noemí s/ Ordinario Simulación
 - **Fecha:** 2026-03-16
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** revocación de sentencia, simulación, sucesiones, donación, legítima, acción de reducción, herederos, error in iudicando, simulación lícita, simulación ilícita, código civil y comercial, derechos hereditarios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6256-800isoiramus
+- **Descriptores:** revocación de sentencia, simulación, sucesiones, donación, legítima, acción de reducción, herederos, simulación lícita, simulación ilícita, error in iudicando, acervo sucesorio
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7256-800isoiramus
 
-La alzada concluyó que el acto cuestionado fue simulado pero, como entiende que no perjudica los derechos de las accionantes a sus respectivas legítimas, asume que se trató de una simulación lícita. Esta forma de razonar constituye un error in...
+El fallo confunde el presupuesto de procedencia de la acción de simulación con el carácter lícito o ilícito de la misma. La acción de simulación persigue descorrer el velo del acto ostensible para que aflore la verdad material subyacente. La...
 
 ---
 
@@ -2732,22 +2748,6 @@ La alzada concluyó que el acto cuestionado fue simulado pero, como entiende que
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5256-800isoiramus
 
 La acción de nulidad por simulación promovida constituye una acción instrumental y previa al ejercicio de las acciones sucesorias ulteriores. Ésta debe encontrarse definida como presupuesto ineludible para posibilitar el ejercicio de la acción...
-
----
-
-## Denegatoria del recurso, confirmación de sentencia, simulación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086524
-- **Caratula:** Bonetto Ornela Agostina y Otra c/ Aranda Analía Noemí s/ Ordinario Simulación
-- **Fecha:** 2026-03-16
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** rechazo del recurso, confirmación de sentencia, simulación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4256-800isoiramus
-
-Los argumentos que se expresan en el escrito recursivo, resultan insuficientes para provocar la apertura de esta instancia casatoria y, en consecuencia, para lograr la revisión del pronunciamiento aquí controvertido (del voto en mayoría de la Dra....
 
 ---
 
@@ -2771,15 +2771,15 @@ La determinación de la renta compensatoria por el uso exclusivo de la vivienda 
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086444
+- **Numero:** I0086445
 - **Caratula:** M., J. A. H. c/ A., N. G. s/ divorcio (digital - uso y goce de vivienda)
 - **Fecha:** 2026-03-13
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** estado de familia, divorcio, vivienda familiar, uso exclusivo de la cosa común, compensación económica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4446-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5446-800isoiramus
 
-Si el reconocimiento de la renta compensatoria por el uso exclusivo de la vivienda familiar pedida por uno de los ex cónyuges implicó una definición del tema aislado de la discusión abierta al efecto de manera incidental, siendo que exigía la...
+La contundencia que debe revestir el desequilibrio económico que compensa el instituto de la compensación económica, surge de la propia redacción legal cuando habla de "manifiesto", lo cual trasluce que se debe estar ante una situación de claro...
 
 ---
 
@@ -2803,15 +2803,63 @@ En el reclamo por compensación económica, el desequilibrio debe ser causado, m
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086445
+- **Numero:** I0086444
 - **Caratula:** M., J. A. H. c/ A., N. G. s/ divorcio (digital - uso y goce de vivienda)
 - **Fecha:** 2026-03-13
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** estado de familia, divorcio, vivienda familiar, uso exclusivo de la cosa común, compensación económica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5446-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4446-800isoiramus
 
-La contundencia que debe revestir el desequilibrio económico que compensa el instituto de la compensación económica, surge de la propia redacción legal cuando habla de "manifiesto", lo cual trasluce que se debe estar ante una situación de claro...
+Si el reconocimiento de la renta compensatoria por el uso exclusivo de la vivienda familiar pedida por uno de los ex cónyuges implicó una definición del tema aislado de la discusión abierta al efecto de manera incidental, siendo que exigía la...
+
+---
+
+## Daños y perjuicios, seguros, culpa grave, asegurado
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086466
+- **Caratula:** Fumaneri, Marcelo Fabián c/ Sancor Cooperativa de Seguros Limitada s/ ordinario cumplimiento de contrato
+- **Fecha:** 2026-03-09
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** daños y perjuicios, seguros, culpa grave, asegurado
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6646-800isoiramus
+
+Producida la muerte de un empleado en su lugar de trabajo, donde el empleador contrató con la aseguradora un seguro de accidentes personales designándose a sí mismo como tomador y beneficiario, la posición de la compañía que cobró las primas durante...
+
+---
+
+## Daños y perjuicios, seguros, culpa grave, asegurado
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086463
+- **Caratula:** Fumaneri, Marcelo Fabián c/ Sancor Cooperativa de Seguros Limitada s/ ordinario cumplimiento de contrato
+- **Fecha:** 2026-03-09
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** daños y perjuicios, seguros, culpa grave, asegurado
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3646-800isoiramus
+
+Las cláusulas de exclusión de cobertura, particularmente aquellas fundadas en culpa grave, deben interpretarse con criterio restrictivo, lo que obedece a múltiples razones, entre ellas que el contrato de seguro es de adhesión, y las cláusulas...
+
+---
+
+## Daños y perjuicios, seguros, culpa grave, asegurado
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086461
+- **Caratula:** Fumaneri, Marcelo Fabián c/ Sancor Cooperativa de Seguros Limitada s/ ordinario cumplimiento de contrato
+- **Fecha:** 2026-03-09
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** daños y perjuicios, seguros, culpa grave, asegurado
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1646-800isoiramus
+
+La noción de culpa grave en el derecho de seguros posee perfiles propios que la distinguen de otras graduaciones culposas del derecho común. La culpa grave es una calificación y un castigo de conducta; lleva a la liberación del asegurador en...
 
 ---
 
@@ -2847,67 +2895,19 @@ La gravedad de la culpa del asegurado debe apreciarse con criterio restrictivo y
 
 ---
 
-## Daños y perjuicios, seguros, culpa grave, asegurado
+## Código civil y comercial, principio de integralidad, pago, pago total, depósito judicial, interés superior del niño, intereses
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086461
-- **Caratula:** Fumaneri, Marcelo Fabián c/ Sancor Cooperativa de Seguros Limitada s/ ordinario cumplimiento de contrato
-- **Fecha:** 2026-03-09
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** daños y perjuicios, seguros, culpa grave, asegurado
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1646-800isoiramus
-
-La noción de culpa grave en el derecho de seguros posee perfiles propios que la distinguen de otras graduaciones culposas del derecho común. La culpa grave es una calificación y un castigo de conducta; lleva a la liberación del asegurador en...
-
----
-
-## Daños y perjuicios, seguros, culpa grave, asegurado
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086464
-- **Caratula:** Fumaneri, Marcelo Fabián c/ Sancor Cooperativa de Seguros Limitada s/ ordinario cumplimiento de contrato
-- **Fecha:** 2026-03-09
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** daños y perjuicios, seguros, culpa grave, asegurado
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4646-800isoiramus
-
-La doctrina de los actos propios impide a la aseguradora oponer defensas que contradigan su conducta anterior, máxime si percibió las primas por un riesgo que luego pretende declarar inexistente, y, cuando paralelamente, en el marco de un seguro...
-
----
-
-## Daños y perjuicios, seguros, culpa grave, asegurado
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086463
-- **Caratula:** Fumaneri, Marcelo Fabián c/ Sancor Cooperativa de Seguros Limitada s/ ordinario cumplimiento de contrato
-- **Fecha:** 2026-03-09
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** daños y perjuicios, seguros, culpa grave, asegurado
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3646-800isoiramus
-
-Las cláusulas de exclusión de cobertura, particularmente aquellas fundadas en culpa grave, deben interpretarse con criterio restrictivo, lo que obedece a múltiples razones, entre ellas que el contrato de seguro es de adhesión, y las cláusulas...
-
----
-
-## CÓDIGO PROCESAL CIVIL Y COMERCIAL DE ENTRE RÍOS, recurso de inaplicabilidad de ley, fundamentación del recurso, interés superior del niño
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086507
+- **Numero:** I0086505
 - **Caratula:** H. G. N. y Otro c/ B. E. H. y otros s/ Ordinario Daños y Perjuicios
 - **Fecha:** 2026-03-09
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** CÓDIGO PROCESAL CIVIL Y COMERCIAL DE ENTRE RÍOS, recurso de inaplicabilidad de ley, fundamento del recurso, interés superior del niño
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7056-800isoiramus
+- **Materia:** CIVIL-DERECHOS HUMANOS
+- **Descriptores:** código civil y comercial, principio de integralidad, pago, pago total, depósito judicial, interés superior del niño, intereses
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5056-800isoiramus
 
-La querella incumplió con la carga contenida en el artículo 280, segundo párrafo, del Código Procesal Civil y Comercial, lo que constituye un valladar a la habilitación de la instancia casatoria intentada. En efecto, las alegaciones muestran una...
+La extinción de una obligación dineraria con el ofrecimiento en pago de los importes depositados judicialmente no está fuera de la regla que establece el recaudo de integralidad; y, siendo ello así, el acreedor está compelido a aceptarlo sólo si es...
 
 ---
 
@@ -2931,63 +2931,31 @@ El método de cómputo de los intereses hasta la fecha de la oferta de pago vuln
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086466
+- **Numero:** I0086464
 - **Caratula:** Fumaneri, Marcelo Fabián c/ Sancor Cooperativa de Seguros Limitada s/ ordinario cumplimiento de contrato
 - **Fecha:** 2026-03-09
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** daños y perjuicios, seguros, culpa grave, asegurado
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6646-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4646-800isoiramus
 
-Producida la muerte de un empleado en su lugar de trabajo, donde el empleador contrató con la aseguradora un seguro de accidentes personales designándose a sí mismo como tomador y beneficiario, la posición de la compañía que cobró las primas durante...
+La doctrina de los actos propios impide a la aseguradora oponer defensas que contradigan su conducta anterior, máxime si percibió las primas por un riesgo que luego pretende declarar inexistente, y, cuando paralelamente, en el marco de un seguro...
 
 ---
 
-## Código civil y comercial, principio de integralidad, pago, pago total, depósito judicial, interés superior del niño, intereses
+## CÓDIGO PROCESAL CIVIL Y COMERCIAL DE ENTRE RÍOS, recurso de inaplicabilidad de ley, fundamentación del recurso, interés superior del niño
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086505
+- **Numero:** I0086507
 - **Caratula:** H. G. N. y Otro c/ B. E. H. y otros s/ Ordinario Daños y Perjuicios
 - **Fecha:** 2026-03-09
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-DERECHOS HUMANOS
-- **Descriptores:** código civil y comercial, principio de integralidad, pago, pago total, depósito judicial, interés superior del niño, intereses
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5056-800isoiramus
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** CÓDIGO PROCESAL CIVIL Y COMERCIAL DE ENTRE RÍOS, recurso de inaplicabilidad de ley, fundamento del recurso, interés superior del niño
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7056-800isoiramus
 
-La extinción de una obligación dineraria con el ofrecimiento en pago de los importes depositados judicialmente no está fuera de la regla que establece el recaudo de integralidad; y, siendo ello así, el acreedor está compelido a aceptarlo sólo si es...
-
----
-
-## Derecho al recurso, impugnación de la paternidad, prueba biológica
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086436
-- **Caratula:** A., M. F. y otro c/ A., M. V. s/ impugnación de reconocimiento (expte. electrónico)
-- **Fecha:** 2026-03-06
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** derecho al recurso, impugnación de la paternidad, prueba biológica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6346-800isoiramus
-
-Aun cuando una prueba biológica excluya el vínculo de sangre, no puede desatenderse la posesión de estado de la demandada proyectada por cuatro décadas, acreditada por múltiples elementos: las declaraciones testimoniales, informe pericial...
-
----
-
-## Consumidores, contratos, turismo, daño emergente, indemnización
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086452
-- **Caratula:** Caballero, Cristian Andrés y otros c/ Despegar.Com.Ar S.A. s/ sumarísimo (civil)
-- **Fecha:** 2026-03-06
-- **Provincia:** Entre Ríos
-- **Materia:** ADMINISTRATIVO
-- **Descriptores:** consumidores, contratos, turismo, daño emergente, indemnización
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2546-800isoiramus
-
-La indemnización reconocida por daño emergente constituye una deuda de valor en los términos del art. 772 CCC, en forma consonante a las posibilidades previstas en el art. 10 bis LDC. En consecuencia, la devolución debe darse a valores actualizados...
+La querella incumplió con la carga contenida en el artículo 280, segundo párrafo, del Código Procesal Civil y Comercial, lo que constituye un valladar a la habilitación de la instancia casatoria intentada. En efecto, las alegaciones muestran una...
 
 ---
 
@@ -2995,31 +2963,15 @@ La indemnización reconocida por daño emergente constituye una deuda de valor e
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086433
+- **Numero:** I0086435
 - **Caratula:** A., M. F. y otro c/ A., M. V. s/ impugnación de reconocimiento (expte. electrónico)
 - **Fecha:** 2026-03-06
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** derecho al recurso, impugnación de la paternidad, prueba biológica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3346-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5346-800isoiramus
 
-Frente a una prueba biológica que excluye el vínculo de sangre, ello no implica que la demanda de impugnación de reconocimiento de paternidad deba admitirse, pues el art. 579 CCC otorga a la prueba genética una posición preeminente en el sistema...
-
----
-
-## Derecho al recurso, impugnación de la paternidad, prueba biológica
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086437
-- **Caratula:** A., M. F. y otro c/ A., M. V. s/ impugnación de reconocimiento (expte. electrónico)
-- **Fecha:** 2026-03-06
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** derecho al recurso, impugnación de la paternidad, prueba biológica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7346-800isoiramus
-
-Frente a una prueba biológica que excluye el vínculo de sangre, la contradicción de los actores, quienes en el ámbito familiar trataron a la persona reconocida durante décadas como hermana, pero en sede judicial los derechos hereditarios de esta...
+La "identidad estática" está referida al dato biológico en su objetividad; por su parte, la "identidad dinámica" es comprensiva del conjunto de vínculos, afectos, historia personal y reconocimiento social que conforman la subjetividad de una...
 
 ---
 
@@ -3043,6 +2995,38 @@ Cuando se está ante un contrato de intermediación de viaje que debe ser encuad
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
+- **Numero:** I0086438
+- **Caratula:** A., M. F. y otro c/ A., M. V. s/ impugnación de reconocimiento (expte. electrónico)
+- **Fecha:** 2026-03-06
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** derecho al recurso, impugnación de la paternidad, prueba biológica
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8346-800isoiramus
+
+Para que el error invalide el acto jurídico del reconocimiento de paternidad -en el caso, invocado por el estado cognitivo del causante y el supuesto engaño urdido por la madre de la demandada-, debe tratarse de un error esencial y excusable. La...
+
+---
+
+## Derecho al recurso, impugnación de la paternidad, prueba biológica
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086436
+- **Caratula:** A., M. F. y otro c/ A., M. V. s/ impugnación de reconocimiento (expte. electrónico)
+- **Fecha:** 2026-03-06
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** derecho al recurso, impugnación de la paternidad, prueba biológica
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6346-800isoiramus
+
+Aun cuando una prueba biológica excluya el vínculo de sangre, no puede desatenderse la posesión de estado de la demandada proyectada por cuatro décadas, acreditada por múltiples elementos: las declaraciones testimoniales, informe pericial...
+
+---
+
+## Derecho al recurso, impugnación de la paternidad, prueba biológica
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
 - **Numero:** I0086434
 - **Caratula:** A., M. F. y otro c/ A., M. V. s/ impugnación de reconocimiento (expte. electrónico)
 - **Fecha:** 2026-03-06
@@ -3055,19 +3039,35 @@ En materia de impugnación de reconocimiento de paternidad, la interpretación d
 
 ---
 
+## Consumidores, contratos, turismo, daño emergente, indemnización
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086452
+- **Caratula:** Caballero, Cristian Andrés y otros c/ Despegar.Com.Ar S.A. s/ sumarísimo (civil)
+- **Fecha:** 2026-03-06
+- **Provincia:** Entre Ríos
+- **Materia:** ADMINISTRATIVO
+- **Descriptores:** consumidores, contratos, turismo, daño emergente, indemnización
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2546-800isoiramus
+
+La indemnización reconocida por daño emergente constituye una deuda de valor en los términos del art. 772 CCC, en forma consonante a las posibilidades previstas en el art. 10 bis LDC. En consecuencia, la devolución debe darse a valores actualizados...
+
+---
+
 ## Derecho al recurso, impugnación de la paternidad, prueba biológica
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086438
+- **Numero:** I0086437
 - **Caratula:** A., M. F. y otro c/ A., M. V. s/ impugnación de reconocimiento (expte. electrónico)
 - **Fecha:** 2026-03-06
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** derecho al recurso, impugnación de la paternidad, prueba biológica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8346-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7346-800isoiramus
 
-Para que el error invalide el acto jurídico del reconocimiento de paternidad -en el caso, invocado por el estado cognitivo del causante y el supuesto engaño urdido por la madre de la demandada-, debe tratarse de un error esencial y excusable. La...
+Frente a una prueba biológica que excluye el vínculo de sangre, la contradicción de los actores, quienes en el ámbito familiar trataron a la persona reconocida durante décadas como hermana, pero en sede judicial los derechos hereditarios de esta...
 
 ---
 
@@ -3091,15 +3091,15 @@ Si el reconocimiento de paternidad fue efectuado en sede judicial, con asistenci
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086435
+- **Numero:** I0086433
 - **Caratula:** A., M. F. y otro c/ A., M. V. s/ impugnación de reconocimiento (expte. electrónico)
 - **Fecha:** 2026-03-06
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** derecho al recurso, impugnación de la paternidad, prueba biológica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5346-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3346-800isoiramus
 
-La "identidad estática" está referida al dato biológico en su objetividad; por su parte, la "identidad dinámica" es comprensiva del conjunto de vínculos, afectos, historia personal y reconocimiento social que conforman la subjetividad de una...
+Frente a una prueba biológica que excluye el vínculo de sangre, ello no implica que la demanda de impugnación de reconocimiento de paternidad deba admitirse, pues el art. 579 CCC otorga a la prueba genética una posición preeminente en el sistema...
 
 ---
 
@@ -3167,35 +3167,19 @@ Dentro del limitado ámbito cognoscitivo que habilita el interdicto de recobrar 
 
 ---
 
-## Código civil y comercial, moneda de pago, elementos del contrato, liberación del deudor, obligaciones en moneda extranjera, contratos, derechos del acreedor
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086529
-- **Caratula:** Marti Carla Andrea y Guidoni Fernando Martín c/ s/ Homologación de Convenio
-- **Fecha:** 2026-03-04
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** código civil y comercial, moneda de pago, elementos del contrato, liberación del deudor, obligaciones en moneda extranjera, moneda extranjera, contratos, derechos del acreedor
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9256-800isoiramus
-
-La moneda extranjera era un elemento esencial del contrato y la liberación del deudor dando el equivalente en moneda de curso legal no puede entenderse debidamente atendida si para ello se utilizó la cotización que, aunque oficial, no le permite al...
-
----
-
 ## Alimentos, derechos y obligaciones de los padres, violencia familiar
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086432
+- **Numero:** I0086431
 - **Caratula:** B., E. M. c/ R., O. A. s/ violencia familiar
 - **Fecha:** 2026-03-04
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** alimentos, derechos y obligaciones de los padres, violencia familiar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2346-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1346-800isoiramus
 
-Un enfoque de género objetivo e imparcial exige proteger a las víctimas de violencia cuando ésta se acredita, pero también impone no presumir la culpabilidad o la mala fe del varón por el solo hecho de serlo. Confirmar la cuota alimentaria...
+Las afirmaciones del progenitor sobre el abandono del hogar y la restricción del contacto con sus hijos no pueden ser desoídas, pero tampoco resultan dirimentes para la fijación de esta cuota provisoria en el marco de una denuncia de violencia...
 
 ---
 
@@ -3215,35 +3199,19 @@ Las limitaciones al acceso a la cotización oficial no excluyen la posibilidad d
 
 ---
 
-## Código civil y comercial, decreto de necesidad y urgencia, moneda de pago, interpretación de la ley, autonomía de la voluntad, buena fe contractual, aplicación supletoria de la ley, contratos, derechos del acreedor
+## Código civil y comercial, moneda de pago, elementos del contrato, liberación del deudor, obligaciones en moneda extranjera, contratos, derechos del acreedor
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086530
+- **Numero:** I0086529
 - **Caratula:** Marti Carla Andrea y Guidoni Fernando Martín c/ s/ Homologación de Convenio
 - **Fecha:** 2026-03-04
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** código civil y comercial, decreto de necesidad y urgencia, moneda de pago, interpretación de la ley, autonomía de la voluntad, buena fe contractual, aplicación supletoria de la ley, contratos, derechos del acreedor
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0356-800isoiramus
+- **Descriptores:** código civil y comercial, moneda de pago, elementos del contrato, liberación del deudor, obligaciones en moneda extranjera, moneda extranjera, contratos, derechos del acreedor
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9256-800isoiramus
 
-La facultad de conversión del deudor que preveía la versión originaria del art. 765 del Código Civil y Comercial era de carácter meramente supletorio de la voluntad de las partes, principio que se mantiene bajo la actual vigencia del Decreto de...
-
----
-
-## Alimentos, derechos y obligaciones de los padres, violencia familiar
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086429
-- **Caratula:** B., E. M. c/ R., O. A. s/ violencia familiar
-- **Fecha:** 2026-03-04
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** alimentos, derechos y obligaciones de los padres, violencia familiar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9246-800isoiramus
-
-La obligación alimentaria de los progenitores respecto de sus hijos es una carga que debe ser afrontada con el máximo esfuerzo personal y patrimonial. Lejos de constituir una carga injusta hacia el varón, tal interpretación es consecuencia directa...
+La moneda extranjera era un elemento esencial del contrato y la liberación del deudor dando el equivalente en moneda de curso legal no puede entenderse debidamente atendida si para ello se utilizó la cotización que, aunque oficial, no le permite al...
 
 ---
 
@@ -3267,15 +3235,31 @@ No constituye un obrar conforme a la buena fe invocar una norma supletoria para 
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086431
+- **Numero:** I0086432
 - **Caratula:** B., E. M. c/ R., O. A. s/ violencia familiar
 - **Fecha:** 2026-03-04
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** alimentos, derechos y obligaciones de los padres, violencia familiar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1346-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2346-800isoiramus
 
-Las afirmaciones del progenitor sobre el abandono del hogar y la restricción del contacto con sus hijos no pueden ser desoídas, pero tampoco resultan dirimentes para la fijación de esta cuota provisoria en el marco de una denuncia de violencia...
+Un enfoque de género objetivo e imparcial exige proteger a las víctimas de violencia cuando ésta se acredita, pero también impone no presumir la culpabilidad o la mala fe del varón por el solo hecho de serlo. Confirmar la cuota alimentaria...
+
+---
+
+## Alimentos, derechos y obligaciones de los padres, violencia familiar
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086429
+- **Caratula:** B., E. M. c/ R., O. A. s/ violencia familiar
+- **Fecha:** 2026-03-04
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** alimentos, derechos y obligaciones de los padres, violencia familiar
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9246-800isoiramus
+
+La obligación alimentaria de los progenitores respecto de sus hijos es una carga que debe ser afrontada con el máximo esfuerzo personal y patrimonial. Lejos de constituir una carga injusta hacia el varón, tal interpretación es consecuencia directa...
 
 ---
 
@@ -3295,6 +3279,22 @@ Frente a una cuota alimentaria provisoria fijada en el marco de una denuncia de 
 
 ---
 
+## Código civil y comercial, decreto de necesidad y urgencia, moneda de pago, interpretación de la ley, autonomía de la voluntad, buena fe contractual, aplicación supletoria de la ley, contratos, derechos del acreedor
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086530
+- **Caratula:** Marti Carla Andrea y Guidoni Fernando Martín c/ s/ Homologación de Convenio
+- **Fecha:** 2026-03-04
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** código civil y comercial, decreto de necesidad y urgencia, moneda de pago, interpretación de la ley, autonomía de la voluntad, buena fe contractual, aplicación supletoria de la ley, contratos, derechos del acreedor
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0356-800isoiramus
+
+La facultad de conversión del deudor que preveía la versión originaria del art. 765 del Código Civil y Comercial era de carácter meramente supletorio de la voluntad de las partes, principio que se mantiene bajo la actual vigencia del Decreto de...
+
+---
+
 ## Accidente de tránsito, daño material, prueba, graduación de la pena
 
 - **Tipo:** Jurisprudencia
@@ -3311,51 +3311,51 @@ Si está probada la existencia, naturaleza, características y extensión misma 
 
 ---
 
-## Elevación en consulta, restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, Convención sobre los Derechos de las Personas con Discapacidad, sistemas de apoyo, Ley Procesal de Familia de Entre Ríos, principio de autonomía, código civil y comercial, determinación de la capacidad, incapacidad, control de legalidad, revocación de sentencia
+## Ejecución de honorarios, costas, ley arancelaria, ENTRE RÍOS, título ejecutivo inhábil, sentencia firme, inhabilidad de título, CÓDIGO PROCESAL CIVIL Y COMERCIAL DE ENTRE RÍOS, silencio
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086515
-- **Caratula:** F. B. M. E. c/ s/ Restricciones a la capacidad s/Salud mental
-- **Fecha:** 2026-02-18
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-DERECHOS HUMANOS-PROCESAL
-- **Descriptores:** elevación en consulta, restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, Convención sobre los Derechos de las Personas con Discapacidad, capacidad, sistemas de apoyo, Ley Procesal de Familia de Entre Ríos, principio de autonomía, código civil y comercial, determinación de la capacidad, incapacidad, control de legalidad, revocación de sentencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5156-800isoiramus
-
-La revisión oficiosa se trata de una técnica de control dispuesta por la ley en beneficio de quien ve limitado judicialmente el ejercicio de su capacidad jurídica. Esta concepción de tutela, que descarta una visión paternalista, impone que la...
-
----
-
-## Fallos de la Corte Suprema, costas, costas al vencido, silencio, costas en el orden causado, seguridad jurídica, preclusión
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086418
+- **Numero:** I0086419
 - **Caratula:** Barzan Pablo Javier c/ Provincia Seguros S.A. s/ Ejecución de honorarios
 - **Fecha:** 2026-02-18
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
-- **Descriptores:** fallos de la Corte Suprema, costas, costas al vencido, silencio, costas en el orden causado, principio de seguridad jurídica, preclusión
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8146-800isoiramus
+- **Descriptores:** ejecución de honorarios, costas, ley arancelaria, ENTRE RÍOS, título ejecutivo inhábil, sentencia firme, inhabilidad de título, CÓDIGO PROCESAL CIVIL Y COMERCIAL DE ENTRE RÍOS, excepción de inhabilidad de título, silencio
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9146-800isoiramus
 
-Si bien la doctrina de la Corte Suprema de Justicia de la Nación "Las Varillas Gas S.A. c/Secretaría de Energía s/Amparo ley 16986" consagra la plena vigencia del principio de la condena en costas al vencido, salvo decisión expresa y fundada, su...
+La normativa arancelaria (art. 118 de la Ley entrerriana 7046) exige que, para ejecutar honorarios contra el condenado en costas, el título contenga no solo una regulación firme, sino también una condena expresa en tal sentido. Si la sentencia...
 
 ---
 
-## Restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, incapacidad, control de legalidad, código civil y comercial
+## Restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, determinación de la capacidad, control de legalidad, deberes del juez, código civil y comercial, Ley Procesal de Familia de Entre Ríos, salud mental, revocación de sentencia, principio de autonomía
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086516
+- **Numero:** I0086520
 - **Caratula:** F. B. M. E. c/ s/ Restricciones a la capacidad s/Salud mental
 - **Fecha:** 2026-02-18
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-DERECHOS HUMANOS
-- **Descriptores:** restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, capacidad, sistemas de apoyo, incapacidad, control de legalidad, código civil y comercial
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6156-800isoiramus
+- **Materia:** CONSTITUCIONAL-DERECHOS HUMANOS
+- **Descriptores:** restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, determinación de la capacidad, control de legalidad, deberes del juez, código civil y comercial, Ley Procesal de Familia de Entre Ríos, salud mental, revocación de sentencia, principio de autonomía
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0256-800isoiramus
 
 La declaración de incapacidad absoluta se encuentra condicionada a la acreditación estricta de presupuestos fácticos que demuestren la imposibilidad del sujeto de manifestar su voluntad por cualquier medio o tecnología, así como la ineficacia de los...
+
+---
+
+## Ley Procesal de Familia de Entre Ríos, ENTRE RÍOS, elevación en consulta, restricciones a la capacidad, grupos vulnerables, derechos humanos de las personas con discapacidad, interpretación restrictiva, revocación de sentencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086513
+- **Caratula:** F. B. M. E. c/ s/ Restricciones a la capacidad s/Salud mental
+- **Fecha:** 2026-02-18
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-DERECHOS HUMANOS-PROCESAL
+- **Descriptores:** Ley Procesal de Familia de Entre Ríos, ENTRE RÍOS, elevación en consulta, restricciones a la capacidad, grupos vulnerables, derechos humanos de las personas con discapacidad, capacidad, interpretación restrictiva, revocación de sentencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3156-800isoiramus
+
+La apelación en consulta dispuesta por el art. 186 de la Ley Procesal de Familia de la provincia de Entre Ríos es una garantía para la persona a quien en su beneficio le ha sido restringida jurisdiccionalmente su capacidad.
 
 ---
 
@@ -3391,99 +3391,19 @@ La inexistencia de una condena en costas priva de idoneidad al título ejecutivo
 
 ---
 
-## Ley Procesal de Familia de Entre Ríos, ENTRE RÍOS, elevación en consulta, restricciones a la capacidad, grupos vulnerables, derechos humanos de las personas con discapacidad, interpretación restrictiva, revocación de sentencia
+## Fallos de la Corte Suprema, costas, costas al vencido, silencio, costas en el orden causado, seguridad jurídica, preclusión
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086513
-- **Caratula:** F. B. M. E. c/ s/ Restricciones a la capacidad s/Salud mental
-- **Fecha:** 2026-02-18
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-DERECHOS HUMANOS-PROCESAL
-- **Descriptores:** Ley Procesal de Familia de Entre Ríos, ENTRE RÍOS, elevación en consulta, restricciones a la capacidad, grupos vulnerables, derechos humanos de las personas con discapacidad, capacidad, interpretación restrictiva, revocación de sentencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3156-800isoiramus
-
-La apelación en consulta dispuesta por el art. 186 de la Ley Procesal de Familia de la provincia de Entre Ríos es una garantía para la persona a quien en su beneficio le ha sido restringida jurisdiccionalmente su capacidad.
-
----
-
-## Restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, determinación de la capacidad, control de legalidad, deberes del juez, código civil y comercial, Ley Procesal de Familia de Entre Ríos, salud mental, revocación de sentencia, principio de autonomía
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086520
-- **Caratula:** F. B. M. E. c/ s/ Restricciones a la capacidad s/Salud mental
-- **Fecha:** 2026-02-18
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL-DERECHOS HUMANOS
-- **Descriptores:** restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, determinación de la capacidad, control de legalidad, deberes del juez, código civil y comercial, Ley Procesal de Familia de Entre Ríos, salud mental, revocación de sentencia, principio de autonomía
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0256-800isoiramus
-
-La declaración de incapacidad absoluta se encuentra condicionada a la acreditación estricta de presupuestos fácticos que demuestren la imposibilidad del sujeto de manifestar su voluntad por cualquier medio o tecnología, así como la ineficacia de los...
-
----
-
-## Restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, acceso a la justicia, incapacidad, debido proceso, control de legalidad, deberes del juez, Ley Procesal de Familia de Entre Ríos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086518
-- **Caratula:** F. B. M. E. c/ s/ Restricciones a la capacidad s/Salud mental
-- **Fecha:** 2026-02-18
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-CONSTITUCIONAL-DERECHOS HUMANOS
-- **Descriptores:** restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, capacidad, sistemas de apoyo, derecho al acceso a la justicia, incapacidad, debido proceso, control de legalidad, deberes del juez, Ley Procesal de Familia de Entre Ríos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8156-800isoiramus
-
-La accesibilidad comunicacional de la sentencia integra inescindiblemente la garantía constitucional del debido proceso y del acceso a la tutela judicial efectiva de los justiciables, y adquiere especial relevancia cuando se trata de...
-
----
-
-## Ejecución de honorarios, costas, ley arancelaria, ENTRE RÍOS, título ejecutivo inhábil, sentencia firme, inhabilidad de título, CÓDIGO PROCESAL CIVIL Y COMERCIAL DE ENTRE RÍOS, silencio
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086419
+- **Numero:** I0086418
 - **Caratula:** Barzan Pablo Javier c/ Provincia Seguros S.A. s/ Ejecución de honorarios
 - **Fecha:** 2026-02-18
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
-- **Descriptores:** ejecución de honorarios, costas, ley arancelaria, ENTRE RÍOS, título ejecutivo inhábil, sentencia firme, inhabilidad de título, CÓDIGO PROCESAL CIVIL Y COMERCIAL DE ENTRE RÍOS, excepción de inhabilidad de título, silencio
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9146-800isoiramus
+- **Descriptores:** fallos de la Corte Suprema, costas, costas al vencido, silencio, costas en el orden causado, principio de seguridad jurídica, preclusión
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8146-800isoiramus
 
-La normativa arancelaria (art. 118 de la Ley entrerriana 7046) exige que, para ejecutar honorarios contra el condenado en costas, el título contenga no solo una regulación firme, sino también una condena expresa en tal sentido. Si la sentencia...
-
----
-
-## Jurisprudencia aplicable, costas, código procesal civil y comercial, costas al vencido, costas en el orden causado
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086424
-- **Caratula:** Spessotti Franco David. Pedido de quiebra Prom. por deudor. Quiebra c/ s/ Incidente revisión (Promovido por A.R.C.A.)
-- **Fecha:** 2026-02-18
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** precedente aplicable, costas, código procesal civil y comercial, costas al vencido, costas en el orden causado
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4246-800isoiramus
-
-Cuando la sentencia acoge el pedimento subsidiario, la demanda resulta estimada totalmente a los efectos del régimen de costas; no procede la distribución proporcional del art. 68 porque rige el principio objetivo del vencimiento del art. 65, ambos...
-
----
-
-## Restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, acceso a la justicia, determinación de la capacidad, incapacidad, debido proceso, control de legalidad, deberes del juez, revocación de sentencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086517
-- **Caratula:** F. B. M. E. c/ s/ Restricciones a la capacidad s/Salud mental
-- **Fecha:** 2026-02-18
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-DERECHOS HUMANOS-CONSTITUCIONAL
-- **Descriptores:** restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, capacidad, sistemas de apoyo, derecho al acceso a la justicia, determinación de la capacidad, incapacidad, debido proceso, control de legalidad, deberes del juez, revocación de sentencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7156-800isoiramus
-
-La sentencia de restricción a la capacidad no puede estructurarse sobre postulados abstractos que desatiendan la situación concreta de la persona involucrada, debiendo ponderar sus condiciones de vida, actividades y red de apoyos efectivamente...
+Si bien la doctrina de la Corte Suprema de Justicia de la Nación "Las Varillas Gas S.A. c/Secretaría de Energía s/Amparo ley 16986" consagra la plena vigencia del principio de la condena en costas al vencido, salvo decisión expresa y fundada, su...
 
 ---
 
@@ -3503,6 +3423,54 @@ La revisión oficiosa dispuesta por el art. 186 de la Ley Procesal de Familia ti
 
 ---
 
+## Restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, acceso a la justicia, determinación de la capacidad, incapacidad, debido proceso, control de legalidad, deberes del juez, revocación de sentencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086517
+- **Caratula:** F. B. M. E. c/ s/ Restricciones a la capacidad s/Salud mental
+- **Fecha:** 2026-02-18
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-DERECHOS HUMANOS-CONSTITUCIONAL
+- **Descriptores:** restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, capacidad, sistemas de apoyo, derecho al acceso a la justicia, determinación de la capacidad, incapacidad, debido proceso, control de legalidad, deberes del juez, revocación de sentencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7156-800isoiramus
+
+La sentencia de restricción a la capacidad no puede estructurarse sobre postulados abstractos que desatiendan la situación concreta de la persona involucrada, debiendo ponderar sus condiciones de vida, actividades y red de apoyos efectivamente...
+
+---
+
+## Restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, acceso a la justicia, incapacidad, debido proceso, control de legalidad, deberes del juez, Ley Procesal de Familia de Entre Ríos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086518
+- **Caratula:** F. B. M. E. c/ s/ Restricciones a la capacidad s/Salud mental
+- **Fecha:** 2026-02-18
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-CONSTITUCIONAL-DERECHOS HUMANOS
+- **Descriptores:** restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, capacidad, sistemas de apoyo, derecho al acceso a la justicia, incapacidad, debido proceso, control de legalidad, deberes del juez, Ley Procesal de Familia de Entre Ríos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8156-800isoiramus
+
+La accesibilidad comunicacional de la sentencia integra inescindiblemente la garantía constitucional del debido proceso y del acceso a la tutela judicial efectiva de los justiciables, y adquiere especial relevancia cuando se trata de...
+
+---
+
+## Restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, incapacidad, control de legalidad, código civil y comercial
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086516
+- **Caratula:** F. B. M. E. c/ s/ Restricciones a la capacidad s/Salud mental
+- **Fecha:** 2026-02-18
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-DERECHOS HUMANOS
+- **Descriptores:** restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, capacidad, sistemas de apoyo, incapacidad, control de legalidad, código civil y comercial
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6156-800isoiramus
+
+La declaración de incapacidad absoluta se encuentra condicionada a la acreditación estricta de presupuestos fácticos que demuestren la imposibilidad del sujeto de manifestar su voluntad por cualquier medio o tecnología, así como la ineficacia de los...
+
+---
+
 ## Restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, derechos humanos de las personas con discapacidad, sistemas de apoyo, acceso a la justicia, determinación de la capacidad, incapacidad, control de legalidad, salud mental, revocación de sentencia, principio de no discriminación, principio de autonomía
 
 - **Tipo:** Jurisprudencia
@@ -3516,6 +3484,38 @@ La revisión oficiosa dispuesta por el art. 186 de la Ley Procesal de Familia ti
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1256-800isoiramus
 
 El régimen vigente descansa en la presunción de capacidad y en la implementación de apoyos y salvaguardas proporcionados, por lo que la equiparación de la situación de una persona adulta con discapacidad a la de un niño, niña o adolescente desdibuja...
+
+---
+
+## Elevación en consulta, restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, Convención sobre los Derechos de las Personas con Discapacidad, sistemas de apoyo, Ley Procesal de Familia de Entre Ríos, principio de autonomía, código civil y comercial, determinación de la capacidad, incapacidad, control de legalidad, revocación de sentencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086515
+- **Caratula:** F. B. M. E. c/ s/ Restricciones a la capacidad s/Salud mental
+- **Fecha:** 2026-02-18
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-DERECHOS HUMANOS-PROCESAL
+- **Descriptores:** elevación en consulta, restricciones a la capacidad, interpretación restrictiva, grupos vulnerables, Convención sobre los Derechos de las Personas con Discapacidad, capacidad, sistemas de apoyo, Ley Procesal de Familia de Entre Ríos, principio de autonomía, código civil y comercial, determinación de la capacidad, incapacidad, control de legalidad, revocación de sentencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5156-800isoiramus
+
+La revisión oficiosa se trata de una técnica de control dispuesta por la ley en beneficio de quien ve limitado judicialmente el ejercicio de su capacidad jurídica. Esta concepción de tutela, que descarta una visión paternalista, impone que la...
+
+---
+
+## Jurisprudencia aplicable, costas, código procesal civil y comercial, costas al vencido, costas en el orden causado
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086424
+- **Caratula:** Spessotti Franco David. Pedido de quiebra Prom. por deudor. Quiebra c/ s/ Incidente revisión (Promovido por A.R.C.A.)
+- **Fecha:** 2026-02-18
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** precedente aplicable, costas, código procesal civil y comercial, costas al vencido, costas en el orden causado
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4246-800isoiramus
+
+Cuando la sentencia acoge el pedimento subsidiario, la demanda resulta estimada totalmente a los efectos del régimen de costas; no procede la distribución proporcional del art. 68 porque rige el principio objetivo del vencimiento del art. 65, ambos...
 
 ---
 
@@ -3599,22 +3599,6 @@ Aceptada la efectiva ocurrencia del hecho delictual, que aconteció a partir de 
 
 ---
 
-## Responsabilidad del banco, phishing
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086229
-- **Caratula:** Maistegui, Héctor Ariel c/ Industrial and Commercial Bank of China (Argentina) S.A.U. s/ sumarísimo (civil)
-- **Fecha:** 2025-10-30
-- **Provincia:** Entre Ríos
-- **Materia:** BANCARIO-INFORMATICO
-- **Descriptores:** responsabilidad del banco, phishing
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9226-800isoiramus
-
-El banco tiene el deber de buscar el esclarecimiento de la actividad delictual desplegada a través de una página web melliza que permitió la estafa a un cliente, desplegando así una actividad preventiva para evitar que otros clientes sean víctimas...
-
----
-
 ## Phishing
 
 - **Tipo:** Jurisprudencia
@@ -3631,19 +3615,19 @@ Si la víctima estafa bancaria bajo la modalidad de "phishing", aun consciente d
 
 ---
 
-## Juicio de desalojo, acciones reales
+## Responsabilidad del banco, phishing
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086251
-- **Caratula:** García, German Luis c/ Corujo, Cesar Antonio s/ desalojo
-- **Fecha:** 2025-10-29
+- **Numero:** I0086229
+- **Caratula:** Maistegui, Héctor Ariel c/ Industrial and Commercial Bank of China (Argentina) S.A.U. s/ sumarísimo (civil)
+- **Fecha:** 2025-10-30
 - **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** juicio de desalojo, acciones reales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1526-800isoiramus
+- **Materia:** BANCARIO-INFORMATICO
+- **Descriptores:** responsabilidad del banco, phishing
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9226-800isoiramus
 
-Si quien ocupa el inmueble es un poseedor, la acción de desalojo articulada por el titular registral no es el procedimiento correcto para pretender su desocupación, sino el juicio ordinario de reivindicación o las acciones posesorias que se...
+El banco tiene el deber de buscar el esclarecimiento de la actividad delictual desplegada a través de una página web melliza que permitió la estafa a un cliente, desplegando así una actividad preventiva para evitar que otros clientes sean víctimas...
 
 ---
 
@@ -3663,6 +3647,22 @@ La subasta de derechos y acciones hereditarios constituye una alternativa de eje
 
 ---
 
+## Juicio de desalojo, acciones reales
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086251
+- **Caratula:** García, German Luis c/ Corujo, Cesar Antonio s/ desalojo
+- **Fecha:** 2025-10-29
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** juicio de desalojo, acciones reales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1526-800isoiramus
+
+Si quien ocupa el inmueble es un poseedor, la acción de desalojo articulada por el titular registral no es el procedimiento correcto para pretender su desocupación, sino el juicio ordinario de reivindicación o las acciones posesorias que se...
+
+---
+
 ## Cesión de derechos hereditarios, subasta judicial
 
 - **Tipo:** Jurisprudencia
@@ -3676,54 +3676,6 @@ La subasta de derechos y acciones hereditarios constituye una alternativa de eje
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3526-800isoiramus
 
 El CCC contempla expresamente la posibilidad de vender todo bien material o inmaterial que pueda ser objeto de los contratos (art. 1129), de modo que si es posible la cesión de derechos hereditarios (art. 2302 y ccdtes.) también pueden venderse de...
-
----
-
-## Homologación judicial, cuota alimentaria, costas en el orden causado
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086178
-- **Caratula:** B., M. B. y B., N. D. c/ s/ homologación de convenio (civil)
-- **Fecha:** 2025-10-27
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** homologación judicial, cuota alimentaria, costas en el orden causado
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8716-800isoiramus
-
-En un pedido de homologación de convenio que incluyó cuota alimentaria, régimen de comunicación y gastos extraordinarios, aun cuando las costas por su orden es un principio general en materia de transacción o conciliación, en materia alimentaria...
-
----
-
-## Estado de adoptabilidad
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086195
-- **Caratula:** M., I. Y N. c/ s/ medida de protección excepcional
-- **Fecha:** 2025-10-27
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** estado de adoptabilidad
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5916-800isoiramus
-
-En asuntos en los que las medidas de protección excepcional referida a NNyA se vincula con la investigación de delitos en los que resultan denunciados progenitores y/o integrantes del grupo familiar, la actividad de la justicia de familia debe estar...
-
----
-
-## Control de legalidad, estado de adoptabilidad, restitución de menores
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086194
-- **Caratula:** M., I. Y N. c/ s/ medida de protección excepcional
-- **Fecha:** 2025-10-27
-- **Provincia:** Entre Ríos
-- **Materia:** ADMINISTRATIVO-CIVIL
-- **Descriptores:** control de legalidad, estado de adoptabilidad, restitución de menores
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4916-800isoiramus
-
-El paralelo trámite de control de legalidad con el de la declaración de adoptabilidad, incrementa el desgaste jurisdiccional, multiplicando los actos, cuando se trata de procesos con finalidades diferentes y hasta contradictorios, ya que las medidas...
 
 ---
 
@@ -3743,6 +3695,22 @@ Las audiencias vinculadas al control de legalidad de las MPE y declaración de a
 
 ---
 
+## Estado de adoptabilidad
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086195
+- **Caratula:** M., I. Y N. c/ s/ medida de protección excepcional
+- **Fecha:** 2025-10-27
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** estado de adoptabilidad
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5916-800isoiramus
+
+En asuntos en los que las medidas de protección excepcional referida a NNyA se vincula con la investigación de delitos en los que resultan denunciados progenitores y/o integrantes del grupo familiar, la actividad de la justicia de familia debe estar...
+
+---
+
 ## Control de legalidad, restitución de menores
 
 - **Tipo:** Jurisprudencia
@@ -3756,6 +3724,54 @@ Las audiencias vinculadas al control de legalidad de las MPE y declaración de a
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3916-800isoiramus
 
 El paralelo trámite de control de legalidad de la MPE con el de la declaración de adoptabilidad, no condice con los principios enunciados en el art. 1 incs. 4, 6, 11 y 14 LPF, ni con el plazo razonable que contiene el diseño legal para la...
+
+---
+
+## Control de legalidad, estado de adoptabilidad, restitución de menores
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086194
+- **Caratula:** M., I. Y N. c/ s/ medida de protección excepcional
+- **Fecha:** 2025-10-27
+- **Provincia:** Entre Ríos
+- **Materia:** ADMINISTRATIVO-CIVIL
+- **Descriptores:** control de legalidad, estado de adoptabilidad, restitución de menores
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4916-800isoiramus
+
+El paralelo trámite de control de legalidad con el de la declaración de adoptabilidad, incrementa el desgaste jurisdiccional, multiplicando los actos, cuando se trata de procesos con finalidades diferentes y hasta contradictorios, ya que las medidas...
+
+---
+
+## Homologación judicial, cuota alimentaria, costas en el orden causado
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086178
+- **Caratula:** B., M. B. y B., N. D. c/ s/ homologación de convenio (civil)
+- **Fecha:** 2025-10-27
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** homologación judicial, cuota alimentaria, costas en el orden causado
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8716-800isoiramus
+
+En un pedido de homologación de convenio que incluyó cuota alimentaria, régimen de comunicación y gastos extraordinarios, aun cuando las costas por su orden es un principio general en materia de transacción o conciliación, en materia alimentaria...
+
+---
+
+## Daños y perjuicios, filiación
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086192
+- **Caratula:** A., M. D. C. c/ C., J. P. A. s/ ordinario daños y perjuicios (se inicia conjuntamente beneficio de litigar sin gastos
+- **Fecha:** 2025-10-24
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** daños y perjuicios, filiación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2916-800isoiramus
+
+La acción de daños y perjuicios derivados de la filiación busca reparar el causado por la falta de reconocimiento cuyo factor de atribución es de tipo subjetivo. La conducta de la madre alegada como factor de aminoración o concausa de la...
 
 ---
 
@@ -3791,22 +3807,6 @@ En un plan de ahorro, todos los intervinientes de la cadena de comercialización
 
 ---
 
-## Daños y perjuicios, filiación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086192
-- **Caratula:** A., M. D. C. c/ C., J. P. A. s/ ordinario daños y perjuicios (se inicia conjuntamente beneficio de litigar sin gastos
-- **Fecha:** 2025-10-24
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** daños y perjuicios, filiación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2916-800isoiramus
-
-La acción de daños y perjuicios derivados de la filiación busca reparar el causado por la falta de reconocimiento cuyo factor de atribución es de tipo subjetivo. La conducta de la madre alegada como factor de aminoración o concausa de la...
-
----
-
 ## Honorarios, excepciones procesales
 
 - **Tipo:** Jurisprudencia
@@ -3820,6 +3820,38 @@ La acción de daños y perjuicios derivados de la filiación busca reparar el ca
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2526-800isoiramus
 
 El art. 493 CPCCER da cuenta que las excepciones en los juicios de ejecución deben fundarse en hechos posteriores a la sentencia o laudo. Dicho requisito no está presente si el ejecutado, al fundar su defensa, pretende invocar documentos anteriores...
+
+---
+
+## Acumulación de acciones
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086201
+- **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
+- **Fecha:** 2025-10-20
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** acumulación de acciones
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1026-800isoiramus
+
+El art. 84 CPCCER permite la acumulación objetiva de acciones contra una misma parte, siempre que no sean contrarias entre sí, de modo que por la elección de una, quede excluida la otra. Este requisito implica que las acciones no deben ser...
+
+---
+
+## Inoponibilidad de la personalidad jurídica
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086208
+- **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
+- **Fecha:** 2025-10-20
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL
+- **Descriptores:** inoponibilidad de la personalidad jurídica
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8026-800isoiramus
+
+La inoponibilidad de la personalidad jurídica apunta a la finalidad desviada de la actuación, que puede referirse a un acto aislado, o a una concatenación ordenada de actos. Esto se relaciona con la actual redacción del art. 10 del CCC, donde regula...
 
 ---
 
@@ -3839,19 +3871,19 @@ Cuando la ley permite que una persona haga valer un derecho ajeno en nombre prop
 
 ---
 
-## Simulación
+## Inoponibilidad de la personalidad jurídica
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086203
+- **Numero:** I0086211
 - **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
 - **Fecha:** 2025-10-20
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** simulación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3026-800isoiramus
+- **Materia:** COMERCIAL
+- **Descriptores:** inoponibilidad de la personalidad jurídica
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1126-800isoiramus
 
-Frente a la acción de nulidad por simulación e inoponibilidad, no existe incompatibilidad en el planteo si se desestima la procedencia de la primera -nulidad por simulación- y se trata favorablemente la segunda -inoponibilidad-, siendo ésta una...
+El proceso debe ser visto en el marco de sus antecedentes, y si el conflicto es de origen familiar, donde las relaciones entre todos los intervinientes son de este tipo y los hechos ocurrieron al cabo de casi cuatro décadas -en el caso, nulidad e...
 
 ---
 
@@ -3875,31 +3907,47 @@ En la declaración de inoponibilidad de la personalidad jurídica, no importa qu
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086204
+- **Numero:** I0086210
 - **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
 - **Fecha:** 2025-10-20
 - **Provincia:** Entre Ríos
 - **Materia:** COMERCIAL
 - **Descriptores:** inoponibilidad de la personalidad jurídica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4026-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0126-800isoiramus
 
-La inoponibilidad de la personalidad jurídica (art. 54 último párrafo de la Ley 19550), no atenta contra la sociedad, ya que esta forma de ineficacia no provoca la nulidad de la sociedad, ni afecta sus vínculos internos, ni tampoco sus restantes...
+El art. 54 de la Ley 19550, al establecer la consecuencia de la inoponibilidad de la personalidad jurídica, habla de imputación directa a los socios de la actuación de la sociedad, pero ello no impide privar a los terceros de hacer efectiva la...
 
 ---
 
-## Inoponibilidad de la personalidad jurídica
+## Simulación
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086211
+- **Numero:** I0086203
 - **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
 - **Fecha:** 2025-10-20
 - **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** inoponibilidad de la personalidad jurídica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1126-800isoiramus
+- **Materia:** CIVIL
+- **Descriptores:** simulación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3026-800isoiramus
 
-El proceso debe ser visto en el marco de sus antecedentes, y si el conflicto es de origen familiar, donde las relaciones entre todos los intervinientes son de este tipo y los hechos ocurrieron al cabo de casi cuatro décadas -en el caso, nulidad e...
+Frente a la acción de nulidad por simulación e inoponibilidad, no existe incompatibilidad en el planteo si se desestima la procedencia de la primera -nulidad por simulación- y se trata favorablemente la segunda -inoponibilidad-, siendo ésta una...
+
+---
+
+## Simulación, prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086197
+- **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
+- **Fecha:** 2025-10-20
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** simulación, prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7916-800isoiramus
+
+En las acciones de nulidad por simulación e inoponibilidad, cobran particular relevancia los indicios y las presunciones (art. 160 inc. 5° CPCCER), habida cuenta que, por sus propias características y finalidad, la simulación o bien el abuso de la...
 
 ---
 
@@ -3919,6 +3967,22 @@ Frente a una acumulación objetiva de pretensiones, en el que la acción princip
 
 ---
 
+## Inoponibilidad de la personalidad jurídica
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086209
+- **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
+- **Fecha:** 2025-10-20
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL
+- **Descriptores:** inoponibilidad de la personalidad jurídica
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9026-800isoiramus
+
+En la inoponibilidad positiva, se experimenta una ineficacia funcional refleja: no está en juego la validez o eficacia estructural del acto jurídico, sino que en tanto éste incide sobre los intereses de terceros y los perjudica. La ley establece que...
+
+---
+
 ## Simulación, prueba
 
 - **Tipo:** Jurisprudencia
@@ -3935,6 +3999,22 @@ En las acciones de nulidad por simulación e inoponibilidad, los accionados tien
 
 ---
 
+## Inoponibilidad de la personalidad jurídica
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086205
+- **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
+- **Fecha:** 2025-10-20
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL
+- **Descriptores:** inoponibilidad de la personalidad jurídica
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5026-800isoiramus
+
+A diferencia de lo que ocurre con una declaración de nulidad de la sociedad, cuyo efecto es erga omnes, la declaración de inoponibilidad sólo produce efectos en favor de quien la solicitó y no aprovecha a otros sujetos.
+
+---
+
 ## Acumulación de acciones, simulación
 
 - **Tipo:** Jurisprudencia
@@ -3948,6 +4028,22 @@ En las acciones de nulidad por simulación e inoponibilidad, los accionados tien
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2026-800isoiramus
 
 La invocación de la nulidad como consecuencia de una simulación, referida a la existencia de una disconformidad intencional patentizada en el acto constitutivo de la sociedad que podría volverlo nulo, no resulta contraria a la inoponibilidad...
+
+---
+
+## Inoponibilidad de la personalidad jurídica
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086207
+- **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
+- **Fecha:** 2025-10-20
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL
+- **Descriptores:** inoponibilidad de la personalidad jurídica
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7026-800isoiramus
+
+En la declaración de inoponibilidad de la personalidad jurídica, no es necesario que la sociedad haya sido exclusivamente utilizada como instrumento para fines desviados, ni cuán relevante fuera esa utilización en el contexto de su actividad...
 
 ---
 
@@ -3971,159 +4067,15 @@ El deudor subrogado, ante su citación, entre otras alternativas, puede expresar
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086205
+- **Numero:** I0086204
 - **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
 - **Fecha:** 2025-10-20
 - **Provincia:** Entre Ríos
 - **Materia:** COMERCIAL
 - **Descriptores:** inoponibilidad de la personalidad jurídica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5026-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4026-800isoiramus
 
-A diferencia de lo que ocurre con una declaración de nulidad de la sociedad, cuyo efecto es erga omnes, la declaración de inoponibilidad sólo produce efectos en favor de quien la solicitó y no aprovecha a otros sujetos.
-
----
-
-## Inoponibilidad de la personalidad jurídica
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086209
-- **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
-- **Fecha:** 2025-10-20
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** inoponibilidad de la personalidad jurídica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9026-800isoiramus
-
-En la inoponibilidad positiva, se experimenta una ineficacia funcional refleja: no está en juego la validez o eficacia estructural del acto jurídico, sino que en tanto éste incide sobre los intereses de terceros y los perjudica. La ley establece que...
-
----
-
-## Inoponibilidad de la personalidad jurídica
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086210
-- **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
-- **Fecha:** 2025-10-20
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** inoponibilidad de la personalidad jurídica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0126-800isoiramus
-
-El art. 54 de la Ley 19550, al establecer la consecuencia de la inoponibilidad de la personalidad jurídica, habla de imputación directa a los socios de la actuación de la sociedad, pero ello no impide privar a los terceros de hacer efectiva la...
-
----
-
-## Acumulación de acciones
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086201
-- **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
-- **Fecha:** 2025-10-20
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** acumulación de acciones
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1026-800isoiramus
-
-El art. 84 CPCCER permite la acumulación objetiva de acciones contra una misma parte, siempre que no sean contrarias entre sí, de modo que por la elección de una, quede excluida la otra. Este requisito implica que las acciones no deben ser...
-
----
-
-## Simulación, prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086197
-- **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
-- **Fecha:** 2025-10-20
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** simulación, prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7916-800isoiramus
-
-En las acciones de nulidad por simulación e inoponibilidad, cobran particular relevancia los indicios y las presunciones (art. 160 inc. 5° CPCCER), habida cuenta que, por sus propias características y finalidad, la simulación o bien el abuso de la...
-
----
-
-## Inoponibilidad de la personalidad jurídica
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086207
-- **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
-- **Fecha:** 2025-10-20
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** inoponibilidad de la personalidad jurídica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7026-800isoiramus
-
-En la declaración de inoponibilidad de la personalidad jurídica, no es necesario que la sociedad haya sido exclusivamente utilizada como instrumento para fines desviados, ni cuán relevante fuera esa utilización en el contexto de su actividad...
-
----
-
-## Inoponibilidad de la personalidad jurídica
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086208
-- **Caratula:** Zurdo, Gerardo Gastón c/ Agroplaza S.A. y otros s/ ordinario acción de nulidad (conexidad con Meda María Emma s/sucesorio ab intestato; Zurdo Manuel s/sucesorio; sucesión de Zurdo Raúl Gerardo c/ Zurdo)
-- **Fecha:** 2025-10-20
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** inoponibilidad de la personalidad jurídica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8026-800isoiramus
-
-La inoponibilidad de la personalidad jurídica apunta a la finalidad desviada de la actuación, que puede referirse a un acto aislado, o a una concatenación ordenada de actos. Esto se relaciona con la actual redacción del art. 10 del CCC, donde regula...
-
----
-
-## Derecho a la información, crédito hipotecario
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086233
-- **Caratula:** Villarreal, Verónica Rita c/ Industrial and Commercial Bank of China (Argentina) S.A.U s/ sumarísimo (civil)
-- **Fecha:** 2025-10-15
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL-COMERCIAL
-- **Descriptores:** derecho a la información, crédito hipotecario
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3326-800isoiramus
-
-Si bien el derecho de información surge infringido por la entrega tardía de la documentación relacionada con el crédito hipotecario suscripto por el consumidor, entre ellas la copia del contrato de mutuo, la solución no pasa por aplicar lo normado...
-
----
-
-## Teoría de la imprevisión
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086236
-- **Caratula:** Villarreal, Verónica Rita c/ Industrial and Commercial Bank of China (Argentina) S.A.U s/ sumarísimo (civil)
-- **Fecha:** 2025-10-15
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** teoría de la imprevisión
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6326-800isoiramus
-
-En la teoría de la imprevisión, la excesiva onerosidad en el cumplimiento de la prestación debe juzgarse en relación al desequilibrio en la equivalencia de aquellas, y no solamente desde la situación patrimonial o capacidad económica del deudor...
-
----
-
-## Crédito hipotecario, Unidad de valor adquisitivo, inflación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086238
-- **Caratula:** Villarreal, Verónica Rita c/ Industrial and Commercial Bank of China (Argentina) S.A.U s/ sumarísimo (civil)
-- **Fecha:** 2025-10-15
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** crédito hipotecario, Unidad de valor adquisitivo, inflación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8326-800isoiramus
-
-La excesiva onerosidad en el marco de un contrato hipotecario UVA debe juzgarse desde la óptica del capital inicial que la entidad financiera (mutuante) facilitó a la deudora (mutuaria) cuya devolución mes a mes está sujeta a una variable ajustable...
+La inoponibilidad de la personalidad jurídica (art. 54 último párrafo de la Ley 19550), no atenta contra la sociedad, ya que esta forma de ineficacia no provoca la nulidad de la sociedad, ni afecta sus vínculos internos, ni tampoco sus restantes...
 
 ---
 
@@ -4140,54 +4092,6 @@ La excesiva onerosidad en el marco de un contrato hipotecario UVA debe juzgarse 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5326-800isoiramus
 
 Aun cuando en nuestro país el contexto inflacionario no es un hecho novedoso, la situación es notoriamente distinta respecto de los años 2022 a 2024 inclusive, pues el súbito e inesperado incremento de la inflación, en índices o porcentajes que...
-
----
-
-## Incumplimiento del contrato, transporte aéreo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086219
-- **Caratula:** Farabello, Patricia Carolina c/ Despegar.Com.Ar y otro s/ sumarísimo (civil)
-- **Fecha:** 2025-10-15
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** incumplimiento del contrato, transporte aéreo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9126-800isoiramus
-
-En el incumplimiento del contrato de transporte aéreo con motivo de las restricciones de la Pandemia Covid- 19, si el debate gira en torno a la conducta de las empresas demandadas asumida en relación a la reprogramación de la prestación contratada...
-
----
-
-## Transporte aéreo, incumplimiento del contrato, ley vigente
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086221
-- **Caratula:** Farabello, Patricia Carolina c/ Despegar.Com.Ar y otro s/ sumarísimo (civil)
-- **Fecha:** 2025-10-15
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** transporte aéreo, incumplimiento del contrato, ley vigente
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1226-800isoiramus
-
-En el incumplimiento de un contrato de transporte aéreo con motivo de las restricciones de la Pandemia por Covid-19, si la pretensión actoral consiste en la reprogramación del viaje contratado, al reclamar el valor equivalente, muestra su invocación...
-
----
-
-## Transporte aéreo, ley supletoria
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086217
-- **Caratula:** Farabello, Patricia Carolina c/ Despegar.Com.Ar y otro s/ sumarísimo (civil)
-- **Fecha:** 2025-10-15
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL
-- **Descriptores:** transporte aéreo, ley supletoria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7126-800isoiramus
-
-El art. 63 de la LDC, referido a la aplicación del Código Aeronáutico y los tratados internacionales a los contratos de transporte aéreo, debe interpretarse en el sentido de que aprehende el caso de responsabilidad que las compañías aéreas tienen...
 
 ---
 
@@ -4223,67 +4127,83 @@ En el incumplimiento de un contrato de transporte aéreo con motivo de las restr
 
 ---
 
-## Crédito hipotecario, Unidad de valor adquisitivo
+## Transporte aéreo, incumplimiento del contrato, ley vigente
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086234
+- **Numero:** I0086221
+- **Caratula:** Farabello, Patricia Carolina c/ Despegar.Com.Ar y otro s/ sumarísimo (civil)
+- **Fecha:** 2025-10-15
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** transporte aéreo, incumplimiento del contrato, ley vigente
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1226-800isoiramus
+
+En el incumplimiento de un contrato de transporte aéreo con motivo de las restricciones de la Pandemia por Covid-19, si la pretensión actoral consiste en la reprogramación del viaje contratado, al reclamar el valor equivalente, muestra su invocación...
+
+---
+
+## Competencia, interpretación de la ley
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086226
+- **Caratula:** Farabello, Patricia Carolina c/ Despegar.Com.Ar y otro s/ sumarísimo (civil)
+- **Fecha:** 2025-10-15
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** competencia, interpretación de la ley
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6226-800isoiramus
+
+Una interpretación de los arts. 197 y 198 del Código Aeronáutico permite concluir que solo corresponde la intervención del fuero federal en las causas que involucren la aplicación de las normas de la legislación aeronáutica nacional, excluyéndose...
+
+---
+
+## Incumplimiento del contrato, transporte aéreo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086219
+- **Caratula:** Farabello, Patricia Carolina c/ Despegar.Com.Ar y otro s/ sumarísimo (civil)
+- **Fecha:** 2025-10-15
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** incumplimiento del contrato, transporte aéreo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9126-800isoiramus
+
+En el incumplimiento del contrato de transporte aéreo con motivo de las restricciones de la Pandemia Covid- 19, si el debate gira en torno a la conducta de las empresas demandadas asumida en relación a la reprogramación de la prestación contratada...
+
+---
+
+## Transporte aéreo, ley supletoria
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086216
+- **Caratula:** Farabello, Patricia Carolina c/ Despegar.Com.Ar y otro s/ sumarísimo (civil)
+- **Fecha:** 2025-10-15
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** transporte aéreo, ley supletoria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6126-800isoiramus
+
+El transporte aéreo no está completamente excluido de la aplicación del régimen tutelar del consumidor. Contrariamente a ello, la regulación dedicada a las relaciones de consumo se aplica de manera supletoria, ante supuestos materiales no...
+
+---
+
+## Crédito hipotecario, Unidad de valor adquisitivo, inflación
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086238
 - **Caratula:** Villarreal, Verónica Rita c/ Industrial and Commercial Bank of China (Argentina) S.A.U s/ sumarísimo (civil)
 - **Fecha:** 2025-10-15
 - **Provincia:** Entre Ríos
 - **Materia:** COMERCIAL
-- **Descriptores:** crédito hipotecario, Unidad de valor adquisitivo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4326-800isoiramus
+- **Descriptores:** crédito hipotecario, Unidad de valor adquisitivo, inflación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8326-800isoiramus
 
-Las obligaciones instrumentadas mediante UVAs -en el caso, un crédito hipotecario-, constituyen una típica obligación de valor donde el objeto de la prestación no es el dinero, sino la medida de un determinado valor, conforme lo dispone el art. 772...
-
----
-
-## Teoría de la imprevisión, Unidad de valor adquisitivo, crédito hipotecario, inflación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086237
-- **Caratula:** Villarreal, Verónica Rita c/ Industrial and Commercial Bank of China (Argentina) S.A.U s/ sumarísimo (civil)
-- **Fecha:** 2025-10-15
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-COMERCIAL
-- **Descriptores:** teoría de la imprevisión, Unidad de valor adquisitivo, crédito hipotecario, inflación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7326-800isoiramus
-
-A los fines de juzgar la excesiva onerosidad en el cumplimiento de la prestación del deudor en un contrato hipotecario UVA, resulta relevante el reconocimiento del propio Estado Nacional acerca del efecto distorsivo propio del aumento inflacionario...
-
----
-
-## Transporte aéreo, multa civil, ley de defensa del consumidor
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086223
-- **Caratula:** Farabello, Patricia Carolina c/ Despegar.Com.Ar y otro s/ sumarísimo (civil)
-- **Fecha:** 2025-10-15
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-COMERCIAL
-- **Descriptores:** transporte aéreo, multa civil, ley de defensa del consumidor
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3226-800isoiramus
-
-En el marco de contrato de transporte aéreo, a los fines de fijar la multa civil del art. 53 LDC, no interfiere en la cuestión el Convenio de Montreal, en cuanto no se encuentran estrictamente comprometidos en el caso principios relacionados con la...
-
----
-
-## Juicio sumarísimo, excepciones procesales, principios procesales
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086224
-- **Caratula:** Farabello, Patricia Carolina c/ Despegar.Com.Ar y otro s/ sumarísimo (civil)
-- **Fecha:** 2025-10-15
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** juicio sumarísimo, excepciones procesales, principios procesales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4226-800isoiramus
-
-Aun cuando el art. 484 inc.1° CPCCER indica que no serán admisibles excepciones de previo y especial pronunciamiento, no es conveniente diferir al momento de la sentencia definitiva de dicha cuestión, aun en un proceso sumarísimo, pues el propósito...
+La excesiva onerosidad en el marco de un contrato hipotecario UVA debe juzgarse desde la óptica del capital inicial que la entidad financiera (mutuante) facilitó a la deudora (mutuaria) cuya devolución mes a mes está sujeta a una variable ajustable...
 
 ---
 
@@ -4307,15 +4227,111 @@ En el incumplimiento de un contrato de transporte aéreo con motivo de las restr
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086216
+- **Numero:** I0086217
 - **Caratula:** Farabello, Patricia Carolina c/ Despegar.Com.Ar y otro s/ sumarísimo (civil)
 - **Fecha:** 2025-10-15
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
+- **Materia:** CONSTITUCIONAL
 - **Descriptores:** transporte aéreo, ley supletoria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6126-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7126-800isoiramus
 
-El transporte aéreo no está completamente excluido de la aplicación del régimen tutelar del consumidor. Contrariamente a ello, la regulación dedicada a las relaciones de consumo se aplica de manera supletoria, ante supuestos materiales no...
+El art. 63 de la LDC, referido a la aplicación del Código Aeronáutico y los tratados internacionales a los contratos de transporte aéreo, debe interpretarse en el sentido de que aprehende el caso de responsabilidad que las compañías aéreas tienen...
+
+---
+
+## Transporte aéreo, multa civil, ley de defensa del consumidor
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086223
+- **Caratula:** Farabello, Patricia Carolina c/ Despegar.Com.Ar y otro s/ sumarísimo (civil)
+- **Fecha:** 2025-10-15
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-COMERCIAL
+- **Descriptores:** transporte aéreo, multa civil, ley de defensa del consumidor
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3226-800isoiramus
+
+En el marco de contrato de transporte aéreo, a los fines de fijar la multa civil del art. 53 LDC, no interfiere en la cuestión el Convenio de Montreal, en cuanto no se encuentran estrictamente comprometidos en el caso principios relacionados con la...
+
+---
+
+## Teoría de la imprevisión, Unidad de valor adquisitivo, crédito hipotecario, inflación
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086237
+- **Caratula:** Villarreal, Verónica Rita c/ Industrial and Commercial Bank of China (Argentina) S.A.U s/ sumarísimo (civil)
+- **Fecha:** 2025-10-15
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-COMERCIAL
+- **Descriptores:** teoría de la imprevisión, Unidad de valor adquisitivo, crédito hipotecario, inflación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7326-800isoiramus
+
+A los fines de juzgar la excesiva onerosidad en el cumplimiento de la prestación del deudor en un contrato hipotecario UVA, resulta relevante el reconocimiento del propio Estado Nacional acerca del efecto distorsivo propio del aumento inflacionario...
+
+---
+
+## Teoría de la imprevisión
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086236
+- **Caratula:** Villarreal, Verónica Rita c/ Industrial and Commercial Bank of China (Argentina) S.A.U s/ sumarísimo (civil)
+- **Fecha:** 2025-10-15
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** teoría de la imprevisión
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6326-800isoiramus
+
+En la teoría de la imprevisión, la excesiva onerosidad en el cumplimiento de la prestación debe juzgarse en relación al desequilibrio en la equivalencia de aquellas, y no solamente desde la situación patrimonial o capacidad económica del deudor...
+
+---
+
+## Juicio sumarísimo, excepciones procesales, principios procesales
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086224
+- **Caratula:** Farabello, Patricia Carolina c/ Despegar.Com.Ar y otro s/ sumarísimo (civil)
+- **Fecha:** 2025-10-15
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** juicio sumarísimo, excepciones procesales, principios procesales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4226-800isoiramus
+
+Aun cuando el art. 484 inc.1° CPCCER indica que no serán admisibles excepciones de previo y especial pronunciamiento, no es conveniente diferir al momento de la sentencia definitiva de dicha cuestión, aun en un proceso sumarísimo, pues el propósito...
+
+---
+
+## Crédito hipotecario, Unidad de valor adquisitivo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086234
+- **Caratula:** Villarreal, Verónica Rita c/ Industrial and Commercial Bank of China (Argentina) S.A.U s/ sumarísimo (civil)
+- **Fecha:** 2025-10-15
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL
+- **Descriptores:** crédito hipotecario, Unidad de valor adquisitivo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4326-800isoiramus
+
+Las obligaciones instrumentadas mediante UVAs -en el caso, un crédito hipotecario-, constituyen una típica obligación de valor donde el objeto de la prestación no es el dinero, sino la medida de un determinado valor, conforme lo dispone el art. 772...
+
+---
+
+## Derecho a la información, crédito hipotecario
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086233
+- **Caratula:** Villarreal, Verónica Rita c/ Industrial and Commercial Bank of China (Argentina) S.A.U s/ sumarísimo (civil)
+- **Fecha:** 2025-10-15
+- **Provincia:** Entre Ríos
+- **Materia:** CONSTITUCIONAL-COMERCIAL
+- **Descriptores:** derecho a la información, crédito hipotecario
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3326-800isoiramus
+
+Si bien el derecho de información surge infringido por la entrega tardía de la documentación relacionada con el crédito hipotecario suscripto por el consumidor, entre ellas la copia del contrato de mutuo, la solución no pasa por aplicar lo normado...
 
 ---
 
@@ -4335,35 +4351,19 @@ De un análisis armónico de las disposiciones relativas a la competencia, puede
 
 ---
 
-## Competencia, interpretación de la ley
+## Derecho a la información, asamblea de accionistas
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086226
-- **Caratula:** Farabello, Patricia Carolina c/ Despegar.Com.Ar y otro s/ sumarísimo (civil)
-- **Fecha:** 2025-10-15
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** competencia, interpretación de la ley
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6226-800isoiramus
-
-Una interpretación de los arts. 197 y 198 del Código Aeronáutico permite concluir que solo corresponde la intervención del fuero federal en las causas que involucren la aplicación de las normas de la legislación aeronáutica nacional, excluyéndose...
-
----
-
-## Posesión de estado, prueba de ADN, exención de costas
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086179
-- **Caratula:** A., A. M. y otra c/ G., C. A. G. s/ ordinario filiación
+- **Numero:** I0086246
+- **Caratula:** Benvenuto, Omar Emiliano Silvio c/ INPROCIL S.A. s/ ordinario (civil)
 - **Fecha:** 2025-10-14
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** posesión de estado, prueba de ADN, exención de costas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9716-800isoiramus
+- **Materia:** CONSTITUCIONAL-COMERCIAL
+- **Descriptores:** derecho a la información, asamblea de accionistas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6426-800isoiramus
 
-Si se advierte una forma de posesión de estado dada por la actitud de quien permitió su trato como progenitor, cuyo vínculo biológico fue desvirtuado por la prueba de ADN, y aun cuando es conveniente y necesario que estos asuntos sean precedidos de...
+El derecho de información previa consagrado en el art. 67 LSC no es una mera formalidad, sino una garantía sustancial e instrumental para el ejercicio de otros derechos fundamentales del accionista, como el derecho de voto y el de impugnación. Su...
 
 ---
 
@@ -4399,38 +4399,6 @@ Si obligación de escrituración se encontraba claramente condicionada suspensiv
 
 ---
 
-## Derecho a la información, asamblea de accionistas
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086248
-- **Caratula:** Benvenuto, Omar Emiliano Silvio c/ INPROCIL S.A. s/ ordinario (civil)
-- **Fecha:** 2025-10-14
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL-COMERCIAL
-- **Descriptores:** derecho a la información, asamblea de accionistas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8426-800isoiramus
-
-Invocada una infracción al derecho de información previsto en el art. 67 LSC, no es necesario acreditar un "perjuicio real", pues éste es inherente al vicio: el accionista se vio privado de la posibilidad de analizar la documentación en el plazo...
-
----
-
-## Derecho a la información, asamblea de accionistas
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086246
-- **Caratula:** Benvenuto, Omar Emiliano Silvio c/ INPROCIL S.A. s/ ordinario (civil)
-- **Fecha:** 2025-10-14
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL-COMERCIAL
-- **Descriptores:** derecho a la información, asamblea de accionistas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6426-800isoiramus
-
-El derecho de información previa consagrado en el art. 67 LSC no es una mera formalidad, sino una garantía sustancial e instrumental para el ejercicio de otros derechos fundamentales del accionista, como el derecho de voto y el de impugnación. Su...
-
----
-
 ## Asamblea de accionistas, derecho a la información
 
 - **Tipo:** Jurisprudencia
@@ -4444,22 +4412,6 @@ El derecho de información previa consagrado en el art. 67 LSC no es una mera fo
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5426-800isoiramus
 
 El art. 67 LSC, que establece de manera clara e imperativa la obligación de la sociedad de poner a disposición de los accionistas la documentación societaria con "no menos de quince (15) días de anticipación" a la asamblea, es una norma diseñada...
-
----
-
-## Compraventa inmobiliaria, efecto retroactivo, restitución de sumas de dinero
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086242
-- **Caratula:** Reverdito, Miguel Alberto c/ Gamarra, Lisandro Luis s/ ordinario cumplimiento de contrato
-- **Fecha:** 2025-10-14
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** compraventa inmobiliaria, efecto retroactivo, restitución de sumas de dinero
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2426-800isoiramus
-
-Por derivación del efecto ex tunc propio del escenario contractual resolutorio, retroactividad que conlleva la restitución de las prestaciones (arts. 1079 inc. b), 1080, 1081 inc. a) CCC), el precio abonado históricamente por el comprador con motivo...
 
 ---
 
@@ -4495,6 +4447,38 @@ Si el contrato de compraventa tiene por objeto la compra onerosa de un terreno i
 
 ---
 
+## Posesión de estado, prueba de ADN, exención de costas
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086179
+- **Caratula:** A., A. M. y otra c/ G., C. A. G. s/ ordinario filiación
+- **Fecha:** 2025-10-14
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** posesión de estado, prueba de ADN, exención de costas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9716-800isoiramus
+
+Si se advierte una forma de posesión de estado dada por la actitud de quien permitió su trato como progenitor, cuyo vínculo biológico fue desvirtuado por la prueba de ADN, y aun cuando es conveniente y necesario que estos asuntos sean precedidos de...
+
+---
+
+## Compraventa inmobiliaria, efecto retroactivo, restitución de sumas de dinero
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086242
+- **Caratula:** Reverdito, Miguel Alberto c/ Gamarra, Lisandro Luis s/ ordinario cumplimiento de contrato
+- **Fecha:** 2025-10-14
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** compraventa inmobiliaria, efecto retroactivo, restitución de sumas de dinero
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2426-800isoiramus
+
+Por derivación del efecto ex tunc propio del escenario contractual resolutorio, retroactividad que conlleva la restitución de las prestaciones (arts. 1079 inc. b), 1080, 1081 inc. a) CCC), el precio abonado históricamente por el comprador con motivo...
+
+---
+
 ## Boleto de compraventa, escrituración, prescripción
 
 - **Tipo:** Jurisprudencia
@@ -4508,6 +4492,38 @@ Si el contrato de compraventa tiene por objeto la compra onerosa de un terreno i
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9326-800isoiramus
 
 Si en el boleto de compraventa las partes no acordaron la escrituración inmediata, el plazo prescriptivo no comienza a correr desde su firma, máxime si el propio vendedor se encargó de aclarar en el contrato que lo vendido era una fracción de...
+
+---
+
+## Derecho a la información, asamblea de accionistas
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086248
+- **Caratula:** Benvenuto, Omar Emiliano Silvio c/ INPROCIL S.A. s/ ordinario (civil)
+- **Fecha:** 2025-10-14
+- **Provincia:** Entre Ríos
+- **Materia:** CONSTITUCIONAL-COMERCIAL
+- **Descriptores:** derecho a la información, asamblea de accionistas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8426-800isoiramus
+
+Invocada una infracción al derecho de información previsto en el art. 67 LSC, no es necesario acreditar un "perjuicio real", pues éste es inherente al vicio: el accionista se vio privado de la posibilidad de analizar la documentación en el plazo...
+
+---
+
+## Designación de tutor
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086189
+- **Caratula:** Z. A., I. E. c/ s/ tutela
+- **Fecha:** 2025-10-13
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** designación de tutor
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9816-800isoiramus
+
+La interdisciplina resulta indispensable en el análisis de la idoneidad del tutor para el desempeño de la tutela (art. 107 CCC), en los que el derecho solo se muestra insuficiente y debe integrarse con otros saberes, pero las evaluaciones que...
 
 ---
 
@@ -4531,31 +4547,15 @@ El código unificado derogó la tutela legal centrada en el parentesco, con lo c
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086184
+- **Numero:** I0086180
 - **Caratula:** Z. A., I. E. c/ s/ tutela
 - **Fecha:** 2025-10-13
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** designación de tutor
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4816-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0816-800isoiramus
 
-El art. 107 CCC otorga al juez amplias facultades para la elección del tutor, sin preferencias preestablecidas, con el solo requisito de que la decisión sea motivada y se funde en estrictos criterios de idoneidad, siendo de consideración obligada...
-
----
-
-## Designación de tutor
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086182
-- **Caratula:** Z. A., I. E. c/ s/ tutela
-- **Fecha:** 2025-10-13
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** designación de tutor
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2816-800isoiramus
-
-Para determinar la designación como tutora del menor, cuyas postulantes giran en torno a su tía materna o progenitora afín, resulta crucial considerar el vínculo con la pareja del padre (progenitora afín), ya que el menor ha continuado conviviendo...
+La designación de un tutor que no convive actualmente con el menor -en el caso, tía materna- podría implicar la pérdida de contacto con una figura relevante en su vida reciente, como la pareja del padre fallecido (progenitora afín), con quien ha...
 
 ---
 
@@ -4591,6 +4591,38 @@ No puede invocarse una preeminencia en la calidad de progenitora afín respecto 
 
 ---
 
+## Designación de tutor
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086187
+- **Caratula:** Z. A., I. E. c/ s/ tutela
+- **Fecha:** 2025-10-13
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** designación de tutor
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7816-800isoiramus
+
+El análisis de la idoneidad del tutor exigida por el art. 107 CCC, requiere contar con información sobre el vínculo entre el niño y la persona que ejercerá la tutela, como su inserción en el grupo conformado con el resto de las personas con las que...
+
+---
+
+## Designación de tutor
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086188
+- **Caratula:** Z. A., I. E. c/ s/ tutela
+- **Fecha:** 2025-10-13
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** designación de tutor
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8816-800isoiramus
+
+Hace a la idoneidad del tutor para el desempeño de la tutela (art. 107 CCC), la presentación de un plan de tutela análogo al plan de parentalidad de los progenitores para el cuidado del hijo, y que el fin del instituto es evitar que el niño, niña o...
+
+---
+
 ## Designación de tutor, residencia habitual del niño
 
 - **Tipo:** Jurisprudencia
@@ -4604,22 +4636,6 @@ No puede invocarse una preeminencia en la calidad de progenitora afín respecto 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1816-800isoiramus
 
 Para la designación de un tutor a favor de un menor que padece TEA, debe atenderse que el concepto de centro de vida trasciende la ciudad o los lugares que frecuenta, abarcando primordialmente la vivienda donde reside, las personas con las que...
-
----
-
-## Designación de tutor
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086189
-- **Caratula:** Z. A., I. E. c/ s/ tutela
-- **Fecha:** 2025-10-13
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** designación de tutor
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9816-800isoiramus
-
-La interdisciplina resulta indispensable en el análisis de la idoneidad del tutor para el desempeño de la tutela (art. 107 CCC), en los que el derecho solo se muestra insuficiente y debe integrarse con otros saberes, pero las evaluaciones que...
 
 ---
 
@@ -4659,15 +4675,15 @@ La idoneidad exigida por el art. 107 CCC se refiere a la aptitud "para brindar p
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086188
+- **Numero:** I0086184
 - **Caratula:** Z. A., I. E. c/ s/ tutela
 - **Fecha:** 2025-10-13
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** designación de tutor
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8816-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4816-800isoiramus
 
-Hace a la idoneidad del tutor para el desempeño de la tutela (art. 107 CCC), la presentación de un plan de tutela análogo al plan de parentalidad de los progenitores para el cuidado del hijo, y que el fin del instituto es evitar que el niño, niña o...
+El art. 107 CCC otorga al juez amplias facultades para la elección del tutor, sin preferencias preestablecidas, con el solo requisito de que la decisión sea motivada y se funde en estrictos criterios de idoneidad, siendo de consideración obligada...
 
 ---
 
@@ -4675,47 +4691,15 @@ Hace a la idoneidad del tutor para el desempeño de la tutela (art. 107 CCC), la
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086180
+- **Numero:** I0086182
 - **Caratula:** Z. A., I. E. c/ s/ tutela
 - **Fecha:** 2025-10-13
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** designación de tutor
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0816-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2816-800isoiramus
 
-La designación de un tutor que no convive actualmente con el menor -en el caso, tía materna- podría implicar la pérdida de contacto con una figura relevante en su vida reciente, como la pareja del padre fallecido (progenitora afín), con quien ha...
-
----
-
-## Designación de tutor
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086187
-- **Caratula:** Z. A., I. E. c/ s/ tutela
-- **Fecha:** 2025-10-13
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** designación de tutor
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7816-800isoiramus
-
-El análisis de la idoneidad del tutor exigida por el art. 107 CCC, requiere contar con información sobre el vínculo entre el niño y la persona que ejercerá la tutela, como su inserción en el grupo conformado con el resto de las personas con las que...
-
----
-
-## Servidumbre de paso
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086249
-- **Caratula:** Voeffray, Marcos Emanuel c/ Club Tiro Federal Gualeguaychú s/ ordinario acciones reales y posesorias
-- **Fecha:** 2025-10-03
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** servidumbre de paso
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9426-800isoiramus
-
-Si la servidumbre de tránsito es entre fundos linderos y éstos se encuentran emplazados dentro del éjido urbano de la ciudad, no cabe duda alguna que el acceso de los mismos deviene naturalmente terrestre, y no fluvial a través del río. Esta última...
+Para determinar la designación como tutora del menor, cuyas postulantes giran en torno a su tía materna o progenitora afín, resulta crucial considerar el vínculo con la pareja del padre (progenitora afín), ya que el menor ha continuado conviviendo...
 
 ---
 
@@ -4735,19 +4719,35 @@ A partir del interés público involucrado en la existencia de la servidumbre fo
 
 ---
 
-## Phishing, competencia
+## Servidumbre de paso
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086215
+- **Numero:** I0086249
+- **Caratula:** Voeffray, Marcos Emanuel c/ Club Tiro Federal Gualeguaychú s/ ordinario acciones reales y posesorias
+- **Fecha:** 2025-10-03
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** servidumbre de paso
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9426-800isoiramus
+
+Si la servidumbre de tránsito es entre fundos linderos y éstos se encuentran emplazados dentro del éjido urbano de la ciudad, no cabe duda alguna que el acceso de los mismos deviene naturalmente terrestre, y no fluvial a través del río. Esta última...
+
+---
+
+## Phishing, daños y perjuicios, multa civil, competencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086214
 - **Caratula:** Lazaro Fernández y Pablo Javier Feuillade SH c/ Banco de la Nación Argentina s/ ordinario daños y perjuicios
 - **Fecha:** 2025-10-01
 - **Provincia:** Entre Ríos
-- **Materia:** INFORMATICO-PROCESAL
-- **Descriptores:** phishing, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5126-800isoiramus
+- **Materia:** INFORMATICO-CIVIL-PROCESAL
+- **Descriptores:** phishing, daños y perjuicios, multa civil, competencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4126-800isoiramus
 
-En un reclamo con motivo de una estafa bancaria bajo la modalidad "phishing" deducido contra el Banco de la Nación Argentina, la regla de privilegio de atribución de competencia ratione personae prevista en la Carta Orgánica de dicha entidad y en la...
+Si con motivo de una estafa bajo la modalidad "phishing" deducido contra el Banco de la Nación Argentina, se reclama la nulidad de las transferencias con más una indemnización por daños y perjuicio y una multa civil, aun cuando el asunto involucra...
 
 ---
 
@@ -4767,19 +4767,67 @@ Cuando se constate una situación de vulnerabilidad, las empresas pequeñas pued
 
 ---
 
-## Phishing, daños y perjuicios, multa civil, competencia
+## Phishing, competencia
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086214
+- **Numero:** I0086215
 - **Caratula:** Lazaro Fernández y Pablo Javier Feuillade SH c/ Banco de la Nación Argentina s/ ordinario daños y perjuicios
 - **Fecha:** 2025-10-01
 - **Provincia:** Entre Ríos
-- **Materia:** INFORMATICO-CIVIL-PROCESAL
-- **Descriptores:** phishing, daños y perjuicios, multa civil, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4126-800isoiramus
+- **Materia:** INFORMATICO-PROCESAL
+- **Descriptores:** phishing, competencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5126-800isoiramus
 
-Si con motivo de una estafa bajo la modalidad "phishing" deducido contra el Banco de la Nación Argentina, se reclama la nulidad de las transferencias con más una indemnización por daños y perjuicio y una multa civil, aun cuando el asunto involucra...
+En un reclamo con motivo de una estafa bancaria bajo la modalidad "phishing" deducido contra el Banco de la Nación Argentina, la regla de privilegio de atribución de competencia ratione personae prevista en la Carta Orgánica de dicha entidad y en la...
+
+---
+
+## Cesación de cuota alimentaria, costas en el orden causado
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086264
+- **Caratula:** J., H. R. c/ C., A. M. G. s/ incidente reducción cuota alimentaria
+- **Fecha:** 2025-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** cesación de cuota alimentaria, costas en el orden causado
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4626-800isoiramus
+
+Si en la audiencia se homologa el convenio sobre el cese de la cuota alimentaria y, en el mismo acto, se imponen las costas por su orden, tal decisión lo es conforme al principio que rige cuando el juicio termina por transacción o conciliación, y si...
+
+---
+
+## Derecho de habitación, obligación alimentaria
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086270
+- **Caratula:** V., A. P. c/ C., G. O. s/ ordinario (familia) (atribución de la vivienda)
+- **Fecha:** 2025-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** derecho de habitación, obligación alimentaria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0726-800isoiramus
+
+El derecho de habitación, expresamente contenido en la obligación alimentaria en función de lo dispuesto por la norma del art. 659 CCC, es también un derecho convencionalmente reconocido (art. 27 CDN). Si el monto de la cuota no alcanza para cubrir...
+
+---
+
+## Facultades del juez
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086312
+- **Caratula:** Valiente, Viviana Haydee c/ Centro Médico San Lucas S.A. y otro s/ ordinario daños y perjuicios
+- **Fecha:** 2025-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** facultades del juez
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2136-800isoiramus
+
+El tribunal de apelación tiene la potestad de decidir sobre los intereses y otras cuestiones posteriores a la sentencia, tal como expresamente prevé el art. 269 CPCCER, facultades que se conservan aun cuando exista liquidación aprobada pues lo son...
 
 ---
 
@@ -4815,54 +4863,6 @@ La falta de acreditación del diligenciamiento del oficio ordenado al Registro d
 
 ---
 
-## Reducción de cuota alimentaria, costas
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086265
-- **Caratula:** J., H. R. c/ C., A. M. G. s/ incidente reducción cuota alimentaria
-- **Fecha:** 2025-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** reducción de cuota alimentaria, costas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5626-800isoiramus
-
-Si el progenitor promovió un incidente de reducción de cuota alimentaria y el convenio alcanzado implicó admitir la pretensión del alimentante, enlazada con que el cambio del régimen de cuidado justificaba la reducción, se advierte que su demanda...
-
----
-
-## Facultades del juez
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086312
-- **Caratula:** Valiente, Viviana Haydee c/ Centro Médico San Lucas S.A. y otro s/ ordinario daños y perjuicios
-- **Fecha:** 2025-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** facultades del juez
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2136-800isoiramus
-
-El tribunal de apelación tiene la potestad de decidir sobre los intereses y otras cuestiones posteriores a la sentencia, tal como expresamente prevé el art. 269 CPCCER, facultades que se conservan aun cuando exista liquidación aprobada pues lo son...
-
----
-
-## Cesación de cuota alimentaria, costas en el orden causado
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086264
-- **Caratula:** J., H. R. c/ C., A. M. G. s/ incidente reducción cuota alimentaria
-- **Fecha:** 2025-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** cesación de cuota alimentaria, costas en el orden causado
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4626-800isoiramus
-
-Si en la audiencia se homologa el convenio sobre el cese de la cuota alimentaria y, en el mismo acto, se imponen las costas por su orden, tal decisión lo es conforme al principio que rige cuando el juicio termina por transacción o conciliación, y si...
-
----
-
 ## Admisibilidad del recurso, cesación de cuota alimentaria, costas en el orden causado
 
 - **Tipo:** Jurisprudencia
@@ -4879,35 +4879,35 @@ Si en la audiencia se homologa el convenio sobre el cese de la cuota alimentaria
 
 ---
 
-## Derecho de habitación, obligación alimentaria
+## Reducción de cuota alimentaria, costas
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086270
-- **Caratula:** V., A. P. c/ C., G. O. s/ ordinario (familia) (atribución de la vivienda)
+- **Numero:** I0086265
+- **Caratula:** J., H. R. c/ C., A. M. G. s/ incidente reducción cuota alimentaria
 - **Fecha:** 2025-09-30
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** derecho de habitación, obligación alimentaria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0726-800isoiramus
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** reducción de cuota alimentaria, costas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5626-800isoiramus
 
-El derecho de habitación, expresamente contenido en la obligación alimentaria en función de lo dispuesto por la norma del art. 659 CCC, es también un derecho convencionalmente reconocido (art. 27 CDN). Si el monto de la cuota no alcanza para cubrir...
+Si el progenitor promovió un incidente de reducción de cuota alimentaria y el convenio alcanzado implicó admitir la pretensión del alimentante, enlazada con que el cambio del régimen de cuidado justificaba la reducción, se advierte que su demanda...
 
 ---
 
-## Honorarios, acción de responsabilidad, costas, procedimiento laboral
+## Acción de amparo, personas con discapacidad, derecho a la salud
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085877
-- **Caratula:** García Angel Ignacio c/ Instituto Autárquico Provincial del Seguro de Entre Ríos A.R.T. c/ s/ Enfermedad profesional
+- **Numero:** I0086314
+- **Caratula:** A., V. E. c/ Obra Social de Entre Ríos s/ acción de amparo
 - **Fecha:** 2025-09-25
 - **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** honorarios, acción de responsabilidad, costas, procedimiento laboral
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7785-800isoiramus
+- **Materia:** CONSTITUCIONAL-DERECHOS HUMANOS-CIVIL
+- **Descriptores:** acción de amparo, personas con discapacidad, derecho a la salud
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4136-800isoiramus
 
-Resultan inaplicables el art. 277 LCT y el art. 730 CCC en la provincia de Entre Ríos. Puesto que la Ley 24.432, que modificó dichas normas, incursiona abiertamente en cuestiones de orden procesal (costas y reglamentación del ejercicio profesional),...
+Si la obra social para justificar la autorización parcial de la práctica médica (50% de su costo), alega que la amparista no cuenta con certificado único de discapacidad y no es paciente oncológico ni trasplantado, tal defensa no atiende al...
 
 ---
 
@@ -4927,6 +4927,22 @@ Este tribunal, por mayoría, tiene dicho que el modo en que se notifica el trasl
 
 ---
 
+## Honorarios, acción de responsabilidad, costas, procedimiento laboral
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085877
+- **Caratula:** García Angel Ignacio c/ Instituto Autárquico Provincial del Seguro de Entre Ríos A.R.T. c/ s/ Enfermedad profesional
+- **Fecha:** 2025-09-25
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** honorarios, acción de responsabilidad, costas, procedimiento laboral
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7785-800isoiramus
+
+Resultan inaplicables el art. 277 LCT y el art. 730 CCC en la provincia de Entre Ríos. Puesto que la Ley 24.432, que modificó dichas normas, incursiona abiertamente en cuestiones de orden procesal (costas y reglamentación del ejercicio profesional),...
+
+---
+
 ## Honorarios, pago, procedimiento laboral
 
 - **Tipo:** Jurisprudencia
@@ -4940,22 +4956,6 @@ Este tribunal, por mayoría, tiene dicho que el modo en que se notifica el trasl
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8785-800isoiramus
 
 La demandada arribó a un acuerdo de pago con el trabajador, que fue judicialmente homologado, donde se pactaron las costas. La cláusula tercera del convenio establecía que IAPSER abonaría los honorarios profesionales regulados en autos, conforme la...
-
----
-
-## Acción de amparo, personas con discapacidad, derecho a la salud
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086314
-- **Caratula:** A., V. E. c/ Obra Social de Entre Ríos s/ acción de amparo
-- **Fecha:** 2025-09-25
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL-DERECHOS HUMANOS-CIVIL
-- **Descriptores:** acción de amparo, personas con discapacidad, derecho a la salud
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4136-800isoiramus
-
-Si la obra social para justificar la autorización parcial de la práctica médica (50% de su costo), alega que la amparista no cuenta con certificado único de discapacidad y no es paciente oncológico ni trasplantado, tal defensa no atiende al...
 
 ---
 
@@ -4991,22 +4991,6 @@ La Ley de Concursos y Quiebras, en su art. 132, establece una norma relacionada 
 
 ---
 
-## Prescripción adquisitiva, concurso preventivo, fuero de atracción
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086309
-- **Caratula:** Ramírez, Iván Ramón Exequiel c/ Poloni, Carlos Horacio s/ usucapión
-- **Fecha:** 2025-09-22
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-COMERCIAL-PROCESAL
-- **Descriptores:** prescripción adquisitiva, concurso preventivo, fuero de atracción
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9036-800isoiramus
-
-El mejor modo de juzgar una acción real es en cercanía del lugar donde se encuentra el bien que es objeto de la acción. Por otra parte quien invoca una prescripción veinteañal, no pretende una acción de condena sino declarativa de un derecho que...
-
----
-
 ## Prescripción adquisitiva, apreciación de la prueba
 
 - **Tipo:** Jurisprudencia
@@ -5020,86 +5004,6 @@ El mejor modo de juzgar una acción real es en cercanía del lugar donde se encu
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2036-800isoiramus
 
 Si el inmueble a usucapir cuenta con propietario conocido, ello no implica relevar al pretendiente de los presupuestos que el código de fondo establece para el dictado de una sentencia declarativa de prescripción adquisitiva de dominio de un bien...
-
----
-
-## Prescripción adquisitiva, citación por edictos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086303
-- **Caratula:** Alle María Elena c/ Barata y Morgado Agapita Ambrosia y/o sus herederos y/o quien o quienes se consideren con derechos s/ usucapión
-- **Fecha:** 2025-09-22
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** prescripción adquisitiva, citación por edictos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3036-800isoiramus
-
-En el juicio de usucapión, la citación supletoria realizada por medio edictal debe cumplimentarse con las mismas enunciaciones que corresponden a las cédulas, y transcripción sumaria de la resolución conforme lo indica el art. 144 y 329 CPCCER, pues...
-
----
-
-## Plan de parentalidad
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086255
-- **Caratula:** M., N. A. c/ R., M. D. L. A. s/ régimen de comunicación (digital)
-- **Fecha:** 2025-09-22
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** plan de parentalidad
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5526-800isoiramus
-
-En materia familiar la cosa juzgada goza de cierta flexibilidad, ya que las decisiones que conciernen especialmente a los niños, pueden modificarse si varían las condiciones que se tuvieron en miras al dictarse la resolución respectiva. En tal...
-
----
-
-## Prescripción adquisitiva, apreciación de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086301
-- **Caratula:** Alle María Elena c/ Barata y Morgado Agapita Ambrosia y/o sus herederos y/o quien o quienes se consideren con derechos s/ usucapión
-- **Fecha:** 2025-09-22
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** prescripción adquisitiva, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1036-800isoiramus
-
-Si el inmueble a usucapir cuenta con propietario conocido, tal particularidad revela que la acción está destinada a un bien con inscripción registral, presupuesto que autoriza a valorar la actitud de quienes pueden controvertir el derecho invocado...
-
----
-
-## Prescripción adquisitiva, citación por edictos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086304
-- **Caratula:** Alle María Elena c/ Barata y Morgado Agapita Ambrosia y/o sus herederos y/o quien o quienes se consideren con derechos s/ usucapión
-- **Fecha:** 2025-09-22
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** prescripción adquisitiva, citación por edictos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4036-800isoiramus
-
-Si en el juicio de usucapión el titular dominial no ha sido citado al proceso de modo efectivo en los edictos ordenados y publicados, se debe tener por deficiente a la integración de la litis, lo cual condice con el carácter contencioso asignado al...
-
----
-
-## Internación psiquiátrica, revisión judicial
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086288
-- **Caratula:** F., G. c/ s/ internación
-- **Fecha:** 2025-09-22
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** internación psiquiátrica, revisión judicial
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8826-800isoiramus
-
-La internación involuntaria implica una restricción a un derecho humano fundamental, como lo es la libertad ambulatoria, de allí que la ley haya establecido el control judicial de la legalidad, proporcionalidad y razonabilidad de la internación, con...
 
 ---
 
@@ -5135,6 +5039,102 @@ No puede ignorarse a la hora de encontrar alternativas frente a la escasez de re
 
 ---
 
+## Prescripción adquisitiva, concurso preventivo, fuero de atracción
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086309
+- **Caratula:** Ramírez, Iván Ramón Exequiel c/ Poloni, Carlos Horacio s/ usucapión
+- **Fecha:** 2025-09-22
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-COMERCIAL-PROCESAL
+- **Descriptores:** prescripción adquisitiva, concurso preventivo, fuero de atracción
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9036-800isoiramus
+
+El mejor modo de juzgar una acción real es en cercanía del lugar donde se encuentra el bien que es objeto de la acción. Por otra parte quien invoca una prescripción veinteañal, no pretende una acción de condena sino declarativa de un derecho que...
+
+---
+
+## Plan de parentalidad
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086255
+- **Caratula:** M., N. A. c/ R., M. D. L. A. s/ régimen de comunicación (digital)
+- **Fecha:** 2025-09-22
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** plan de parentalidad
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5526-800isoiramus
+
+En materia familiar la cosa juzgada goza de cierta flexibilidad, ya que las decisiones que conciernen especialmente a los niños, pueden modificarse si varían las condiciones que se tuvieron en miras al dictarse la resolución respectiva. En tal...
+
+---
+
+## Prescripción adquisitiva, apreciación de la prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086301
+- **Caratula:** Alle María Elena c/ Barata y Morgado Agapita Ambrosia y/o sus herederos y/o quien o quienes se consideren con derechos s/ usucapión
+- **Fecha:** 2025-09-22
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** prescripción adquisitiva, apreciación de la prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1036-800isoiramus
+
+Si el inmueble a usucapir cuenta con propietario conocido, tal particularidad revela que la acción está destinada a un bien con inscripción registral, presupuesto que autoriza a valorar la actitud de quienes pueden controvertir el derecho invocado...
+
+---
+
+## Internación psiquiátrica, revisión judicial
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086288
+- **Caratula:** F., G. c/ s/ internación
+- **Fecha:** 2025-09-22
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** internación psiquiátrica, revisión judicial
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8826-800isoiramus
+
+La internación involuntaria implica una restricción a un derecho humano fundamental, como lo es la libertad ambulatoria, de allí que la ley haya establecido el control judicial de la legalidad, proporcionalidad y razonabilidad de la internación, con...
+
+---
+
+## Prescripción adquisitiva, citación por edictos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086303
+- **Caratula:** Alle María Elena c/ Barata y Morgado Agapita Ambrosia y/o sus herederos y/o quien o quienes se consideren con derechos s/ usucapión
+- **Fecha:** 2025-09-22
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** prescripción adquisitiva, citación por edictos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3036-800isoiramus
+
+En el juicio de usucapión, la citación supletoria realizada por medio edictal debe cumplimentarse con las mismas enunciaciones que corresponden a las cédulas, y transcripción sumaria de la resolución conforme lo indica el art. 144 y 329 CPCCER, pues...
+
+---
+
+## Prescripción adquisitiva, citación por edictos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086304
+- **Caratula:** Alle María Elena c/ Barata y Morgado Agapita Ambrosia y/o sus herederos y/o quien o quienes se consideren con derechos s/ usucapión
+- **Fecha:** 2025-09-22
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** prescripción adquisitiva, citación por edictos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4036-800isoiramus
+
+Si en el juicio de usucapión el titular dominial no ha sido citado al proceso de modo efectivo en los edictos ordenados y publicados, se debe tener por deficiente a la integración de la litis, lo cual condice con el carácter contencioso asignado al...
+
+---
+
 ## Acción de amparo, restitución de sumas de dinero
 
 - **Tipo:** Jurisprudencia
@@ -5148,86 +5148,6 @@ No puede ignorarse a la hora de encontrar alternativas frente a la escasez de re
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3136-800isoiramus
 
 Si la acción de amparo persigue el reintegro de una suma de dinero abonadas por terapias autorizadas por la obra social al hijo discapacitado, la valoración de la idoneidad de la vía escogida exige determinar cuál es la incidencia que tiene la falta...
-
----
-
-## Permuta, obligación de escriturar, honorarios
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086315
-- **Caratula:** Raffo, Carolina Andrea c/ Raffo, Eduardo Omar y otros s/ ordinario cumplimiento de contrato
-- **Fecha:** 2025-09-18
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** permuta, obligación de escriturar, honorarios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5136-800isoiramus
-
-Si la demanda admitida tuvo como objeto el cumplimiento del deber de escriturar de un contrato de permuta, resulta aplicable la pauta arancelaria del art. 38 LA, y como el valor del contrato está dado por el de un inmueble también rige el actual...
-
----
-
-## Alimentos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086268
-- **Caratula:** V., M. F. y A., F. M. c/ s/ incidente aumento cuota alimentaria
-- **Fecha:** 2025-09-18
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** alimentos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8626-800isoiramus
-
-La solución prevista por el art. 666 CCC, referido a los alimentos en el caso del cuidado personal compartido cuando uno de los progenitores cuenta con mayores ingreso respecto del otro, tiene como finalidad que los hijos gocen del mismo nivel de...
-
----
-
-## Alimentos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086269
-- **Caratula:** V., M. F. y A., F. M. c/ s/ incidente aumento cuota alimentaria
-- **Fecha:** 2025-09-18
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** alimentos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9626-800isoiramus
-
-Los gastos comunes a los que alude el art. 666 CCC deben ser solventados en proporción a los recursos de los progenitores (art. 658 CCC), o bien, atento a los mayores recursos de uno de ellos, se puede disponer que sean a cargo de quien gana más,...
-
----
-
-## Hechos nuevos, objeto del proceso
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086310
-- **Caratula:** Marcó, Dora María del Carmen c/ Lezcano, Hugo Hernando y otros s/ ordinario daños y perjuicios
-- **Fecha:** 2025-09-18
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** hechos nuevos, objeto del proceso
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0136-800isoiramus
-
-El hecho nuevo, es justamente un hecho que integra la base en que se funda la pretensión objeto del litigio, conocido con posterioridad a la etapa postulatoria; de ahí es que el art. 351 CPCCER lo señala como "algún hecho que tuviese relación con la...
-
----
-
-## Honorarios, intereses
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086311
-- **Caratula:** Marcó, Dora María del Carmen c/ Lezcano, Hugo Hernando y otros s/ ordinario daños y perjuicios
-- **Fecha:** 2025-09-18
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** honorarios, intereses
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1136-800isoiramus
-
-Si los honorarios regulados adquirieron firmeza con anterioridad a la entrada en vigencia de la Ley 11141 -modificatoria de la Ley de Aranceles 7046-, aun cuando hayan sido abonados, no es de aplicación el valor jurista previsto en la reforma....
 
 ---
 
@@ -5247,19 +5167,83 @@ El límite temporal que contenía el anterior art. 39 LA, esto es que la disconf
 
 ---
 
-## Mandato
+## Permuta, obligación de escriturar, honorarios
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086305
-- **Caratula:** Roldan, Mónica Beatriz c/ Contreras, Lucas y otro s/ ordinario daños y perjuicios
-- **Fecha:** 2025-09-16
+- **Numero:** I0086315
+- **Caratula:** Raffo, Carolina Andrea c/ Raffo, Eduardo Omar y otros s/ ordinario cumplimiento de contrato
+- **Fecha:** 2025-09-18
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** permuta, obligación de escriturar, honorarios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5136-800isoiramus
+
+Si la demanda admitida tuvo como objeto el cumplimiento del deber de escriturar de un contrato de permuta, resulta aplicable la pauta arancelaria del art. 38 LA, y como el valor del contrato está dado por el de un inmueble también rige el actual...
+
+---
+
+## Honorarios, intereses
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086311
+- **Caratula:** Marcó, Dora María del Carmen c/ Lezcano, Hugo Hernando y otros s/ ordinario daños y perjuicios
+- **Fecha:** 2025-09-18
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** honorarios, intereses
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1136-800isoiramus
+
+Si los honorarios regulados adquirieron firmeza con anterioridad a la entrada en vigencia de la Ley 11141 -modificatoria de la Ley de Aranceles 7046-, aun cuando hayan sido abonados, no es de aplicación el valor jurista previsto en la reforma....
+
+---
+
+## Hechos nuevos, objeto del proceso
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086310
+- **Caratula:** Marcó, Dora María del Carmen c/ Lezcano, Hugo Hernando y otros s/ ordinario daños y perjuicios
+- **Fecha:** 2025-09-18
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** hechos nuevos, objeto del proceso
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0136-800isoiramus
+
+El hecho nuevo, es justamente un hecho que integra la base en que se funda la pretensión objeto del litigio, conocido con posterioridad a la etapa postulatoria; de ahí es que el art. 351 CPCCER lo señala como "algún hecho que tuviese relación con la...
+
+---
+
+## Alimentos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086269
+- **Caratula:** V., M. F. y A., F. M. c/ s/ incidente aumento cuota alimentaria
+- **Fecha:** 2025-09-18
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** mandato
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5036-800isoiramus
+- **Descriptores:** alimentos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9626-800isoiramus
 
-En nuestra provincia, el ejercicio de la postulación procesal (ius postulandi) a nombre de un tercero y no por derecho propio, está expresamente limitado a los abogados y procuradores inscriptos en la matrícula respectiva. Con excepción de los casos...
+Los gastos comunes a los que alude el art. 666 CCC deben ser solventados en proporción a los recursos de los progenitores (art. 658 CCC), o bien, atento a los mayores recursos de uno de ellos, se puede disponer que sean a cargo de quien gana más,...
+
+---
+
+## Alimentos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086268
+- **Caratula:** V., M. F. y A., F. M. c/ s/ incidente aumento cuota alimentaria
+- **Fecha:** 2025-09-18
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** alimentos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8626-800isoiramus
+
+La solución prevista por el art. 666 CCC, referido a los alimentos en el caso del cuidado personal compartido cuando uno de los progenitores cuenta con mayores ingreso respecto del otro, tiene como finalidad que los hijos gocen del mismo nivel de...
 
 ---
 
@@ -5283,6 +5267,22 @@ La omisión de la justificación de la personería es una exigencia de índole f
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
+- **Numero:** I0086305
+- **Caratula:** Roldan, Mónica Beatriz c/ Contreras, Lucas y otro s/ ordinario daños y perjuicios
+- **Fecha:** 2025-09-16
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** mandato
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5036-800isoiramus
+
+En nuestra provincia, el ejercicio de la postulación procesal (ius postulandi) a nombre de un tercero y no por derecho propio, está expresamente limitado a los abogados y procuradores inscriptos en la matrícula respectiva. Con excepción de los casos...
+
+---
+
+## Mandato
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
 - **Numero:** I0086306
 - **Caratula:** Roldan, Mónica Beatriz c/ Contreras, Lucas y otro s/ ordinario daños y perjuicios
 - **Fecha:** 2025-09-16
@@ -5292,6 +5292,22 @@ La omisión de la justificación de la personería es una exigencia de índole f
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6036-800isoiramus
 
 La representación voluntaria requiere como presupuestos no solo a la capacidad sustancial del otorgante sino también a una capacidad especial del representante -el llamado ius postulandi-. En este sentido, la regla es que toda persona para actuar o...
+
+---
+
+## Incapacidad sobreviniente, monto de la indemnización
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086291
+- **Caratula:** Zabala, Martin Ezequiel c/ Schneider, Fernando Alfredo y otros s/ ordinario daños y perjuicios
+- **Fecha:** 2025-09-11
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** incapacidad sobreviniente, monto de la indemnización
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1926-800isoiramus
+
+Si el apelante cuestiona la fórmula utilizada para calcular la incapacidad sobreviniente, y alega el uso de otra, debe explicar por qué debería utilizarse una y otra fórmula, y en que reside la desigualdad o la violación del derecho de propiedad, o...
 
 ---
 
@@ -5315,22 +5331,6 @@ Si los demandados por la acción de filiación, herederos del progenitor, descon
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086291
-- **Caratula:** Zabala, Martin Ezequiel c/ Schneider, Fernando Alfredo y otros s/ ordinario daños y perjuicios
-- **Fecha:** 2025-09-11
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** incapacidad sobreviniente, monto de la indemnización
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1926-800isoiramus
-
-Si el apelante cuestiona la fórmula utilizada para calcular la incapacidad sobreviniente, y alega el uso de otra, debe explicar por qué debería utilizarse una y otra fórmula, y en que reside la desigualdad o la violación del derecho de propiedad, o...
-
----
-
-## Incapacidad sobreviniente, monto de la indemnización
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
 - **Numero:** I0086292
 - **Caratula:** Zabala, Martin Ezequiel c/ Schneider, Fernando Alfredo y otros s/ ordinario daños y perjuicios
 - **Fecha:** 2025-09-11
@@ -5340,22 +5340,6 @@ Si el apelante cuestiona la fórmula utilizada para calcular la incapacidad sobr
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2926-800isoiramus
 
 Si no se verifican ingresos por parte de la víctima, y en la medida en que se encuentre acreditada su incapacidad sobreviniente, a los fines de abastecer la manda impuesta por el art. 1746 CCC, se exhibe razonable y ajustado recurrir como piso...
-
----
-
-## Responsabilidad solidaria, alimentos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086272
-- **Caratula:** B., M. G. c/ Guay Meet S.A. s/ incidente
-- **Fecha:** 2025-09-09
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** responsabilidad solidaria, alimentos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2726-800isoiramus
-
-La responsabilidad solidaria del empleador legislada en el art. 551 CCC ha sido introducida como una de las medidas para hacer viables y efectivos los derechos alimentarios, buscando evitar que un derecho humano esencial, como es el de percibir...
 
 ---
 
@@ -5391,6 +5375,22 @@ La conducta despreocupada de la empleadora, máxime cuando se trata de una empre
 
 ---
 
+## Responsabilidad solidaria, alimentos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086272
+- **Caratula:** B., M. G. c/ Guay Meet S.A. s/ incidente
+- **Fecha:** 2025-09-09
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** responsabilidad solidaria, alimentos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2726-800isoiramus
+
+La responsabilidad solidaria del empleador legislada en el art. 551 CCC ha sido introducida como una de las medidas para hacer viables y efectivos los derechos alimentarios, buscando evitar que un derecho humano esencial, como es el de percibir...
+
+---
+
 ## Acción reivindicatoria, intervención de terceros, principio de congruencia
 
 - **Tipo:** Jurisprudencia
@@ -5404,6 +5404,70 @@ La conducta despreocupada de la empleadora, máxime cuando se trata de una empre
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8926-800isoiramus
 
 En el marco de una acción reivindicatoria, si la parte actora requiere la citación de personas como terceros ocupantes aunque no demandados, la sentencia que admita la pretensión no puede condenarlos. El art. 2255, segundo párrafo, CCC, permite que...
+
+---
+
+## Beneficio de litigar sin gastos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086260
+- **Caratula:** R., M. D. L. A. c/ s/ beneficio de litigar sin gastos (digital)
+- **Fecha:** 2025-09-08
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** beneficio de litigar sin gastos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0626-800isoiramus
+
+A los fines de analizar la observancia de lo establecido por el art. 2 LPF, esto es que los costos del proceso no comprometan el sostenimiento de vida digna de la peticionante y su grupo familiar, resulta válido recurrir a la información estadística...
+
+---
+
+## Beneficio de litigar sin gastos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086259
+- **Caratula:** R., M. D. L. A. c/ s/ beneficio de litigar sin gastos (digital)
+- **Fecha:** 2025-09-08
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** beneficio de litigar sin gastos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9526-800isoiramus
+
+Por conducto del saneamiento previsto por los arts. 1, inc. 7) y 13 inc. 12) LPF, aun de manera previa al dictado de la sentencia, el juez puede requerir el cumplimiento de que se denuncie la cuantía del juicio principal que motivó el pedido de la...
+
+---
+
+## Beneficio de litigar sin gastos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086257
+- **Caratula:** R., M. D. L. A. c/ s/ beneficio de litigar sin gastos (digital)
+- **Fecha:** 2025-09-08
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** beneficio de litigar sin gastos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7526-800isoiramus
+
+La importancia económica del pleito, cuestión que indudablemente importa a la valoración judicial de la pobreza, constituye un hecho que debe quedar explicado en la demanda incidental conforme lo impone el inc. 1 del art. 76 CPCCER. La exigencia de...
+
+---
+
+## Beneficio de litigar sin gastos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086258
+- **Caratula:** R., M. D. L. A. c/ s/ beneficio de litigar sin gastos (digital)
+- **Fecha:** 2025-09-08
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** beneficio de litigar sin gastos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8526-800isoiramus
+
+El hecho de no denunciar la cuantía del juicio principal que motivó el pedido de la franquicia, o cuanto menos aludir a cuál es su trascendencia económica, impide valorar uno de los extremos, esto es, el costo de los procesos que, de no concederse...
 
 ---
 
@@ -5439,67 +5503,19 @@ Aun cuando la regulación del beneficio de litigar sin gastos del CPCCER sea apl
 
 ---
 
-## Beneficio de litigar sin gastos
+## Violencia de género, responsabilidad parental
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086258
-- **Caratula:** R., M. D. L. A. c/ s/ beneficio de litigar sin gastos (digital)
-- **Fecha:** 2025-09-08
+- **Numero:** I0086278
+- **Caratula:** G., D. M. c/ R., A. N. s/ violencia de género
+- **Fecha:** 2025-09-03
 - **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** beneficio de litigar sin gastos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8526-800isoiramus
+- **Materia:** DERECHOS HUMANOS
+- **Descriptores:** violencia de género, responsabilidad parental
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8726-800isoiramus
 
-El hecho de no denunciar la cuantía del juicio principal que motivó el pedido de la franquicia, o cuanto menos aludir a cuál es su trascendencia económica, impide valorar uno de los extremos, esto es, el costo de los procesos que, de no concederse...
-
----
-
-## Beneficio de litigar sin gastos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086257
-- **Caratula:** R., M. D. L. A. c/ s/ beneficio de litigar sin gastos (digital)
-- **Fecha:** 2025-09-08
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** beneficio de litigar sin gastos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7526-800isoiramus
-
-La importancia económica del pleito, cuestión que indudablemente importa a la valoración judicial de la pobreza, constituye un hecho que debe quedar explicado en la demanda incidental conforme lo impone el inc. 1 del art. 76 CPCCER. La exigencia de...
-
----
-
-## Beneficio de litigar sin gastos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086259
-- **Caratula:** R., M. D. L. A. c/ s/ beneficio de litigar sin gastos (digital)
-- **Fecha:** 2025-09-08
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** beneficio de litigar sin gastos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9526-800isoiramus
-
-Por conducto del saneamiento previsto por los arts. 1, inc. 7) y 13 inc. 12) LPF, aun de manera previa al dictado de la sentencia, el juez puede requerir el cumplimiento de que se denuncie la cuantía del juicio principal que motivó el pedido de la...
-
----
-
-## Beneficio de litigar sin gastos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086260
-- **Caratula:** R., M. D. L. A. c/ s/ beneficio de litigar sin gastos (digital)
-- **Fecha:** 2025-09-08
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** beneficio de litigar sin gastos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0626-800isoiramus
-
-A los fines de analizar la observancia de lo establecido por el art. 2 LPF, esto es que los costos del proceso no comprometan el sostenimiento de vida digna de la peticionante y su grupo familiar, resulta válido recurrir a la información estadística...
+La asunción del costo en partes iguales del coordinador parental que contribuirá a superar la confrontación de los progenitores, no se advierte revictimizante ni desatenta a la protección que le es debida a la denunciante de una violencia de género,...
 
 ---
 
@@ -5519,38 +5535,6 @@ En cuanto a los costos que demande el coordinador parental, siendo la proporcion
 
 ---
 
-## Violencia de género, responsabilidad parental
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086278
-- **Caratula:** G., D. M. c/ R., A. N. s/ violencia de género
-- **Fecha:** 2025-09-03
-- **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS
-- **Descriptores:** violencia de género, responsabilidad parental
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8726-800isoiramus
-
-La asunción del costo en partes iguales del coordinador parental que contribuirá a superar la confrontación de los progenitores, no se advierte revictimizante ni desatenta a la protección que le es debida a la denunciante de una violencia de género,...
-
----
-
-## Alimentos, abuelos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086275
-- **Caratula:** U., G. c/ V., R. O. s/ alimentos
-- **Fecha:** 2025-09-02
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** alimentos, abuelos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5726-800isoiramus
-
-Si bien el art. 668 del CCC admite que se demande directamente a los abuelos en un proceso diverso, ello presupone la existencia de un proceso anterior o simultáneo donde se hayan acreditado verosímilmente las dificultades del progenitor actor para...
-
----
-
 ## Sanciones conminatorias, cuota alimentaria
 
 - **Tipo:** Jurisprudencia
@@ -5564,22 +5548,6 @@ Si bien el art. 668 del CCC admite que se demande directamente a los abuelos en 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7826-800isoiramus
 
 La continuación de las medidas conminatorias no pecuniarias -en el caso, inhabilitación de licencia de conducir, suspensión de telefonía y prohibición de salida del país-, en el caso de que se verifique la regularidad de los pagos o la ausencia de...
-
----
-
-## Violencia de género, violencia familiar, debido proceso
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086285
-- **Caratula:** L., E. B. c/ G., J. G. s/ violencia de género
-- **Fecha:** 2025-09-02
-- **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS-CONSTITUCIONAL
-- **Descriptores:** violencia de género, violencia familiar, debido proceso
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5826-800isoiramus
-
-En el marco de una violencia de género, si bien los informes del ETI son herramientas fundamentales para la adopción de medidas urgentes en violencia familiar, su elaboración debe garantizar la objetividad y el cumplimiento de las metodologías...
 
 ---
 
@@ -5599,19 +5567,19 @@ Si los pagos de la cuota alimentaria se han regularizado o si la deuda no es tan
 
 ---
 
-## Alimentos, abuelos
+## Violencia de género, violencia familiar, debido proceso
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086277
-- **Caratula:** U., G. c/ V., R. O. s/ alimentos
+- **Numero:** I0086285
+- **Caratula:** L., E. B. c/ G., J. G. s/ violencia de género
 - **Fecha:** 2025-09-02
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** alimentos, abuelos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7726-800isoiramus
+- **Materia:** DERECHOS HUMANOS-CONSTITUCIONAL
+- **Descriptores:** violencia de género, violencia familiar, debido proceso
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5826-800isoiramus
 
-Un "fallo" en una demanda por alimentos subsidiaria a los ascendientes, implica una decisión judicial que se pronuncia sobre la procedencia de reclamar alimentos a los abuelos o ascendientes, pero solo cuando los padres (progenitores) no pueden o no...
+En el marco de una violencia de género, si bien los informes del ETI son herramientas fundamentales para la adopción de medidas urgentes en violencia familiar, su elaboración debe garantizar la objetividad y el cumplimiento de las metodologías...
 
 ---
 
@@ -5647,19 +5615,51 @@ En el marco de una violencia de género, el art. 26 de la Ley 10.956 establece l
 
 ---
 
-## Seguros, derechos del consumidor
+## Alimentos, abuelos
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086293
+- **Numero:** I0086277
+- **Caratula:** U., G. c/ V., R. O. s/ alimentos
+- **Fecha:** 2025-09-02
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** alimentos, abuelos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7726-800isoiramus
+
+Un "fallo" en una demanda por alimentos subsidiaria a los ascendientes, implica una decisión judicial que se pronuncia sobre la procedencia de reclamar alimentos a los abuelos o ascendientes, pero solo cuando los padres (progenitores) no pueden o no...
+
+---
+
+## Alimentos, abuelos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086275
+- **Caratula:** U., G. c/ V., R. O. s/ alimentos
+- **Fecha:** 2025-09-02
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** alimentos, abuelos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5726-800isoiramus
+
+Si bien el art. 668 del CCC admite que se demande directamente a los abuelos en un proceso diverso, ello presupone la existencia de un proceso anterior o simultáneo donde se hayan acreditado verosímilmente las dificultades del progenitor actor para...
+
+---
+
+## Seguros, póliza
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086295
 - **Caratula:** Miranda, María Agustina c/ Zurich Santander Seguros Argentina S.A. s/ sumarísimo (civil)
 - **Fecha:** 2025-09-01
 - **Provincia:** Entre Ríos
 - **Materia:** COMERCIAL
-- **Descriptores:** seguros, derechos del consumidor
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3926-800isoiramus
+- **Descriptores:** seguros, póliza
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5926-800isoiramus
 
-Quienes contratan seguros son consumidores, y puede que ciertos aspectos específicos de este tipo de contrato sean regidos por la Ley 17418, pero ésta no dice en ninguna de sus normas que los contratantes en ese régimen no sean consumidores y pueden...
+No se puede, en forma paralela, no haber entregado la póliza del seguro y luego suponer que esa ausencia puede reemplazarse con constancias unilaterales de la contabilidad de la aseguradora o documental que emana de la misma.
 
 ---
 
@@ -5676,22 +5676,6 @@ Quienes contratan seguros son consumidores, y puede que ciertos aspectos especí
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1726-800isoiramus
 
 La situación económica del alimentante, aun cuando se tratara de una persona de escasos recursos, no es la pauta más importante a tener en cuenta, pues lo prioritario es garantizar que con ella se cubran las necesidades de las menores en los...
-
----
-
-## Seguros
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086294
-- **Caratula:** Miranda, María Agustina c/ Zurich Santander Seguros Argentina S.A. s/ sumarísimo (civil)
-- **Fecha:** 2025-09-01
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** seguros
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4926-800isoiramus
-
-La existencia de un ejemplar escrito del contrato en manos de la persona que contrata el seguro es indispensable, porque las normas determinan a partir de sus cláusulas la intención común de las partes e incluso de allí surge el análisis del...
 
 ---
 
@@ -5715,6 +5699,38 @@ Si la vivienda objeto del seguro sufrió un incendio, la prueba documental de lo
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
+- **Numero:** I0086294
+- **Caratula:** Miranda, María Agustina c/ Zurich Santander Seguros Argentina S.A. s/ sumarísimo (civil)
+- **Fecha:** 2025-09-01
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL
+- **Descriptores:** seguros
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4926-800isoiramus
+
+La existencia de un ejemplar escrito del contrato en manos de la persona que contrata el seguro es indispensable, porque las normas determinan a partir de sus cláusulas la intención común de las partes e incluso de allí surge el análisis del...
+
+---
+
+## Seguros, derechos del consumidor
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086293
+- **Caratula:** Miranda, María Agustina c/ Zurich Santander Seguros Argentina S.A. s/ sumarísimo (civil)
+- **Fecha:** 2025-09-01
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL
+- **Descriptores:** seguros, derechos del consumidor
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3926-800isoiramus
+
+Quienes contratan seguros son consumidores, y puede que ciertos aspectos específicos de este tipo de contrato sean regidos por la Ley 17418, pero ésta no dice en ninguna de sus normas que los contratantes en ese régimen no sean consumidores y pueden...
+
+---
+
+## Seguros
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
 - **Numero:** I0086296
 - **Caratula:** Miranda, María Agustina c/ Zurich Santander Seguros Argentina S.A. s/ sumarísimo (civil)
 - **Fecha:** 2025-09-01
@@ -5724,22 +5740,6 @@ Si la vivienda objeto del seguro sufrió un incendio, la prueba documental de lo
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6926-800isoiramus
 
 Si la aseguradora no entregó el contrato respectivo debe entenderse que no existió información fehaciente y correcta a la actora respecto de qué inmueble se sostenía se había asegurado. Sucedido el evento dañoso, la interpretación al respecto no...
-
----
-
-## Seguros, póliza
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086295
-- **Caratula:** Miranda, María Agustina c/ Zurich Santander Seguros Argentina S.A. s/ sumarísimo (civil)
-- **Fecha:** 2025-09-01
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** seguros, póliza
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5926-800isoiramus
-
-No se puede, en forma paralela, no haber entregado la póliza del seguro y luego suponer que esa ausencia puede reemplazarse con constancias unilaterales de la contabilidad de la aseguradora o documental que emana de la misma.
 
 ---
 
@@ -5775,19 +5775,19 @@ El derecho real de habitación del cónyuge supérstite obsta, en principio, y s
 
 ---
 
-## Derecho civil, costas, alimentos
+## Relaciones de familia, alimentos, cuota alimentaria
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086063
-- **Caratula:** L., G. S. c/ C., L. M. y otros s/ incidente aumento cuota alimentaria (digital)
+- **Numero:** I0086057
+- **Caratula:** I., D. A. c/ A., N. N. s/ alimentos
 - **Fecha:** 2025-08-20
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** Derecho civil, costas, alimentos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3606-800isoiramus
+- **Descriptores:** relaciones de familia, alimentos, cuota alimentaria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7506-800isoiramus
 
-Si la obligación alimentaria ha sido expresamente declarada solidaria entre el progenitor y abuelos paternos, las costas también lo son, de modo que éstas debieron imponerse a los alimentantes, sin distinción.
+La cuota suplementaria prevista en el art. 153 LPF, exige analizar la cuantía de la deuda conjuntamente con la capacidad económica del alimentante. A su vez, el pago en cuotas, según norma del art. 154 LPF, puede ser solicitado por el alimentante...
 
 ---
 
@@ -5811,6 +5811,22 @@ Si para el pago de las cuotas alimentarias devengadas durante el proceso se dete
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
+- **Numero:** I0086070
+- **Caratula:** L., R. E. c/ B., C. A. s/ violencia de género
+- **Fecha:** 2025-08-20
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** Derecho procesal, presentación electrónica, patrocinio letrado
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0706-800isoiramus
+
+Conforme al punto 3 de la Guía de Buenas Prácticas N° 1 "ampliada", el incumplimiento del art. 11 Reglamento de Presentaciones Electrónicas, esto es la falta de manifestación que deben efectuar los letrados patrocinantes en cada escrito respecto del...
+
+---
+
+## Derecho procesal, presentación electrónica, patrocinio letrado
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
 - **Numero:** I0086069
 - **Caratula:** L., R. E. c/ B., C. A. s/ violencia de género
 - **Fecha:** 2025-08-20
@@ -5823,35 +5839,35 @@ El requerimiento impuesto por el art. 11 del Reglamento de Presentaciones Electr
 
 ---
 
-## Relaciones de familia, alimentos, cuota alimentaria
+## Derecho civil, costas, alimentos
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086057
-- **Caratula:** I., D. A. c/ A., N. N. s/ alimentos
+- **Numero:** I0086063
+- **Caratula:** L., G. S. c/ C., L. M. y otros s/ incidente aumento cuota alimentaria (digital)
 - **Fecha:** 2025-08-20
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** relaciones de familia, alimentos, cuota alimentaria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7506-800isoiramus
+- **Descriptores:** Derecho civil, costas, alimentos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3606-800isoiramus
 
-La cuota suplementaria prevista en el art. 153 LPF, exige analizar la cuantía de la deuda conjuntamente con la capacidad económica del alimentante. A su vez, el pago en cuotas, según norma del art. 154 LPF, puede ser solicitado por el alimentante...
+Si la obligación alimentaria ha sido expresamente declarada solidaria entre el progenitor y abuelos paternos, las costas también lo son, de modo que éstas debieron imponerse a los alimentantes, sin distinción.
 
 ---
 
-## Derecho procesal, presentación electrónica, patrocinio letrado
+## Sucesiones, honorarios
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086070
-- **Caratula:** L., R. E. c/ B., C. A. s/ violencia de género
-- **Fecha:** 2025-08-20
+- **Numero:** I0086081
+- **Caratula:** Britez, Gladys Zunilda c/ s/ sucesorio ab intestato
+- **Fecha:** 2025-08-19
 - **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** Derecho procesal, presentación electrónica, patrocinio letrado
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0706-800isoiramus
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** sucesiones, honorarios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1806-800isoiramus
 
-Conforme al punto 3 de la Guía de Buenas Prácticas N° 1 "ampliada", el incumplimiento del art. 11 Reglamento de Presentaciones Electrónicas, esto es la falta de manifestación que deben efectuar los letrados patrocinantes en cada escrito respecto del...
+Si en el proceso sucesorio no existe una representación unificada de los herederos declarados, no resulta aplicable la reducción prevista en el primer párrafo del art. 36 LA, que reza "Se regulará al apoderado o patrocinante de todos los herederos o...
 
 ---
 
@@ -5871,22 +5887,6 @@ Es claro que la pauta atributiva de competencia del art. 716 CCC contiene un car
 
 ---
 
-## Relaciones de familia, competencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086061
-- **Caratula:** D., D. R. c/ T., A. M. s/ régimen de comunicación (digital)
-- **Fecha:** 2025-08-19
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** relaciones de familia, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1606-800isoiramus
-
-El sostenimiento de la intervención ante la incompetencia planteada por la progenitora, no implica tomar posición acerca de si la justicia de familia sigue siendo o no competente para intervenir en la conflictiva familiar de esta causa, ni si ha...
-
----
-
 ## Relaciones de familia, costas, cumplimiento de la obligación
 
 - **Tipo:** Jurisprudencia
@@ -5903,19 +5903,19 @@ Si en el acuerdo ambos progenitores convinieron una comunicación respetuosa ent
 
 ---
 
-## Sucesiones, honorarios
+## Relaciones de familia, competencia
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086081
-- **Caratula:** Britez, Gladys Zunilda c/ s/ sucesorio ab intestato
+- **Numero:** I0086061
+- **Caratula:** D., D. R. c/ T., A. M. s/ régimen de comunicación (digital)
 - **Fecha:** 2025-08-19
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-PROCESAL
-- **Descriptores:** sucesiones, honorarios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1806-800isoiramus
+- **Descriptores:** relaciones de familia, competencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1606-800isoiramus
 
-Si en el proceso sucesorio no existe una representación unificada de los herederos declarados, no resulta aplicable la reducción prevista en el primer párrafo del art. 36 LA, que reza "Se regulará al apoderado o patrocinante de todos los herederos o...
+El sostenimiento de la intervención ante la incompetencia planteada por la progenitora, no implica tomar posición acerca de si la justicia de familia sigue siendo o no competente para intervenir en la conflictiva familiar de esta causa, ni si ha...
 
 ---
 
@@ -5967,22 +5967,6 @@ Aun cuando la caducidad de instancia de un beneficio anterior, producida luego d
 
 ---
 
-## Derecho procesal, beneficio de litigar sin gastos, caducidad de instancia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086072
-- **Caratula:** Cevey, María Raquel y Cevey, Rosana Marisa c/ s/ beneficio de litigar sin gastos
-- **Fecha:** 2025-08-12
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** Derecho procesal, beneficio de litigar sin gastos, caducidad de instancia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2706-800isoiramus
-
-La caducidad de instancia de un beneficio anterior, producida luego de celebrarse la audiencia preliminar en el juicio principal, es asimilable al supuesto de "circunstancias sobrevinientes" contemplado en el art. 75 CPCCER, a los fines de ampliar...
-
----
-
 ## Derecho procesal, beneficio de litigar sin gastos
 
 - **Tipo:** Jurisprudencia
@@ -6015,19 +5999,19 @@ Aun cuando la caducidad de instancia de un beneficio anterior, producida luego d
 
 ---
 
-## Daños y perjuicios, accidente de tránsito, licencia de conducir
+## Derecho procesal, beneficio de litigar sin gastos, caducidad de instancia
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086068
-- **Caratula:** Molina, Marianela Maribel c/ Sabalza, Francisco José y Productores de Frutas Argentinas Cooperativa de Seguros Limitada s/ ordinario accidentes de tránsito
-- **Fecha:** 2025-08-11
+- **Numero:** I0086072
+- **Caratula:** Cevey, María Raquel y Cevey, Rosana Marisa c/ s/ beneficio de litigar sin gastos
+- **Fecha:** 2025-08-12
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** daños y perjuicios, accidente de tránsito, licencia de conducir
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8606-800isoiramus
+- **Materia:** PROCESAL
+- **Descriptores:** Derecho procesal, beneficio de litigar sin gastos, caducidad de instancia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2706-800isoiramus
 
-La actitud imperita por falta de habilitación para conducir tiene relación causal con lo ocurrido, si la falta de precaución relativa a las contingencias del tránsito del lugar del hecho y el control del rodado al pretender traspasar el vehículo que...
+La caducidad de instancia de un beneficio anterior, producida luego de celebrarse la audiencia preliminar en el juicio principal, es asimilable al supuesto de "circunstancias sobrevinientes" contemplado en el art. 75 CPCCER, a los fines de ampliar...
 
 ---
 
@@ -6044,6 +6028,22 @@ La actitud imperita por falta de habilitación para conducir tiene relación cau
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7606-800isoiramus
 
 No parece razonable analizar cómo sucedió el accidente y quién fue responsable si, antes de eso, una de las personas presentes en el evento no podía conducir vehículo alguno por no estar habilitada. Se trata de una costumbre tomada como normal: que...
+
+---
+
+## Daños y perjuicios, accidente de tránsito, licencia de conducir
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086068
+- **Caratula:** Molina, Marianela Maribel c/ Sabalza, Francisco José y Productores de Frutas Argentinas Cooperativa de Seguros Limitada s/ ordinario accidentes de tránsito
+- **Fecha:** 2025-08-11
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** daños y perjuicios, accidente de tránsito, licencia de conducir
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8606-800isoiramus
+
+La actitud imperita por falta de habilitación para conducir tiene relación causal con lo ocurrido, si la falta de precaución relativa a las contingencias del tránsito del lugar del hecho y el control del rodado al pretender traspasar el vehículo que...
 
 ---
 
@@ -6079,22 +6079,6 @@ Las sanciones conminatorias reguladas en el art. 384 CPCCER no tienen naturaleza
 
 ---
 
-## Facultades conminatorias, sanciones conminatorias, astreintes
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086078
-- **Caratula:** D., L. I. c/ N., I. M. y otra s/ alimentos (digital - homologación de convenio)
-- **Fecha:** 2025-08-07
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** facultades conminatorias, sanciones conminatorias, astreintes
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8706-800isoiramus
-
-Si la cuestión trata de una incidencia de liquidación dentro de un incidente de pedido de homologación de un acuerdo sobre la forma en que se abonarían los alimentos extraordinarios, no es aplicable ni el mínimo previsto en el art. 58 último párrafo...
-
----
-
 ## Derecho civil, honorarios, modificación de la tasa de interés
 
 - **Tipo:** Jurisprudencia
@@ -6108,6 +6092,22 @@ Si la cuestión trata de una incidencia de liquidación dentro de un incidente d
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7706-800isoiramus
 
 La posibilidad de perforar los mínimos previstos por la ley arancelaria local en base a las pautas del art. 1255 CCC, se verifica cuando la suma objeto del juicio es inferior a esa cantidad de juristas.
+
+---
+
+## Facultades conminatorias, sanciones conminatorias, astreintes
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086078
+- **Caratula:** D., L. I. c/ N., I. M. y otra s/ alimentos (digital - homologación de convenio)
+- **Fecha:** 2025-08-07
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** facultades conminatorias, sanciones conminatorias, astreintes
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8706-800isoiramus
+
+Si la cuestión trata de una incidencia de liquidación dentro de un incidente de pedido de homologación de un acuerdo sobre la forma en que se abonarían los alimentos extraordinarios, no es aplicable ni el mínimo previsto en el art. 58 último párrafo...
 
 ---
 
@@ -6131,22 +6131,6 @@ El art. 19 de la Ley 26529 sobre los Derechos del Paciente en su relación con l
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086082
-- **Caratula:** S., S. A. c/ M., J. P. s/ incidente liquidación régimen de comunidad
-- **Fecha:** 2025-08-05
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** régimen de comunidad de bienes, honorarios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2806-800isoiramus
-
-La regulación de los honorarios del perito, como la que surja por aplicación de cualquier otra normativa arancelaria especial, exige su adaptación a lo previsto en el art. 21 de la Ley 7046 LA, que establece como límite que los honorarios no pueden...
-
----
-
-## Régimen de comunidad de bienes, honorarios
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
 - **Numero:** I0086083
 - **Caratula:** S., S. A. c/ M., J. P. s/ incidente liquidación régimen de comunidad
 - **Fecha:** 2025-08-05
@@ -6159,19 +6143,19 @@ La regla art. 21 de la Ley 7046 puede no resultar un límite estricto para la re
 
 ---
 
-## Relaciones de familia, alimentos, legitimación activa, alimentos provisionales
+## Régimen de comunidad de bienes, honorarios
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086056
-- **Caratula:** A., L. A. c/ H., V. E. s/ consignación de alimentos
-- **Fecha:** 2025-08-04
+- **Numero:** I0086082
+- **Caratula:** S., S. A. c/ M., J. P. s/ incidente liquidación régimen de comunidad
+- **Fecha:** 2025-08-05
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-PROCESAL
-- **Descriptores:** relaciones de familia, alimentos, legitimación activa, alimentos provisionales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6506-800isoiramus
+- **Descriptores:** régimen de comunidad de bienes, honorarios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2806-800isoiramus
 
-Si el propio alimentante deduce la acción para la fijación de los alimentos comunes o definitivos con anterioridad a que transcurrieran los seis meses desde la determinación de los alimentos establecidos como provisionales, ello conlleva la...
+La regulación de los honorarios del perito, como la que surja por aplicación de cualquier otra normativa arancelaria especial, exige su adaptación a lo previsto en el art. 21 de la Ley 7046 LA, que establece como límite que los honorarios no pueden...
 
 ---
 
@@ -6188,6 +6172,22 @@ Si el propio alimentante deduce la acción para la fijación de los alimentos co
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5506-800isoiramus
 
 Ocasionalmente la acción alimentos comunes o definitivos (como se los denomina aunque no exista tal definitividad), puede ser iniciada por la persona alimentante a fin de que se determine la suma que debe abonar, mediante un procedimiento que suele...
+
+---
+
+## Relaciones de familia, alimentos, legitimación activa, alimentos provisionales
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086056
+- **Caratula:** A., L. A. c/ H., V. E. s/ consignación de alimentos
+- **Fecha:** 2025-08-04
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** relaciones de familia, alimentos, legitimación activa, alimentos provisionales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6506-800isoiramus
+
+Si el propio alimentante deduce la acción para la fijación de los alimentos comunes o definitivos con anterioridad a que transcurrieran los seis meses desde la determinación de los alimentos establecidos como provisionales, ello conlleva la...
 
 ---
 
@@ -6223,6 +6223,22 @@ En materia de reclamos por daños y perjuicios, la condena en costas en la prime
 
 ---
 
+## Competencia de familia, alimentos, hijos a cargo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086091
+- **Caratula:** S., J. A. c/ V., O. H. s/ alimentos
+- **Fecha:** 2025-06-26
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** competencia de familia, alimentos, hijos a cargo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1906-800isoiramus
+
+El espíritu de la norma del art. 663 CCC -alimentos al hijo mayor que se capacita- fue el de poner en igualdad de condiciones a los hijos que conviven con ambos padres y, por lo tanto cuentan con su apoyo, y a quienes no están en esa situación pues...
+
+---
+
 ## Competencia de familia, alimentos, aumento de cuota, parentalidad compartida
 
 - **Tipo:** Jurisprudencia
@@ -6243,15 +6259,15 @@ Si el progenitor no estuvo de acuerdo con la celebración de la fiesta por el cu
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086093
+- **Numero:** I0086092
 - **Caratula:** S., J. A. c/ V., O. H. s/ alimentos
 - **Fecha:** 2025-06-26
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL-CIVIL
 - **Descriptores:** competencia de familia, alimentos, hijos a cargo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3906-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2906-800isoiramus
 
-Aun cuando la prueba no alcance para cumplir con la carga impuesta por el art. 663 CCC -imposibilidad del hijo mayor que se capacita para proveerse de medios para su subsistencia-la prestación alimentaria no debería interrumpirse, aunque...
+En el marco de un reclamo de alimentos a favor del hijo mayor que se capacita -art. 663 CCC-, si bien la prueba en principio no cumplen con la carga impuesta por aquella norma más, autorizan a presumir la necesidad de contar con el aporte paterno...
 
 ---
 
@@ -6275,47 +6291,15 @@ Frente a un cuidado personal compartido de dos hijos, no contando con elementos 
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086092
+- **Numero:** I0086093
 - **Caratula:** S., J. A. c/ V., O. H. s/ alimentos
 - **Fecha:** 2025-06-26
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL-CIVIL
 - **Descriptores:** competencia de familia, alimentos, hijos a cargo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2906-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3906-800isoiramus
 
-En el marco de un reclamo de alimentos a favor del hijo mayor que se capacita -art. 663 CCC-, si bien la prueba en principio no cumplen con la carga impuesta por aquella norma más, autorizan a presumir la necesidad de contar con el aporte paterno...
-
----
-
-## Competencia de familia, alimentos, hijos a cargo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086091
-- **Caratula:** S., J. A. c/ V., O. H. s/ alimentos
-- **Fecha:** 2025-06-26
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** competencia de familia, alimentos, hijos a cargo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1906-800isoiramus
-
-El espíritu de la norma del art. 663 CCC -alimentos al hijo mayor que se capacita- fue el de poner en igualdad de condiciones a los hijos que conviven con ambos padres y, por lo tanto cuentan con su apoyo, y a quienes no están en esa situación pues...
-
----
-
-## Competencia de familia, alimentos, aumento de cuota, parentalidad compartida
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086088
-- **Caratula:** M., M. S. Y H., M. N. c/ s/ incidente aumento cuota alimentaria
-- **Fecha:** 2025-06-26
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** competencia de familia, alimentos, aumento de cuota, parentalidad compartida
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8806-800isoiramus
-
-La fiesta por el cumpleaños de 15 de la hija en común podría subsumirse en el concepto de alimentos extraordinarios a los que los progenitores, con causa en la responsabilidad parental, debieran contribuir; concepto que teniendo en cuenta que el...
+Aun cuando la prueba no alcance para cumplir con la carga impuesta por el art. 663 CCC -imposibilidad del hijo mayor que se capacita para proveerse de medios para su subsistencia-la prestación alimentaria no debería interrumpirse, aunque...
 
 ---
 
@@ -6339,22 +6323,6 @@ El art. 67 LA dispone que en materia de medidas cautelares, salvo que se trate d
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086089
-- **Caratula:** M., M. S. Y H., M. N. c/ s/ incidente aumento cuota alimentaria
-- **Fecha:** 2025-06-26
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** competencia de familia, alimentos, aumento de cuota, parentalidad compartida
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9806-800isoiramus
-
-Si bien fiesta por el cumpleaños de 15 de la hija en común resulta un acontecimiento social con un valor simbólico que se mantiene vigente hasta nuestros días, no resulta inexorable -como un gasto urgente relativo a la salud de los hijos e incluso...
-
----
-
-## Competencia de familia, alimentos, aumento de cuota, parentalidad compartida
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
 - **Numero:** I0086086
 - **Caratula:** M., M. S. Y H., M. N. c/ s/ incidente aumento cuota alimentaria
 - **Fecha:** 2025-06-26
@@ -6364,6 +6332,22 @@ Si bien fiesta por el cumpleaños de 15 de la hija en común resulta un aconteci
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6806-800isoiramus
 
 La norma del art. 666 CCC que rige el cuidado personal compartido prevé que si ambos progenitores cuentan con recursos equivalentes, cada uno debe hacerse cargo de la manutención cuando el hijo permanece bajo su cuidado; caso contrario el que cuenta...
+
+---
+
+## Competencia de familia, alimentos, aumento de cuota, parentalidad compartida
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086089
+- **Caratula:** M., M. S. Y H., M. N. c/ s/ incidente aumento cuota alimentaria
+- **Fecha:** 2025-06-26
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** competencia de familia, alimentos, aumento de cuota, parentalidad compartida
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9806-800isoiramus
+
+Si bien fiesta por el cumpleaños de 15 de la hija en común resulta un acontecimiento social con un valor simbólico que se mantiene vigente hasta nuestros días, no resulta inexorable -como un gasto urgente relativo a la salud de los hijos e incluso...
 
 ---
 
@@ -6383,19 +6367,19 @@ Por aplicación del nuevo art. 29 de la LA -modificado por la Ley 11.141- en con
 
 ---
 
-## Derecho civil, caducidad de instancia, audiencia preliminar
+## Competencia de familia, alimentos, aumento de cuota, parentalidad compartida
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086127
-- **Caratula:** Etchebest, Marisol Evangelina c/ Bbva Banco Frances S.A. y otro s/ ordinario daños y perjuicios
-- **Fecha:** 2025-06-25
+- **Numero:** I0086088
+- **Caratula:** M., M. S. Y H., M. N. c/ s/ incidente aumento cuota alimentaria
+- **Fecha:** 2025-06-26
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-PROCESAL
-- **Descriptores:** Derecho civil, caducidad de instancia, audiencia preliminar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7216-800isoiramus
+- **Descriptores:** competencia de familia, alimentos, aumento de cuota, parentalidad compartida
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8806-800isoiramus
 
-La locución utilizada por el art. 346 CPCCER al decir que "el juez deberá señalar" fecha para la audiencia preliminar, aun cuando se lo aúne a los deberes que imponen los art. 31 y 33 de la normativa procesal, ello no se se erige como una hipótesis...
+La fiesta por el cumpleaños de 15 de la hija en común podría subsumirse en el concepto de alimentos extraordinarios a los que los progenitores, con causa en la responsabilidad parental, debieran contribuir; concepto que teniendo en cuenta que el...
 
 ---
 
@@ -6415,22 +6399,6 @@ Sin desconocer que las notas de la oficiosidad se encuentran acentuadas en las d
 
 ---
 
-## Estupefacientes, código penal, sentencia absolutoria, violencia de género, perspectiva de género, grupos vulnerables, comercialización ilegal de estupefacientes, control de convencionalidad, deberes del juez, obligaciones internacionales, derechos de la mujer, revocación de sentencia, eximentes de responsabilidad penal
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086625
-- **Caratula:** A. M. c/ s/ Comercio de Estupefacientes s/Impugnación extraordinaria
-- **Fecha:** 2025-06-25
-- **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS-PENAL
-- **Descriptores:** estupefacientes, código penal, sentencia absolutoria, violencia de género, perspectiva de género, grupos vulnerables, comercialización ilegal de estupefacientes, control de convencionalidad, deberes del juez, obligaciones internacionales, derechos humanos de la mujer, revocación de sentencia, eximentes de responsabilidad penal
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5266-800isoiramus
-
-La imputada había sido acusada como autora del delito de comercialización de estupefacientes en dosis fraccionadas al consumidor (art. 5 inc. c del Régimen Penal de estupefacientes regulado por la 23.737) y que el Tribunal de Juicio dispuso su...
-
----
-
 ## Estupefacientes, código penal, sentencia absolutoria, violencia de género, perspectiva de género, grupos vulnerables, comercialización ilegal de estupefacientes, deberes del juez, derechos de la mujer, revocación de sentencia, eximentes de responsabilidad penal, estado de necesidad, procedencia del recurso, apreciación de la prueba, sentencia arbitraria
 
 - **Tipo:** Jurisprudencia
@@ -6444,38 +6412,6 @@ La imputada había sido acusada como autora del delito de comercialización de e
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8266-800isoiramus
 
 Corresponde hacer lugar al recurso de impugnación extraordinaria interpuesto por la defensa cuando la sentencia de la Cámara de Casación que revocó la absolución dictada por el tribunal de juicio prescinde de efectuar una crítica concreta, completa...
-
----
-
-## Estupefacientes, código penal, sentencia absolutoria, violencia de género, perspectiva de género, grupos vulnerables, comercialización ilegal de estupefacientes, revocación de sentencia, eximentes de responsabilidad penal, sentencia arbitraria, apreciación de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086626
-- **Caratula:** A. M. c/ s/ Comercio de Estupefacientes s/Impugnación extraordinaria
-- **Fecha:** 2025-06-25
-- **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS-PENAL
-- **Descriptores:** estupefacientes, código penal, sentencia absolutoria, violencia de género, perspectiva de género, grupos vulnerables, comercialización ilegal de estupefacientes, revocación de sentencia, eximentes de responsabilidad penal, sentencia arbitraria, valoración probatoria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6266-800isoiramus
-
-La sentencia de la Cámara de Casación que revoca una absolución resulta arbitraria por prescindir de los fundamentos brindados por el tribunal de juicio y por efectuar una revaloración fragmentaria del material probatorio, corresponde hacer lugar al...
-
----
-
-## Estupefacientes, código penal, sentencia absolutoria, violencia de género, perspectiva de género, grupos vulnerables, comercialización ilegal de estupefacientes, deberes del juez, derechos de la mujer, revocación de sentencia, eximentes de responsabilidad penal, estado de necesidad, apreciación de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086627
-- **Caratula:** A. M. c/ s/ Comercio de Estupefacientes s/Impugnación extraordinaria
-- **Fecha:** 2025-06-25
-- **Provincia:** Entre Ríos
-- **Materia:** PENAL
-- **Descriptores:** estupefacientes, código penal, sentencia absolutoria, violencia de género, perspectiva de género, grupos vulnerables, comercialización ilegal de estupefacientes, deberes del juez, derechos humanos de la mujer, revocación de sentencia, eximentes de responsabilidad penal, estado de necesidad, valoración probatoria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7266-800isoiramus
-
-Resulta ajustada a derecho la sentencia del tribunal de juicio que absolvió a la imputada al considerar configurada la causal prevista en el art. 34 inc. 2 del Código Penal, cuando de la prueba producida en el debate surge que su accionar se...
 
 ---
 
@@ -6495,6 +6431,22 @@ En materia de caducidad de instancia, no consentir un acto de una de las partes,
 
 ---
 
+## Estupefacientes, código penal, sentencia absolutoria, violencia de género, perspectiva de género, grupos vulnerables, comercialización ilegal de estupefacientes, control de convencionalidad, deberes del juez, obligaciones internacionales, derechos de la mujer, revocación de sentencia, eximentes de responsabilidad penal
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086625
+- **Caratula:** A. M. c/ s/ Comercio de Estupefacientes s/Impugnación extraordinaria
+- **Fecha:** 2025-06-25
+- **Provincia:** Entre Ríos
+- **Materia:** DERECHOS HUMANOS-PENAL
+- **Descriptores:** estupefacientes, código penal, sentencia absolutoria, violencia de género, perspectiva de género, grupos vulnerables, comercialización ilegal de estupefacientes, control de convencionalidad, deberes del juez, obligaciones internacionales, derechos humanos de la mujer, revocación de sentencia, eximentes de responsabilidad penal
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5266-800isoiramus
+
+La imputada había sido acusada como autora del delito de comercialización de estupefacientes en dosis fraccionadas al consumidor (art. 5 inc. c del Régimen Penal de estupefacientes regulado por la 23.737) y que el Tribunal de Juicio dispuso su...
+
+---
+
 ## Derecho civil, caducidad de instancia, cómputo del plazo
 
 - **Tipo:** Jurisprudencia
@@ -6511,19 +6463,51 @@ El plazo de perención de instancia tiene su inicio desde el día siguiente -há
 
 ---
 
-## Medidas cautelares, fundamentación de la resolución, efecto devolutivo, medida de no innovar
+## Estupefacientes, código penal, sentencia absolutoria, violencia de género, perspectiva de género, grupos vulnerables, comercialización ilegal de estupefacientes, revocación de sentencia, eximentes de responsabilidad penal, sentencia arbitraria, apreciación de la prueba
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086124
-- **Caratula:** Cardozo, Teresita María Fabiana c/ Chevrolet Sociedad Anónima de ahorro para fines determinados s. sumarisimo (Civil) s/ incidente legajo apelación efecto devolutivo
-- **Fecha:** 2025-06-24
+- **Numero:** I0086626
+- **Caratula:** A. M. c/ s/ Comercio de Estupefacientes s/Impugnación extraordinaria
+- **Fecha:** 2025-06-25
 - **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** medidas cautelares, fundamentación de la resolución, efecto devolutivo, medida de no innovar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4216-800isoiramus
+- **Materia:** DERECHOS HUMANOS-PENAL
+- **Descriptores:** estupefacientes, código penal, sentencia absolutoria, violencia de género, perspectiva de género, grupos vulnerables, comercialización ilegal de estupefacientes, revocación de sentencia, eximentes de responsabilidad penal, sentencia arbitraria, valoración probatoria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6266-800isoiramus
 
-En el marco de un proceso en el que la discusión involucra un contrato de plan de ahorro, si se admite la cautelar referida a la abstención de inicio de ejecución prendaria y/o acción judicial de cualquier naturaleza por la parte demandada, estaría...
+La sentencia de la Cámara de Casación que revoca una absolución resulta arbitraria por prescindir de los fundamentos brindados por el tribunal de juicio y por efectuar una revaloración fragmentaria del material probatorio, corresponde hacer lugar al...
+
+---
+
+## Derecho civil, caducidad de instancia, audiencia preliminar
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086127
+- **Caratula:** Etchebest, Marisol Evangelina c/ Bbva Banco Frances S.A. y otro s/ ordinario daños y perjuicios
+- **Fecha:** 2025-06-25
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** Derecho civil, caducidad de instancia, audiencia preliminar
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7216-800isoiramus
+
+La locución utilizada por el art. 346 CPCCER al decir que "el juez deberá señalar" fecha para la audiencia preliminar, aun cuando se lo aúne a los deberes que imponen los art. 31 y 33 de la normativa procesal, ello no se se erige como una hipótesis...
+
+---
+
+## Estupefacientes, código penal, sentencia absolutoria, violencia de género, perspectiva de género, grupos vulnerables, comercialización ilegal de estupefacientes, deberes del juez, derechos de la mujer, revocación de sentencia, eximentes de responsabilidad penal, estado de necesidad, apreciación de la prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086627
+- **Caratula:** A. M. c/ s/ Comercio de Estupefacientes s/Impugnación extraordinaria
+- **Fecha:** 2025-06-25
+- **Provincia:** Entre Ríos
+- **Materia:** PENAL
+- **Descriptores:** estupefacientes, código penal, sentencia absolutoria, violencia de género, perspectiva de género, grupos vulnerables, comercialización ilegal de estupefacientes, deberes del juez, derechos humanos de la mujer, revocación de sentencia, eximentes de responsabilidad penal, estado de necesidad, valoración probatoria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7266-800isoiramus
+
+Resulta ajustada a derecho la sentencia del tribunal de juicio que absolvió a la imputada al considerar configurada la causal prevista en el art. 34 inc. 2 del Código Penal, cuando de la prueba producida en el debate surge que su accionar se...
 
 ---
 
@@ -6531,15 +6515,15 @@ En el marco de un proceso en el que la discusión involucra un contrato de plan 
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086123
+- **Numero:** I0086121
 - **Caratula:** Cardozo, Teresita María Fabiana c/ Chevrolet Sociedad Anónima de ahorro para fines determinados s. sumarisimo (Civil) s/ incidente legajo apelación efecto devolutivo
 - **Fecha:** 2025-06-24
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
 - **Descriptores:** medidas cautelares, fundamentación de la resolución, efecto devolutivo, medida de no innovar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3216-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1216-800isoiramus
 
-En el marco de un proceso en el que la discusión involucra un contrato de plan de ahorro, si se admitiera la medida cautelar referida a la abstención de inicio de ejecución prendaria y/o acción judicial de cualquier naturaleza por la parte...
+La prohibición de innovar resulta inadmisible cuando tiende a suspender el trámite de otro proceso o a impedir el cumplimiento de una resolución dictada en este. Tal cautelar no puede interferir en otro proceso distinto a aquel en que se la solicitó...
 
 ---
 
@@ -6579,47 +6563,31 @@ El análisis sobre la concurrencia de los presupuestos habilitantes para la conc
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086121
+- **Numero:** I0086123
 - **Caratula:** Cardozo, Teresita María Fabiana c/ Chevrolet Sociedad Anónima de ahorro para fines determinados s. sumarisimo (Civil) s/ incidente legajo apelación efecto devolutivo
 - **Fecha:** 2025-06-24
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
 - **Descriptores:** medidas cautelares, fundamentación de la resolución, efecto devolutivo, medida de no innovar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1216-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3216-800isoiramus
 
-La prohibición de innovar resulta inadmisible cuando tiende a suspender el trámite de otro proceso o a impedir el cumplimiento de una resolución dictada en este. Tal cautelar no puede interferir en otro proceso distinto a aquel en que se la solicitó...
-
----
-
-## Derecho procesal, demanda, rechazo in límine, procedencia del recurso
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086116
-- **Caratula:** Z., D. J. c/ Sucesores de E., M. A. y otros s/ ordinario separación de bienes (conexidad: z., d. j. s/ beneficio de litigar sin gastos
-- **Fecha:** 2025-06-19
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** Derecho procesal, demanda, rechazo in límine, procedencia del recurso
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6116-800isoiramus
-
-El rechazo "in limine" de la demanda es una alternativa reservada para casos extremos, que debe ser precedida del previo fracaso del intento de reencausamiento efectuado por el juez frente a los defectos en la proposición advertidos en esa etapa...
+En el marco de un proceso en el que la discusión involucra un contrato de plan de ahorro, si se admitiera la medida cautelar referida a la abstención de inicio de ejecución prendaria y/o acción judicial de cualquier naturaleza por la parte...
 
 ---
 
-## Derecho procesal, demanda, rechazo in límine, procedencia del recurso
+## Medidas cautelares, fundamentación de la resolución, efecto devolutivo, medida de no innovar
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086118
-- **Caratula:** Z., D. J. c/ Sucesores de E., M. A. y otros s/ ordinario separación de bienes (conexidad: z., d. j. s/ beneficio de litigar sin gastos
-- **Fecha:** 2025-06-19
+- **Numero:** I0086124
+- **Caratula:** Cardozo, Teresita María Fabiana c/ Chevrolet Sociedad Anónima de ahorro para fines determinados s. sumarisimo (Civil) s/ incidente legajo apelación efecto devolutivo
+- **Fecha:** 2025-06-24
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
-- **Descriptores:** Derecho procesal, demanda, rechazo in límine, procedencia del recurso
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8116-800isoiramus
+- **Descriptores:** medidas cautelares, fundamentación de la resolución, efecto devolutivo, medida de no innovar
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4216-800isoiramus
 
-A raíz de lo normado por los arts. 1, 2, 3 y 706 del CCC, y arts. 1, 3 y 13 inc.3 de la LPF, no resultan admisibles respuestas jurisdiccionales que impliquen un "acertijo" para quien pretende instar un proceso judicial, tal como lo trasluce la...
+En el marco de un proceso en el que la discusión involucra un contrato de plan de ahorro, si se admite la cautelar referida a la abstención de inicio de ejecución prendaria y/o acción judicial de cualquier naturaleza por la parte demandada, estaría...
 
 ---
 
@@ -6655,6 +6623,38 @@ La posibilidad judicial de disponer el rechazo "in limine" de la demanda no pued
 
 ---
 
+## Derecho procesal, demanda, rechazo in límine, procedencia del recurso
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086116
+- **Caratula:** Z., D. J. c/ Sucesores de E., M. A. y otros s/ ordinario separación de bienes (conexidad: z., d. j. s/ beneficio de litigar sin gastos
+- **Fecha:** 2025-06-19
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** Derecho procesal, demanda, rechazo in límine, procedencia del recurso
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6116-800isoiramus
+
+El rechazo "in limine" de la demanda es una alternativa reservada para casos extremos, que debe ser precedida del previo fracaso del intento de reencausamiento efectuado por el juez frente a los defectos en la proposición advertidos en esa etapa...
+
+---
+
+## Derecho procesal, demanda, rechazo in límine, procedencia del recurso
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086118
+- **Caratula:** Z., D. J. c/ Sucesores de E., M. A. y otros s/ ordinario separación de bienes (conexidad: z., d. j. s/ beneficio de litigar sin gastos
+- **Fecha:** 2025-06-19
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** Derecho procesal, demanda, rechazo in límine, procedencia del recurso
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8116-800isoiramus
+
+A raíz de lo normado por los arts. 1, 2, 3 y 706 del CCC, y arts. 1, 3 y 13 inc.3 de la LPF, no resultan admisibles respuestas jurisdiccionales que impliquen un "acertijo" para quien pretende instar un proceso judicial, tal como lo trasluce la...
+
+---
+
 ## Competencia de familia, alimentos, responsabilidad parental
 
 - **Tipo:** Jurisprudencia
@@ -6668,38 +6668,6 @@ La posibilidad judicial de disponer el rechazo "in limine" de la demanda no pued
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5806-800isoiramus
 
 En materia de alimentos a los hijos, las implicaciones que derivan de la responsabilidad parental incluyen la búsqueda de alternativas para lograr una actividad lucrativa que permita cubrir las necesidades alimentarias de los hijos, cuando el arte,...
-
----
-
-## Competencia de familia, estado de adoptabilidad, familia de origen
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086094
-- **Caratula:** M., B. R. c/ s/ declaración judicial de situación de adoptabilidad
-- **Fecha:** 2025-06-13
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** competencia de familia, estado de adoptabilidad, familia de origen
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4906-800isoiramus
-
-Si la sentencia que declara la situación de adoptabilidad del niño, a la par, dispone medidas para preservar los vínculos fraternos del niño con sus hermanos, ordenando al RUAER la remisión de legajos de personas aspirantes a adopción que se...
-
----
-
-## Daños y perjuicios, responsabilidad civil, conducta de las partes
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086095
-- **Caratula:** Vittulo, Nora Elena c/ Telecom Argentina S.A. s/ ordinario daños y perjuicios
-- **Fecha:** 2025-06-13
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** daños y perjuicios, responsabilidad civil, conducta de las partes
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5906-800isoiramus
-
-Si la demandada, prestadora de un servicio público, litiga buscando desligarse de la responsabilidad con una actitud tan expectante como oclusiva, en lugar de contribuir funcionalmente en el juicio para alcanzar prontamente una sentencia justa, su...
 
 ---
 
@@ -6719,19 +6687,35 @@ Si el demandado omite probar simplemente porque no quiere y en cambio desea ocul
 
 ---
 
-## Daños y perjuicios, accidente de tránsito, daño moral
+## Daños y perjuicios, responsabilidad civil, conducta de las partes
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086105
-- **Caratula:** Caminos, Pedro Marciano c/ Romero, Gustavo Alberto y otros s/ ordinario daños y perjuicios
-- **Fecha:** 2025-06-12
+- **Numero:** I0086095
+- **Caratula:** Vittulo, Nora Elena c/ Telecom Argentina S.A. s/ ordinario daños y perjuicios
+- **Fecha:** 2025-06-13
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** daños y perjuicios, accidente de tránsito, daño moral
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5016-800isoiramus
+- **Descriptores:** daños y perjuicios, responsabilidad civil, conducta de las partes
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5906-800isoiramus
 
-La existencia de daños materiales ocasionados a un vehículo como consecuencia de un accidente de tránsito, sin duda alguna puede derivar en el efectivo acaecimiento del daño moral, más ello no exime al accionante de la efectiva carga de acreditar su...
+Si la demandada, prestadora de un servicio público, litiga buscando desligarse de la responsabilidad con una actitud tan expectante como oclusiva, en lugar de contribuir funcionalmente en el juicio para alcanzar prontamente una sentencia justa, su...
+
+---
+
+## Competencia de familia, estado de adoptabilidad, familia de origen
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086094
+- **Caratula:** M., B. R. c/ s/ declaración judicial de situación de adoptabilidad
+- **Fecha:** 2025-06-13
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** competencia de familia, estado de adoptabilidad, familia de origen
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4906-800isoiramus
+
+Si la sentencia que declara la situación de adoptabilidad del niño, a la par, dispone medidas para preservar los vínculos fraternos del niño con sus hermanos, ordenando al RUAER la remisión de legajos de personas aspirantes a adopción que se...
 
 ---
 
@@ -6748,6 +6732,22 @@ La existencia de daños materiales ocasionados a un vehículo como consecuencia 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3016-800isoiramus
 
 Aun cuando el accidente de tránsito no arroje lesiones de índole psicofísicas, en tanto se produjeron únicamente daños materiales, ciertamente la prueba del daño moral (no patrimonial) surge in re ipsa, es decir, inmediatamente de los propios...
+
+---
+
+## Daños y perjuicios, accidente de tránsito, daño moral
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086105
+- **Caratula:** Caminos, Pedro Marciano c/ Romero, Gustavo Alberto y otros s/ ordinario daños y perjuicios
+- **Fecha:** 2025-06-12
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** daños y perjuicios, accidente de tránsito, daño moral
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5016-800isoiramus
+
+La existencia de daños materiales ocasionados a un vehículo como consecuencia de un accidente de tránsito, sin duda alguna puede derivar en el efectivo acaecimiento del daño moral, más ello no exime al accionante de la efectiva carga de acreditar su...
 
 ---
 
@@ -6819,6 +6819,22 @@ Si con motivo del accidente de tránsito se acumularon pretensiones de modo cond
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
+- **Numero:** I0086110
+- **Caratula:** Hornus y Cía S.A c/ Otero, Martín Román y otros s/ ordinario daños y perjuicios
+- **Fecha:** 2025-06-09
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** daños y perjuicios, accidente de tránsito, acumulación de acciones, responsabilidad contractual, responsabilidad extracontractual
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0116-800isoiramus
+
+Si con motivo del accidente de tránsito se acumularon pretensiones de modo condicional contra las aseguradoras, una por destrucción total contra la aseguradora del vehículo embestido y la otra en base a la responsabilidad extracontractual contra la...
+
+---
+
+## Daños y perjuicios, accidente de tránsito, acumulación de acciones, responsabilidad contractual, responsabilidad extracontractual
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
 - **Numero:** I0086106
 - **Caratula:** Hornus y Cía S.A c/ Otero, Martín Román y otros s/ ordinario daños y perjuicios
 - **Fecha:** 2025-06-09
@@ -6847,19 +6863,19 @@ Cuando la demanda parece diferenciar al conductor del rodado al que se imputó l
 
 ---
 
-## Daños y perjuicios, accidente de tránsito, acumulación de acciones, responsabilidad contractual, responsabilidad extracontractual
+## Daños y perjuicios, recurso de apelación (procesal), audiencia, producción de la prueba
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086110
-- **Caratula:** Hornus y Cía S.A c/ Otero, Martín Román y otros s/ ordinario daños y perjuicios
-- **Fecha:** 2025-06-09
+- **Numero:** I0086129
+- **Caratula:** Bara, Fabio Gabriel c/ Cooperativa Agricola Mixta La Protectora Limitada s/ ordinario daños y perjuicios
+- **Fecha:** 2025-06-04
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-PROCESAL
-- **Descriptores:** daños y perjuicios, accidente de tránsito, acumulación de acciones, responsabilidad contractual, responsabilidad extracontractual
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0116-800isoiramus
+- **Descriptores:** daños y perjuicios, recurso de apelación (procesal), audiencia, producción de la prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9216-800isoiramus
 
-Si con motivo del accidente de tránsito se acumularon pretensiones de modo condicional contra las aseguradoras, una por destrucción total contra la aseguradora del vehículo embestido y la otra en base a la responsabilidad extracontractual contra la...
+Lo decidido de manera oral por el Juez impone que la apelación se dedujese bajo igual forma y en el mismo acto. Ahora bien, si el objeto del recurso consiste en la fijación de una nueva fecha de audiencia para la producción de la prueba testimonial...
 
 ---
 
@@ -6895,54 +6911,6 @@ Si durante los primeros minutos de la audiencia de vista de la causa se alegó l
 
 ---
 
-## Daños y perjuicios, recurso de apelación (procesal), audiencia, producción de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086129
-- **Caratula:** Bara, Fabio Gabriel c/ Cooperativa Agricola Mixta La Protectora Limitada s/ ordinario daños y perjuicios
-- **Fecha:** 2025-06-04
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** daños y perjuicios, recurso de apelación (procesal), audiencia, producción de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9216-800isoiramus
-
-Lo decidido de manera oral por el Juez impone que la apelación se dedujese bajo igual forma y en el mismo acto. Ahora bien, si el objeto del recurso consiste en la fijación de una nueva fecha de audiencia para la producción de la prueba testimonial...
-
----
-
-## Derechos del consumidor, defensa del consumidor, prestación de servicios
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086099
-- **Caratula:** Sciutto, Paula c/ Amx Argentina S.A. (Claro) s/ sumarisimo
-- **Fecha:** 2025-06-02
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL-LABORAL
-- **Descriptores:** derechos del consumidor, defensa del consumidor, prestación de servicios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9906-800isoiramus
-
-Si la accionada no cumplió con el deber previsto en el art. 21 inc. e) de la LDC, esto es "el tiempo en que se realizará el trabajo", un parámetro comparativo a tener en consideración es el establecido por la Ley N.° 5672, llamada "Ley de Servicio...
-
----
-
-## Derecho civil, prescripción adquisitiva, herederos forzosos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086111
-- **Caratula:** Seliman, María del Carmen c/ Seliman, Alberto y/o sus herederos y sucesores y/o quien o quienes se consideren con derecho sobre el inmueble s/ usucapion
-- **Fecha:** 2025-06-02
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** Derecho civil, prescripción adquisitiva, herederos forzosos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1116-800isoiramus
-
-Todo lo que el causante poseía, sea a título de dueño o de mero poseedor, se transmite a los herederos desde la muerte y siendo éstos forzosos entran en posesión de la herencia de pleno derecho sin ninguna otra formalidad. Frente a ello, para tener...
-
----
-
 ## Derechos del consumidor, defensa del consumidor, prestación de servicios
 
 - **Tipo:** Jurisprudencia
@@ -6956,22 +6924,6 @@ Todo lo que el causante poseía, sea a título de dueño o de mero poseedor, se 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0016-800isoiramus
 
 Según indica el art. 12 de la LDC, fabricantes, vendedores e importadores de cosas muebles no consumibles "deben asegurar un servicio técnico adecuado y el suministro de partes y repuestos". De acuerdo a ello, el proveedor debe proporcionar los...
-
----
-
-## Derechos del consumidor, defensa del consumidor, prestación de servicios
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086098
-- **Caratula:** Sciutto, Paula c/ Amx Argentina S.A. (Claro) s/ sumarisimo
-- **Fecha:** 2025-06-02
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL-LABORAL
-- **Descriptores:** derechos del consumidor, defensa del consumidor, prestación de servicios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8906-800isoiramus
-
-El deber de información previsto en el art. 4 de la LDC se orienta fundamentalmente al discernimiento del consumidor o usuario, y tiene incidencia en la confección del presupuesto del prestador de servicios que efectuará la reparación, cuyo...
 
 ---
 
@@ -7007,19 +6959,35 @@ Quien asume la comercialización de productos y servicios, debe al mismo tiempo 
 
 ---
 
+## Derechos del consumidor, defensa del consumidor, prestación de servicios
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086098
+- **Caratula:** Sciutto, Paula c/ Amx Argentina S.A. (Claro) s/ sumarisimo
+- **Fecha:** 2025-06-02
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL-LABORAL
+- **Descriptores:** derechos del consumidor, defensa del consumidor, prestación de servicios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8906-800isoiramus
+
+El deber de información previsto en el art. 4 de la LDC se orienta fundamentalmente al discernimiento del consumidor o usuario, y tiene incidencia en la confección del presupuesto del prestador de servicios que efectuará la reparación, cuyo...
+
+---
+
 ## Derecho civil, prescripción adquisitiva, herederos forzosos
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086113
+- **Numero:** I0086112
 - **Caratula:** Seliman, María del Carmen c/ Seliman, Alberto y/o sus herederos y sucesores y/o quien o quienes se consideren con derecho sobre el inmueble s/ usucapion
 - **Fecha:** 2025-06-02
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** Derecho civil, prescripción adquisitiva, herederos forzosos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3116-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2116-800isoiramus
 
-Si el usucapiente es heredero forzoso del poseedor, resulta relevante el dato del momento en que el accionante comenzó a poseer a título de dueño, y exhibió su sublevación ante los restantes coherederos, y así invocar si se cumplió el plazo de...
+Para que pueda considerarse que uno de los comuneros ha comenzado a poseer en nombre propio desplazando a los restantes, es necesaria la modificación de la causa, o sea que se produzca la interversión del título por el cual se ingresó a la posesión,...
 
 ---
 
@@ -7036,6 +7004,22 @@ Si el usucapiente es heredero forzoso del poseedor, resulta relevante el dato de
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2016-800isoiramus
 
 Acreditada la demora en la reparación del producto adquirido -en el caso, un equipo de telefonía celular- se encuentra justificado el reconocimiento del daño no patrimonial, pues es acertado inferir que el reclamante debió haber visto alterado...
+
+---
+
+## Derechos del consumidor, defensa del consumidor, prestación de servicios
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086099
+- **Caratula:** Sciutto, Paula c/ Amx Argentina S.A. (Claro) s/ sumarisimo
+- **Fecha:** 2025-06-02
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL-LABORAL
+- **Descriptores:** derechos del consumidor, defensa del consumidor, prestación de servicios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9906-800isoiramus
+
+Si la accionada no cumplió con el deber previsto en el art. 21 inc. e) de la LDC, esto es "el tiempo en que se realizará el trabajo", un parámetro comparativo a tener en consideración es el establecido por la Ley N.° 5672, llamada "Ley de Servicio...
 
 ---
 
@@ -7059,15 +7043,47 @@ En los juicios de usucapión, es insuficiente como medio de prueba el domiciliar
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086112
+- **Numero:** I0086111
 - **Caratula:** Seliman, María del Carmen c/ Seliman, Alberto y/o sus herederos y sucesores y/o quien o quienes se consideren con derecho sobre el inmueble s/ usucapion
 - **Fecha:** 2025-06-02
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** Derecho civil, prescripción adquisitiva, herederos forzosos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2116-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1116-800isoiramus
 
-Para que pueda considerarse que uno de los comuneros ha comenzado a poseer en nombre propio desplazando a los restantes, es necesaria la modificación de la causa, o sea que se produzca la interversión del título por el cual se ingresó a la posesión,...
+Todo lo que el causante poseía, sea a título de dueño o de mero poseedor, se transmite a los herederos desde la muerte y siendo éstos forzosos entran en posesión de la herencia de pleno derecho sin ninguna otra formalidad. Frente a ello, para tener...
+
+---
+
+## Derecho civil, prescripción adquisitiva, herederos forzosos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086113
+- **Caratula:** Seliman, María del Carmen c/ Seliman, Alberto y/o sus herederos y sucesores y/o quien o quienes se consideren con derecho sobre el inmueble s/ usucapion
+- **Fecha:** 2025-06-02
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** Derecho civil, prescripción adquisitiva, herederos forzosos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3116-800isoiramus
+
+Si el usucapiente es heredero forzoso del poseedor, resulta relevante el dato del momento en que el accionante comenzó a poseer a título de dueño, y exhibió su sublevación ante los restantes coherederos, y así invocar si se cumplió el plazo de...
+
+---
+
+## Alimentos, derechos y obligaciones de los padres, acción de reintegro, abuelos, subsidiariedad penal
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086137
+- **Caratula:** F., D. E. c/ M., M. D. L. A. s/ incidente reducción cuota alimentaria
+- **Fecha:** 2025-05-30
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PENAL
+- **Descriptores:** alimentos, derechos y obligaciones de los padres, acción de reintegro, abuelos, subsidiaridad
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7316-800isoiramus
+
+El relevo o disminución de las obligaciones de los abuelos paternos como obligados subsidiarios, depende de la posibilidad real de asegurar el cumplimiento del progenitor como obligado principal. En base a ello, si el progenitor dejó de pagarle a la...
 
 ---
 
@@ -7119,38 +7135,6 @@ Si el tribunal de Alzada dejó establecido que la elevación de los honorarios l
 
 ---
 
-## Apreciación de la prueba, prueba pericial, sentencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086168
-- **Caratula:** Patt, Ofelia y otro c/ Cergneux, Carlos Cesar y otros s/ ordinario daños y perjuicios
-- **Fecha:** 2025-05-30
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** apreciación de la prueba, prueba pericial, sentencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8616-800isoiramus
-
-Si el estudio pericial -en el caso, respecto de una labor de tipo accidentológica-, se basa en meras conjeturas sin sustento en constancias objetivas de la causa, las conclusiones carecen de básicas notas de cientificidad.
-
----
-
-## Alimentos, derechos y obligaciones de los padres, acción de reintegro, abuelos, subsidiariedad penal
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086137
-- **Caratula:** F., D. E. c/ M., M. D. L. A. s/ incidente reducción cuota alimentaria
-- **Fecha:** 2025-05-30
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PENAL
-- **Descriptores:** alimentos, derechos y obligaciones de los padres, acción de reintegro, abuelos, subsidiaridad
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7316-800isoiramus
-
-El relevo o disminución de las obligaciones de los abuelos paternos como obligados subsidiarios, depende de la posibilidad real de asegurar el cumplimiento del progenitor como obligado principal. En base a ello, si el progenitor dejó de pagarle a la...
-
----
-
 ## Acción de amparo, obras sociales
 
 - **Tipo:** Jurisprudencia
@@ -7171,6 +7155,22 @@ Si la obra social al solicitar el rechazo del amparo de salud articulado a favor
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
+- **Numero:** I0086168
+- **Caratula:** Patt, Ofelia y otro c/ Cergneux, Carlos Cesar y otros s/ ordinario daños y perjuicios
+- **Fecha:** 2025-05-30
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** apreciación de la prueba, prueba pericial, sentencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8616-800isoiramus
+
+Si el estudio pericial -en el caso, respecto de una labor de tipo accidentológica-, se basa en meras conjeturas sin sustento en constancias objetivas de la causa, las conclusiones carecen de básicas notas de cientificidad.
+
+---
+
+## Apreciación de la prueba, prueba pericial, sentencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
 - **Numero:** I0086167
 - **Caratula:** Patt, Ofelia y otro c/ Cergneux, Carlos Cesar y otros s/ ordinario daños y perjuicios
 - **Fecha:** 2025-05-30
@@ -7183,51 +7183,19 @@ Si las referencias en las que el perito accidentológico sustenta su teoría no 
 
 ---
 
-## Privación de la responsabilidad parental, abandono de los hijos, derechos y obligaciones de los padres
+## Sucesiones, administrador de la herencia, remoción del administrador de la herencia, costas
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086136
-- **Caratula:** M., L. M. c/ F., H. F. s/ privación de responsabilidad parental
-- **Fecha:** 2025-05-29
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** privación de la responsabilidad parental, abandono de los hijos, derechos y obligaciones de los padres
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6316-800isoiramus
-
-La causal de privación de la responsabilidad parental por abandono del hijo (art. 700 inc. b)) está prevista como una sanción de tipo subjetivo y se configura cuando uno de los progenitores abdica, total, voluntaria e injustificadamente de los...
-
----
-
-## Sucesiones, administrador de la herencia, remoción del administrador de la herencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086146
+- **Numero:** I0086150
 - **Caratula:** Taffarel, Luis María - sucesorio ab intestato c/ s/ incidente de remoción de administrador
 - **Fecha:** 2025-05-29
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** sucesiones, administrador de la herencia, remoción del administrador de la herencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6416-800isoiramus
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** sucesiones, administrador de la herencia, remoción del administrador de la herencia, costas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0516-800isoiramus
 
-El "mal desempeño del cargo" previsto por el art. 743 CPCC y el art. 2351 CCC, requiere la necesaria existencia de motivaciones justificadas que coloquen en serio riesgo el destino final de los bienes que se le han confiado al administrador a los...
-
----
-
-## Sucesiones, administrador de la herencia, remoción del administrador de la herencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086149
-- **Caratula:** Taffarel, Luis María - sucesorio ab intestato c/ s/ incidente de remoción de administrador
-- **Fecha:** 2025-05-29
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** sucesiones, administrador de la herencia, remoción del administrador de la herencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9416-800isoiramus
-
-La falta de pago de un anticipo del impuesto inmobiliario y automotor que no representa un elevado monto, no evidencia una grave anomalía que por su magnitud haga pensar un peligro para los bienes administrados, más aún si tal circunstancia fue...
+El pedido de remoción del administrador no escapa a las prescripciones del art. 65 CPCC que recepta el principio general de "costas al vencido".
 
 ---
 
@@ -7247,19 +7215,19 @@ Si bien el incumplimiento al deber de rendir cuentas que impone la ley es una ca
 
 ---
 
-## Sucesiones, administrador de la herencia, remoción del administrador de la herencia, costas
+## Privación de la responsabilidad parental, abandono de los hijos, derechos y obligaciones de los padres
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086150
-- **Caratula:** Taffarel, Luis María - sucesorio ab intestato c/ s/ incidente de remoción de administrador
+- **Numero:** I0086136
+- **Caratula:** M., L. M. c/ F., H. F. s/ privación de responsabilidad parental
 - **Fecha:** 2025-05-29
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** sucesiones, administrador de la herencia, remoción del administrador de la herencia, costas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0516-800isoiramus
+- **Materia:** CIVIL
+- **Descriptores:** privación de la responsabilidad parental, abandono de los hijos, derechos y obligaciones de los padres
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6316-800isoiramus
 
-El pedido de remoción del administrador no escapa a las prescripciones del art. 65 CPCC que recepta el principio general de "costas al vencido".
+La causal de privación de la responsabilidad parental por abandono del hijo (art. 700 inc. b)) está prevista como una sanción de tipo subjetivo y se configura cuando uno de los progenitores abdica, total, voluntaria e injustificadamente de los...
 
 ---
 
@@ -7283,6 +7251,22 @@ Si la obra social no muestra haber cumplido ni demarca de modo cierto el tiempo 
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
+- **Numero:** I0086146
+- **Caratula:** Taffarel, Luis María - sucesorio ab intestato c/ s/ incidente de remoción de administrador
+- **Fecha:** 2025-05-29
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** sucesiones, administrador de la herencia, remoción del administrador de la herencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6416-800isoiramus
+
+El "mal desempeño del cargo" previsto por el art. 743 CPCC y el art. 2351 CCC, requiere la necesaria existencia de motivaciones justificadas que coloquen en serio riesgo el destino final de los bienes que se le han confiado al administrador a los...
+
+---
+
+## Sucesiones, administrador de la herencia, remoción del administrador de la herencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
 - **Numero:** I0086147
 - **Caratula:** Taffarel, Luis María - sucesorio ab intestato c/ s/ incidente de remoción de administrador
 - **Fecha:** 2025-05-29
@@ -7292,6 +7276,22 @@ Si la obra social no muestra haber cumplido ni demarca de modo cierto el tiempo 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7416-800isoiramus
 
 Una mera falta de rendición de cuentas o una rendición incompleta pero perfectible, no puede por sí llevar a la remoción del administrador, más aún si no se constata una actuación de mala fe. Si durante un largo tiempo, la mayoría de los herederos...
+
+---
+
+## Sucesiones, administrador de la herencia, remoción del administrador de la herencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086149
+- **Caratula:** Taffarel, Luis María - sucesorio ab intestato c/ s/ incidente de remoción de administrador
+- **Fecha:** 2025-05-29
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** sucesiones, administrador de la herencia, remoción del administrador de la herencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9416-800isoiramus
+
+La falta de pago de un anticipo del impuesto inmobiliario y automotor que no representa un elevado monto, no evidencia una grave anomalía que por su magnitud haga pensar un peligro para los bienes administrados, más aún si tal circunstancia fue...
 
 ---
 
@@ -7375,19 +7375,19 @@ Si la cuota ordinaria de alimentos se fijó a valores actuales a la fecha del fa
 
 ---
 
-## Sociedades comerciales, exclusión de socio, calificación de conducta
+## Sociedades comerciales, socio gerente, cuestión abstracta
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086151
+- **Numero:** I0086153
 - **Caratula:** Lando, Jorge c/ Godoy, Martin Ariel s/ ordinario (acción de exclusión de socio y remoción de gerente)
 - **Fecha:** 2025-05-16
 - **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** sociedades comerciales, exclusión de socio, calificación de conducta
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1516-800isoiramus
+- **Materia:** COMERCIAL-PROCESAL
+- **Descriptores:** sociedades comerciales, socio gerente, cuestión abstracta
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3516-800isoiramus
 
-El plazo establecido en el tercer párrafo del art. 91 LGS -caducidad del derecho de la acción de exclusión de socio-, no puede implicar que la sociedad resulte impotente ante la reiteración de conductas, continuadas en el tiempo, incompatibles con...
+Si la demanda de remoción del cargo de gerente del socio se deduce luego de que este último cesó en dicho cargo por operancia del transcurso del tiempo por el cual resultare oportunamente designado -art. 157 LGS-, se verifica en puridad una cuestión...
 
 ---
 
@@ -7407,19 +7407,19 @@ El ejercicio de la acción para hacer valer el derecho de exclusión de socios -
 
 ---
 
-## Sociedades comerciales, socio gerente, cuestión abstracta
+## Sociedades comerciales, exclusión de socio, calificación de conducta
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086153
+- **Numero:** I0086151
 - **Caratula:** Lando, Jorge c/ Godoy, Martin Ariel s/ ordinario (acción de exclusión de socio y remoción de gerente)
 - **Fecha:** 2025-05-16
 - **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL-PROCESAL
-- **Descriptores:** sociedades comerciales, socio gerente, cuestión abstracta
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3516-800isoiramus
+- **Materia:** COMERCIAL
+- **Descriptores:** sociedades comerciales, exclusión de socio, calificación de conducta
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1516-800isoiramus
 
-Si la demanda de remoción del cargo de gerente del socio se deduce luego de que este último cesó en dicho cargo por operancia del transcurso del tiempo por el cual resultare oportunamente designado -art. 157 LGS-, se verifica en puridad una cuestión...
+El plazo establecido en el tercer párrafo del art. 91 LGS -caducidad del derecho de la acción de exclusión de socio-, no puede implicar que la sociedad resulte impotente ante la reiteración de conductas, continuadas en el tiempo, incompatibles con...
 
 ---
 
@@ -7439,6 +7439,22 @@ Si se admite la demanda contra alguno de los codemandados y se rechaza contra ot
 
 ---
 
+## Interdicto de retener, acciones posesorias
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086143
+- **Caratula:** Ibarra, Guillermo Francisco c/ Chamot, Maximiliano Luis Alfredo y otro s-interdicto de retener s/ recurso de apelación
+- **Fecha:** 2025-05-14
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** interdicto de retener, acciones posesorias
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3416-800isoiramus
+
+El interdicto de retener tiene como objeto proteger de toda turbación al poseedor o tenedor actual por el solo hecho de serlo, sin que se deba debatir el derecho a ello. Su procedencia depende de dos condiciones: 1) que quien lo intente se halle en...
+
+---
+
 ## Interdicto de retener, apreciación de la prueba
 
 - **Tipo:** Jurisprudencia
@@ -7455,19 +7471,19 @@ En el interdicto de retener no se requiere probar un derecho real, sino una rela
 
 ---
 
-## Interdicto de retener, acciones posesorias
+## Acciones posesorias, procedencia del recurso
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086143
+- **Numero:** I0086145
 - **Caratula:** Ibarra, Guillermo Francisco c/ Chamot, Maximiliano Luis Alfredo y otro s-interdicto de retener s/ recurso de apelación
 - **Fecha:** 2025-05-14
 - **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** interdicto de retener, acciones posesorias
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3416-800isoiramus
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** acciones posesorias, procedencia del recurso
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5416-800isoiramus
 
-El interdicto de retener tiene como objeto proteger de toda turbación al poseedor o tenedor actual por el solo hecho de serlo, sin que se deba debatir el derecho a ello. Su procedencia depende de dos condiciones: 1) que quien lo intente se halle en...
+El artículo 2238 del CCC establece que las acciones posesorias proceden contra actos materiales que perturben la posesión, sin requerir que el ejecutor busque tomar la posesión para sí.
 
 ---
 
@@ -7503,19 +7519,19 @@ En materia sucesoria, los honorarios asignados a la etapa corresponden en un 80%
 
 ---
 
-## Acciones posesorias, procedencia del recurso
+## Sociedades comerciales, incidente de impugnación, impugnación de decisión asamblearia, legitimación procesal
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086145
-- **Caratula:** Ibarra, Guillermo Francisco c/ Chamot, Maximiliano Luis Alfredo y otro s-interdicto de retener s/ recurso de apelación
-- **Fecha:** 2025-05-14
+- **Numero:** I0086155
+- **Caratula:** Baggio, Rufino Pablo c/ R.P.B. S.A. s/ ordinario impugnación de asamblea
+- **Fecha:** 2025-05-12
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** acciones posesorias, procedencia del recurso
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5416-800isoiramus
+- **Materia:** COMERCIAL-PROCESAL
+- **Descriptores:** sociedades comerciales, incidente de impugnación, impugnación de decisión asamblearia, legitimación procesal
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5516-800isoiramus
 
-El artículo 2238 del CCC establece que las acciones posesorias proceden contra actos materiales que perturben la posesión, sin requerir que el ejecutor busque tomar la posesión para sí.
+Si los socios poseen la totalidad del capital social, ello no autoriza a suprimir la personalidad jurídica de la sociedad. En el marco de una acción impugnación de la decisión asamblearia (art. 251 LSC), admitir una suerte de legitimación pasiva...
 
 ---
 
@@ -7535,22 +7551,6 @@ Los socios de la sociedad comercial, quienes reclamaron intervención voluntaria
 
 ---
 
-## Legitimación procesal, interpretación amplia, acciones societarias
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086160
-- **Caratula:** Baggio, Rufino Pablo c/ R.P.B. S.A. s/ ordinario impugnación de asamblea
-- **Fecha:** 2025-05-12
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** legitimación procesal, interpretación amplia, acciones societarias
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0616-800isoiramus
-
-En materia de legitimaciones impera una suerte de "ensanchamiento" de su conceptualización que ha dado lugar a nuevas nociones de legitimación anormal, anómala, extraordinaria y atípica, que alcanzan al ámbito societario, elastizándolas, para dar...
-
----
-
 ## Sociedades comerciales, incidente de impugnación, impugnación de decisión asamblearia, interpretación amplia
 
 - **Tipo:** Jurisprudencia
@@ -7564,86 +7564,6 @@ En materia de legitimaciones impera una suerte de "ensanchamiento" de su concept
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2616-800isoiramus
 
 Aunque no lo exprese el art. 251 LGS, los socios desplazados de la administración pueden conservar legitimación residual, siendo que además conformaron la mayoría de la asamblea impugnada, sin que pueda pensarse que el administrador que los desplazó...
-
----
-
-## Sociedades comerciales, impugnación de decisión asamblearia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086156
-- **Caratula:** Baggio, Rufino Pablo c/ R.P.B. S.A. s/ ordinario impugnación de asamblea
-- **Fecha:** 2025-05-12
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** sociedades comerciales, impugnación de decisión asamblearia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6516-800isoiramus
-
-En el marco de una acción de nulidad de decisiones asamblearias (art. 251 LSC), debe tenerse presente que la calidad de accionista o tenedor de acciones de una sociedad anónima no otorga, en principio, legitimación o potestad para actuar en nombre...
-
----
-
-## Sociedades comerciales, impugnación de decisión asamblearia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086158
-- **Caratula:** Baggio, Rufino Pablo c/ R.P.B. S.A. s/ ordinario impugnación de asamblea
-- **Fecha:** 2025-05-12
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** sociedades comerciales, impugnación de decisión asamblearia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8516-800isoiramus
-
-Como lo refiere el art. 254 de LGS, la responsabilidad de los accionistas surgiría como hipótesis una vez declarada nulas las resoluciones impugnadas y no antes, con lo cual no se puede fundar en esa disposición la participación directa de los...
-
----
-
-## Sociedades comerciales, incidente de impugnación, impugnación de decisión asamblearia, legitimación procesal
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086155
-- **Caratula:** Baggio, Rufino Pablo c/ R.P.B. S.A. s/ ordinario impugnación de asamblea
-- **Fecha:** 2025-05-12
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL-PROCESAL
-- **Descriptores:** sociedades comerciales, incidente de impugnación, impugnación de decisión asamblearia, legitimación procesal
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5516-800isoiramus
-
-Si los socios poseen la totalidad del capital social, ello no autoriza a suprimir la personalidad jurídica de la sociedad. En el marco de una acción impugnación de la decisión asamblearia (art. 251 LSC), admitir una suerte de legitimación pasiva...
-
----
-
-## Sociedades comerciales, interés legítimo, legitimación procesal
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086154
-- **Caratula:** Baggio, Rufino Pablo c/ R.P.B. S.A. s/ ordinario impugnación de asamblea
-- **Fecha:** 2025-05-12
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL-PROCESAL
-- **Descriptores:** sociedades comerciales, interés legítimo, legitimación procesal
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4516-800isoiramus
-
-La representación residual, además de no estar contemplada ni en la normativa procesal ni en la societaria, se otorga en casos en que, ante la ausencia de una persona con legitimación directa (activa o pasiva) para actuar o ser demandada en un...
-
----
-
-## Sociedades comerciales, impugnación de decisión asamblearia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0086157
-- **Caratula:** Baggio, Rufino Pablo c/ R.P.B. S.A. s/ ordinario impugnación de asamblea
-- **Fecha:** 2025-05-12
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** sociedades comerciales, impugnación de decisión asamblearia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7516-800isoiramus
-
-En el marco de una acción de nulidad de decisiones asamblearias (art. 251 LSC), resulta incorrecto otorgar intervención a los socios de la sociedad comercial, si éstos no solicitaron intervenir en algún carácter en este proceso, sea como parte de un...
 
 ---
 
@@ -7663,51 +7583,83 @@ Las disposiciones que puedan limitar la legitimación procesal deben ser objeto 
 
 ---
 
-## Educación primaria, educación inclusiva, personas con discapacidad
+## Sociedades comerciales, impugnación de decisión asamblearia
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085584
-- **Caratula:** Prelat Héctor y Postel Mariana en representación de su hijo L.P. c/ Escuela El Principito y C.G.E. Provincia de Entre Ríos - Dirección Escuelas Privadas s/ Acción de Amparo
-- **Fecha:** 2025-05-07
+- **Numero:** I0086158
+- **Caratula:** Baggio, Rufino Pablo c/ R.P.B. S.A. s/ ordinario impugnación de asamblea
+- **Fecha:** 2025-05-12
 - **Provincia:** Entre Ríos
-- **Materia:** EDUCACION
-- **Descriptores:** educación primaria, educación inclusiva, personas con discapacidad
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4855-800isoiramus
+- **Materia:** COMERCIAL
+- **Descriptores:** sociedades comerciales, impugnación de decisión asamblearia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8516-800isoiramus
 
-El Proyecto Pedagógico Individual (PPI), se construye cuando se requiere flexibilización significativa en los espacios curriculares con el fin de disminuir o eliminar barreras académicas al aprendizaje, interviniendo didácticamente los propósitos de...
+Como lo refiere el art. 254 de LGS, la responsabilidad de los accionistas surgiría como hipótesis una vez declarada nulas las resoluciones impugnadas y no antes, con lo cual no se puede fundar en esa disposición la participación directa de los...
 
 ---
 
-## Ley federal de educación, educación primaria, educación inclusiva, establecimientos educacionales privados, revocación de sentencia
+## Sociedades comerciales, impugnación de decisión asamblearia
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085585
-- **Caratula:** Prelat Héctor y Postel Mariana en representación de su hijo L.P. c/ Escuela El Principito y C.G.E. Provincia de Entre Ríos - Dirección Escuelas Privadas s/ Acción de Amparo
-- **Fecha:** 2025-05-07
+- **Numero:** I0086157
+- **Caratula:** Baggio, Rufino Pablo c/ R.P.B. S.A. s/ ordinario impugnación de asamblea
+- **Fecha:** 2025-05-12
 - **Provincia:** Entre Ríos
-- **Materia:** EDUCACION
-- **Descriptores:** ley de educación nacional, educación primaria, educación inclusiva, establecimientos educacionales privados, revocación de sentencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5855-800isoiramus
+- **Materia:** COMERCIAL
+- **Descriptores:** sociedades comerciales, impugnación de decisión asamblearia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7516-800isoiramus
 
-La Ley Nacional de Educación 26061 contempla la necesidad pedagógica de promover y desarrollar capacidades en el marco de la educación obligatoria, lo que resulta consolidado mediante el Proyecto Pedagógico Individual (PPI) del estudiante con...
+En el marco de una acción de nulidad de decisiones asamblearias (art. 251 LSC), resulta incorrecto otorgar intervención a los socios de la sociedad comercial, si éstos no solicitaron intervenir en algún carácter en este proceso, sea como parte de un...
 
 ---
 
-## Alimentos, índices de actualización, índice de precios al consumidor
+## Sociedades comerciales, interés legítimo, legitimación procesal
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086140
-- **Caratula:** R., V. M. en representación de su hijo menor de edad c/ G., A. A. y otros s/ incidente aumento cuota alimentaria
-- **Fecha:** 2025-05-07
+- **Numero:** I0086154
+- **Caratula:** Baggio, Rufino Pablo c/ R.P.B. S.A. s/ ordinario impugnación de asamblea
+- **Fecha:** 2025-05-12
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** alimentos, índices de actualización, índice de precios al consumidor
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0416-800isoiramus
+- **Materia:** COMERCIAL-PROCESAL
+- **Descriptores:** sociedades comerciales, interés legítimo, legitimación procesal
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4516-800isoiramus
 
-La cuota alimentaria es una deuda de valor, carácter que surge del contenido que prevé el art. 659 CCC. Su ajuste debe contemplar el deterioro del poder adquisitivo del dinero, siendo la pauta a utilizar el IPC nivel general a nivel nacional...
+La representación residual, además de no estar contemplada ni en la normativa procesal ni en la societaria, se otorga en casos en que, ante la ausencia de una persona con legitimación directa (activa o pasiva) para actuar o ser demandada en un...
+
+---
+
+## Legitimación procesal, interpretación amplia, acciones societarias
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086160
+- **Caratula:** Baggio, Rufino Pablo c/ R.P.B. S.A. s/ ordinario impugnación de asamblea
+- **Fecha:** 2025-05-12
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** legitimación procesal, interpretación amplia, acciones societarias
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0616-800isoiramus
+
+En materia de legitimaciones impera una suerte de "ensanchamiento" de su conceptualización que ha dado lugar a nuevas nociones de legitimación anormal, anómala, extraordinaria y atípica, que alcanzan al ámbito societario, elastizándolas, para dar...
+
+---
+
+## Sociedades comerciales, impugnación de decisión asamblearia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0086156
+- **Caratula:** Baggio, Rufino Pablo c/ R.P.B. S.A. s/ ordinario impugnación de asamblea
+- **Fecha:** 2025-05-12
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL
+- **Descriptores:** sociedades comerciales, impugnación de decisión asamblearia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6516-800isoiramus
+
+En el marco de una acción de nulidad de decisiones asamblearias (art. 251 LSC), debe tenerse presente que la calidad de accionista o tenedor de acciones de una sociedad anónima no otorga, en principio, legitimación o potestad para actuar en nombre...
 
 ---
 
@@ -7727,6 +7679,38 @@ La nulidad de la sentencia se encuentra sujeta a la comprobación de una omisió
 
 ---
 
+## Educación inclusiva, educación primaria, personas con discapacidad mental, ENTRE RÍOS, DIRECCIÓN GENERAL DE ESCUELAS, interés superior del niño, revocación de sentencia, establecimientos educacionales privados, prueba de informes
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085586
+- **Caratula:** Prelat Héctor y Postel Mariana en representación de su hijo L.P. c/ Escuela El Principito y C.G.E. Provincia de Entre Ríos - Dirección Escuelas Privadas s/ Acción de Amparo
+- **Fecha:** 2025-05-07
+- **Provincia:** Entre Ríos
+- **Materia:** EDUCACION
+- **Descriptores:** educación inclusiva, educación primaria, personas con discapacidad mental, ENTRE RÍOS, DIRECCIÓN GENERAL DE ESCUELAS, interés superior del niño, revocación de sentencia, establecimientos educacionales privados, prueba de informes
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6855-800isoiramus
+
+Si bien no cabe desconocer el dictamen que da cuenta de las consecuencias emocionales que podrían ocasionar al niño la no continuidad con sus compañeros de promoción, ello no significa que pueda hacerse caso omiso de los argumentos brindados por la...
+
+---
+
+## Educación primaria, educación inclusiva, personas con discapacidad
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085584
+- **Caratula:** Prelat Héctor y Postel Mariana en representación de su hijo L.P. c/ Escuela El Principito y C.G.E. Provincia de Entre Ríos - Dirección Escuelas Privadas s/ Acción de Amparo
+- **Fecha:** 2025-05-07
+- **Provincia:** Entre Ríos
+- **Materia:** EDUCACION
+- **Descriptores:** educación primaria, educación inclusiva, personas con discapacidad
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4855-800isoiramus
+
+El Proyecto Pedagógico Individual (PPI), se construye cuando se requiere flexibilización significativa en los espacios curriculares con el fin de disminuir o eliminar barreras académicas al aprendizaje, interviniendo didácticamente los propósitos de...
+
+---
+
 ## Alimentos, trabajadores temporarios, obligación subsidiaria, abuelos
 
 - **Tipo:** Jurisprudencia
@@ -7743,19 +7727,35 @@ Aun cuando el progenitor alimentante alegue que puede abonar el 100% de la cuota
 
 ---
 
-## Educación inclusiva, educación primaria, personas con discapacidad mental, ENTRE RÍOS, DIRECCIÓN GENERAL DE ESCUELAS, interés superior del niño, revocación de sentencia, establecimientos educacionales privados, prueba de informes
+## Alimentos, índices de actualización, índice de precios al consumidor
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085586
+- **Numero:** I0086140
+- **Caratula:** R., V. M. en representación de su hijo menor de edad c/ G., A. A. y otros s/ incidente aumento cuota alimentaria
+- **Fecha:** 2025-05-07
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** alimentos, índices de actualización, índice de precios al consumidor
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0416-800isoiramus
+
+La cuota alimentaria es una deuda de valor, carácter que surge del contenido que prevé el art. 659 CCC. Su ajuste debe contemplar el deterioro del poder adquisitivo del dinero, siendo la pauta a utilizar el IPC nivel general a nivel nacional...
+
+---
+
+## Ley federal de educación, educación primaria, educación inclusiva, establecimientos educacionales privados, revocación de sentencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085585
 - **Caratula:** Prelat Héctor y Postel Mariana en representación de su hijo L.P. c/ Escuela El Principito y C.G.E. Provincia de Entre Ríos - Dirección Escuelas Privadas s/ Acción de Amparo
 - **Fecha:** 2025-05-07
 - **Provincia:** Entre Ríos
 - **Materia:** EDUCACION
-- **Descriptores:** educación inclusiva, educación primaria, personas con discapacidad mental, ENTRE RÍOS, DIRECCIÓN GENERAL DE ESCUELAS, interés superior del niño, revocación de sentencia, establecimientos educacionales privados, prueba de informes
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6855-800isoiramus
+- **Descriptores:** ley de educación nacional, educación primaria, educación inclusiva, establecimientos educacionales privados, revocación de sentencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5855-800isoiramus
 
-Si bien no cabe desconocer el dictamen que da cuenta de las consecuencias emocionales que podrían ocasionar al niño la no continuidad con sus compañeros de promoción, ello no significa que pueda hacerse caso omiso de los argumentos brindados por la...
+La Ley Nacional de Educación 26061 contempla la necesidad pedagógica de promover y desarrollar capacidades en el marco de la educación obligatoria, lo que resulta consolidado mediante el Proyecto Pedagógico Individual (PPI) del estudiante con...
 
 ---
 
@@ -7795,22 +7795,6 @@ Cuando se introduce la causa penal como prueba común, en calidad de prueba tras
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086165
-- **Caratula:** F., J. C. c/ F., D. C. s/ ordinario daños y perjuicios (Fernández Jalife Constanza s/ beneficio de litigar sin gastos
-- **Fecha:** 2025-05-06
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-PENAL
-- **Descriptores:** producción de la prueba, prueba documental, proceso penal
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5616-800isoiramus
-
-Las diligencias existentes en el legajo de investigación fiscal son confeccionadas por funcionarios públicos y, como tales, dichos documentos gozan de plena fe pública hasta tanto sean redargüidos de falsedad.
-
----
-
-## Producción de la prueba, prueba documental, proceso penal
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
 - **Numero:** I0086163
 - **Caratula:** F., J. C. c/ F., D. C. s/ ordinario daños y perjuicios (Fernández Jalife Constanza s/ beneficio de litigar sin gastos
 - **Fecha:** 2025-05-06
@@ -7823,115 +7807,19 @@ La producción de pruebas realizadas en otro proceso, es susceptible de ser pond
 
 ---
 
-## Asegurador por riesgos del trabajo, Derecho laboral
+## Producción de la prueba, prueba documental, proceso penal
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085836
-- **Caratula:** Acosta Agustín Alexis c/ Provincia ART S.A. c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-30
+- **Numero:** I0086165
+- **Caratula:** F., J. C. c/ F., D. C. s/ ordinario daños y perjuicios (Fernández Jalife Constanza s/ beneficio de litigar sin gastos
+- **Fecha:** 2025-05-06
 - **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** asegurador por riesgos del trabajo, Derecho laboral
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6385-800isoiramus
+- **Materia:** PROCESAL-PENAL
+- **Descriptores:** producción de la prueba, prueba documental, proceso penal
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5616-800isoiramus
 
-La Sala participa de de la aplicación de la teoría de la indiferencia de la concausa en el ámbito sistémico, pero solo en casos de duda o cuando el auxiliar no puede pronunciarse sobre la incidencia de factores ajenos al trabajo. En el caso, el...
-
----
-
-## Asegurador por riesgos del trabajo, fallos de la Corte, aplicación de la ley
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085830
-- **Caratula:** Pavoni Sergio Ezequiel c/ La Segunda Aseguradora de Riesgos del Trabajo S.A. c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, fallos de la Corte, aplicación de la ley
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0385-800isoiramus
-
-La Sala del Trabajo del STJER en la causa "Crettaz" estableció doctrina de aplicación obligatoria (arts. 284 y 285 del CPCC) para los jueces de instancias inferiores. Dicha doctrina, aplicada al cálculo del IBM conforme al Decreto Nº 669/19, dispuso...
-
----
-
-## Asegurador por riesgos del trabajo, obligaciones del empleador, obligaciones de las partes, examen preocupacional
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085835
-- **Caratula:** Acosta Agustín Alexis c/ Provincia ART S.A. c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, obligaciones del empleador, obligaciones de las partes, examen preocupacional
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5385-800isoiramus
-
-La ausencia de exámenes preocupacionales solo verifica preexistencias, pero es distinta del concepto de inculpabilidad (patología ajena al trabajo). En consecuencia, la omisión de estos exámenes tiene una incidencia solo relativa en la solución. La...
-
----
-
-## Asegurador por riesgos del trabajo, enfermedades inculpables
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085834
-- **Caratula:** Acosta Agustín Alexis c/ Provincia ART S.A. c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, enfermedades inculpables
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4385-800isoiramus
-
-La LRT no repara la contingencia en sí misma, sino únicamente los daños o limitaciones funcionales que guarden relación de causalidad con el accidente y/o enfermedad. A partir de ello, cabe en el presente rechazar la acción porque el daño que padece...
-
----
-
-## Aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085831
-- **Caratula:** Pavoni Sergio Ezequiel c/ La Segunda Aseguradora de Riesgos del Trabajo S.A. c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-30
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1385-800isoiramus
-
-La prueba pericial médica es la más idónea y adecuada para determinar el daño y las secuelas de un accidente de trabajo. Para apartarse de las conclusiones periciales, se requieren elementos "no menos convincentes", los cuales no se encentran en el...
-
----
-
-## Asegurador por riesgos del trabajo, culpabilidad, preexistencia de la cosa, Derecho laboral
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085832
-- **Caratula:** Acosta Agustín Alexis c/ Provincia ART S.A. c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, culpabilidad, preexistencia de la cosa, Derecho laboral
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2385-800isoiramus
-
-Para la procedencia de indemnizaciones previstas por la LRT, la incapacidad debe ser "por" el trabajo, y no solo una disminución "para" el trabajo, siendo la causalidad un presupuesto ineludible. Una patología puede ser preexistente (anterior a la...
-
----
-
-## Asegurador por riesgos del trabajo, principio de congruencia, objeto del proceso
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085833
-- **Caratula:** Acosta Agustín Alexis c/ Provincia ART S.A. c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, principio de congruencia, objeto del proceso
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3385-800isoiramus
-
-Cuando la acción se promueve específicamente por un "accidente de trabajo" (hecho súbito y violento), no es posible mutar la pretensión al calor de que un dictamen médico resulte perjudicial para los intereses del recurrente y pretender se considere...
+Las diligencias existentes en el legajo de investigación fiscal son confeccionadas por funcionarios públicos y, como tales, dichos documentos gozan de plena fe pública hasta tanto sean redargüidos de falsedad.
 
 ---
 
@@ -7951,6 +7839,86 @@ En el marco de una acción sistémica (LRT), rige la presunción de autoría y c
 
 ---
 
+## Aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085831
+- **Caratula:** Pavoni Sergio Ezequiel c/ La Segunda Aseguradora de Riesgos del Trabajo S.A. c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-30
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1385-800isoiramus
+
+La prueba pericial médica es la más idónea y adecuada para determinar el daño y las secuelas de un accidente de trabajo. Para apartarse de las conclusiones periciales, se requieren elementos "no menos convincentes", los cuales no se encentran en el...
+
+---
+
+## Asegurador por riesgos del trabajo, principio de congruencia, objeto del proceso
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085833
+- **Caratula:** Acosta Agustín Alexis c/ Provincia ART S.A. c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, principio de congruencia, objeto del proceso
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3385-800isoiramus
+
+Cuando la acción se promueve específicamente por un "accidente de trabajo" (hecho súbito y violento), no es posible mutar la pretensión al calor de que un dictamen médico resulte perjudicial para los intereses del recurrente y pretender se considere...
+
+---
+
+## Asegurador por riesgos del trabajo, culpabilidad, preexistencia de la cosa, Derecho laboral
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085832
+- **Caratula:** Acosta Agustín Alexis c/ Provincia ART S.A. c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, culpabilidad, preexistencia de la cosa, Derecho laboral
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2385-800isoiramus
+
+Para la procedencia de indemnizaciones previstas por la LRT, la incapacidad debe ser "por" el trabajo, y no solo una disminución "para" el trabajo, siendo la causalidad un presupuesto ineludible. Una patología puede ser preexistente (anterior a la...
+
+---
+
+## Asegurador por riesgos del trabajo, Derecho laboral
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085836
+- **Caratula:** Acosta Agustín Alexis c/ Provincia ART S.A. c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** asegurador por riesgos del trabajo, Derecho laboral
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6385-800isoiramus
+
+La Sala participa de de la aplicación de la teoría de la indiferencia de la concausa en el ámbito sistémico, pero solo en casos de duda o cuando el auxiliar no puede pronunciarse sobre la incidencia de factores ajenos al trabajo. En el caso, el...
+
+---
+
+## Asegurador por riesgos del trabajo, obligaciones del empleador, obligaciones de las partes, examen preocupacional
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085835
+- **Caratula:** Acosta Agustín Alexis c/ Provincia ART S.A. c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, obligaciones del empleador, obligaciones de las partes, examen preocupacional
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5385-800isoiramus
+
+La ausencia de exámenes preocupacionales solo verifica preexistencias, pero es distinta del concepto de inculpabilidad (patología ajena al trabajo). En consecuencia, la omisión de estos exámenes tiene una incidencia solo relativa en la solución. La...
+
+---
+
 ## Asegurador por riesgos del trabajo, indiferencia de la concausa, Derecho laboral
 
 - **Tipo:** Jurisprudencia
@@ -7964,6 +7932,38 @@ En el marco de una acción sistémica (LRT), rige la presunción de autoría y c
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7385-800isoiramus
 
 La mayoría soslaya la teoría de la indiferencia de la concausa, que es una base fundamental del sistema de riesgos del trabajo. Si la ART y la empleadora incumplieron su deber de realizar exámenes médicos (preocupacionales y periódicos), deben ser...
+
+---
+
+## Asegurador por riesgos del trabajo, fallos de la Corte, aplicación de la ley
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085830
+- **Caratula:** Pavoni Sergio Ezequiel c/ La Segunda Aseguradora de Riesgos del Trabajo S.A. c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, fallos de la Corte, aplicación de la ley
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0385-800isoiramus
+
+La Sala del Trabajo del STJER en la causa "Crettaz" estableció doctrina de aplicación obligatoria (arts. 284 y 285 del CPCC) para los jueces de instancias inferiores. Dicha doctrina, aplicada al cálculo del IBM conforme al Decreto Nº 669/19, dispuso...
+
+---
+
+## Asegurador por riesgos del trabajo, enfermedades inculpables
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085834
+- **Caratula:** Acosta Agustín Alexis c/ Provincia ART S.A. c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, enfermedades inculpables
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4385-800isoiramus
+
+La LRT no repara la contingencia en sí misma, sino únicamente los daños o limitaciones funcionales que guarden relación de causalidad con el accidente y/o enfermedad. A partir de ello, cabe en el presente rechazar la acción porque el daño que padece...
 
 ---
 
@@ -7983,22 +7983,6 @@ A pesar del allanamiento de la Aseguradora, la única cuestión remanente era a 
 
 ---
 
-## Reconvención, uniones convivenciales
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085675
-- **Caratula:** F., A. A. c/ M., G. s/ ordinario (f.i 12.09.24 -división de condominio- of. 848/2- incompetencia)
-- **Fecha:** 2025-04-29
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** reconvención, uniones convivenciales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5765-800isoiramus
-
-Si la parte demandada deduce reconvención por compensación económica y atribución de la vivienda con motivo de la ruptura la unión convivencial, introduciendo una nueva pretensión a la deducida por el actor con su acción de división de condominio,...
-
----
-
 ## Reconvención
 
 - **Tipo:** Jurisprudencia
@@ -8015,35 +7999,19 @@ Como consecuencia de la reconvención se incorpora al proceso un nuevo objeto, a
 
 ---
 
-## Asegurador por riesgos del trabajo, Derecho laboral, constitucionalidad
+## Reconvención, uniones convivenciales
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085842
-- **Caratula:** Sánchez Héctor Anselmo c/ Instituto Autárquico Provincial del Seguro de Entre Ríos c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-28
+- **Numero:** I0085675
+- **Caratula:** F., A. A. c/ M., G. s/ ordinario (f.i 12.09.24 -división de condominio- of. 848/2- incompetencia)
+- **Fecha:** 2025-04-29
 - **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, Derecho laboral, constitucionalidad
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2485-800isoiramus
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** reconvención, uniones convivenciales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5765-800isoiramus
 
-Aunque no soslayo la loable intención de beneficiar al trabajador y evitar la licuación de los créditos por inflación, considero inapropiado recurrir al DNU 669/19 como herramienta para paliar el flagelo inflacionario. Dicho decreto no supera el...
-
----
-
-## Asegurador por riesgos del trabajo, Derecho laboral, liquidación, fallos de la Corte Suprema
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085843
-- **Caratula:** Sánchez Héctor Anselmo c/ Instituto Autárquico Provincial del Seguro de Entre Ríos c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-28
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, Derecho laboral, liquidación, fallos de la Corte Suprema
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3485-800isoiramus
-
-La cuestión de los intereses es de hecho y prueba, y no es posible predicar doctrina legal obligatoria de los tribunales superiores en este aspecto. No obstante ello, el STJER dispuso que la solución de "Crettaz" fuera "casatoria" y de obligatorio...
+Si la parte demandada deduce reconvención por compensación económica y atribución de la vivienda con motivo de la ruptura la unión convivencial, introduciendo una nueva pretensión a la deducida por el actor con su acción de división de condominio,...
 
 ---
 
@@ -8051,15 +8019,15 @@ La cuestión de los intereses es de hecho y prueba, y no es posible predicar doc
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085845
+- **Numero:** I0085844
 - **Caratula:** Sánchez Héctor Anselmo c/ Instituto Autárquico Provincial del Seguro de Entre Ríos c/ s/ Accidente de trabajo
 - **Fecha:** 2025-04-28
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL
 - **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, Derecho laboral, cómputo de intereses, liquidación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5485-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4485-800isoiramus
 
-Corresponde fijar una tasa de interés adicional o compensatoria del 12% anual, comprensiva del tiempo transcurrido desde el evento dañoso hasta la finalización del proceso, tal como dispuso el STJER. Resulta justa, ya que el actor se vio privado de...
+La naturaleza del interés que debe abonar una ART por no brindar prestaciones dinerarias debidas es moratoria o resarcitoria, ya que busca reparar el daño que el trabajador sufre por la mora de su deudora. El principio de reparación plena (art. 1740...
 
 ---
 
@@ -8079,19 +8047,51 @@ El magistrado de primera instancia obró correctamente al apegarse a la doctrina
 
 ---
 
+## Asegurador por riesgos del trabajo, Derecho laboral, liquidación, fallos de la Corte Suprema
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085843
+- **Caratula:** Sánchez Héctor Anselmo c/ Instituto Autárquico Provincial del Seguro de Entre Ríos c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-28
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, Derecho laboral, liquidación, fallos de la Corte Suprema
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3485-800isoiramus
+
+La cuestión de los intereses es de hecho y prueba, y no es posible predicar doctrina legal obligatoria de los tribunales superiores en este aspecto. No obstante ello, el STJER dispuso que la solución de "Crettaz" fuera "casatoria" y de obligatorio...
+
+---
+
+## Asegurador por riesgos del trabajo, Derecho laboral, constitucionalidad
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085842
+- **Caratula:** Sánchez Héctor Anselmo c/ Instituto Autárquico Provincial del Seguro de Entre Ríos c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-28
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, Derecho laboral, constitucionalidad
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2485-800isoiramus
+
+Aunque no soslayo la loable intención de beneficiar al trabajador y evitar la licuación de los créditos por inflación, considero inapropiado recurrir al DNU 669/19 como herramienta para paliar el flagelo inflacionario. Dicho decreto no supera el...
+
+---
+
 ## Asegurador por riesgos del trabajo, Derecho laboral, cómputo de intereses, liquidación
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085844
+- **Numero:** I0085845
 - **Caratula:** Sánchez Héctor Anselmo c/ Instituto Autárquico Provincial del Seguro de Entre Ríos c/ s/ Accidente de trabajo
 - **Fecha:** 2025-04-28
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL
 - **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, Derecho laboral, cómputo de intereses, liquidación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4485-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5485-800isoiramus
 
-La naturaleza del interés que debe abonar una ART por no brindar prestaciones dinerarias debidas es moratoria o resarcitoria, ya que busca reparar el daño que el trabajador sufre por la mora de su deudora. El principio de reparación plena (art. 1740...
+Corresponde fijar una tasa de interés adicional o compensatoria del 12% anual, comprensiva del tiempo transcurrido desde el evento dañoso hasta la finalización del proceso, tal como dispuso el STJER. Resulta justa, ya que el actor se vio privado de...
 
 ---
 
@@ -8127,6 +8127,54 @@ Existe un error de cálculo al fijar los honorarios profesionales al tomarse una
 
 ---
 
+## Nulidad de la subasta
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085685
+- **Caratula:** Catan, Carlos Felipe y otra c/ Catan, Gastón Eduardo s rendición de cuentas s/ ejecución de sentencia
+- **Fecha:** 2025-04-23
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** nulidad de la subasta
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5865-800isoiramus
+
+En el supuesto particular de la nulidad de la subasta judicial decretada de oficio, la facultad de la jurisdicción viene dada frente a la existencia de vicios suficientes que comprometan su actividad, cuyo efecto, al igual que la peticionada por...
+
+---
+
+## Asegurador por riesgos del trabajo, Derecho laboral, cómputo de intereses, liquidación
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085847
+- **Caratula:** Pradel Matías Fabián c/ Provincia ART S.A. c/ s/ Enfermedad profesional
+- **Fecha:** 2025-04-23
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, Derecho laboral, cómputo de intereses, liquidación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7485-800isoiramus
+
+Habiéndose actualizado el valor real de la acreencia de la CAPU a la fecha del fallo, corresponde aplicar una tasa de interés adicional del 3% anual en concepto de intereses moratorios desde la fecha de la Primera Manifestación Invalidante. La tasa...
+
+---
+
+## Derecho laboral, falta de legitimación para obrar, legitimación pasiva, personal militar, riesgos del trabajo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085849
+- **Caratula:** Pradel Matías Fabián c/ Provincia ART S.A. c/ s/ Enfermedad profesional
+- **Fecha:** 2025-04-23
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** Derecho laboral, falta de legitimación para obrar, legitimación pasiva, personal militar, riesgos del trabajo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9485-800isoiramus
+
+Corresponde rechazar la defensa de falta de legitimación pasiva planteada por Provincia ART S.A.. La alegación de que el Ejército Argentino es auto-asegurado respecto de su personal militar queda desvirtuada por la prueba del contrato de afiliación...
+
+---
+
 ## Cesación de cuota alimentaria, costas, allanamiento
 
 - **Tipo:** Jurisprudencia
@@ -8140,6 +8188,70 @@ Existe un error de cálculo al fijar los honorarios profesionales al tomarse una
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3465-800isoiramus
 
 Si en el pedido de cese de la cuota alimentaria, la parte alimentada en su contestación se allana y no fue quien dió lugar a la reclamación, por aplicación de lo previsto en el art. 67 CPCC, las costas deben ser a cargo del alimentante.
+
+---
+
+## Subasta
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085688
+- **Caratula:** Catan, Carlos Felipe y otra c/ Catan, Gastón Eduardo s rendición de cuentas s/ ejecución de sentencia
+- **Fecha:** 2025-04-23
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** subasta
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8865-800isoiramus
+
+El hecho que surgiera de los edictos publicados y de otras constancias de la ejecución que la venta en subasta lo era respecto del 33% del inmueble y no del 100%, no corrige el defecto de la información que se publicó en el portal en la que el...
+
+---
+
+## Sucesiones, acumulación de procesos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085676
+- **Caratula:** Bruzzoni o Bruzoni, Carlos Mateo y otros c/ s/ sucesorio ab intestato
+- **Fecha:** 2025-04-23
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** sucesiones, acumulación de procesos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6765-800isoiramus
+
+Frente a la existencia de dos juicios sucesorios abiertos en la misma jurisdicción y correspondientes a un mismo causante, para decidir sobre la acumulación y, por ende, la competencia del juez, prima la pauta del avance procedimental, esto es, la...
+
+---
+
+## Asegurador por riesgos del trabajo, Derecho laboral, cómputo de intereses, liquidación
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085848
+- **Caratula:** Pradel Matías Fabián c/ Provincia ART S.A. c/ s/ Enfermedad profesional
+- **Fecha:** 2025-04-23
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, Derecho laboral, cómputo de intereses, liquidación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8485-800isoiramus
+
+La aplicación de los criterios Crettaz a la CAPU desnaturaliza el sistema, al convertir la prestación adicional en la principal. Existiendo un método de repotenciación de deuda claramente elegido por el legislador para la CAPU (ajuste semestral...
+
+---
+
+## Subasta, seguridad jurídica
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085686
+- **Caratula:** Catan, Carlos Felipe y otra c/ Catan, Gastón Eduardo s rendición de cuentas s/ ejecución de sentencia
+- **Fecha:** 2025-04-23
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** subasta, seguridad jurídica
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6865-800isoiramus
+
+En materia de subasta judicial, la publicidad correcta se vincula con el principio de transparencia, y la seguridad jurídica comprometida con el acto y la trascendencia que reviste para las partes del proceso, potenciales postores -ajenos a los...
 
 ---
 
@@ -8175,102 +8287,6 @@ Se revoca la sentencia de primera instancia en cuanto al método de liquidación
 
 ---
 
-## Nulidad de la subasta
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085685
-- **Caratula:** Catan, Carlos Felipe y otra c/ Catan, Gastón Eduardo s rendición de cuentas s/ ejecución de sentencia
-- **Fecha:** 2025-04-23
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** nulidad de la subasta
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5865-800isoiramus
-
-En el supuesto particular de la nulidad de la subasta judicial decretada de oficio, la facultad de la jurisdicción viene dada frente a la existencia de vicios suficientes que comprometan su actividad, cuyo efecto, al igual que la peticionada por...
-
----
-
-## Subasta
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085688
-- **Caratula:** Catan, Carlos Felipe y otra c/ Catan, Gastón Eduardo s rendición de cuentas s/ ejecución de sentencia
-- **Fecha:** 2025-04-23
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** subasta
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8865-800isoiramus
-
-El hecho que surgiera de los edictos publicados y de otras constancias de la ejecución que la venta en subasta lo era respecto del 33% del inmueble y no del 100%, no corrige el defecto de la información que se publicó en el portal en la que el...
-
----
-
-## Asegurador por riesgos del trabajo, Derecho laboral, cómputo de intereses, liquidación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085847
-- **Caratula:** Pradel Matías Fabián c/ Provincia ART S.A. c/ s/ Enfermedad profesional
-- **Fecha:** 2025-04-23
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, Derecho laboral, cómputo de intereses, liquidación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7485-800isoiramus
-
-Habiéndose actualizado el valor real de la acreencia de la CAPU a la fecha del fallo, corresponde aplicar una tasa de interés adicional del 3% anual en concepto de intereses moratorios desde la fecha de la Primera Manifestación Invalidante. La tasa...
-
----
-
-## Sucesiones, acumulación de procesos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085676
-- **Caratula:** Bruzzoni o Bruzoni, Carlos Mateo y otros c/ s/ sucesorio ab intestato
-- **Fecha:** 2025-04-23
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** sucesiones, acumulación de procesos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6765-800isoiramus
-
-Frente a la existencia de dos juicios sucesorios abiertos en la misma jurisdicción y correspondientes a un mismo causante, para decidir sobre la acumulación y, por ende, la competencia del juez, prima la pauta del avance procedimental, esto es, la...
-
----
-
-## Derecho laboral, falta de legitimación para obrar, legitimación pasiva, personal militar, riesgos del trabajo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085849
-- **Caratula:** Pradel Matías Fabián c/ Provincia ART S.A. c/ s/ Enfermedad profesional
-- **Fecha:** 2025-04-23
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, falta de legitimación para obrar, legitimación pasiva, personal militar, riesgos del trabajo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9485-800isoiramus
-
-Corresponde rechazar la defensa de falta de legitimación pasiva planteada por Provincia ART S.A.. La alegación de que el Ejército Argentino es auto-asegurado respecto de su personal militar queda desvirtuada por la prueba del contrato de afiliación...
-
----
-
-## Asegurador por riesgos del trabajo, Derecho laboral, cómputo de intereses, liquidación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085848
-- **Caratula:** Pradel Matías Fabián c/ Provincia ART S.A. c/ s/ Enfermedad profesional
-- **Fecha:** 2025-04-23
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, Derecho laboral, cómputo de intereses, liquidación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8485-800isoiramus
-
-La aplicación de los criterios Crettaz a la CAPU desnaturaliza el sistema, al convertir la prestación adicional en la principal. Existiendo un método de repotenciación de deuda claramente elegido por el legislador para la CAPU (ajuste semestral...
-
----
-
 ## Subasta
 
 - **Tipo:** Jurisprudencia
@@ -8284,22 +8300,6 @@ La aplicación de los criterios Crettaz a la CAPU desnaturaliza el sistema, al c
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7865-800isoiramus
 
 Si el auto de remate no indicó de modo expreso que la subasta judicial electrónica se refería a la tercera parte (1/3) del inmueble, donde las condiciones detalladas en esa resolución fueron las que se volcaron en el portal de subastas electrónicas...
-
----
-
-## Subasta, seguridad jurídica
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085686
-- **Caratula:** Catan, Carlos Felipe y otra c/ Catan, Gastón Eduardo s rendición de cuentas s/ ejecución de sentencia
-- **Fecha:** 2025-04-23
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** subasta, seguridad jurídica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6865-800isoiramus
-
-En materia de subasta judicial, la publicidad correcta se vincula con el principio de transparencia, y la seguridad jurídica comprometida con el acto y la trascendencia que reviste para las partes del proceso, potenciales postores -ajenos a los...
 
 ---
 
@@ -8332,54 +8332,6 @@ El art. 61 de la Ley 7046 divide los procesos incidentales en etapas. Si la labo
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4465-800isoiramus
 
 Si en el proceso judicial que fijó la cuota alimentaria provisoria las partes con posterioridad arriban a un acuerdo, la condena en costas por su orden no responde a los principios generales que rigen la materia ni a la específica norma del art. 138...
-
----
-
-## Derecho laboral, contratos, jornada de trabajo, contrato de trabajo por tiempo determinado
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085869
-- **Caratula:** Gómez Luis Fernando c/ Frigorífico La Morena S.R.L. c/ s/ Cobro de pesos y entrega de certificación laboral
-- **Fecha:** 2025-04-15
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, contratos, jornada de trabajo, contrato de trabajo por tiempo determinado
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9685-800isoiramus
-
-En el caso, cabe  analizar la relación en dos etapas. Respecto a la etapa inicial bajo el Acuerdo de Entrenamiento (julio a diciembre de 2022), no se acreditó la mutación o alteración de la jornada, pues el actor no presentó una crítica suficiente a...
-
----
-
-## Prueba de ADN, allanamiento, costas
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085645
-- **Caratula:** S., P. E. c/ F., A. Y T., C. P. s/ ordinario impugnación de filiación (digital)
-- **Fecha:** 2025-04-15
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** prueba de ADN, allanamiento, costas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5465-800isoiramus
-
-Si la prueba biológica de ADN ya se produjo al iniciar la demanda y el demandado al allanarse manifestó que nada podía hacer frente a sus constancias, tales circunstancias muestran que el demandado mantuvo un comportamiento colaborativo, y no parece...
-
----
-
-## Derecho laboral, jornada de trabajo, carga de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085871
-- **Caratula:** Gómez Luis Fernando c/ Frigorífico La Morena S.R.L. c/ s/ Cobro de pesos y entrega de certificación laboral
-- **Fecha:** 2025-04-15
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, jornada de trabajo, carga de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1785-800isoiramus
-
-Cuando se discute la extensión de la jornada laboral, si el empleador alega una jornada reducida (como en el caso, en el período registrado, 4 horas), es el empleador quien debe demostrar ese extremo fáctico, y no el trabajador (Voto Ronconi....
 
 ---
 
@@ -8431,6 +8383,54 @@ Si el conductor de profesión transportista estaciona un camión en un lugar don
 
 ---
 
+## Derecho laboral, contratos, jornada de trabajo, contrato de trabajo por tiempo determinado
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085869
+- **Caratula:** Gómez Luis Fernando c/ Frigorífico La Morena S.R.L. c/ s/ Cobro de pesos y entrega de certificación laboral
+- **Fecha:** 2025-04-15
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** Derecho laboral, contratos, jornada de trabajo, contrato de trabajo por tiempo determinado
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9685-800isoiramus
+
+En el caso, cabe  analizar la relación en dos etapas. Respecto a la etapa inicial bajo el Acuerdo de Entrenamiento (julio a diciembre de 2022), no se acreditó la mutación o alteración de la jornada, pues el actor no presentó una crítica suficiente a...
+
+---
+
+## Derecho laboral, jornada de trabajo, carga de la prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085871
+- **Caratula:** Gómez Luis Fernando c/ Frigorífico La Morena S.R.L. c/ s/ Cobro de pesos y entrega de certificación laboral
+- **Fecha:** 2025-04-15
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** Derecho laboral, jornada de trabajo, carga de la prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1785-800isoiramus
+
+Cuando se discute la extensión de la jornada laboral, si el empleador alega una jornada reducida (como en el caso, en el período registrado, 4 horas), es el empleador quien debe demostrar ese extremo fáctico, y no el trabajador (Voto Ronconi....
+
+---
+
+## Prueba de ADN, allanamiento, costas
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085645
+- **Caratula:** S., P. E. c/ F., A. Y T., C. P. s/ ordinario impugnación de filiación (digital)
+- **Fecha:** 2025-04-15
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** prueba de ADN, allanamiento, costas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5465-800isoiramus
+
+Si la prueba biológica de ADN ya se produjo al iniciar la demanda y el demandado al allanarse manifestó que nada podía hacer frente a sus constancias, tales circunstancias muestran que el demandado mantuvo un comportamiento colaborativo, y no parece...
+
+---
+
 ## Derecho procesal, conducta procesal, partes del proceso, apreciación de la prueba
 
 - **Tipo:** Jurisprudencia
@@ -8444,70 +8444,6 @@ Si el conductor de profesión transportista estaciona un camión en un lugar don
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2785-800isoiramus
 
 En el caso, la conducta procesal asumida por la actora generó una presunción endoprocesal en su contra. La actora incurrió en un proceder que no se encuentra en línea con el principio de buena fe y lealtad al ocultar deliberadamente hechos...
-
----
-
-## Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085853
-- **Caratula:** Cejas Julio Roberto Gonzalo c/ Badaracco Daniel Alberto c/ s/ Cobro de pesos y entrega de certificación laboral
-- **Fecha:** 2025-04-14
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3585-800isoiramus
-
-La demanda incumple la carga de explicitación que fija el art. 59 del CPL cuando el escrito promocional dedica tan solo un párrafo a exponer los hechos y omite un relato claro y detallado de las circunstancias de tiempo, modo y lugar en que el actor...
-
----
-
-## Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085854
-- **Caratula:** Cejas Julio Roberto Gonzalo c/ Badaracco Daniel Alberto c/ s/ Cobro de pesos y entrega de certificación laboral
-- **Fecha:** 2025-04-14
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4585-800isoiramus
-
-La prueba ofrecida por el actor no resulta suficiente para acreditar la prestación de servicios en los términos del art. 23 de la LCT para hacer operativa la presunción de "laboralidad". Fue correcto y atinado el análisis y valoración de las...
-
----
-
-## Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085858
-- **Caratula:** Cepeda Hugo Daniel c/ Etchegoyen Horacio Juan Carlos c/ s/ Cobro de pesos y entrega de certificación laboral
-- **Fecha:** 2025-04-14
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8585-800isoiramus
-
-El testimonio único aportado por el actor para probar la relación laboral dependiente (arts. 21 y 22 LCT) no resultó suficiente, eficaz ni confiable para desvirtuar la sentencia de primera instancia. Aunque la ciencia procesal moderna acepta que el...
-
----
-
-## Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085855
-- **Caratula:** Cejas Julio Roberto Gonzalo c/ Badaracco Daniel Alberto c/ s/ Cobro de pesos y entrega de certificación laboral
-- **Fecha:** 2025-04-14
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5585-800isoiramus
-
-La omisión por parte del actor de exponer que en paralelo con las supuestas tareas que prestó para el demandado, cumplía labores en el marco de una probation en el Club Gualeguay Central, que le demandaba servicios en un horario coincidente (de...
 
 ---
 
@@ -8543,38 +8479,6 @@ No corresponde extender el beneficio de gratuidad (arts. 17 del CPL y 20 de la L
 
 ---
 
-## Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085859
-- **Caratula:** Cepeda Hugo Daniel c/ Etchegoyen Horacio Juan Carlos c/ s/ Cobro de pesos y entrega de certificación laboral
-- **Fecha:** 2025-04-14
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9585-800isoiramus
-
-Cabe señalar en autos la escasez probatoria mostrada por el accionante, quien, a pesar de haber enumerado otras personas que habrían trabajado en el desarmadero donde alegó haber laborado él, solo hizo comparecer a un único testigo. Esta escualidez...
-
----
-
-## Beneficio de litigar sin gastos, gratuidad del procedimiento, procedencia del recurso, rechazo de la demanda
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085857
-- **Caratula:** Cepeda Hugo Daniel c/ Etchegoyen Horacio Juan Carlos c/ s/ Cobro de pesos y entrega de certificación laboral
-- **Fecha:** 2025-04-14
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** beneficio de litigar sin gastos, gratuidad del procedimiento, procedencia del recurso, rechazo de la demanda
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7585-800isoiramus
-
-El beneficio de gratuidad (arts. 17 del CPL y 20 de la LCT) debe ser concedido y mantenido incluso al actor que, habiendo invocado la condición de trabajador, resulta vencido en el juicio por no haber podido probar la prestación de servicios. La...
-
----
-
 ## Derecho laboral, presunciones, aplicación de la ley, excepciones procesales, ley de contrato de trabajo
 
 - **Tipo:** Jurisprudencia
@@ -8595,6 +8499,38 @@ No resulta operativa la presunción del art. 23 de la LCT si la prestación de s
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
+- **Numero:** I0085854
+- **Caratula:** Cejas Julio Roberto Gonzalo c/ Badaracco Daniel Alberto c/ s/ Cobro de pesos y entrega de certificación laboral
+- **Fecha:** 2025-04-14
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4585-800isoiramus
+
+La prueba ofrecida por el actor no resulta suficiente para acreditar la prestación de servicios en los términos del art. 23 de la LCT para hacer operativa la presunción de "laboralidad". Fue correcto y atinado el análisis y valoración de las...
+
+---
+
+## Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085853
+- **Caratula:** Cejas Julio Roberto Gonzalo c/ Badaracco Daniel Alberto c/ s/ Cobro de pesos y entrega de certificación laboral
+- **Fecha:** 2025-04-14
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3585-800isoiramus
+
+La demanda incumple la carga de explicitación que fija el art. 59 del CPL cuando el escrito promocional dedica tan solo un párrafo a exponer los hechos y omite un relato claro y detallado de las circunstancias de tiempo, modo y lugar en que el actor...
+
+---
+
+## Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
 - **Numero:** I0085856
 - **Caratula:** Cejas Julio Roberto Gonzalo c/ Badaracco Daniel Alberto c/ s/ Cobro de pesos y entrega de certificación laboral
 - **Fecha:** 2025-04-14
@@ -8607,83 +8543,67 @@ La conducta observada por las partes durante el proceso posee naturaleza de indi
 
 ---
 
-## Gestión de negocios, mandato tácito
+## Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085655
-- **Caratula:** Caceres, Francisco Ramón y Barrozo Cristina c/ s/ sucesorio ab intestato s/ incidente de caducidad de instancia
-- **Fecha:** 2025-04-10
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** gestión de negocios, mandato tácito
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5565-800isoiramus
-
-La "administración extrajudicial" de hecho, contraria a la que surge de manera "convencional o por mandato expreso", tiene dos variantes, como "gestión de negocios" que opera cuando los restantes cotitulares desconocen la gestión llevada a cabo, por...
-
----
-
-## Derecho laboral, aplicación de la ley, comisiones médicas
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085815
-- **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-10
+- **Numero:** I0085859
+- **Caratula:** Cepeda Hugo Daniel c/ Etchegoyen Horacio Juan Carlos c/ s/ Cobro de pesos y entrega de certificación laboral
+- **Fecha:** 2025-04-14
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5185-800isoiramus
+- **Descriptores:** Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9585-800isoiramus
 
-El Estado Provincial Entrerriano no está cediendo ni delegando nada, pues la decisión final a través del conocimiento amplio de la situación sigue en manos de los jueces laborales provinciales. Es que, a la luz de las disposiciones específicas de la...
+Cabe señalar en autos la escasez probatoria mostrada por el accionante, quien, a pesar de haber enumerado otras personas que habrían trabajado en el desarmadero donde alegó haber laborado él, solo hizo comparecer a un único testigo. Esta escualidez...
 
 ---
 
-## Derecho laboral, aplicación de la ley, comisiones médicas
+## Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085820
-- **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-10
+- **Numero:** I0085855
+- **Caratula:** Cejas Julio Roberto Gonzalo c/ Badaracco Daniel Alberto c/ s/ Cobro de pesos y entrega de certificación laboral
+- **Fecha:** 2025-04-14
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0285-800isoiramus
+- **Descriptores:** Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5585-800isoiramus
 
-El argumento central que invalida constitucionalmente el art. 1° de la Ley 27.348 es la obligatoriedad de la instancia administrativa previa y excluyente que los trabajadores afectados por una contingencia o siniestro laboral deben agotar ante las...
-
----
-
-## Designación del administrador de la herencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085657
-- **Caratula:** Caceres, Francisco Ramón y Barrozo Cristina c/ s/ sucesorio ab intestato s/ incidente de caducidad de instancia
-- **Fecha:** 2025-04-10
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** designación del administrador de la herencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7565-800isoiramus
-
-La designación como administrador de un tercero o extraño a las personas que son llamadas a la sucesión, es la última alternativa prevista al orden de preferencia de los arts. 721 y 738 CPCCER y art. 2346 del CCC (cónyuge supérstite y, en su...
+La omisión por parte del actor de exponer que en paralelo con las supuestas tareas que prestó para el demandado, cumplía labores en el marco de una probation en el Club Gualeguay Central, que le demandaba servicios en un horario coincidente (de...
 
 ---
 
-## Derecho laboral, aplicación de la ley, comisiones médicas
+## Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085813
-- **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-10
+- **Numero:** I0085858
+- **Caratula:** Cepeda Hugo Daniel c/ Etchegoyen Horacio Juan Carlos c/ s/ Cobro de pesos y entrega de certificación laboral
+- **Fecha:** 2025-04-14
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3185-800isoiramus
+- **Descriptores:** Derecho laboral, contrato de trabajo, apreciación de la prueba, citación a juicio, interpretación de la ley
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8585-800isoiramus
 
-En relación a lo procedimental, advierto que con la adhesión en cuestión -materializada a través de la ley provincial n° 10.532-, no se ha trasladado a la Nación la potestad de los jueces provinciales de conocer y decidir en relación a situaciones...
+El testimonio único aportado por el actor para probar la relación laboral dependiente (arts. 21 y 22 LCT) no resultó suficiente, eficaz ni confiable para desvirtuar la sentencia de primera instancia. Aunque la ciencia procesal moderna acepta que el...
+
+---
+
+## Beneficio de litigar sin gastos, gratuidad del procedimiento, procedencia del recurso, rechazo de la demanda
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085857
+- **Caratula:** Cepeda Hugo Daniel c/ Etchegoyen Horacio Juan Carlos c/ s/ Cobro de pesos y entrega de certificación laboral
+- **Fecha:** 2025-04-14
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** beneficio de litigar sin gastos, gratuidad del procedimiento, procedencia del recurso, rechazo de la demanda
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7585-800isoiramus
+
+El beneficio de gratuidad (arts. 17 del CPL y 20 de la LCT) debe ser concedido y mantenido incluso al actor que, habiendo invocado la condición de trabajador, resulta vencido en el juicio por no haber podido probar la prestación de servicios. La...
 
 ---
 
@@ -8707,31 +8627,47 @@ Resulta inconstitucional sustraer de la competencia de los jueces naturales para
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085821
+- **Numero:** I0085817
 - **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
 - **Fecha:** 2025-04-10
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL
 - **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1285-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7185-800isoiramus
 
-Al disponer el art. 1 de la Ley 27.348, que la actuación de las Comisiones Médicas jurisdiccionales, creadas por el artículo 51 de la Ley N° 24.241, constituirá una instancia administrativa previa a la que el trabajador afectado por un infortunio...
+Los trabajadores deberán cumplir el siguiente trámite: 1) Recurrir a la CM para que ésta se expida sobre la existencia de la contingencia, y/o naturaleza laboral o no de la contingencia denunciada, y a efectos de que se pronuncie sobre el porcentaje...
 
 ---
 
-## Administrador de la herencia
+## Derecho laboral, aplicación de la ley, comisiones médicas
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085659
-- **Caratula:** Caceres, Francisco Ramón y Barrozo Cristina c/ s/ sucesorio ab intestato s/ incidente de caducidad de instancia
+- **Numero:** I0085815
+- **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
 - **Fecha:** 2025-04-10
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** administrador de la herencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9565-800isoiramus
+- **Materia:** LABORAL
+- **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5185-800isoiramus
 
-El letrado de uno de los herederos no está impedido de ejercer el rol de la administración de la herencia, ni tampoco se advierte un posible conflicto de intereses, en tanto su condición de administrador lo coloca no como un representante del...
+El Estado Provincial Entrerriano no está cediendo ni delegando nada, pues la decisión final a través del conocimiento amplio de la situación sigue en manos de los jueces laborales provinciales. Es que, a la luz de las disposiciones específicas de la...
+
+---
+
+## Derecho laboral, aplicación de la ley, comisiones médicas
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085814
+- **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-10
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4185-800isoiramus
+
+La revisión de lo decidido por las Comisiones Médicas queda en manos en definitiva del Poder Judicial de la Pcia. de Entre Ríos, y solo se obliga al trabajador siniestrado a que previamente transite su reclamo ante las Comisiones Médicas...
 
 ---
 
@@ -8748,6 +8684,102 @@ El letrado de uno de los herederos no está impedido de ejercer el rol de la adm
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1185-800isoiramus
 
 Las Comisiones Médicas fueron creadas por ley 24.241 -art. 51-. La independencia e imparcialidad de sus miembros, se ve garantizada en principio porque los profesionales que la integran deben lógicamente contar con título médico, matrícula y ser...
+
+---
+
+## Accidente de tránsito, daños y perjuicios
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085650
+- **Caratula:** Bellagamba, Alexis Fernan, Espindola, Gustavo Daniel y Bellagamba, Ana Paula c/ Ojeda, Ignacio Adrian y La Segunda Coop Ltda de Seguros Generales s/ ordinario daños y perjuicios
+- **Fecha:** 2025-04-10
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** accidente de tránsito, daños y perjuicios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0565-800isoiramus
+
+Aun cuando no se registren lesiones permanentes o temporarias, es claro que para llegar a tal pronóstico -incluso para poder la víctima tener tranquilidad luego de un accidente en que la conducta del conductor no tiene ningún justificativo-, es...
+
+---
+
+## Derecho laboral, aplicación de la ley, comisiones médicas
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085818
+- **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-10
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8185-800isoiramus
+
+Considero que corresponde que el juez laboral de grado se avoque al tratamiento aun en los casos en los que la instancia administrativa no haya sido transitada, por mantener la convicción de que las normas contenidas en los artículos 1, 2, 4, 5 y 6...
+
+---
+
+## Derecho laboral, aplicación de la ley, comisiones médicas
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085819
+- **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-10
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9185-800isoiramus
+
+La decisión de las leyes 27.348 y 10.532, al establecer que un conflicto de índole privada, que involucra a un sujeto doblemente hiposuficiente (un trabajador siniestrado, o que alega serlo), sea abordado por profesionales de la medicina, a quienes...
+
+---
+
+## Derecho laboral, aplicación de la ley, comisiones médicas
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085812
+- **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-10
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2185-800isoiramus
+
+El criterio vertido por la magistrada de grado luce impecable en mi opinión a la luz de las circunstancias actuales, y concuerda con mi postura acerca de esta problemática, por lo que entiendo al igual que la misma, que debía el demandante incoar el...
+
+---
+
+## Administrador de la herencia, rendición de cuentas
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085658
+- **Caratula:** Caceres, Francisco Ramón y Barrozo Cristina c/ s/ sucesorio ab intestato s/ incidente de caducidad de instancia
+- **Fecha:** 2025-04-10
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** administrador de la herencia, rendición de cuentas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8565-800isoiramus
+
+Si entre los herederos existe una confrontación al punto en que uno de ellos sostiene la existencia de una administración fraudulenta por parte del heredero-administrador, y cuyo objetivo sería satisfacer sus interés propios y, a la par, la...
+
+---
+
+## Daño moral, destrucción total del automotor
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085649
+- **Caratula:** Bellagamba, Alexis Fernan, Espindola, Gustavo Daniel y Bellagamba, Ana Paula c/ Ojeda, Ignacio Adrian y La Segunda Coop Ltda de Seguros Generales s/ ordinario daños y perjuicios
+- **Fecha:** 2025-04-10
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** daño moral, destrucción total del automotor
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9465-800isoiramus
+
+La objeción al daño moral que provoca en una persona la destrucción total de su vehículo es contraria al sentido común. Pensar que tal acontecimiento no provoca in re ipsa un sentimiento de angustia y desazón -que no fue buscado ni es causado por la...
 
 ---
 
@@ -8771,15 +8803,47 @@ En materia sucesoria, la diferencia entre la designación de un administrador pr
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085812
+- **Numero:** I0085813
 - **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
 - **Fecha:** 2025-04-10
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL
 - **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2185-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3185-800isoiramus
 
-El criterio vertido por la magistrada de grado luce impecable en mi opinión a la luz de las circunstancias actuales, y concuerda con mi postura acerca de esta problemática, por lo que entiendo al igual que la misma, que debía el demandante incoar el...
+En relación a lo procedimental, advierto que con la adhesión en cuestión -materializada a través de la ley provincial n° 10.532-, no se ha trasladado a la Nación la potestad de los jueces provinciales de conocer y decidir en relación a situaciones...
+
+---
+
+## Derecho laboral, aplicación de la ley, comisiones médicas
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085821
+- **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-10
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1285-800isoiramus
+
+Al disponer el art. 1 de la Ley 27.348, que la actuación de las Comisiones Médicas jurisdiccionales, creadas por el artículo 51 de la Ley N° 24.241, constituirá una instancia administrativa previa a la que el trabajador afectado por un infortunio...
+
+---
+
+## Gestión de negocios, mandato tácito
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085655
+- **Caratula:** Caceres, Francisco Ramón y Barrozo Cristina c/ s/ sucesorio ab intestato s/ incidente de caducidad de instancia
+- **Fecha:** 2025-04-10
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** gestión de negocios, mandato tácito
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5565-800isoiramus
+
+La "administración extrajudicial" de hecho, contraria a la que surge de manera "convencional o por mandato expreso", tiene dos variantes, como "gestión de negocios" que opera cuando los restantes cotitulares desconocen la gestión llevada a cabo, por...
 
 ---
 
@@ -8796,22 +8860,6 @@ El criterio vertido por la magistrada de grado luce impecable en mi opinión a l
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2285-800isoiramus
 
 El principio de "razonabilidad" es el que no supera el art. 1° de la Ley 27.348 dado que cualquier persona del pueblo, lega en materia de Derecho, puede advertir lo ridículo que resulta que un médico "juzgue". Esto se evidencia tan disparatado como...
-
----
-
-## Administrador de la herencia, rendición de cuentas
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085658
-- **Caratula:** Caceres, Francisco Ramón y Barrozo Cristina c/ s/ sucesorio ab intestato s/ incidente de caducidad de instancia
-- **Fecha:** 2025-04-10
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** administrador de la herencia, rendición de cuentas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8565-800isoiramus
-
-Si entre los herederos existe una confrontación al punto en que uno de ellos sostiene la existencia de una administración fraudulenta por parte del heredero-administrador, y cuyo objetivo sería satisfacer sus interés propios y, a la par, la...
 
 ---
 
@@ -8847,19 +8895,19 @@ El art. 1° de la Ley 27.348, en cuanto impone la instancia administrativa previ
 
 ---
 
-## Daño moral, destrucción total del automotor
+## Designación del administrador de la herencia
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085649
-- **Caratula:** Bellagamba, Alexis Fernan, Espindola, Gustavo Daniel y Bellagamba, Ana Paula c/ Ojeda, Ignacio Adrian y La Segunda Coop Ltda de Seguros Generales s/ ordinario daños y perjuicios
+- **Numero:** I0085657
+- **Caratula:** Caceres, Francisco Ramón y Barrozo Cristina c/ s/ sucesorio ab intestato s/ incidente de caducidad de instancia
 - **Fecha:** 2025-04-10
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** daño moral, destrucción total del automotor
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9465-800isoiramus
+- **Descriptores:** designación del administrador de la herencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7565-800isoiramus
 
-La objeción al daño moral que provoca en una persona la destrucción total de su vehículo es contraria al sentido común. Pensar que tal acontecimiento no provoca in re ipsa un sentimiento de angustia y desazón -que no fue buscado ni es causado por la...
+La designación como administrador de un tercero o extraño a las personas que son llamadas a la sucesión, es la última alternativa prevista al orden de preferencia de los arts. 721 y 738 CPCCER y art. 2346 del CCC (cónyuge supérstite y, en su...
 
 ---
 
@@ -8867,175 +8915,31 @@ La objeción al daño moral que provoca en una persona la destrucción total de 
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085818
+- **Numero:** I0085820
 - **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
 - **Fecha:** 2025-04-10
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL
 - **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8185-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0285-800isoiramus
 
-Considero que corresponde que el juez laboral de grado se avoque al tratamiento aun en los casos en los que la instancia administrativa no haya sido transitada, por mantener la convicción de que las normas contenidas en los artículos 1, 2, 4, 5 y 6...
-
----
-
-## Derecho laboral, aplicación de la ley, comisiones médicas
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085814
-- **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-10
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4185-800isoiramus
-
-La revisión de lo decidido por las Comisiones Médicas queda en manos en definitiva del Poder Judicial de la Pcia. de Entre Ríos, y solo se obliga al trabajador siniestrado a que previamente transite su reclamo ante las Comisiones Médicas...
+El argumento central que invalida constitucionalmente el art. 1° de la Ley 27.348 es la obligatoriedad de la instancia administrativa previa y excluyente que los trabajadores afectados por una contingencia o siniestro laboral deben agotar ante las...
 
 ---
 
-## Derecho laboral, aplicación de la ley, comisiones médicas
+## Administrador de la herencia
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085819
-- **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-10
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9185-800isoiramus
-
-La decisión de las leyes 27.348 y 10.532, al establecer que un conflicto de índole privada, que involucra a un sujeto doblemente hiposuficiente (un trabajador siniestrado, o que alega serlo), sea abordado por profesionales de la medicina, a quienes...
-
----
-
-## Accidente de tránsito, daños y perjuicios
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085650
-- **Caratula:** Bellagamba, Alexis Fernan, Espindola, Gustavo Daniel y Bellagamba, Ana Paula c/ Ojeda, Ignacio Adrian y La Segunda Coop Ltda de Seguros Generales s/ ordinario daños y perjuicios
+- **Numero:** I0085659
+- **Caratula:** Caceres, Francisco Ramón y Barrozo Cristina c/ s/ sucesorio ab intestato s/ incidente de caducidad de instancia
 - **Fecha:** 2025-04-10
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** accidente de tránsito, daños y perjuicios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0565-800isoiramus
+- **Descriptores:** administrador de la herencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9565-800isoiramus
 
-Aun cuando no se registren lesiones permanentes o temporarias, es claro que para llegar a tal pronóstico -incluso para poder la víctima tener tranquilidad luego de un accidente en que la conducta del conductor no tiene ningún justificativo-, es...
-
----
-
-## Derecho laboral, aplicación de la ley, comisiones médicas
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085817
-- **Caratula:** Bianchi Franco Mauricio c/ Federación Patronal Seguros SAU c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-10
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, aplicación de la ley, comisiones médicas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7185-800isoiramus
-
-Los trabajadores deberán cumplir el siguiente trámite: 1) Recurrir a la CM para que ésta se expida sobre la existencia de la contingencia, y/o naturaleza laboral o no de la contingencia denunciada, y a efectos de que se pronuncie sobre el porcentaje...
-
----
-
-## Representante legal
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085634
-- **Caratula:** Elgue, Miguel Angel y Elgue, Miguel Angel (h) c/ s/ sucesorio ab intestato (sucesorios acumulados)
-- **Fecha:** 2025-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** representante legal
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4365-800isoiramus
-
-Si el juez considera que el adolescente tiene intereses contrapuestos con su representante legal - progenitores-, de oficio debe definir si le asigna participación autónoma directa o indirecta, según si el NNyA tiene o no capacidad procesal, en cuya...
-
----
-
-## Sucesiones, competencia, declinatoria
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085662
-- **Caratula:** Ruiz Diaz, Virginia Verónica Anabel-Sucesorio Ab Intestato c/ s/ incidente competencia
-- **Fecha:** 2025-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** sucesiones, competencia, declinatoria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2665-800isoiramus
-
-En materia de competencia sucesoria, si la declinatoria del juez es consentida por la parte interesada, ello debe interpretarse como un desistimiento de la facultad inicialmente ejercida en relación a la prorrogar la competencia territorial dentro...
-
----
-
-## Plan de ahorro previo, medida de no innovar
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085672
-- **Caratula:** Matorra, Natalia Evangelina c/ Fca S.A. de ahorro para fines determinados s/ ordinario daños y perjuicios s/ recurso de apelación
-- **Fecha:** 2025-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL-PROCESAL
-- **Descriptores:** plan de ahorro previo, medida de no innovar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2765-800isoiramus
-
-En el marco de un proceso en el que la discusión involucra un contrato de plan de ahorro, resulta idónea la cautelar referida a la abstención de inicio de ejecución prendaria y/o acción judicial de cualquier naturaleza por la parte demandada, pues...
-
----
-
-## Aumento de cuota alimentaria
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085646
-- **Caratula:** E., E. I. c/ B., R. E. E. s/ incidente aumento cuota alimentaria (digital)
-- **Fecha:** 2025-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** aumento de cuota alimentaria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6465-800isoiramus
-
-Si las partes acordaron una cuota alimentaria en mayo de 2019 -en el caso, $30.000-, la pensión debe ajustarse y dado su carácter la pauta a utilizar es el IPC nivel general a nivel nacional acumulado que mide la evolución promedio de los precios....
-
----
-
-## Derecho laboral, despido, despido con causa, normas de seguridad
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085861
-- **Caratula:** Giménez Juan Gabriel c/ Soychu S.A.I.C.F.I.A. c/ s/ Cobro de pesos y entrega de certificación laboral
-- **Fecha:** 2025-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, despido, despido con causa, normas de seguridad
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1685-800isoiramus
-
-Se considera justificado el despido directo de un trabajador cuando se acredita que, a pesar de estar debidamente capacitado en normas de seguridad (incluso siendo técnico electricista-mecánico), incurrió junto a un compañero en graves...
-
----
-
-## Fundamentación del recurso
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085865
-- **Caratula:** Giménez Juan Gabriel c/ Soychu S.A.I.C.F.I.A. c/ s/ Cobro de pesos y entrega de certificación laboral
-- **Fecha:** 2025-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** fundamentación del recurso
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5685-800isoiramus
-
-El éxito de un recurso de apelación requiere que la impugnación se ocupe de rebatir concreta y puntualmente todas las postulaciones y motivos que forman la "ratio decidendi" del fallo. La omisión de impugnar incluso uno solo de los fundamentos...
+El letrado de uno de los herederos no está impedido de ejercer el rol de la administración de la herencia, ni tampoco se advierte un posible conflicto de intereses, en tanto su condición de administrador lo coloca no como un representante del...
 
 ---
 
@@ -9055,83 +8959,67 @@ Aun cuando los agravios sean generales, se debe aplicar un criterio amplio y ben
 
 ---
 
-## Aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
+## Ejecución prendaria, plan de ahorro previo
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085862
+- **Numero:** I0085678
+- **Caratula:** Plan Rombo S.A. de ahorro para fines determinados c/ Manzo, Guillermo Ignacio y otras s/ ejecución prendaria
+- **Fecha:** 2025-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-COMERCIAL
+- **Descriptores:** ejecución prendaria, plan de ahorro previo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8765-800isoiramus
+
+En las ejecuciones con base en un contrato de prenda que garantiza un contrato de ahorro para fines determinados, existe un marco regulatorio legal particular dado por la Ley N° 21.309 referida a hipotecas o prendas con registro constituidas para...
+
+---
+
+## Abogado del niño
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085636
+- **Caratula:** Elgue, Miguel Angel y Elgue, Miguel Angel (h) c/ s/ sucesorio ab intestato (sucesorios acumulados)
+- **Fecha:** 2025-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** abogado del niño
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6365-800isoiramus
+
+La suficiente madurez del adolescente para llevar a cabo el acto es una condición que con 13 años de edad se presume (discernimiento, art. 261 inc. c) CCC, pauta interpretativa art. 639 inc. b) CCC, y en especial en el marco de los arts. 677 a 679...
+
+---
+
+## Derecho procesal, conducta procesal, principios procesales, declaraciones contradictorias
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085860
 - **Caratula:** Giménez Juan Gabriel c/ Soychu S.A.I.C.F.I.A. c/ s/ Cobro de pesos y entrega de certificación laboral
 - **Fecha:** 2025-04-09
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
-- **Descriptores:** aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2685-800isoiramus
+- **Descriptores:** Derecho procesal, conducta procesal, principios procesales, declaraciones contradictorias
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0685-800isoiramus
 
-Cabe otorgar preponderancia a la pericia médica practicada en autos, que dictaminó una incapacidad del 7,6%, en relación al dictamen de la instancia administrativa (4,9%). El perito judicial consideró una limitación en la extensión de la rodilla...
-
----
-
-## Medida de no innovar
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085667
-- **Caratula:** Matorra, Natalia Evangelina c/ Fca S.A. de ahorro para fines determinados s/ ordinario daños y perjuicios s/ recurso de apelación
-- **Fecha:** 2025-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** medida de no innovar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7665-800isoiramus
-
-La prohibición de innovar resulta inadmisible cuando tiende a suspender el trámite de otro proceso o a impedir el cumplimiento de una resolución dictada en este. Tal cautelar no puede interferir en otro proceso distinto a aquel en que se la solicitó...
+La conducta intercadente o autocontradictoria de una parte procesal, manifestada en versiones distintas de los hechos (ej. en entrevistas, intercambio epistolar y en el juicio), genera una presunción en contra de quien incurre en ella y a favor de...
 
 ---
 
-## Capacidad procesal, menores
+## Aumento de cuota, plan de ahorro previo, ejecución prendaria
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085637
-- **Caratula:** Elgue, Miguel Angel y Elgue, Miguel Angel (h) c/ s/ sucesorio ab intestato (sucesorios acumulados)
-- **Fecha:** 2025-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** capacidad procesal, menores
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7365-800isoiramus
-
-La asistencia interdisciplinaria permitir verificar tanto la existencia de autonomía y madurez suficiente, y por ende capacidad procesal, en un menor de edad aunque no cuente con 13 años, desvirtuando en ese caso la presunción legal, como en sentido...
-
----
-
-## Prenda con registro, hipoteca
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085679
+- **Numero:** I0085680
 - **Caratula:** Plan Rombo S.A. de ahorro para fines determinados c/ Manzo, Guillermo Ignacio y otras s/ ejecución prendaria
 - **Fecha:** 2025-04-09
 - **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL-CIVIL
-- **Descriptores:** prenda con registro, hipoteca
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9765-800isoiramus
+- **Materia:** CIVIL-COMERCIAL
+- **Descriptores:** aumento de cuota, plan de ahorro previo, ejecución prendaria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0865-800isoiramus
 
-La Ley 21.309, referida a hipotecas o prendas con registro constituidas para garantizar obligaciones en dinero, en el art. 5 expresamente prevé si se procede al cobro ejecutivo del crédito, la ejecución debe iniciarse por la suma que, en definitiva,...
-
----
-
-## Costas en el orden causado, mediación, honorarios
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085666
-- **Caratula:** R., M. D. C. y otro c/ R., N. M. s/ régimen de comunicación (a favor de r., l. (dni 56.531.481))
-- **Fecha:** 2025-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** costas en el orden causado, mediación, honorarios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6665-800isoiramus
-
-Las "costas en el orden causado" implica que cada parte paga sus gastos y los comunes por mitades. Ante ello, y siendo que el costo de la mediación es un gasto común, las partes deben responder cada una por la mitad de la suma regulada en concepto...
+La previsión normativa de una cláusula de reajuste del valor de las cuotas adeudadas y ejecutadas con motivo de un contrato de prenda que garantiza un contrato de ahorro para fines determinados -art. 5 de la Ley 21.309-, surge a raíz de la...
 
 ---
 
@@ -9151,19 +9039,35 @@ Si el divorcio no tuvo contestación ni incluyó cuestión conexa alguna, la ret
 
 ---
 
-## Plan de ahorro previo, medida de no innovar
+## Derecho laboral, despido, despido con causa, normas de seguridad
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085668
-- **Caratula:** Matorra, Natalia Evangelina c/ Fca S.A. de ahorro para fines determinados s/ ordinario daños y perjuicios s/ recurso de apelación
+- **Numero:** I0085861
+- **Caratula:** Giménez Juan Gabriel c/ Soychu S.A.I.C.F.I.A. c/ s/ Cobro de pesos y entrega de certificación laboral
 - **Fecha:** 2025-04-09
 - **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-COMERCIAL
-- **Descriptores:** plan de ahorro previo, medida de no innovar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8665-800isoiramus
+- **Materia:** LABORAL
+- **Descriptores:** Derecho laboral, despido, despido con causa, normas de seguridad
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1685-800isoiramus
 
-En el marco de un proceso en el que la discusión involucra un contrato de plan de ahorro, la medida cautelar referida a la abstención de inicio de una ejecución prendaria y/o acción judicial de cualquier naturaleza por la parte demandada, dado su...
+Se considera justificado el despido directo de un trabajador cuando se acredita que, a pesar de estar debidamente capacitado en normas de seguridad (incluso siendo técnico electricista-mecánico), incurrió junto a un compañero en graves...
+
+---
+
+## Prenda con registro, hipoteca
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085679
+- **Caratula:** Plan Rombo S.A. de ahorro para fines determinados c/ Manzo, Guillermo Ignacio y otras s/ ejecución prendaria
+- **Fecha:** 2025-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL-CIVIL
+- **Descriptores:** prenda con registro, hipoteca
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9765-800isoiramus
+
+La Ley 21.309, referida a hipotecas o prendas con registro constituidas para garantizar obligaciones en dinero, en el art. 5 expresamente prevé si se procede al cobro ejecutivo del crédito, la ejecución debe iniciarse por la suma que, en definitiva,...
 
 ---
 
@@ -9171,31 +9075,47 @@ En el marco de un proceso en el que la discusión involucra un contrato de plan 
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085673
+- **Numero:** I0085669
 - **Caratula:** Matorra, Natalia Evangelina c/ Fca S.A. de ahorro para fines determinados s/ ordinario daños y perjuicios s/ recurso de apelación
 - **Fecha:** 2025-04-09
 - **Provincia:** Entre Ríos
 - **Materia:** COMERCIAL-PROCESAL
 - **Descriptores:** plan de ahorro previo, medida de no innovar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3765-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9665-800isoiramus
 
-En el marco de un proceso en el que la discusión involucra un contrato de plan de ahorro, resulta idónea la cautelar referida a la abstención de inicio de ejecución prendaria y/o acción judicial de cualquier naturaleza por la parte demandada, en...
+En el marco de un proceso en el que la discusión involucra un contrato de plan de ahorro, si se admitiera la medida cautelar referida a la abstención de inicio de ejecución prendaria y/o acción judicial de cualquier naturaleza por la parte...
 
 ---
 
-## Derecho procesal, conducta procesal, principios procesales, declaraciones contradictorias
+## Fundamentación del recurso
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085860
+- **Numero:** I0085865
 - **Caratula:** Giménez Juan Gabriel c/ Soychu S.A.I.C.F.I.A. c/ s/ Cobro de pesos y entrega de certificación laboral
 - **Fecha:** 2025-04-09
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
-- **Descriptores:** Derecho procesal, conducta procesal, principios procesales, declaraciones contradictorias
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0685-800isoiramus
+- **Descriptores:** fundamentación del recurso
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5685-800isoiramus
 
-La conducta intercadente o autocontradictoria de una parte procesal, manifestada en versiones distintas de los hechos (ej. en entrevistas, intercambio epistolar y en el juicio), genera una presunción en contra de quien incurre en ella y a favor de...
+El éxito de un recurso de apelación requiere que la impugnación se ocupe de rebatir concreta y puntualmente todas las postulaciones y motivos que forman la "ratio decidendi" del fallo. La omisión de impugnar incluso uno solo de los fundamentos...
+
+---
+
+## Aumento de cuota alimentaria
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085646
+- **Caratula:** E., E. I. c/ B., R. E. E. s/ incidente aumento cuota alimentaria (digital)
+- **Fecha:** 2025-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** aumento de cuota alimentaria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6465-800isoiramus
+
+Si las partes acordaron una cuota alimentaria en mayo de 2019 -en el caso, $30.000-, la pensión debe ajustarse y dado su carácter la pauta a utilizar es el IPC nivel general a nivel nacional acumulado que mide la evolución promedio de los precios....
 
 ---
 
@@ -9231,22 +9151,6 @@ Frente a la fijación de una cuota alimentaria a cargo de la abuela como obligad
 
 ---
 
-## Abogado del niño
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085636
-- **Caratula:** Elgue, Miguel Angel y Elgue, Miguel Angel (h) c/ s/ sucesorio ab intestato (sucesorios acumulados)
-- **Fecha:** 2025-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** abogado del niño
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6365-800isoiramus
-
-La suficiente madurez del adolescente para llevar a cabo el acto es una condición que con 13 años de edad se presume (discernimiento, art. 261 inc. c) CCC, pauta interpretativa art. 639 inc. b) CCC, y en especial en el marco de los arts. 677 a 679...
-
----
-
 ## Medida de no innovar
 
 - **Tipo:** Jurisprudencia
@@ -9260,22 +9164,6 @@ La suficiente madurez del adolescente para llevar a cabo el acto es una condici�
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1765-800isoiramus
 
 Bajo ciertas circunstancias se admite que una medida cautelar de prohibición de innovar afecte otras actuaciones judiciales, ya sea que se encuentren en curso o que todavía no hayan sido iniciadas, implicando en ese caso, una prohibición de demandar.
-
----
-
-## Aplicación de la ley, prueba testimonial, cuestiones de hecho y prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085863
-- **Caratula:** Giménez Juan Gabriel c/ Soychu S.A.I.C.F.I.A. c/ s/ Cobro de pesos y entrega de certificación laboral
-- **Fecha:** 2025-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** POLITICO
-- **Descriptores:** aplicación de la ley, prueba testimonial, cuestiones de hecho y prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3685-800isoiramus
-
-El hecho de que los testigos sean empleados de la parte demandada, incluso con cargos jerárquicos, no desmerece automáticamente su declaración si se presentan como "necesarios" por haber sido, en virtud de su quehacer, los únicos o mejores...
 
 ---
 
@@ -9295,6 +9183,166 @@ Si la prestación del amparista requiere insoslayablemente que sea abonado el pa
 
 ---
 
+## Representante legal
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085634
+- **Caratula:** Elgue, Miguel Angel y Elgue, Miguel Angel (h) c/ s/ sucesorio ab intestato (sucesorios acumulados)
+- **Fecha:** 2025-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** representante legal
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4365-800isoiramus
+
+Si el juez considera que el adolescente tiene intereses contrapuestos con su representante legal - progenitores-, de oficio debe definir si le asigna participación autónoma directa o indirecta, según si el NNyA tiene o no capacidad procesal, en cuya...
+
+---
+
+## Plan de ahorro previo, medida de no innovar
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085673
+- **Caratula:** Matorra, Natalia Evangelina c/ Fca S.A. de ahorro para fines determinados s/ ordinario daños y perjuicios s/ recurso de apelación
+- **Fecha:** 2025-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL-PROCESAL
+- **Descriptores:** plan de ahorro previo, medida de no innovar
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3765-800isoiramus
+
+En el marco de un proceso en el que la discusión involucra un contrato de plan de ahorro, resulta idónea la cautelar referida a la abstención de inicio de ejecución prendaria y/o acción judicial de cualquier naturaleza por la parte demandada, en...
+
+---
+
+## Plan de ahorro previo, medida de no innovar
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085668
+- **Caratula:** Matorra, Natalia Evangelina c/ Fca S.A. de ahorro para fines determinados s/ ordinario daños y perjuicios s/ recurso de apelación
+- **Fecha:** 2025-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-COMERCIAL
+- **Descriptores:** plan de ahorro previo, medida de no innovar
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8665-800isoiramus
+
+En el marco de un proceso en el que la discusión involucra un contrato de plan de ahorro, la medida cautelar referida a la abstención de inicio de una ejecución prendaria y/o acción judicial de cualquier naturaleza por la parte demandada, dado su...
+
+---
+
+## Costas en el orden causado, mediación, honorarios
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085666
+- **Caratula:** R., M. D. C. y otro c/ R., N. M. s/ régimen de comunicación (a favor de r., l. (dni 56.531.481))
+- **Fecha:** 2025-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** costas en el orden causado, mediación, honorarios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6665-800isoiramus
+
+Las "costas en el orden causado" implica que cada parte paga sus gastos y los comunes por mitades. Ante ello, y siendo que el costo de la mediación es un gasto común, las partes deben responder cada una por la mitad de la suma regulada en concepto...
+
+---
+
+## Aplicación de la ley, prueba testimonial, cuestiones de hecho y prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085863
+- **Caratula:** Giménez Juan Gabriel c/ Soychu S.A.I.C.F.I.A. c/ s/ Cobro de pesos y entrega de certificación laboral
+- **Fecha:** 2025-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** POLITICO
+- **Descriptores:** aplicación de la ley, prueba testimonial, cuestiones de hecho y prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3685-800isoiramus
+
+El hecho de que los testigos sean empleados de la parte demandada, incluso con cargos jerárquicos, no desmerece automáticamente su declaración si se presentan como "necesarios" por haber sido, en virtud de su quehacer, los únicos o mejores...
+
+---
+
+## Plan de ahorro previo, medida de no innovar
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085672
+- **Caratula:** Matorra, Natalia Evangelina c/ Fca S.A. de ahorro para fines determinados s/ ordinario daños y perjuicios s/ recurso de apelación
+- **Fecha:** 2025-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL-PROCESAL
+- **Descriptores:** plan de ahorro previo, medida de no innovar
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2765-800isoiramus
+
+En el marco de un proceso en el que la discusión involucra un contrato de plan de ahorro, resulta idónea la cautelar referida a la abstención de inicio de ejecución prendaria y/o acción judicial de cualquier naturaleza por la parte demandada, pues...
+
+---
+
+## Sucesiones, competencia, declinatoria
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085662
+- **Caratula:** Ruiz Diaz, Virginia Verónica Anabel-Sucesorio Ab Intestato c/ s/ incidente competencia
+- **Fecha:** 2025-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** sucesiones, competencia, declinatoria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2665-800isoiramus
+
+En materia de competencia sucesoria, si la declinatoria del juez es consentida por la parte interesada, ello debe interpretarse como un desistimiento de la facultad inicialmente ejercida en relación a la prorrogar la competencia territorial dentro...
+
+---
+
+## Aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085862
+- **Caratula:** Giménez Juan Gabriel c/ Soychu S.A.I.C.F.I.A. c/ s/ Cobro de pesos y entrega de certificación laboral
+- **Fecha:** 2025-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2685-800isoiramus
+
+Cabe otorgar preponderancia a la pericia médica practicada en autos, que dictaminó una incapacidad del 7,6%, en relación al dictamen de la instancia administrativa (4,9%). El perito judicial consideró una limitación en la extensión de la rodilla...
+
+---
+
+## Capacidad procesal, menores
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085637
+- **Caratula:** Elgue, Miguel Angel y Elgue, Miguel Angel (h) c/ s/ sucesorio ab intestato (sucesorios acumulados)
+- **Fecha:** 2025-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** capacidad procesal, menores
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7365-800isoiramus
+
+La asistencia interdisciplinaria permitir verificar tanto la existencia de autonomía y madurez suficiente, y por ende capacidad procesal, en un menor de edad aunque no cuente con 13 años, desvirtuando en ese caso la presunción legal, como en sentido...
+
+---
+
+## Medida de no innovar
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085667
+- **Caratula:** Matorra, Natalia Evangelina c/ Fca S.A. de ahorro para fines determinados s/ ordinario daños y perjuicios s/ recurso de apelación
+- **Fecha:** 2025-04-09
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** medida de no innovar
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7665-800isoiramus
+
+La prohibición de innovar resulta inadmisible cuando tiende a suspender el trámite de otro proceso o a impedir el cumplimiento de una resolución dictada en este. Tal cautelar no puede interferir en otro proceso distinto a aquel en que se la solicitó...
+
+---
+
 ## Honorarios del mediador
 
 - **Tipo:** Jurisprudencia
@@ -9308,150 +9356,6 @@ Si la prestación del amparista requiere insoslayablemente que sea abonado el pa
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3965-800isoiramus
 
 Lo percibido por el mediador en ocasión de la audiencia ha de ser detraído de la suma resultante de la regulación de sus honorarios y no sumado a la misma, pues así está previsto en el art. 68 RMPO.
-
----
-
-## Aumento de cuota, plan de ahorro previo, ejecución prendaria
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085680
-- **Caratula:** Plan Rombo S.A. de ahorro para fines determinados c/ Manzo, Guillermo Ignacio y otras s/ ejecución prendaria
-- **Fecha:** 2025-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-COMERCIAL
-- **Descriptores:** aumento de cuota, plan de ahorro previo, ejecución prendaria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0865-800isoiramus
-
-La previsión normativa de una cláusula de reajuste del valor de las cuotas adeudadas y ejecutadas con motivo de un contrato de prenda que garantiza un contrato de ahorro para fines determinados -art. 5 de la Ley 21.309-, surge a raíz de la...
-
----
-
-## Plan de ahorro previo, medida de no innovar
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085669
-- **Caratula:** Matorra, Natalia Evangelina c/ Fca S.A. de ahorro para fines determinados s/ ordinario daños y perjuicios s/ recurso de apelación
-- **Fecha:** 2025-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL-PROCESAL
-- **Descriptores:** plan de ahorro previo, medida de no innovar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9665-800isoiramus
-
-En el marco de un proceso en el que la discusión involucra un contrato de plan de ahorro, si se admitiera la medida cautelar referida a la abstención de inicio de ejecución prendaria y/o acción judicial de cualquier naturaleza por la parte...
-
----
-
-## Ejecución prendaria, plan de ahorro previo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085678
-- **Caratula:** Plan Rombo S.A. de ahorro para fines determinados c/ Manzo, Guillermo Ignacio y otras s/ ejecución prendaria
-- **Fecha:** 2025-04-09
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-COMERCIAL
-- **Descriptores:** ejecución prendaria, plan de ahorro previo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8765-800isoiramus
-
-En las ejecuciones con base en un contrato de prenda que garantiza un contrato de ahorro para fines determinados, existe un marco regulatorio legal particular dado por la Ley N° 21.309 referida a hipotecas o prendas con registro constituidas para...
-
----
-
-## Costas, excepciones procesales, sentencia, legitimación activa
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085880
-- **Caratula:** Gette Carlos Enrique c/ La Segunda Aseguradora de Riesgos del Trabajo S.A. c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-08
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** costas, excepciones procesales, sentencia, legitimación activa
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0885-800isoiramus
-
-Cuando las excepciones (ej. incompetencia o falta de legitimación activa) son opuestas como tales y resueltas en la sentencia definitiva como defensa de fondo, carecen de autonomía arancelaria. El artículo 69 de la Ley 7046 está previsto solamente...
-
----
-
-## Asegurador por riesgos del trabajo, comisiones médicas, inoponibilidad a terceros, Derecho laboral
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085838
-- **Caratula:** Cotto Walter Alexis c/ Asociart S.A. Aseguradora de Riesgos del Trabajo c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-08
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, comisiones médicas, inoponibilidad a terceros, Derecho laboral
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8385-800isoiramus
-
-Resulta inoponible a las reales acreencias del trabajador el acuerdo homologado en sede administrativa. Esto se fundamenta en que el procedimiento que dio lugar a la homologación, basado en un informe de valoración de daños de un médico de la ART...
-
----
-
-## Aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085840
-- **Caratula:** Cotto Walter Alexis c/ Asociart S.A. Aseguradora de Riesgos del Trabajo c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-08
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0485-800isoiramus
-
-Existe una evidente desproporción entre las incapacidades constatadas por la pericia médica judicial (7,6%) y la que fue motivo de la homologación administrativa (4,9%). Aunque la diferencia numérica sea de 2,6%, para una incapacidad menor, esto...
-
----
-
-## Asegurador por riesgos del trabajo, relación de causalidad, prueba, conducta procesal
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085827
-- **Caratula:** Rodríguez Quipildor Juan Esteban c/ Provincia Art S.A. c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-08
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, relación de causalidad, prueba, conducta procesal
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7285-800isoiramus
-
-El actor optó por la vía de la responsabilidad civil contra la ART, renunciando a la protección de la LRT, lo que implica asumir la carga de probar los elementos de la responsabilidad civil. Y, en el caso, la pericia médica informó que aquél no...
-
----
-
-## Aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085879
-- **Caratula:** Gette Carlos Enrique c/ La Segunda Aseguradora de Riesgos del Trabajo S.A. c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-08
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9785-800isoiramus
-
-El dictamen pericial médico constituye la prueba por excelencia para determinar los daños físicos y la entidad actual de las secuelas de todo siniestro sufrido por los trabajadores. El apartamiento de sus conclusiones requiere razones serias y...
-
----
-
-## Asegurador por riesgos del trabajo, obligaciones de las partes
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085828
-- **Caratula:** Rodríguez Quipildor Juan Esteban c/ Provincia Art S.A. c/ s/ Accidente de trabajo
-- **Fecha:** 2025-04-08
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, obligaciones de las partes
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8285-800isoiramus
-
-La ART tiene obligaciones concretas de prevención determinadas en el art. 4 apartado 2 de la Ley 24.557 y en el Decreto 170/96, incluyendo evaluaciones, visitas periódicas de riesgos, medidas correctivas, capacitación para el personal, y plan de...
 
 ---
 
@@ -9471,6 +9375,38 @@ Habiendo el trabajador optado por la acción civil, debe asumir la carga de prob
 
 ---
 
+## Aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085879
+- **Caratula:** Gette Carlos Enrique c/ La Segunda Aseguradora de Riesgos del Trabajo S.A. c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-08
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9785-800isoiramus
+
+El dictamen pericial médico constituye la prueba por excelencia para determinar los daños físicos y la entidad actual de las secuelas de todo siniestro sufrido por los trabajadores. El apartamiento de sus conclusiones requiere razones serias y...
+
+---
+
+## Costas, excepciones procesales, sentencia, legitimación activa
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085880
+- **Caratula:** Gette Carlos Enrique c/ La Segunda Aseguradora de Riesgos del Trabajo S.A. c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-08
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** costas, excepciones procesales, sentencia, legitimación activa
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0885-800isoiramus
+
+Cuando las excepciones (ej. incompetencia o falta de legitimación activa) son opuestas como tales y resueltas en la sentencia definitiva como defensa de fondo, carecen de autonomía arancelaria. El artículo 69 de la Ley 7046 está previsto solamente...
+
+---
+
 ## Asegurador por riesgos del trabajo, determinación de la incapacidad, comisiones médicas
 
 - **Tipo:** Jurisprudencia
@@ -9484,6 +9420,38 @@ Habiendo el trabajador optado por la acción civil, debe asumir la carga de prob
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9385-800isoiramus
 
 La forma en que se estableció la incapacidad del actor en sede administrativa atenta contra la imparcialidad e igualdad que el trámite ante las Comisiones Médicas debería tener, vulnerando la garantía de defensa. El trabajador nunca fue revisado...
+
+---
+
+## Asegurador por riesgos del trabajo, relación de causalidad, prueba, conducta procesal
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085827
+- **Caratula:** Rodríguez Quipildor Juan Esteban c/ Provincia Art S.A. c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-08
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, relación de causalidad, prueba, conducta procesal
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7285-800isoiramus
+
+El actor optó por la vía de la responsabilidad civil contra la ART, renunciando a la protección de la LRT, lo que implica asumir la carga de probar los elementos de la responsabilidad civil. Y, en el caso, la pericia médica informó que aquél no...
+
+---
+
+## Asegurador por riesgos del trabajo, obligaciones de las partes
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085828
+- **Caratula:** Rodríguez Quipildor Juan Esteban c/ Provincia Art S.A. c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-08
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, obligaciones de las partes
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8285-800isoiramus
+
+La ART tiene obligaciones concretas de prevención determinadas en el art. 4 apartado 2 de la Ley 24.557 y en el Decreto 170/96, incluyendo evaluaciones, visitas periódicas de riesgos, medidas correctivas, capacitación para el personal, y plan de...
 
 ---
 
@@ -9519,19 +9487,67 @@ En materia de competencia sucesoria, la ley adjetiva local admite la posibilidad
 
 ---
 
-## Suspensión de la subasta, depósito judicial
+## Asegurador por riesgos del trabajo, comisiones médicas, inoponibilidad a terceros, Derecho laboral
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085682
+- **Numero:** I0085838
+- **Caratula:** Cotto Walter Alexis c/ Asociart S.A. Aseguradora de Riesgos del Trabajo c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-08
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** asegurador por riesgos del trabajo, riesgos del trabajo, comisiones médicas, inoponibilidad a terceros, Derecho laboral
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8385-800isoiramus
+
+Resulta inoponible a las reales acreencias del trabajador el acuerdo homologado en sede administrativa. Esto se fundamenta en que el procedimiento que dio lugar a la homologación, basado en un informe de valoración de daños de un médico de la ART...
+
+---
+
+## Aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085840
+- **Caratula:** Cotto Walter Alexis c/ Asociart S.A. Aseguradora de Riesgos del Trabajo c/ s/ Accidente de trabajo
+- **Fecha:** 2025-04-08
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** aplicación de la ley, apreciación de la prueba, pericia médica, dictamen pericial
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0485-800isoiramus
+
+Existe una evidente desproporción entre las incapacidades constatadas por la pericia médica judicial (7,6%) y la que fue motivo de la homologación administrativa (4,9%). Aunque la diferencia numérica sea de 2,6%, para una incapacidad menor, esto...
+
+---
+
+## Depósito judicial, suspensión de la subasta
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085683
 - **Caratula:** Fca Compañía Financiera c/ Dearmas, Luis Eduardo y otra s/ ejecución prendaria s/ recurso de queja
 - **Fecha:** 2025-04-07
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
-- **Descriptores:** suspensión de la subasta, depósito judicial
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2865-800isoiramus
+- **Descriptores:** depósito judicial, suspensión de la subasta
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3865-800isoiramus
 
-Normalmente el depósito judicial constituye una razón válida para suspender la subasta, aunque debe efectuarse al menos con los importes de capital y lo presupuestado para intereses y costas que indica en su primera parte el art. 569 CPCC, aunque...
+Si el importe depositado por el deudor consumidor actualizó la suma ejecutada por TABNA, resultando una cifra mayor a la que surgiría de sumar la cantidad presupuestada para intereses y costas, y sin que esté determinada cuál es la tasa de interés...
+
+---
+
+## Restricciones a la capacidad, legitimación procesal, cónyuge
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085642
+- **Caratula:** G., M. A. c/ s/ restricciones a la capacidad
+- **Fecha:** 2025-04-07
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** restricciones a la capacidad, legitimación procesal, cónyuge
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2465-800isoiramus
+
+En los procesos de restricción a la capacidad, la decisión del Ministerio Público de la Defensa de continuar el proceso, a pesar del cuestionamiento sobre la legitimación inicial de la cónyuge del beneficiario, se alinea entonces con su facultad de...
 
 ---
 
@@ -9551,19 +9567,67 @@ El código de fondo, en su art. 33, pone un especial cuidado al enunciar los leg
 
 ---
 
-## Restricciones a la capacidad, legitimación procesal, cónyuge
+## Restricciones a la capacidad, legitimación activa, cónyuge
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085642
+- **Numero:** I0085641
 - **Caratula:** G., M. A. c/ s/ restricciones a la capacidad
 - **Fecha:** 2025-04-07
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-PROCESAL
-- **Descriptores:** restricciones a la capacidad, legitimación procesal, cónyuge
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2465-800isoiramus
+- **Descriptores:** restricciones a la capacidad, legitimación activa, cónyuge
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1465-800isoiramus
 
-En los procesos de restricción a la capacidad, la decisión del Ministerio Público de la Defensa de continuar el proceso, a pesar del cuestionamiento sobre la legitimación inicial de la cónyuge del beneficiario, se alinea entonces con su facultad de...
+En los procesos de restricción a la capacidad, el Ministerio Público ejerce su legitimación necesaria con el propósito de asegurar la salvaguarda de los derechos del beneficiario de la acción, aun cuando exista una controversia respecto de la...
+
+---
+
+## Defensa en juicio, subasta
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085681
+- **Caratula:** Fca Compañía Financiera c/ Dearmas, Luis Eduardo y otra s/ ejecución prendaria s/ recurso de queja
+- **Fecha:** 2025-04-07
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** defensa en juicio, subasta
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1865-800isoiramus
+
+Existen situaciones de excepción al principio de la inapelabilidad sentado para las resoluciones que se dictaren en el trámite de cumplimiento de la sentencia de remate en el primer párrafo del art. 546 CPCC conforme lo explicita la misma norma. Las...
+
+---
+
+## Suspensión del proceso judicial, resoluciones irrecurribles
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085677
+- **Caratula:** V., A. D. c/ G., M. A. s/ incidente nulidad ("gervasoni miguel angel c/ vallenari angela dolores s/ divorcio" expte. n° 13298.)
+- **Fecha:** 2025-04-07
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** suspensión del proceso judicial, resoluciones irrecurribles
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7765-800isoiramus
+
+EL art. 173 CPCC, aplicable por remisión expresa del art. 325 LPF, prevé que si ante la promoción del incidente el juez resuelve suspender la prosecución del proceso principal, la resolución será irrecurrible.
+
+---
+
+## Suspensión de la subasta, depósito judicial
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085682
+- **Caratula:** Fca Compañía Financiera c/ Dearmas, Luis Eduardo y otra s/ ejecución prendaria s/ recurso de queja
+- **Fecha:** 2025-04-07
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** suspensión de la subasta, depósito judicial
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2865-800isoiramus
+
+Normalmente el depósito judicial constituye una razón válida para suspender la subasta, aunque debe efectuarse al menos con los importes de capital y lo presupuestado para intereses y costas que indica en su primera parte el art. 569 CPCC, aunque...
 
 ---
 
@@ -9599,83 +9663,19 @@ En los procesos de restricción a la capacidad, el Código Civil y Comercial exp
 
 ---
 
-## Depósito judicial, suspensión de la subasta
+## Principio de congruencia, defensa en juicio
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085683
-- **Caratula:** Fca Compañía Financiera c/ Dearmas, Luis Eduardo y otra s/ ejecución prendaria s/ recurso de queja
-- **Fecha:** 2025-04-07
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** depósito judicial, suspensión de la subasta
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3865-800isoiramus
-
-Si el importe depositado por el deudor consumidor actualizó la suma ejecutada por TABNA, resultando una cifra mayor a la que surgiría de sumar la cantidad presupuestada para intereses y costas, y sin que esté determinada cuál es la tasa de interés...
-
----
-
-## Restricciones a la capacidad, legitimación activa, cónyuge
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085641
-- **Caratula:** G., M. A. c/ s/ restricciones a la capacidad
-- **Fecha:** 2025-04-07
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** restricciones a la capacidad, legitimación activa, cónyuge
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1465-800isoiramus
-
-En los procesos de restricción a la capacidad, el Ministerio Público ejerce su legitimación necesaria con el propósito de asegurar la salvaguarda de los derechos del beneficiario de la acción, aun cuando exista una controversia respecto de la...
-
----
-
-## Suspensión del proceso judicial, resoluciones irrecurribles
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085677
-- **Caratula:** V., A. D. c/ G., M. A. s/ incidente nulidad ("gervasoni miguel angel c/ vallenari angela dolores s/ divorcio" expte. n° 13298.)
-- **Fecha:** 2025-04-07
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** suspensión del proceso judicial, resoluciones irrecurribles
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7765-800isoiramus
-
-EL art. 173 CPCC, aplicable por remisión expresa del art. 325 LPF, prevé que si ante la promoción del incidente el juez resuelve suspender la prosecución del proceso principal, la resolución será irrecurrible.
-
----
-
-## Defensa en juicio, subasta
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085681
-- **Caratula:** Fca Compañía Financiera c/ Dearmas, Luis Eduardo y otra s/ ejecución prendaria s/ recurso de queja
-- **Fecha:** 2025-04-07
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** defensa en juicio, subasta
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1865-800isoiramus
-
-Existen situaciones de excepción al principio de la inapelabilidad sentado para las resoluciones que se dictaren en el trámite de cumplimiento de la sentencia de remate en el primer párrafo del art. 546 CPCC conforme lo explicita la misma norma. Las...
-
----
-
-## Simulación, carga de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085653
-- **Caratula:** Cabrera, Fabricio Ricardo c/ Noro, Bruno Nazareno y otro s/ ordinario simulación
+- **Numero:** I0085661
+- **Caratula:** Benedetti, Carla c/ Mignone, Silvio Raúl s/ ordinario daños y perjuicios (blsg. ac.19.5.20. reg.n° 1. emergencia sanitaria.)
 - **Fecha:** 2025-04-03
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** simulación, carga de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3565-800isoiramus
+- **Materia:** PROCESAL
+- **Descriptores:** principio de congruencia, defensa en juicio
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1665-800isoiramus
 
-Al demandado por simulación le incumbe el deber moral de aportar los elementos tendientes a demostrar su inocencia y los hechos por él invocados, tratando de convencer de la honestidad y seriedad del acto, colaborando con la justicia en el...
+Si se condena por un rubro resarcitorio que no fue reclamado, y ni siquiera formó parte de los hechos controvertidos en oportunidad de celebrarse la audiencia preliminar, se afecta el principio de congruencia procesal (cfr. art. 31 inc. 4, 160 inc....
 
 ---
 
@@ -9695,19 +9695,19 @@ Aunque la Obra Social argumentó que la cirugía y la cobertura fueron autorizad
 
 ---
 
-## Simulación, medios de prueba
+## Simulación, carga de la prueba
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085651
+- **Numero:** I0085653
 - **Caratula:** Cabrera, Fabricio Ricardo c/ Noro, Bruno Nazareno y otro s/ ordinario simulación
 - **Fecha:** 2025-04-03
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-PROCESAL
-- **Descriptores:** simulación, medios de prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1565-800isoiramus
+- **Descriptores:** simulación, carga de la prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3565-800isoiramus
 
-Si la acción de simulación es promovida por un tercero, éste puede recurrir a cualquier medio probatorio para su demostración, sin que lo alcance la restricción que a las partes del acto impugnado imponía el art. 960 CC, donde tienen particular...
+Al demandado por simulación le incumbe el deber moral de aportar los elementos tendientes a demostrar su inocencia y los hechos por él invocados, tratando de convencer de la honestidad y seriedad del acto, colaborando con la justicia en el...
 
 ---
 
@@ -9727,6 +9727,22 @@ Cuando se acusa a un acto de simulado con fines defraudatorios, no basta a la pa
 
 ---
 
+## Simulación, medios de prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085651
+- **Caratula:** Cabrera, Fabricio Ricardo c/ Noro, Bruno Nazareno y otro s/ ordinario simulación
+- **Fecha:** 2025-04-03
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** simulación, medios de prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1565-800isoiramus
+
+Si la acción de simulación es promovida por un tercero, éste puede recurrir a cualquier medio probatorio para su demostración, sin que lo alcance la restricción que a las partes del acto impugnado imponía el art. 960 CC, donde tienen particular...
+
+---
+
 ## Facultades del juez
 
 - **Tipo:** Jurisprudencia
@@ -9740,22 +9756,6 @@ Cuando se acusa a un acto de simulado con fines defraudatorios, no basta a la pa
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0665-800isoiramus
 
 La demanda fija los límites de los poderes del juez, cuya decisión no puede condenar a quien no ha sido demandado, ni recaer sobre una cosa no reclamada o sobre un hecho no propuesto a su decisión.
-
----
-
-## Principio de congruencia, defensa en juicio
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085661
-- **Caratula:** Benedetti, Carla c/ Mignone, Silvio Raúl s/ ordinario daños y perjuicios (blsg. ac.19.5.20. reg.n° 1. emergencia sanitaria.)
-- **Fecha:** 2025-04-03
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** principio de congruencia, defensa en juicio
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1665-800isoiramus
-
-Si se condena por un rubro resarcitorio que no fue reclamado, y ni siquiera formó parte de los hechos controvertidos en oportunidad de celebrarse la audiencia preliminar, se afecta el principio de congruencia procesal (cfr. art. 31 inc. 4, 160 inc....
 
 ---
 
@@ -9807,6 +9807,54 @@ Para determinar el último domicilio del causante y, por ende, la competencia pa
 
 ---
 
+## Traslado de la demanda, notificación
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085725
+- **Caratula:** Administradora Tributaria de Entre Rios c/ Herederos y/o Sucesores de Nachtrieb, Bruno s/ monitorio apremio
+- **Fecha:** 2025-03-31
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** traslado de la demanda, notificación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5275-800isoiramus
+
+La notificación del traslado de la demanda por medio de carta documento no es un tema que involucre el "orden público procesal", si se atiende que sin desdeñar el resguardo de la seguridad del acto traslado de la demanda, de cuya trascendencia nadie...
+
+---
+
+## Traslado de la demanda, notificación
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085722
+- **Caratula:** Administradora Tributaria de Entre Rios c/ Herederos y/o Sucesores de Nachtrieb, Bruno s/ monitorio apremio
+- **Fecha:** 2025-03-31
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** traslado de la demanda, notificación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2275-800isoiramus
+
+El empleo de la carta documento para la notificación del traslado de la demanda, constituye una modalidad que conlleva que la calidad del acto de comunicación y el resguardo del derecho de defensa resulte asegurada por la efectividad y completitud...
+
+---
+
+## Debido proceso, acceso a la justicia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085724
+- **Caratula:** Administradora Tributaria de Entre Rios c/ Herederos y/o Sucesores de Nachtrieb, Bruno s/ monitorio apremio
+- **Fecha:** 2025-03-31
+- **Provincia:** Entre Ríos
+- **Materia:** CONSTITUCIONAL
+- **Descriptores:** debido proceso, acceso a la justicia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4275-800isoiramus
+
+En paralelo a las reglas del debido proceso, el nuevo paradigma constitucional exige el efectivo acceso a la justicia donde para ello la ley procesal debe interpretarse conforme al principio de instrumentalidad de las formas, de manera progresiva...
+
+---
+
 ## Notificación, procedimiento monitorio
 
 - **Tipo:** Jurisprudencia
@@ -9843,15 +9891,15 @@ El modo en que se notifica el traslado de la demanda se encuentra expresamente r
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085723
+- **Numero:** I0085721
 - **Caratula:** Administradora Tributaria de Entre Rios c/ Herederos y/o Sucesores de Nachtrieb, Bruno s/ monitorio apremio
 - **Fecha:** 2025-03-31
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
 - **Descriptores:** traslado de la demanda, notificación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3275-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1275-800isoiramus
 
-La carta documento emitida por el Correo Oficial de la República Argentina, como medio de notificar el traslado de demanda, implica una comunicación fehaciente y un medio idóneo para acreditar los términos una comunicación con trascendencia...
+El empleo de la carta documento con aviso de visita y de retorno es un medio idóneo para realizar el particular acto de notificación del traslado de la demanda, en función de las condiciones y resguardos previstos para el mecanismo en el Resolución...
 
 ---
 
@@ -9875,95 +9923,15 @@ La notificación del traslado de demanda por carta documento no contempla la par
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085725
+- **Numero:** I0085723
 - **Caratula:** Administradora Tributaria de Entre Rios c/ Herederos y/o Sucesores de Nachtrieb, Bruno s/ monitorio apremio
 - **Fecha:** 2025-03-31
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
 - **Descriptores:** traslado de la demanda, notificación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5275-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3275-800isoiramus
 
-La notificación del traslado de la demanda por medio de carta documento no es un tema que involucre el "orden público procesal", si se atiende que sin desdeñar el resguardo de la seguridad del acto traslado de la demanda, de cuya trascendencia nadie...
-
----
-
-## Debido proceso, acceso a la justicia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085724
-- **Caratula:** Administradora Tributaria de Entre Rios c/ Herederos y/o Sucesores de Nachtrieb, Bruno s/ monitorio apremio
-- **Fecha:** 2025-03-31
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL
-- **Descriptores:** debido proceso, acceso a la justicia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4275-800isoiramus
-
-En paralelo a las reglas del debido proceso, el nuevo paradigma constitucional exige el efectivo acceso a la justicia donde para ello la ley procesal debe interpretarse conforme al principio de instrumentalidad de las formas, de manera progresiva...
-
----
-
-## Traslado de la demanda, notificación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085722
-- **Caratula:** Administradora Tributaria de Entre Rios c/ Herederos y/o Sucesores de Nachtrieb, Bruno s/ monitorio apremio
-- **Fecha:** 2025-03-31
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** traslado de la demanda, notificación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2275-800isoiramus
-
-El empleo de la carta documento para la notificación del traslado de la demanda, constituye una modalidad que conlleva que la calidad del acto de comunicación y el resguardo del derecho de defensa resulte asegurada por la efectividad y completitud...
-
----
-
-## Traslado de la demanda, notificación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085721
-- **Caratula:** Administradora Tributaria de Entre Rios c/ Herederos y/o Sucesores de Nachtrieb, Bruno s/ monitorio apremio
-- **Fecha:** 2025-03-31
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** traslado de la demanda, notificación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1275-800isoiramus
-
-El empleo de la carta documento con aviso de visita y de retorno es un medio idóneo para realizar el particular acto de notificación del traslado de la demanda, en función de las condiciones y resguardos previstos para el mecanismo en el Resolución...
-
----
-
-## Honorarios, notificación, domicilio electrónico
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085740
-- **Caratula:** Superior Gobierno de la Provincia de Entre Rios c/ Benedetti, Liliana Maria Ines s- Ordinario por cobro de pesos (10003) s/ recurso de queja
-- **Fecha:** 2025-03-28
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** honorarios, notificación, domicilio electrónico
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0475-800isoiramus
-
-La notificación de los honorarios en el domicilio electrónico constituido en representación del deudor es acorde con la implementación del sistema reglado por Ac. Gral. STJER N°15/2018, que sustituyó la notificación por cédula, con las excepciones...
-
----
-
-## Notificación, domicilio real
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085739
-- **Caratula:** Superior Gobierno de la Provincia de Entre Rios c/ Benedetti, Liliana Maria Ines s- Ordinario por cobro de pesos (10003) s/ recurso de queja
-- **Fecha:** 2025-03-28
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** notificación, domicilio real
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9375-800isoiramus
-
-Cuando el art. 28 de la Ley 7046 ordena que toda notificación al cliente debe hacerse en el domicilio real, se refiere únicamente a la que cursa el letrado que mantiene vigente la relación profesional.
+La carta documento emitida por el Correo Oficial de la República Argentina, como medio de notificar el traslado de demanda, implica una comunicación fehaciente y un medio idóneo para acreditar los términos una comunicación con trascendencia...
 
 ---
 
@@ -9983,6 +9951,22 @@ Si no se concretó la notificación de los honorarios en el domicilio real del o
 
 ---
 
+## Notificación, domicilio real
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085739
+- **Caratula:** Superior Gobierno de la Provincia de Entre Rios c/ Benedetti, Liliana Maria Ines s- Ordinario por cobro de pesos (10003) s/ recurso de queja
+- **Fecha:** 2025-03-28
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** notificación, domicilio real
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9375-800isoiramus
+
+Cuando el art. 28 de la Ley 7046 ordena que toda notificación al cliente debe hacerse en el domicilio real, se refiere únicamente a la que cursa el letrado que mantiene vigente la relación profesional.
+
+---
+
 ## Regulación de honorarios, notificación
 
 - **Tipo:** Jurisprudencia
@@ -9999,131 +9983,19 @@ Con el fin de buscar una solución armonizadora entre la posibilidad de apelaci�
 
 ---
 
-## Violencia de género, medidas cautelares
+## Honorarios, notificación, domicilio electrónico
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085698
-- **Caratula:** G., M. R. c/ C., J. E. (24235) s/ violencia familiar
-- **Fecha:** 2025-03-27
-- **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS-PROCESAL
-- **Descriptores:** violencia de género, medidas cautelares
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8965-800isoiramus
-
-En el marco de una violencia de género, si existen indicios ciertos sobre situaciones de violencia verbal, amenazas y sometimiento, ello habilita al juez de grado a prorrogar las medidas de protección oportunamente dictadas, ya que frente a...
-
----
-
-## Prueba de cargo, remoción del administrador de la herencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085733
-- **Caratula:** Etchegoyen, Horacio Alfredo - Sucesorio Ab Intestato y Testamentario c/ s/ incidente de remoción de administrador
-- **Fecha:** 2025-03-27
+- **Numero:** I0085740
+- **Caratula:** Superior Gobierno de la Provincia de Entre Rios c/ Benedetti, Liliana Maria Ines s- Ordinario por cobro de pesos (10003) s/ recurso de queja
+- **Fecha:** 2025-03-28
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL-CIVIL
-- **Descriptores:** prueba de cargo, remoción del administrador de la herencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3375-800isoiramus
+- **Descriptores:** honorarios, notificación, domicilio electrónico
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0475-800isoiramus
 
-La procedencia de la remoción del administrador de la sucesión exige la prueba de cargos de tal gravedad que importen un peligro para los bienes administrados, y si bien el incumplimiento al deber de rendir cuentas que impone la ley es una causal de...
-
----
-
-## Rendición de cuentas, costas
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085715
-- **Caratula:** Gómez, Elsa Ester c/ Herederos y/o Sucesores de Taffarel, Luis María s/ medida autosatisfactiva s/ incidente rendición de cuentas
-- **Fecha:** 2025-03-27
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** rendición de cuentas, costas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5175-800isoiramus
-
-Si la rendición de cuentas no es aprobada, y no existe mérito que permita justificar una eximición total o parcialmente en el pago de las costas, la decisión de imponerlas por el orden causado implicaría de algún modo desincentivar el adecuado...
-
----
-
-## Violencia de género, falta de prueba, prórroga de la medida cautelar
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085696
-- **Caratula:** G., M. R. c/ C., J. E. (24235) s/ violencia familiar
-- **Fecha:** 2025-03-27
-- **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS-PROCESAL
-- **Descriptores:** violencia de género, falta de prueba, prórroga de la medida cautelar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6965-800isoiramus
-
-Si no se observa prueba alguna de hechos concretos de violencia que no sean las originales denunciadas por la denunciante, quien a su vez expresó su voluntad de que sean dejadas sin efectos las medidas de protección, no puede decidirse una prórroga...
-
----
-
-## Violencia de género, prórroga de la medida cautelar
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085694
-- **Caratula:** G., M. R. c/ C., J. E. (24235) s/ violencia familiar
-- **Fecha:** 2025-03-27
-- **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS-PROCESAL
-- **Descriptores:** violencia de género, prórroga de la medida cautelar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4965-800isoiramus
-
-En el marco de una violencia de género, si la propia denunciante interesa dejar sin efecto las medidas de protección dictadas, no corresponde disponer una prórroga de las mismas, pues el Estado, a través de su sistema judicial, no puede ejercer una...
-
----
-
-## Violencia de género, prórroga de la medida cautelar
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085699
-- **Caratula:** G., M. R. c/ C., J. E. (24235) s/ violencia familiar
-- **Fecha:** 2025-03-27
-- **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS-PROCESAL
-- **Descriptores:** violencia de género, prórroga de la medida cautelar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9965-800isoiramus
-
-En el marco de una violencia de género, si el panorama no es claro en torno a que no existan factores de riesgo luego de dictadas las medidas de protección, ni se conoce la real voluntad de la denunciante sobre la eventual recomposición de la...
-
----
-
-## Liquidación de la sociedad conyugal, honorarios
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085743
-- **Caratula:** S., M. Y J., Y. Ivana c/ s/ divorcio
-- **Fecha:** 2025-03-27
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** liquidación de la sociedad conyugal, honorarios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3475-800isoiramus
-
-Cuando los acuerdos incluyen el convenio regulador referente a la distribución de los bienes del matrimonio resulta de aplicación el art. 78 de la Ley 7046, por tratarse de la norma especial que contempla el juicio de divorcio y la separación de...
-
----
-
-## Alimentos atrasados, excepción de prescripción
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085705
-- **Caratula:** B., F. c/ s/ homologación de convenio (civil) (mediación)
-- **Fecha:** 2025-03-27
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** alimentos atrasados, excepción de prescripción
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5075-800isoiramus
-
-Si el alimentante al contestar la intimación a abonar alimentos adeudados en los términos del art. 156 LPF, opone la excepción de prescripción para el caso que se le reclame una deuda anterior a una determinada fecha, y la planilla practicada no...
+La notificación de los honorarios en el domicilio electrónico constituido en representación del deudor es acorde con la implementación del sistema reglado por Ac. Gral. STJER N°15/2018, que sustituyó la notificación por cédula, con las excepciones...
 
 ---
 
@@ -10143,35 +10015,67 @@ Tratándose de un incidente de rendición de cuentas, resultan aplicables las pr
 
 ---
 
-## Violencia de género, medidas cautelares
+## Daños y perjuicios, medios de prueba
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085697
-- **Caratula:** G., M. R. c/ C., J. E. (24235) s/ violencia familiar
+- **Numero:** I0085728
+- **Caratula:** Veronesi, María de los Angeles y otros c/ Veronesi, Ignacio - Ejecución de Sentencia s/ incidente (legajo apelación)
 - **Fecha:** 2025-03-27
 - **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS-PROCESAL
-- **Descriptores:** violencia de género, medidas cautelares
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7965-800isoiramus
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** daños y perjuicios, medios de prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8275-800isoiramus
 
-En el marco legal y convencional vigente, ningún obstáculo de índole formal puede impedir el acceso a la protección debida por el Estado frente la violencia contra las mujeres, donde debe ordenarse el cese de los actos denunciados, y de oficio o a...
+En el procedimiento previsto para la determinación de daños y perjuicios del art. 499 CPCC, cuando se tenga que determinar el valor de mercado del inmueble involucrado en el acuerdo ejecutado, la intervención de un perito tasador constituye un...
 
 ---
 
-## Alimentos provisionales
+## Remoción del administrador de la herencia
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085704
-- **Caratula:** G., P. S. c/ G., J. D. s/ alimentos s/ incidente legajo apelación efecto devolutivo
+- **Numero:** I0085734
+- **Caratula:** Etchegoyen, Horacio Alfredo - Sucesorio Ab Intestato y Testamentario c/ s/ incidente de remoción de administrador
 - **Fecha:** 2025-03-27
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** alimentos provisionales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4075-800isoiramus
+- **Descriptores:** remoción del administrador de la herencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4375-800isoiramus
 
-No es óbice para la fijación de la cuota alimentaria mensual provisoria que el alimentante entienda que cumple con su obligación alimentaria y vea innecesaria una cuota provisional, en cuanto la misma no puede quedar a su arbitrio, y exige...
+Sin desconocer que el juez puede remover de oficio al administrador cuando su actuación importe un mal desempeño de su cargo (art. 743 CPCC), si las causas de remoción son alegadas por uno de los herederos, es éste quien tiene la carga de...
+
+---
+
+## Daños y perjuicios, costas
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085729
+- **Caratula:** Veronesi, María de los Angeles y otros c/ Veronesi, Ignacio - Ejecución de Sentencia s/ incidente (legajo apelación)
+- **Fecha:** 2025-03-27
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** daños y perjuicios, costas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9275-800isoiramus
+
+En el procedimiento previsto para la determinación de daños y perjuicios del art. 499 CPCC, si la actuación del perito tasador a los fines de determinar el valor de mercado del inmueble involucrado en el acuerdo ejecutado estuvo en esencia motivada...
+
+---
+
+## Prueba de cargo, remoción del administrador de la herencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085733
+- **Caratula:** Etchegoyen, Horacio Alfredo - Sucesorio Ab Intestato y Testamentario c/ s/ incidente de remoción de administrador
+- **Fecha:** 2025-03-27
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** prueba de cargo, remoción del administrador de la herencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3375-800isoiramus
+
+La procedencia de la remoción del administrador de la sucesión exige la prueba de cargos de tal gravedad que importen un peligro para los bienes administrados, y si bien el incumplimiento al deber de rendir cuentas que impone la ley es una causal de...
 
 ---
 
@@ -10207,67 +10111,147 @@ La subrogación ejecutiva prevista por el art. 499 CPCC -condena a hacer- en la 
 
 ---
 
-## Remoción del administrador de la herencia
+## Violencia de género, falta de prueba, prórroga de la medida cautelar
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085734
-- **Caratula:** Etchegoyen, Horacio Alfredo - Sucesorio Ab Intestato y Testamentario c/ s/ incidente de remoción de administrador
+- **Numero:** I0085696
+- **Caratula:** G., M. R. c/ C., J. E. (24235) s/ violencia familiar
+- **Fecha:** 2025-03-27
+- **Provincia:** Entre Ríos
+- **Materia:** DERECHOS HUMANOS-PROCESAL
+- **Descriptores:** violencia de género, falta de prueba, prórroga de la medida cautelar
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6965-800isoiramus
+
+Si no se observa prueba alguna de hechos concretos de violencia que no sean las originales denunciadas por la denunciante, quien a su vez expresó su voluntad de que sean dejadas sin efectos las medidas de protección, no puede decidirse una prórroga...
+
+---
+
+## Violencia de género, prórroga de la medida cautelar
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085699
+- **Caratula:** G., M. R. c/ C., J. E. (24235) s/ violencia familiar
+- **Fecha:** 2025-03-27
+- **Provincia:** Entre Ríos
+- **Materia:** DERECHOS HUMANOS-PROCESAL
+- **Descriptores:** violencia de género, prórroga de la medida cautelar
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9965-800isoiramus
+
+En el marco de una violencia de género, si el panorama no es claro en torno a que no existan factores de riesgo luego de dictadas las medidas de protección, ni se conoce la real voluntad de la denunciante sobre la eventual recomposición de la...
+
+---
+
+## Alimentos provisionales
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085704
+- **Caratula:** G., P. S. c/ G., J. D. s/ alimentos s/ incidente legajo apelación efecto devolutivo
 - **Fecha:** 2025-03-27
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** remoción del administrador de la herencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4375-800isoiramus
+- **Descriptores:** alimentos provisionales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4075-800isoiramus
 
-Sin desconocer que el juez puede remover de oficio al administrador cuando su actuación importe un mal desempeño de su cargo (art. 743 CPCC), si las causas de remoción son alegadas por uno de los herederos, es éste quien tiene la carga de...
+No es óbice para la fijación de la cuota alimentaria mensual provisoria que el alimentante entienda que cumple con su obligación alimentaria y vea innecesaria una cuota provisional, en cuanto la misma no puede quedar a su arbitrio, y exige...
 
 ---
 
-## Daños y perjuicios, medios de prueba
+## Alimentos atrasados, excepción de prescripción
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085728
-- **Caratula:** Veronesi, María de los Angeles y otros c/ Veronesi, Ignacio - Ejecución de Sentencia s/ incidente (legajo apelación)
+- **Numero:** I0085705
+- **Caratula:** B., F. c/ s/ homologación de convenio (civil) (mediación)
 - **Fecha:** 2025-03-27
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-PROCESAL
-- **Descriptores:** daños y perjuicios, medios de prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8275-800isoiramus
+- **Descriptores:** alimentos atrasados, excepción de prescripción
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5075-800isoiramus
 
-En el procedimiento previsto para la determinación de daños y perjuicios del art. 499 CPCC, cuando se tenga que determinar el valor de mercado del inmueble involucrado en el acuerdo ejecutado, la intervención de un perito tasador constituye un...
+Si el alimentante al contestar la intimación a abonar alimentos adeudados en los términos del art. 156 LPF, opone la excepción de prescripción para el caso que se le reclame una deuda anterior a una determinada fecha, y la planilla practicada no...
 
 ---
 
-## Daños y perjuicios, costas
+## Rendición de cuentas, costas
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085729
-- **Caratula:** Veronesi, María de los Angeles y otros c/ Veronesi, Ignacio - Ejecución de Sentencia s/ incidente (legajo apelación)
+- **Numero:** I0085715
+- **Caratula:** Gómez, Elsa Ester c/ Herederos y/o Sucesores de Taffarel, Luis María s/ medida autosatisfactiva s/ incidente rendición de cuentas
 - **Fecha:** 2025-03-27
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-PROCESAL
-- **Descriptores:** daños y perjuicios, costas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9275-800isoiramus
+- **Descriptores:** rendición de cuentas, costas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5175-800isoiramus
 
-En el procedimiento previsto para la determinación de daños y perjuicios del art. 499 CPCC, si la actuación del perito tasador a los fines de determinar el valor de mercado del inmueble involucrado en el acuerdo ejecutado estuvo en esencia motivada...
+Si la rendición de cuentas no es aprobada, y no existe mérito que permita justificar una eximición total o parcialmente en el pago de las costas, la decisión de imponerlas por el orden causado implicaría de algún modo desincentivar el adecuado...
 
 ---
 
-## Juicio de desalojo, legitimación activa
+## Liquidación de la sociedad conyugal, honorarios
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085730
-- **Caratula:** Moreyra, Rosalía Mabel c/ Moreyra, Sandra Liliana s/ desalojo
-- **Fecha:** 2025-03-26
+- **Numero:** I0085743
+- **Caratula:** S., M. Y J., Y. Ivana c/ s/ divorcio
+- **Fecha:** 2025-03-27
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-PROCESAL
-- **Descriptores:** juicio de desalojo, legitimación activa
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0375-800isoiramus
+- **Descriptores:** liquidación de la sociedad conyugal, honorarios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3475-800isoiramus
 
-La acción de desalojo no requiere como insoslayable presupuesto fundante de la legitimación activa el dominio sobre el bien inmueble o bien su efectiva posesión antecedente, campeando por el contrario legitimaciones amplias, entre las que se cuenta...
+Cuando los acuerdos incluyen el convenio regulador referente a la distribución de los bienes del matrimonio resulta de aplicación el art. 78 de la Ley 7046, por tratarse de la norma especial que contempla el juicio de divorcio y la separación de...
+
+---
+
+## Violencia de género, prórroga de la medida cautelar
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085694
+- **Caratula:** G., M. R. c/ C., J. E. (24235) s/ violencia familiar
+- **Fecha:** 2025-03-27
+- **Provincia:** Entre Ríos
+- **Materia:** DERECHOS HUMANOS-PROCESAL
+- **Descriptores:** violencia de género, prórroga de la medida cautelar
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4965-800isoiramus
+
+En el marco de una violencia de género, si la propia denunciante interesa dejar sin efecto las medidas de protección dictadas, no corresponde disponer una prórroga de las mismas, pues el Estado, a través de su sistema judicial, no puede ejercer una...
+
+---
+
+## Violencia de género, medidas cautelares
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085698
+- **Caratula:** G., M. R. c/ C., J. E. (24235) s/ violencia familiar
+- **Fecha:** 2025-03-27
+- **Provincia:** Entre Ríos
+- **Materia:** DERECHOS HUMANOS-PROCESAL
+- **Descriptores:** violencia de género, medidas cautelares
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8965-800isoiramus
+
+En el marco de una violencia de género, si existen indicios ciertos sobre situaciones de violencia verbal, amenazas y sometimiento, ello habilita al juez de grado a prorrogar las medidas de protección oportunamente dictadas, ya que frente a...
+
+---
+
+## Violencia de género, medidas cautelares
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085697
+- **Caratula:** G., M. R. c/ C., J. E. (24235) s/ violencia familiar
+- **Fecha:** 2025-03-27
+- **Provincia:** Entre Ríos
+- **Materia:** DERECHOS HUMANOS-PROCESAL
+- **Descriptores:** violencia de género, medidas cautelares
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7965-800isoiramus
+
+En el marco legal y convencional vigente, ningún obstáculo de índole formal puede impedir el acceso a la protección debida por el Estado frente la violencia contra las mujeres, donde debe ordenarse el cese de los actos denunciados, y de oficio o a...
 
 ---
 
@@ -10284,6 +10268,22 @@ La acción de desalojo no requiere como insoslayable presupuesto fundante de la 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1375-800isoiramus
 
 Hasta tanto sea revocado, modificado o anulado el acto procesal de adjudicación particular de bienes celebrado por los herederos en ejercicio del art. 727 del CPCC, los adjudicatarios son los sucesores del titular registral, y resultan activamente...
+
+---
+
+## Juicio de desalojo, legitimación activa
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085730
+- **Caratula:** Moreyra, Rosalía Mabel c/ Moreyra, Sandra Liliana s/ desalojo
+- **Fecha:** 2025-03-26
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** juicio de desalojo, legitimación activa
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0375-800isoiramus
+
+La acción de desalojo no requiere como insoslayable presupuesto fundante de la legitimación activa el dominio sobre el bien inmueble o bien su efectiva posesión antecedente, campeando por el contrario legitimaciones amplias, entre las que se cuenta...
 
 ---
 
@@ -10367,22 +10367,6 @@ El art. 66 inc. 2. RMPO prevé que el arancel del mediador será equivalente a u
 
 ---
 
-## Alimentos atrasados, sustitución de partes
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085701
-- **Caratula:** S., C. Y. Y B., H. O. c/ s/ homologación de convenio (civil)
-- **Fecha:** 2025-03-19
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** alimentos atrasados, sustitución de partes
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1075-800isoiramus
-
-La progenitora que litiga por cuotas alimentaria atrasadas a favor de sus hijos actúa por sustitución, lo hace por el derecho del sustituido, tanto como por su interés propio, en cuanto le toca soportar las consecuencias de la renuencia del deudor...
-
----
-
 ## Alimentos atrasados, legitimación procesal, menores
 
 - **Tipo:** Jurisprudencia
@@ -10396,6 +10380,22 @@ La progenitora que litiga por cuotas alimentaria atrasadas a favor de sus hijos 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0075-800isoiramus
 
 La progenitora reclamante de una deuda alimentaria actúa en sustitución de los menores alimentados, incluso en el reclamo de alimentos atrasados, desde que, la obligación siempre estuvo ligada a los derechos de los beneficiarios alimentados...
+
+---
+
+## Alimentos atrasados, sustitución de partes
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085701
+- **Caratula:** S., C. Y. Y B., H. O. c/ s/ homologación de convenio (civil)
+- **Fecha:** 2025-03-19
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** alimentos atrasados, sustitución de partes
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1075-800isoiramus
+
+La progenitora que litiga por cuotas alimentaria atrasadas a favor de sus hijos actúa por sustitución, lo hace por el derecho del sustituido, tanto como por su interés propio, en cuanto le toca soportar las consecuencias de la renuencia del deudor...
 
 ---
 
@@ -10511,19 +10511,19 @@ En tanto las reglas de conducta previstas por el artículo 27 bis del Código Pe
 
 ---
 
-## Renuncia del patrocinante
+## Notificación electrónica
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085717
+- **Numero:** I0085716
 - **Caratula:** P., A. en nombre y representación de su hijo menor de edad c/ C., J. A. s/ alimentos (sorteo de mediación)
 - **Fecha:** 2025-03-10
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
-- **Descriptores:** renuncia del patrocinante
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7175-800isoiramus
+- **Descriptores:** notificación electrónica
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6175-800isoiramus
 
-La decisión de vincular al letrado patrocinante de una de las partes en un incidente del principal, no genera un perjuicio concreto sino más bien uno hipotético o conjetural, por cuanto nada impide que el profesional informe al juzgado la renuncia a...
+Los incidentes vinculados al proceso principal están sujetos a la notificación mediante el Sistema de Notificaciones Electrónicas, el cual solo prevé como excepción el acto de traslado de demanda y toda otra notificación que corresponda efectuar en...
 
 ---
 
@@ -10543,6 +10543,22 @@ Resulta adecuado emplear el procedimiento de juicio abreviado en el caso del imp
 
 ---
 
+## Renuncia del patrocinante
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085717
+- **Caratula:** P., A. en nombre y representación de su hijo menor de edad c/ C., J. A. s/ alimentos (sorteo de mediación)
+- **Fecha:** 2025-03-10
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** renuncia del patrocinante
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7175-800isoiramus
+
+La decisión de vincular al letrado patrocinante de una de las partes en un incidente del principal, no genera un perjuicio concreto sino más bien uno hipotético o conjetural, por cuanto nada impide que el profesional informe al juzgado la renuncia a...
+
+---
+
 ## Proporcionalidad de la pena, malos tratos o actos de crueldad contra animales, actos de crueldad a animales, CÓDIGO PROCESAL PENAL DE ENTRE RÍOS, acuerdo de juicio abreviado, homologación del acuerdo, caballos de carrera, condena condicional, prisión, código penal, reglas de conducta
 
 - **Tipo:** Jurisprudencia
@@ -10556,22 +10572,6 @@ Resulta adecuado emplear el procedimiento de juicio abreviado en el caso del imp
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0745-800isoiramus
 
 Dado que la pena que se imponga debe ser proporcionada atendiendo a la gravedad del delito cometido y al bien jurídico tutelado según lo previsto en los artículos 40 y 41 del Código Penal, corresponde imponer al inculpado por la comisión de actos de...
-
----
-
-## Notificación electrónica
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085716
-- **Caratula:** P., A. en nombre y representación de su hijo menor de edad c/ C., J. A. s/ alimentos (sorteo de mediación)
-- **Fecha:** 2025-03-10
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** notificación electrónica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6175-800isoiramus
-
-Los incidentes vinculados al proceso principal están sujetos a la notificación mediante el Sistema de Notificaciones Electrónicas, el cual solo prevé como excepción el acto de traslado de demanda y toda otra notificación que corresponda efectuar en...
 
 ---
 
@@ -10591,6 +10591,22 @@ Si las partes pactaron como cláusula penal un interés del 1,5% diario sobre el
 
 ---
 
+## Cláusula penal
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085712
+- **Caratula:** Lado, Renato Hernan y otras c/ Marrano, Angel Juan y otros - Cobro de Pesos y Entrega de Certificación Laboral s/ ejecución de sentencia y honorarios
+- **Fecha:** 2025-03-07
+- **Provincia:** Entre Ríos
+- **Materia:** PENAL
+- **Descriptores:** cláusula penal
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2175-800isoiramus
+
+Frente a la aplicación de una cláusula penal pactada por la partes que resulta desproporcionada por su excesiva onerosidad, resulta acorde y proporcional morigerar los intereses punitorios adoptando como tasa el porcentaje de inflación acumulada en...
+
+---
+
 ## Intereses, modificación de la cláusula penal
 
 - **Tipo:** Jurisprudencia
@@ -10604,22 +10620,6 @@ Si las partes pactaron como cláusula penal un interés del 1,5% diario sobre el
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9075-800isoiramus
 
 La tasa de interés pactada, es, en principio, obligatoria para las partes (art. 959 CCC). No obstante ello, el segundo párrafo del art. 794 CCC, en la misma tónica seguida por el art. 771 CCC, faculta a la magistratura para morigerar la pena...
-
----
-
-## Intereses, modificación de la cláusula penal
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085710
-- **Caratula:** Lado, Renato Hernan y otras c/ Marrano, Angel Juan y otros - Cobro de Pesos y Entrega de Certificación Laboral s/ ejecución de sentencia y honorarios
-- **Fecha:** 2025-03-07
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PENAL
-- **Descriptores:** intereses, modificación de la cláusula penal
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0175-800isoiramus
-
-La cláusula penal por medio de la estipulación de intereses punitorios, cuyo propósito es suplir la indemnización por daños ante el deudor que incurrió en mora, está sujeta a la facultad morigeradora de la autoridad judicial, aun cuando su...
 
 ---
 
@@ -10655,19 +10655,19 @@ La finalidad de la multa penal (art. 793 CCC) es suplir la indemnización de los
 
 ---
 
-## Cláusula penal
+## Intereses, modificación de la cláusula penal
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085712
+- **Numero:** I0085710
 - **Caratula:** Lado, Renato Hernan y otras c/ Marrano, Angel Juan y otros - Cobro de Pesos y Entrega de Certificación Laboral s/ ejecución de sentencia y honorarios
 - **Fecha:** 2025-03-07
 - **Provincia:** Entre Ríos
-- **Materia:** PENAL
-- **Descriptores:** cláusula penal
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2175-800isoiramus
+- **Materia:** CIVIL-PENAL
+- **Descriptores:** intereses, modificación de la cláusula penal
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0175-800isoiramus
 
-Frente a la aplicación de una cláusula penal pactada por la partes que resulta desproporcionada por su excesiva onerosidad, resulta acorde y proporcional morigerar los intereses punitorios adoptando como tasa el porcentaje de inflación acumulada en...
+La cláusula penal por medio de la estipulación de intereses punitorios, cuyo propósito es suplir la indemnización por daños ante el deudor que incurrió en mora, está sujeta a la facultad morigeradora de la autoridad judicial, aun cuando su...
 
 ---
 
@@ -10719,22 +10719,6 @@ Conforme lo establece el art. 17, apartado primero de la Convención Americana d
 
 ---
 
-## Pesificación, procedimiento monitorio, costas, regulación de honorarios
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085619
-- **Caratula:** Sellanes, Gabriel c/ Sellanes, Leonardo s/ monitorio
-- **Fecha:** 2025-02-27
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** pesificación, procedimiento monitorio, costas, regulación de honorarios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9165-800isoiramus
-
-Si en la incidencia generada respecto a la forma de pesificar la moneda extranjera contenida en la sentencia monitoria, el ejecutado resulta ganador, frente a la diferencia entre el valor del dólar MEP y el oficial que redunda en el 0,88% no se...
-
----
-
 ## Procedimiento monitorio, pesificación, costas
 
 - **Tipo:** Jurisprudencia
@@ -10748,6 +10732,22 @@ Si en la incidencia generada respecto a la forma de pesificar la moneda extranje
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8165-800isoiramus
 
 Si el ejecutado al oponerse a la sentencia monitoria resulta ganador solo en relación a la forma de pesificar la moneda extranjera, surge que en el pleito aún tiene la condición de perdedor y ese carácter no cambia por la circunstancia relacionada...
+
+---
+
+## Pesificación, procedimiento monitorio, costas, regulación de honorarios
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085619
+- **Caratula:** Sellanes, Gabriel c/ Sellanes, Leonardo s/ monitorio
+- **Fecha:** 2025-02-27
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** pesificación, procedimiento monitorio, costas, regulación de honorarios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9165-800isoiramus
+
+Si en la incidencia generada respecto a la forma de pesificar la moneda extranjera contenida en la sentencia monitoria, el ejecutado resulta ganador, frente a la diferencia entre el valor del dólar MEP y el oficial que redunda en el 0,88% no se...
 
 ---
 
@@ -10767,22 +10767,6 @@ Quien explota la concesión de una ruta, máxime cuando se trata de una vía de 
 
 ---
 
-## Concesión de corredores viales, valor vida
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085606
-- **Caratula:** Rossi, Alejandro Luis c/ Caminos del Rio Uruguay S.A. de Construcciones y Concesiones Viales s/ sumarisimo (civil)
-- **Fecha:** 2025-02-26
-- **Provincia:** Entre Ríos
-- **Materia:** ADMINISTRATIVO-CIVIL
-- **Descriptores:** concesión de corredores viales, valor vida
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6065-800isoiramus
-
-En razón de que la prestación del servicio a cargo del cesionario de una ruta se encuentra vinculado a la vida como primer derecho de la persona humana, no es aventurado concluir que el usuario posee una confianza en que el concesionario se ha...
-
----
-
 ## Concesión de corredores viales
 
 - **Tipo:** Jurisprudencia
@@ -10799,6 +10783,22 @@ Si la ruta concesionada resulta ser un camino por donde circulan miles de vehíc
 
 ---
 
+## Concesión de corredores viales, valor vida
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085606
+- **Caratula:** Rossi, Alejandro Luis c/ Caminos del Rio Uruguay S.A. de Construcciones y Concesiones Viales s/ sumarisimo (civil)
+- **Fecha:** 2025-02-26
+- **Provincia:** Entre Ríos
+- **Materia:** ADMINISTRATIVO-CIVIL
+- **Descriptores:** concesión de corredores viales, valor vida
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6065-800isoiramus
+
+En razón de que la prestación del servicio a cargo del cesionario de una ruta se encuentra vinculado a la vida como primer derecho de la persona humana, no es aventurado concluir que el usuario posee una confianza en que el concesionario se ha...
+
+---
+
 ## Prioridad de paso, accidente de tránsito
 
 - **Tipo:** Jurisprudencia
@@ -10812,6 +10812,22 @@ Si la ruta concesionada resulta ser un camino por donde circulan miles de vehíc
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4065-800isoiramus
 
 Si quien tenía prioridad de paso arriba a la intersección a una velocidad entre 22 y 27,35 km/h, esto es con un mínimo sobrepaso al límite de velocidad dispuesto por la Ordenanza local -20 km/h-, y el conductor que lo hacía por la izquierda contaba...
+
+---
+
+## Grupos vulnerables, cesación de la obligación alimentaria, abuelos, jubilados
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085575
+- **Caratula:** F., S. M. A. y F., F. M. A. c/ F.D.E. y F.E.E. s/ Alimentos
+- **Fecha:** 2025-02-24
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-CONSTITUCIONAL
+- **Descriptores:** grupos vulnerables, cesación de la obligación alimentaria, abuelos, jubilados, obligación alimentaria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5755-800isoiramus
+
+No corresponde el reclamo alimentario contra el abuelo paterno, por operatoria de la Convención Interamericana sobre Protección de los Derechos Humanos de las Personas Mayores, que tiene preeminencia por su rango constitucional. El estado de...
 
 ---
 
@@ -10847,22 +10863,6 @@ Si existen cuatro abuelos obligados en forma subsidiaria al pago de los alimento
 
 ---
 
-## Grupos vulnerables, cesación de la obligación alimentaria, abuelos, jubilados
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085575
-- **Caratula:** F., S. M. A. y F., F. M. A. c/ F.D.E. y F.E.E. s/ Alimentos
-- **Fecha:** 2025-02-24
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-CONSTITUCIONAL
-- **Descriptores:** grupos vulnerables, cesación de la obligación alimentaria, abuelos, jubilados, obligación alimentaria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5755-800isoiramus
-
-No corresponde el reclamo alimentario contra el abuelo paterno, por operatoria de la Convención Interamericana sobre Protección de los Derechos Humanos de las Personas Mayores, que tiene preeminencia por su rango constitucional. El estado de...
-
----
-
 ## Phishing, obligación de seguridad
 
 - **Tipo:** Jurisprudencia
@@ -10876,22 +10876,6 @@ No corresponde el reclamo alimentario contra el abuelo paterno, por operatoria d
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7955-800isoiramus
 
 En el marco de una estafa bancaria bajo la modalidad de "phishing", aun cuando se advierta un factor causal concurrente, originado en que la víctima se vió envuelta en el engaño de terceras personas desconocidas y que en su demanda dijo que...
-
----
-
-## Obligaciones en moneda extranjera, intereses
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085622
-- **Caratula:** Badaracco García, Leonela Miguelina c/ Badaracco, Luciano Miguel s/ ordinario simulación
-- **Fecha:** 2025-02-21
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** obligaciones en moneda extranjera, intereses
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2265-800isoiramus
-
-Cuando la obligación judicialmente reconocida es debida en moneda extranjera, no resultan aplicables las previsiones de los incisos b) y c) del art. 768 CCC -tasa por mora prevista en leyes especiales o según reglamentaciones del BCRA-, y no existe...
 
 ---
 
@@ -10911,19 +10895,19 @@ Si la morigeración de honorarios es procedente en razón de que el monto del ju
 
 ---
 
-## Regulación de honorarios
+## Honorarios, contrato de servicios
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085631
+- **Numero:** I0085629
 - **Caratula:** Agronesi S.R.L. c/ s/ quiebra
 - **Fecha:** 2025-02-21
 - **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** regulación de honorarios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1365-800isoiramus
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** honorarios, contrato de servicios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9265-800isoiramus
 
-El tribunal de apelación sólo está habilitado a estimar los honorarios en el supuesto previsto en el art. 271 CPCC, con lo cual, si la instancia de grado omite una regulación corresponde su remisión a los fines de que proceda a una regulación...
+En lo que respecta a la retribución del letrado del fallido, tratándose de un contrato de servicio y no habiéndose previsto la gratuidad (art. 1251 CCC), corresponde fijar su remuneración de acuerdo a la labor cumplida (art. 1255 CCC), pues el...
 
 ---
 
@@ -10943,35 +10927,19 @@ Si las tareas del letrado del fallido posibilitan la conclusión de la quiebra p
 
 ---
 
-## Modificación de la tasa de interés
+## Regulación de honorarios
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085620
-- **Caratula:** Badaracco García, Leonela Miguelina c/ Badaracco, Luciano Miguel s/ ordinario simulación
-- **Fecha:** 2025-02-21
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** modificación de la tasa de interés
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0265-800isoiramus
-
-Si la liquidación de los accesorios arroja un resultado que no se condice con la deuda de valor reconocida en la sentencia firme y la finalidad que se tuvo en cuenta al decidir el fondo de la cuestión, la decisión adoptada al respecto no puede...
-
----
-
-## Honorarios, contrato de servicios
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085629
+- **Numero:** I0085631
 - **Caratula:** Agronesi S.R.L. c/ s/ quiebra
 - **Fecha:** 2025-02-21
 - **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** honorarios, contrato de servicios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9265-800isoiramus
+- **Materia:** PROCESAL
+- **Descriptores:** regulación de honorarios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1365-800isoiramus
 
-En lo que respecta a la retribución del letrado del fallido, tratándose de un contrato de servicio y no habiéndose previsto la gratuidad (art. 1251 CCC), corresponde fijar su remuneración de acuerdo a la labor cumplida (art. 1255 CCC), pues el...
+El tribunal de apelación sólo está habilitado a estimar los honorarios en el supuesto previsto en el art. 271 CPCC, con lo cual, si la instancia de grado omite una regulación corresponde su remisión a los fines de que proceda a una regulación...
 
 ---
 
@@ -10988,6 +10956,22 @@ En lo que respecta a la retribución del letrado del fallido, tratándose de un 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3265-800isoiramus
 
 Frente a una obligación establecida en dólares estadounidenses, corresponde aplicar una tasa de interés puro o rédito puro retributivo del valor del dinero y compensatorio de su privación, donde atento las particularidades del negocio, usos y la...
+
+---
+
+## Obligaciones en moneda extranjera, intereses
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085622
+- **Caratula:** Badaracco García, Leonela Miguelina c/ Badaracco, Luciano Miguel s/ ordinario simulación
+- **Fecha:** 2025-02-21
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** obligaciones en moneda extranjera, intereses
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2265-800isoiramus
+
+Cuando la obligación judicialmente reconocida es debida en moneda extranjera, no resultan aplicables las previsiones de los incisos b) y c) del art. 768 CCC -tasa por mora prevista en leyes especiales o según reglamentaciones del BCRA-, y no existe...
 
 ---
 
@@ -11023,19 +11007,19 @@ El hecho de que quien obtiene el beneficio de pobreza perciba la indemnización 
 
 ---
 
-## Restitución de sumas de dinero, dólares
+## Modificación de la tasa de interés
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085603
-- **Caratula:** Chappe, Eduardo Javier c/ Altos de Unzue S.A. y otros s/ ordinario
-- **Fecha:** 2025-02-19
+- **Numero:** I0085620
+- **Caratula:** Badaracco García, Leonela Miguelina c/ Badaracco, Luciano Miguel s/ ordinario simulación
+- **Fecha:** 2025-02-21
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** restitución de sumas de dinero, dólares
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3065-800isoiramus
+- **Descriptores:** modificación de la tasa de interés
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0265-800isoiramus
 
-Frente a una obligación de restitución de una suma asumida en moneda extranjera -en el caso, dólares estadounidenses con motivo de una resolución contractual por la compra de un terreno-, la opción de cumplimiento por equivalente que contempla el...
+Si la liquidación de los accesorios arroja un resultado que no se condice con la deuda de valor reconocida en la sentencia firme y la finalidad que se tuvo en cuenta al decidir el fondo de la cuestión, la decisión adoptada al respecto no puede...
 
 ---
 
@@ -11055,22 +11039,6 @@ Tratándose de una obligación de escrituración como de plazo tácito, si la pa
 
 ---
 
-## Amparo ambiental, obligación de escriturar
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085600
-- **Caratula:** Chappe, Eduardo Javier c/ Altos de Unzue S.A. y otros s/ ordinario
-- **Fecha:** 2025-02-19
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL-CIVIL
-- **Descriptores:** amparo ambiental, obligación de escriturar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0065-800isoiramus
-
-Resulta indiferente que el adquirente haya tenido conocimiento sobre la existencia de un amparo ambiental articulado contra la construcción del barrio por afectar el medio ambiente, cuando en el contrato celebrado por las partes en momento alguno se...
-
----
-
 ## Obligación de escriturar, amparo ambiental
 
 - **Tipo:** Jurisprudencia
@@ -11084,38 +11052,6 @@ Resulta indiferente que el adquirente haya tenido conocimiento sobre la existenc
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9955-800isoiramus
 
 La causal de incumplimiento de la obligación de escrituración invocada por la parte vendedora, referida a los inconvenientes judiciales como consecuencia de un amparo ambiental en la que resultare parte condenada, resulta completamente ajena al...
-
----
-
-## Efecto devolutivo, expediente electrónico
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085626
-- **Caratula:** Ibarra, Guillermo Francisco c/ Chamot, Maximiliano Luis Alfredo y otro s- interdicto de retener ( Expte 10549) s/ recurso de queja
-- **Fecha:** 2025-02-19
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** efecto devolutivo, expediente electrónico
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6265-800isoiramus
-
-A los fines de conformar el legajo de apelación como consecuencia del efecto devolutivo del recurso -art. 247 CPCC-, en lugar de solicitar al apelante las constancias que ya se encuentra digitalizadas para conformar un legajo bajo ese mismo formato,...
-
----
-
-## Deserción del recurso
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085625
-- **Caratula:** Ibarra, Guillermo Francisco c/ Chamot, Maximiliano Luis Alfredo y otro s- interdicto de retener ( Expte 10549) s/ recurso de queja
-- **Fecha:** 2025-02-19
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** deserción del recurso
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5265-800isoiramus
-
-La declaración de deserción del recurso decretada en primera instancia implica lisa y llanamente una denegatoria de la apelación, por ende, la vía de la queja resulta una herramienta procesal idónea para cuestionar su denegatoria.
 
 ---
 
@@ -11135,19 +11071,35 @@ Tratándose de una obligación de escrituración como de plazo tácito, resulta 
 
 ---
 
-## Presentación electrónica
+## Efecto devolutivo, expediente electrónico
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085627
+- **Numero:** I0085626
 - **Caratula:** Ibarra, Guillermo Francisco c/ Chamot, Maximiliano Luis Alfredo y otro s- interdicto de retener ( Expte 10549) s/ recurso de queja
 - **Fecha:** 2025-02-19
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
-- **Descriptores:** presentación electrónica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7265-800isoiramus
+- **Descriptores:** efecto devolutivo, expediente electrónico
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6265-800isoiramus
 
-El art. 12 del Reglamento de Presentaciones Electrónicas, aun cuando esté destinado a la manera en que se debe formar los incidentes, su misma inteligencia puede ser aplicada en los casos de formación de legajos de apelación en los términos del art....
+A los fines de conformar el legajo de apelación como consecuencia del efecto devolutivo del recurso -art. 247 CPCC-, en lugar de solicitar al apelante las constancias que ya se encuentra digitalizadas para conformar un legajo bajo ese mismo formato,...
+
+---
+
+## Restitución de sumas de dinero, dólares
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085603
+- **Caratula:** Chappe, Eduardo Javier c/ Altos de Unzue S.A. y otros s/ ordinario
+- **Fecha:** 2025-02-19
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** restitución de sumas de dinero, dólares
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3065-800isoiramus
+
+Frente a una obligación de restitución de una suma asumida en moneda extranjera -en el caso, dólares estadounidenses con motivo de una resolución contractual por la compra de un terreno-, la opción de cumplimiento por equivalente que contempla el...
 
 ---
 
@@ -11167,35 +11119,51 @@ La calificación jurídica del caso y la aplicación del estatuto consumeril en 
 
 ---
 
-## Interpretación del contrato, jurisprudencia aplicable, recurso de inaplicabilidad de ley, revocación de sentencia, sentencia arbitraria
+## Presentación electrónica
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085583
-- **Caratula:** Sordi, Eduardo Martín c/ Alcides Arlettaz e Hijos SRL s/ Sumarísimo
-- **Fecha:** 2025-02-17
+- **Numero:** I0085627
+- **Caratula:** Ibarra, Guillermo Francisco c/ Chamot, Maximiliano Luis Alfredo y otro s- interdicto de retener ( Expte 10549) s/ recurso de queja
+- **Fecha:** 2025-02-19
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** interpretación del contrato, jurisprudencia aplicable, recurso de inaplicabilidad de ley, revocación de sentencia, sentencia arbitraria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3855-800isoiramus
+- **Materia:** PROCESAL
+- **Descriptores:** presentación electrónica
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7265-800isoiramus
 
-Conforme reiterada jurisprudencia de esta Sala, la interpretación de los contratos y la delimitación de sus alcances y efectos constituyen materias ajenas al recurso de inaplicabilidad de ley. Sin embargo, cabe hacer excepción a dicha regla si se...
+El art. 12 del Reglamento de Presentaciones Electrónicas, aun cuando esté destinado a la manera en que se debe formar los incidentes, su misma inteligencia puede ser aplicada en los casos de formación de legajos de apelación en los términos del art....
 
 ---
 
-## Ley de defensa del consumidor, derechos del consumidor, ejecución del contrato, contratos de ejecución diferida, lugar de cumplimiento del contrato, compraventa, prueba documental, prueba del contrato, clasificación de los contratos, plazo
+## Deserción del recurso
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085581
-- **Caratula:** Sordi, Eduardo Martín c/ Alcides Arlettaz e Hijos SRL s/ Sumarísimo
-- **Fecha:** 2025-02-17
+- **Numero:** I0085625
+- **Caratula:** Ibarra, Guillermo Francisco c/ Chamot, Maximiliano Luis Alfredo y otro s- interdicto de retener ( Expte 10549) s/ recurso de queja
+- **Fecha:** 2025-02-19
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** ley de defensa del consumidor, derechos del consumidor, ejecución del contrato, contratos de ejecución diferida, lugar de ejecución del contrato, compraventa, prueba instrumental, prueba del contrato, clasificación de los contratos, plazo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1855-800isoiramus
+- **Materia:** PROCESAL
+- **Descriptores:** deserción del recurso
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5265-800isoiramus
 
-El art. 10 de la Ley de Defensa del Consumidor establece el contenido que debe consignarse en el documento de venta, y en su inciso d) expresamente se prevé que el proveedor debe indicar los plazos y condiciones de venta. En idéntica norma define...
+La declaración de deserción del recurso decretada en primera instancia implica lisa y llanamente una denegatoria de la apelación, por ende, la vía de la queja resulta una herramienta procesal idónea para cuestionar su denegatoria.
+
+---
+
+## Amparo ambiental, obligación de escriturar
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085600
+- **Caratula:** Chappe, Eduardo Javier c/ Altos de Unzue S.A. y otros s/ ordinario
+- **Fecha:** 2025-02-19
+- **Provincia:** Entre Ríos
+- **Materia:** CONSTITUCIONAL-CIVIL
+- **Descriptores:** amparo ambiental, obligación de escriturar
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0065-800isoiramus
+
+Resulta indiferente que el adquirente haya tenido conocimiento sobre la existencia de un amparo ambiental articulado contra la construcción del barrio por afectar el medio ambiente, cuando en el contrato celebrado por las partes en momento alguno se...
 
 ---
 
@@ -11215,22 +11183,6 @@ Los conflictos tramitados en el fuero de familia deben conducirse cumpliendo con
 
 ---
 
-## Ley de defensa del consumidor, acceso a la información, derechos del consumidor, relación de consumo, celebración del contrato
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085580
-- **Caratula:** Sordi, Eduardo Martín c/ Alcides Arlettaz e Hijos SRL s/ Sumarísimo
-- **Fecha:** 2025-02-17
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** ley de defensa del consumidor, acceso a la información, derechos del consumidor, relación de consumo, celebración del contrato
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0855-800isoiramus
-
-El deber de información como instrumento de tutela consagrado en el art. 4 de la LDC no se agota luego de la celebración del contrato; ella debe desplegarse durante toda la relación de consumo: desde las tratativas previas, durante su ejecución y,...
-
----
-
 ## Defensa en juicio, regulación de honorarios, notificación
 
 - **Tipo:** Jurisprudencia
@@ -11247,19 +11199,51 @@ Como el proceso judicial no es un juego de ficciones, la notificación al mandan
 
 ---
 
-## Regulación de honorarios, notificación
+## Ley de defensa del consumidor, derechos del consumidor, ejecución del contrato, contratos de ejecución diferida, lugar de cumplimiento del contrato, compraventa, prueba documental, prueba del contrato, clasificación de los contratos, plazo
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085633
-- **Caratula:** Estape, Ruth c/ Poloni, Carlos Horacio s/ ejecución de honorarios
+- **Numero:** I0085581
+- **Caratula:** Sordi, Eduardo Martín c/ Alcides Arlettaz e Hijos SRL s/ Sumarísimo
 - **Fecha:** 2025-02-17
 - **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** regulación de honorarios, notificación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3365-800isoiramus
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** ley de defensa del consumidor, derechos del consumidor, ejecución del contrato, contratos de ejecución diferida, lugar de ejecución del contrato, compraventa, prueba instrumental, prueba del contrato, clasificación de los contratos, plazo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1855-800isoiramus
 
-Salvo cuando corresponda la notificación del auto regulatorio en el domicilio real, en los demás casos la notificación se concreta al domicilio electrónico constituido en representación del deudor, conforme la implementación del sistema reglado por...
+El art. 10 de la Ley de Defensa del Consumidor establece el contenido que debe consignarse en el documento de venta, y en su inciso d) expresamente se prevé que el proveedor debe indicar los plazos y condiciones de venta. En idéntica norma define...
+
+---
+
+## Interpretación del contrato, jurisprudencia aplicable, recurso de inaplicabilidad de ley, revocación de sentencia, sentencia arbitraria
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085583
+- **Caratula:** Sordi, Eduardo Martín c/ Alcides Arlettaz e Hijos SRL s/ Sumarísimo
+- **Fecha:** 2025-02-17
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** interpretación del contrato, jurisprudencia aplicable, recurso de inaplicabilidad de ley, revocación de sentencia, sentencia arbitraria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3855-800isoiramus
+
+Conforme reiterada jurisprudencia de esta Sala, la interpretación de los contratos y la delimitación de sus alcances y efectos constituyen materias ajenas al recurso de inaplicabilidad de ley. Sin embargo, cabe hacer excepción a dicha regla si se...
+
+---
+
+## Ley de defensa del consumidor, acceso a la información, derechos del consumidor, relación de consumo, celebración del contrato
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085580
+- **Caratula:** Sordi, Eduardo Martín c/ Alcides Arlettaz e Hijos SRL s/ Sumarísimo
+- **Fecha:** 2025-02-17
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** ley de defensa del consumidor, acceso a la información, derechos del consumidor, relación de consumo, celebración del contrato
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0855-800isoiramus
+
+El deber de información como instrumento de tutela consagrado en el art. 4 de la LDC no se agota luego de la celebración del contrato; ella debe desplegarse durante toda la relación de consumo: desde las tratativas previas, durante su ejecución y,...
 
 ---
 
@@ -11276,6 +11260,22 @@ Salvo cuando corresponda la notificación del auto regulatorio en el domicilio r
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2335-800isoiramus
 
 Corresponde hacer lugar a la cautelar autosatisfactiva presentada por la defensora pública en representación de un niño cuyos padres se encuentran en conflicto con imputaciones mutuas que hicieron públicas en distintos medios, en resguardo de su...
+
+---
+
+## Regulación de honorarios, notificación
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085633
+- **Caratula:** Estape, Ruth c/ Poloni, Carlos Horacio s/ ejecución de honorarios
+- **Fecha:** 2025-02-17
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** regulación de honorarios, notificación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3365-800isoiramus
+
+Salvo cuando corresponda la notificación del auto regulatorio en el domicilio real, en los demás casos la notificación se concreta al domicilio electrónico constituido en representación del deudor, conforme la implementación del sistema reglado por...
 
 ---
 
@@ -11311,22 +11311,6 @@ La muerte del alimentante provoca el cese de la obligación alimentaria -art. 55
 
 ---
 
-## Acción de amparo, tutela sindical, derechos sindicales, revocación de sentencia, falta de legitimación para obrar, vacaciones, juicio sumarísimo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085329
-- **Caratula:** Jacob, Carina c/ Gobierno de Entre Ríos y Ministerio de Salud de Entre Ríos s/ Amparo sindical s/sentencias definitivas sumarísimo
-- **Fecha:** 2025-02-13
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL
-- **Descriptores:** acción de amparo, tutela sindical, derechos sindicales, revocación de sentencia, falta de legitimación, licencia anual ordinaria, proceso sumarísimo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9235-800isoiramus
-
-La trabajadora carece de legitimación activa, cesado su mandato gremial, para intentar la acción de amparo sindical, solicitando se le reconozcan licencia ordinaria, por cuanto esta vía no puede ser ejercitada por todo trabajador.
-
----
-
 ## Juicio ejecutivo, abstracción cambiaria
 
 - **Tipo:** Jurisprudencia
@@ -11356,6 +11340,22 @@ En los juicios ejecutivos, la ausencia de contestación a la oposición no impli
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8855-800isoiramus
 
 Ante la designación de un tutor a favor de un adolescente -art. 104 CCC-, si se configura el presupuesto previsto en el art. 700 inc. b) CCC -abandono del progenitor dejándolo en un total estado de desprotección-, corresponde aplicar lo dispuesto...
+
+---
+
+## Acción de amparo, tutela sindical, derechos sindicales, revocación de sentencia, falta de legitimación para obrar, vacaciones, juicio sumarísimo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085329
+- **Caratula:** Jacob, Carina c/ Gobierno de Entre Ríos y Ministerio de Salud de Entre Ríos s/ Amparo sindical s/sentencias definitivas sumarísimo
+- **Fecha:** 2025-02-13
+- **Provincia:** Entre Ríos
+- **Materia:** CONSTITUCIONAL
+- **Descriptores:** acción de amparo, tutela sindical, derechos sindicales, revocación de sentencia, falta de legitimación, licencia anual ordinaria, proceso sumarísimo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9235-800isoiramus
+
+La trabajadora carece de legitimación activa, cesado su mandato gremial, para intentar la acción de amparo sindical, solicitando se le reconozcan licencia ordinaria, por cuanto esta vía no puede ser ejercitada por todo trabajador.
 
 ---
 
@@ -11391,38 +11391,6 @@ La negativa del empleador -SGPER- a reconocerle a la trabajadora, cesado el mand
 
 ---
 
-## Excusación, recusación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085616
-- **Caratula:** Superintendencia de Tribunales-Gualeguay c/ Reggiardo, Carlos Guillermo -Violencia de Genero- s/ incidente recusación
-- **Fecha:** 2025-02-12
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** excusación, recusación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6165-800isoiramus
-
-Frente a la denuncia formulada por un letrado ante el tribunal de enjuiciamiento de magistrados, si no se corrobora que esté comprometida la imparcialidad e independencia en grado que le impidiera al juez resolver aquellos pleitos, no corresponde la...
-
----
-
-## Caducidad, compensación, mediación obligatoria
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085593
-- **Caratula:** R., M. D. L. A. c/ M., N. A. s/ ordinario compensación económica (digital)
-- **Fecha:** 2025-02-12
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** caducidad, compensación, mediación obligatoria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3955-800isoiramus
-
-Teniendo en cuenta que el plazo de caducidad de la acción de compensación económica se encuentra alcanzado por la mediación previa obligatoria, en el supuesto particular de la mediación a propuesta o elección del requirente, la suspensión opera...
-
----
-
 ## Caducidad, compensación, uniones convivenciales
 
 - **Tipo:** Jurisprudencia
@@ -11439,19 +11407,99 @@ El lapso de seis meses de caducidad para el reclamo de la compensación económi
 
 ---
 
+## Caducidad, compensación, uniones convivenciales
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085595
+- **Caratula:** R., M. D. L. A. c/ M., N. A. s/ ordinario compensación económica (digital)
+- **Fecha:** 2025-02-12
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** caducidad, compensación, uniones convivenciales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5955-800isoiramus
+
+En materia de compensación económica en uniones convivenciales, la determinación de una fecha concreta que dé inicio al cómputo del plazo caducitario resulta una aspecto trascendente, pues la caducidad extingue el derecho no ejercido, y el plazo...
+
+---
+
 ## Caducidad, compensación, mediación obligatoria
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085591
+- **Numero:** I0085592
 - **Caratula:** R., M. D. L. A. c/ M., N. A. s/ ordinario compensación económica (digital)
 - **Fecha:** 2025-02-12
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-PROCESAL
 - **Descriptores:** caducidad, compensación, mediación obligatoria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1955-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2955-800isoiramus
 
-El plazo de caducidad de la acción de compensación económica se encuentra alcanzado por la mediación previa obligatoria (art. 286 bis inc. 1 CPCC), ya que la provincia, a través de la Ley 9858, adhirió a la disposición prevista en el art. 29 de la...
+Teniendo en cuenta que el plazo de caducidad de la acción de compensación económica se encuentra alcanzado por la mediación previa obligatoria, los alcances variarán según se trate de la mediación por acuerdo de partes, por sorteo, o a propuesta del...
+
+---
+
+## Recusación con causa
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085614
+- **Caratula:** Superintendencia de Tribunales-Gualeguay c/ Reggiardo, Carlos Guillermo -Violencia de Genero- s/ incidente recusación
+- **Fecha:** 2025-02-12
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** recusación con causa
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4165-800isoiramus
+
+Las causales de recusación son de interpretación restrictiva y el art. 14 del CPCC no contempla la violencia moral como motivo para requerir el apartamiento de una causa.
+
+---
+
+## Excusación, recusación
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085616
+- **Caratula:** Superintendencia de Tribunales-Gualeguay c/ Reggiardo, Carlos Guillermo -Violencia de Genero- s/ incidente recusación
+- **Fecha:** 2025-02-12
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** excusación, recusación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6165-800isoiramus
+
+Frente a la denuncia formulada por un letrado ante el tribunal de enjuiciamiento de magistrados, si no se corrobora que esté comprometida la imparcialidad e independencia en grado que le impidiera al juez resolver aquellos pleitos, no corresponde la...
+
+---
+
+## Caducidad, compensación, uniones convivenciales
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085596
+- **Caratula:** R., M. D. L. A. c/ M., N. A. s/ ordinario compensación económica (digital)
+- **Fecha:** 2025-02-12
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** caducidad, compensación, uniones convivenciales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6955-800isoiramus
+
+La interpretación sobre el inicio del plazo de caducidad de la acción por compensación económica por cese de la convivencia debe estar sujeto a las directivas establecidas en los arts. 1 y 2 del CCC, desde que un instituto con finalidad tuitiva...
+
+---
+
+## Caducidad, compensación, mediación obligatoria
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085593
+- **Caratula:** R., M. D. L. A. c/ M., N. A. s/ ordinario compensación económica (digital)
+- **Fecha:** 2025-02-12
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** caducidad, compensación, mediación obligatoria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3955-800isoiramus
+
+Teniendo en cuenta que el plazo de caducidad de la acción de compensación económica se encuentra alcanzado por la mediación previa obligatoria, en el supuesto particular de la mediación a propuesta o elección del requirente, la suspensión opera...
 
 ---
 
@@ -11475,63 +11523,15 @@ Una solución permisiva sobre la causa de violencia moral invocada por el juez c
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085592
+- **Numero:** I0085591
 - **Caratula:** R., M. D. L. A. c/ M., N. A. s/ ordinario compensación económica (digital)
 - **Fecha:** 2025-02-12
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-PROCESAL
 - **Descriptores:** caducidad, compensación, mediación obligatoria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2955-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1955-800isoiramus
 
-Teniendo en cuenta que el plazo de caducidad de la acción de compensación económica se encuentra alcanzado por la mediación previa obligatoria, los alcances variarán según se trate de la mediación por acuerdo de partes, por sorteo, o a propuesta del...
-
----
-
-## Caducidad, compensación, uniones convivenciales
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085596
-- **Caratula:** R., M. D. L. A. c/ M., N. A. s/ ordinario compensación económica (digital)
-- **Fecha:** 2025-02-12
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** caducidad, compensación, uniones convivenciales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6955-800isoiramus
-
-La interpretación sobre el inicio del plazo de caducidad de la acción por compensación económica por cese de la convivencia debe estar sujeto a las directivas establecidas en los arts. 1 y 2 del CCC, desde que un instituto con finalidad tuitiva...
-
----
-
-## Caducidad, compensación, uniones convivenciales
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085595
-- **Caratula:** R., M. D. L. A. c/ M., N. A. s/ ordinario compensación económica (digital)
-- **Fecha:** 2025-02-12
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** caducidad, compensación, uniones convivenciales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5955-800isoiramus
-
-En materia de compensación económica en uniones convivenciales, la determinación de una fecha concreta que dé inicio al cómputo del plazo caducitario resulta una aspecto trascendente, pues la caducidad extingue el derecho no ejercido, y el plazo...
-
----
-
-## Recusación con causa
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085614
-- **Caratula:** Superintendencia de Tribunales-Gualeguay c/ Reggiardo, Carlos Guillermo -Violencia de Genero- s/ incidente recusación
-- **Fecha:** 2025-02-12
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** recusación con causa
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4165-800isoiramus
-
-Las causales de recusación son de interpretación restrictiva y el art. 14 del CPCC no contempla la violencia moral como motivo para requerir el apartamiento de una causa.
+El plazo de caducidad de la acción de compensación económica se encuentra alcanzado por la mediación previa obligatoria (art. 286 bis inc. 1 CPCC), ya que la provincia, a través de la Ley 9858, adhirió a la disposición prevista en el art. 29 de la...
 
 ---
 
@@ -11567,6 +11567,38 @@ El derecho de habitación viudal es un derecho real que asiste al cónyuge supé
 
 ---
 
+## Derecho de habitación, condominio
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085610
+- **Caratula:** Manzanares, Candido Julian - Sucesorio Ab Intestato c/ s/ incidente habitación viudal
+- **Fecha:** 2025-02-10
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** derecho de habitación, condominio
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0165-800isoiramus
+
+La norma contenida en el art. 2383 del CCC especialmente excluye la posibilidad de que la cosa se encuentre "a la apertura de la sucesión...en condominio con otras personas"; situación que resulta atendible pues la figura constituye una carga para...
+
+---
+
+## Derecho de habitación, cónyuge supérstite, condominio
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085613
+- **Caratula:** Manzanares, Candido Julian - Sucesorio Ab Intestato c/ s/ incidente habitación viudal
+- **Fecha:** 2025-02-10
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** derecho de habitación, cónyuge supérstite, condominio
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3165-800isoiramus
+
+Aun cuando el porcentaje que le corresponde a la cónyuge supérstite sobre el inmueble sea de naturaleza propia, si el restante porcentaje lo es en favor de terceros personas a raíz de diferentes cesiones y adquisiciones en subasta pública de los...
+
+---
+
 ## Derecho de habitación, cónyuge supérstite
 
 - **Tipo:** Jurisprudencia
@@ -11599,35 +11631,19 @@ Si bien el art. 2383 del CCC hace mención específica a que el inmueble no se e
 
 ---
 
-## Derecho de habitación, condominio
+## Ejercicio profesional, abogados, compatibilidad previsional, igualdad ante la ley
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085610
-- **Caratula:** Manzanares, Candido Julian - Sucesorio Ab Intestato c/ s/ incidente habitación viudal
-- **Fecha:** 2025-02-10
+- **Numero:** I0086326
+- **Caratula:** Castrillon, Emilio Aroldo Eduardo c/ Colegio de la Abogacía de Entre Ríos s/ acción de amparo
+- **Fecha:** 2025-01-07
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** derecho de habitación, condominio
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0165-800isoiramus
+- **Materia:** CIVIL-CONSTITUCIONAL-SEGURIDAD SOCIAL
+- **Descriptores:** ejercicio profesional, abogados, compatibilidad previsional, igualdad ante la ley
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6236-800isoiramus
 
-La norma contenida en el art. 2383 del CCC especialmente excluye la posibilidad de que la cosa se encuentre "a la apertura de la sucesión...en condominio con otras personas"; situación que resulta atendible pues la figura constituye una carga para...
-
----
-
-## Derecho de habitación, cónyuge supérstite, condominio
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085613
-- **Caratula:** Manzanares, Candido Julian - Sucesorio Ab Intestato c/ s/ incidente habitación viudal
-- **Fecha:** 2025-02-10
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** derecho de habitación, cónyuge supérstite, condominio
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3165-800isoiramus
-
-Aun cuando el porcentaje que le corresponde a la cónyuge supérstite sobre el inmueble sea de naturaleza propia, si el restante porcentaje lo es en favor de terceros personas a raíz de diferentes cesiones y adquisiciones en subasta pública de los...
+La Resolución 32667 del CAER debe ser anulada por ser una arbitraria limitación al ejercicio de la profesión de la abogacía del actor y por ende, configura la negativa manifiestamente ilegítima prevista por los arts. 1 y 2 de la LPC, máxime la...
 
 ---
 
@@ -11663,19 +11679,19 @@ La sola circunstancia de que se trate de una cuestión de puro derecho no es suf
 
 ---
 
-## Ejercicio profesional, abogados, compatibilidad previsional, igualdad ante la ley
+## Ejercicio profesional, abogados, procedimiento administrativo
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086326
+- **Numero:** I0086325
 - **Caratula:** Castrillon, Emilio Aroldo Eduardo c/ Colegio de la Abogacía de Entre Ríos s/ acción de amparo
 - **Fecha:** 2025-01-07
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL-CONSTITUCIONAL-SEGURIDAD SOCIAL
-- **Descriptores:** ejercicio profesional, abogados, compatibilidad previsional, igualdad ante la ley
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6236-800isoiramus
+- **Materia:** ADMINISTRATIVO-CIVIL
+- **Descriptores:** ejercicio profesional, abogados, procedimiento administrativo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5236-800isoiramus
 
-La Resolución 32667 del CAER debe ser anulada por ser una arbitraria limitación al ejercicio de la profesión de la abogacía del actor y por ende, configura la negativa manifiestamente ilegítima prevista por los arts. 1 y 2 de la LPC, máxime la...
+El modo normal y habitual para enjuiciar cualquier actuación de un colegio profesional que se califique como defectuosa, es a través del proceso previsto por el Código Procesal Administrativo por ser éste el fuero con competencia específica y...
 
 ---
 
@@ -11695,19 +11711,19 @@ Si a la falta de urgencia, le sumamos la necesidad de perforar el sistema juríd
 
 ---
 
-## Ejercicio profesional, abogados, procedimiento administrativo
+## Violencia familiar, plazos procesales
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0086325
-- **Caratula:** Castrillon, Emilio Aroldo Eduardo c/ Colegio de la Abogacía de Entre Ríos s/ acción de amparo
-- **Fecha:** 2025-01-07
+- **Numero:** I0085546
+- **Caratula:** B., E. S. c/ O., F. s/ violencia de genero
+- **Fecha:** 2024-12-27
 - **Provincia:** Entre Ríos
-- **Materia:** ADMINISTRATIVO-CIVIL
-- **Descriptores:** ejercicio profesional, abogados, procedimiento administrativo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5236-800isoiramus
+- **Materia:** DERECHOS HUMANOS-PROCESAL
+- **Descriptores:** violencia familiar, plazos procesales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6455-800isoiramus
 
-El modo normal y habitual para enjuiciar cualquier actuación de un colegio profesional que se califique como defectuosa, es a través del proceso previsto por el Código Procesal Administrativo por ser éste el fuero con competencia específica y...
+El plazo breve dispuesto por el legislador para que los denunciados sean escuchados - dentro de las 48 horas de efectuada la denuncia- encuentra un fundamento razonable y lógico en la necesidad de obtener conocimiento cierto o verosímil sobre las...
 
 ---
 
@@ -11759,22 +11775,6 @@ El procedimiento reglado legalmente en materia de violencia familiar no es meram
 
 ---
 
-## Violencia familiar, plazos procesales
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085546
-- **Caratula:** B., E. S. c/ O., F. s/ violencia de genero
-- **Fecha:** 2024-12-27
-- **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS-PROCESAL
-- **Descriptores:** violencia familiar, plazos procesales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6455-800isoiramus
-
-El plazo breve dispuesto por el legislador para que los denunciados sean escuchados - dentro de las 48 horas de efectuada la denuncia- encuentra un fundamento razonable y lógico en la necesidad de obtener conocimiento cierto o verosímil sobre las...
-
----
-
 ## Incidentes, insuficiencia del agravio
 
 - **Tipo:** Jurisprudencia
@@ -11807,6 +11807,22 @@ Pretender la notificación de un incidente al domicilio real conllevaría, por u
 
 ---
 
+## Alimentos, compensación
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085549
+- **Caratula:** G., A. C. c/ G., A. N. y otros s/ homologación de convenio (civil) (mediación oficial 07.9.2022)
+- **Fecha:** 2024-12-19
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** alimentos, compensación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9455-800isoiramus
+
+En materia de alimentos, la pretensión de compensar la deuda en dinero con el valor de la prestación que hubiera realizado en especie el alimentante, importa admitir una alteración unilateral del modo de cumplimiento de la obligación.
+
+---
+
 ## Alimentos, obligaciones de dar sumas de dinero
 
 - **Tipo:** Jurisprudencia
@@ -11823,19 +11839,35 @@ Aun cuando el art. 659 CCC admite prestaciones monetarias o en especie, mientras
 
 ---
 
-## Alimentos, compensación
+## Juicio ejecutivo, pagaré, mandato especial
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085549
-- **Caratula:** G., A. C. c/ G., A. N. y otros s/ homologación de convenio (civil) (mediación oficial 07.9.2022)
-- **Fecha:** 2024-12-19
+- **Numero:** I0085561
+- **Caratula:** Ascar, Francisco Antonio c/ Sarasola, Hipólito José y otros s/ ejecutivo
+- **Fecha:** 2024-12-18
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** juicio ejecutivo, pagaré, mandato especial
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1655-800isoiramus
+
+Conforme lo dispone el art. 9 del Decreto-Ley N° 5.965, quien firma un pagaré en representación de otra persona debe contar con un mandato especial. Sin embargo, si el representado es un comerciante, el poder general es suficiente, siempre que la...
+
+---
+
+## Trabajador con cargas de familia, cesación de cuota alimentaria
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085550
+- **Caratula:** S., D. M. I. y R., R. A. c/ s/ homologación de convenio (civil) (incidente cese de cuota alimentaria)
+- **Fecha:** 2024-12-18
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** alimentos, compensación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9455-800isoiramus
+- **Descriptores:** trabajador con cargas de familia, cesación de cuota alimentaria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0555-800isoiramus
 
-En materia de alimentos, la pretensión de compensar la deuda en dinero con el valor de la prestación que hubiera realizado en especie el alimentante, importa admitir una alteración unilateral del modo de cumplimiento de la obligación.
+Respecto a la obligación alimentaria de uno de los ex cónyuges a favor del otro con posterioridad al divorcio, el cambio de circunstancias del alimentante por tener nuevas cargas familiares no resulta una razón válida para postular el cese de una...
 
 ---
 
@@ -11859,22 +11891,6 @@ A raíz de lo normado por la legislación civil sustancial en materia de represe
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085561
-- **Caratula:** Ascar, Francisco Antonio c/ Sarasola, Hipólito José y otros s/ ejecutivo
-- **Fecha:** 2024-12-18
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** juicio ejecutivo, pagaré, mandato especial
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1655-800isoiramus
-
-Conforme lo dispone el art. 9 del Decreto-Ley N° 5.965, quien firma un pagaré en representación de otra persona debe contar con un mandato especial. Sin embargo, si el representado es un comerciante, el poder general es suficiente, siempre que la...
-
----
-
-## Juicio ejecutivo, pagaré, mandato especial
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
 - **Numero:** I0085562
 - **Caratula:** Ascar, Francisco Antonio c/ Sarasola, Hipólito José y otros s/ ejecutivo
 - **Fecha:** 2024-12-18
@@ -11887,19 +11903,19 @@ El Decreto-Ley N° 5.965, en su art. 9, no brinda mayores precisiones sobre el a
 
 ---
 
-## Trabajador con cargas de familia, cesación de cuota alimentaria
+## Violencia de género, alimentos provisionales, medidas cautelares
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085550
-- **Caratula:** S., D. M. I. y R., R. A. c/ s/ homologación de convenio (civil) (incidente cese de cuota alimentaria)
-- **Fecha:** 2024-12-18
+- **Numero:** I0085551
+- **Caratula:** L., H. E. c/ B., C. M. s/ violencia de genero
+- **Fecha:** 2024-12-17
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** trabajador con cargas de familia, cesación de cuota alimentaria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0555-800isoiramus
+- **Descriptores:** violencia de género, alimentos provisionales, medidas cautelares
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1555-800isoiramus
 
-Respecto a la obligación alimentaria de uno de los ex cónyuges a favor del otro con posterioridad al divorcio, el cambio de circunstancias del alimentante por tener nuevas cargas familiares no resulta una razón válida para postular el cese de una...
+En el marco de una denuncia de violencia de género, la fijación de alimentos provisorios a favor de los hijos en común encuentra fundamento en el art. 273 LPF, según el cual el juez está encargado de salvaguardar los derechos de la víctima y sus...
 
 ---
 
@@ -11919,19 +11935,19 @@ En el marco de una denuncia de violencia de género, y en base a lo previsto por
 
 ---
 
-## Violencia de género, alimentos provisionales, medidas cautelares
+## Daño punitivo, intereses
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085551
-- **Caratula:** L., H. E. c/ B., C. M. s/ violencia de genero
-- **Fecha:** 2024-12-17
+- **Numero:** I0085556
+- **Caratula:** Tonon, Diana y otro c/ Banco BBVA ARGENTINA S.A.C. s/ sumarísimo (civil) (Ley Defensa del Consumidor)
+- **Fecha:** 2024-12-12
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** violencia de género, alimentos provisionales, medidas cautelares
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1555-800isoiramus
+- **Descriptores:** daño punitivo, intereses
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6555-800isoiramus
 
-En el marco de una denuncia de violencia de género, la fijación de alimentos provisorios a favor de los hijos en común encuentra fundamento en el art. 273 LPF, según el cual el juez está encargado de salvaguardar los derechos de la víctima y sus...
+El daño punitivo es un instituto de tipo disuasorio y sancionatorio más no resarcitorio. Partiendo de esa diferenciación, resulta improcedente aplicar intereses al monto condenado por tal concepto, los que en su caso, solo se devengan en el supuesto...
 
 ---
 
@@ -11967,35 +11983,19 @@ Aun cuando se comprenda que el diseño procesal tiende, en principio, a no conve
 
 ---
 
-## Daño punitivo, intereses
+## Regulación de honorarios, acciones de filiación
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085556
-- **Caratula:** Tonon, Diana y otro c/ Banco BBVA ARGENTINA S.A.C. s/ sumarísimo (civil) (Ley Defensa del Consumidor)
-- **Fecha:** 2024-12-12
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** daño punitivo, intereses
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6555-800isoiramus
-
-El daño punitivo es un instituto de tipo disuasorio y sancionatorio más no resarcitorio. Partiendo de esa diferenciación, resulta improcedente aplicar intereses al monto condenado por tal concepto, los que en su caso, solo se devengan en el supuesto...
-
----
-
-## Beneficio de litigar sin gastos, remisión del expediente
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085560
-- **Caratula:** Cevey, María Raquel y Cevey, Rosana Marisa c/ s/ beneficio de litigar sin gastos
+- **Numero:** I0085574
+- **Caratula:** G., M. D. c/ R., A. M. s/ ordinario filiación
 - **Fecha:** 2024-12-11
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
-- **Descriptores:** beneficio de litigar sin gastos, remisión del expediente
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0655-800isoiramus
+- **Descriptores:** regulación de honorarios, acciones de filiación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4755-800isoiramus
 
-El criterio expuesto por esta Sala, en cuanto a que las actuaciones realizadas entre los juzgados y con motivo de la radicación definitiva del proceso -beneficio de litigar sin gastos-, no constituyen actos que signifiquen un impulso, es trasladable...
+El mínimo de 100 juristas previstos en el art. 100 de la ley 7046 para las acciones de filiación se muestra en efecto desproporcionada con la labor cumplida, mientras que los 30 juristas con los que fue remunerada la labor de la representación de la...
 
 ---
 
@@ -12031,19 +12031,19 @@ El mínimo de 100 juristas previstos en el art. 100 de la ley 7046 para las acci
 
 ---
 
-## Regulación de honorarios, acciones de filiación
+## Beneficio de litigar sin gastos, remisión del expediente
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085574
-- **Caratula:** G., M. D. c/ R., A. M. s/ ordinario filiación
+- **Numero:** I0085560
+- **Caratula:** Cevey, María Raquel y Cevey, Rosana Marisa c/ s/ beneficio de litigar sin gastos
 - **Fecha:** 2024-12-11
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
-- **Descriptores:** regulación de honorarios, acciones de filiación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4755-800isoiramus
+- **Descriptores:** beneficio de litigar sin gastos, remisión del expediente
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0655-800isoiramus
 
-El mínimo de 100 juristas previstos en el art. 100 de la ley 7046 para las acciones de filiación se muestra en efecto desproporcionada con la labor cumplida, mientras que los 30 juristas con los que fue remunerada la labor de la representación de la...
+El criterio expuesto por esta Sala, en cuanto a que las actuaciones realizadas entre los juzgados y con motivo de la radicación definitiva del proceso -beneficio de litigar sin gastos-, no constituyen actos que signifiquen un impulso, es trasladable...
 
 ---
 
@@ -12060,22 +12060,6 @@ El mínimo de 100 juristas previstos en el art. 100 de la ley 7046 para las acci
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2755-800isoiramus
 
 A la hora de establecer una reducción equitativa de los honorarios profesionales, resulta prudente medir cuál sería la retribución si se la estima conforme a las pautas de la Ley 7046 sin la reforma de la Ley 11.141, utilizando el índice de...
-
----
-
-## Acción de amparo, derechos y garantías constitucionales
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085568
-- **Caratula:** M., M. G. c/ Instituto de Obra Social de la Provincia de Entre Ríos (IOSPER) s/ acción de amparo
-- **Fecha:** 2024-12-08
-- **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL
-- **Descriptores:** acción de amparo, derechos y garantías constitucionales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8655-800isoiramus
-
-Frente al reclamo dinerario de una prestación reconocida pero impaga articulado por vía del amparo de salud, si el riesgo aparece no sólo ante la posibilidad de que los pacientes vean interrumpidas sus terapias, sino también en relación a la...
 
 ---
 
@@ -12143,83 +12127,51 @@ Aun cuando pueda sostenerse que la vía del amparo de salud resulte inadmisible 
 
 ---
 
-## Resoluciones inapelables, cámara Gesell
+## Acción de amparo, derechos y garantías constitucionales
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085531
-- **Caratula:** G. C., G. c/ V., M. D. s/ régimen de comunicación
-- **Fecha:** 2024-12-05
+- **Numero:** I0085568
+- **Caratula:** M., M. G. c/ Instituto de Obra Social de la Provincia de Entre Ríos (IOSPER) s/ acción de amparo
+- **Fecha:** 2024-12-08
 - **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** resoluciones inapelables, cámara Gesell
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1355-800isoiramus
+- **Materia:** CONSTITUCIONAL
+- **Descriptores:** acción de amparo, derechos y garantías constitucionales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8655-800isoiramus
 
-La denegación del acceso al registro videograbado de la audiencia de escucha del niño, resulta consecuencia de una expresa atribución o facultad ordenatoria del juez de familia -punto 8 "Confidencialidad", del "Protocolo de Buenas Prácticas para la...
+Frente al reclamo dinerario de una prestación reconocida pero impaga articulado por vía del amparo de salud, si el riesgo aparece no sólo ante la posibilidad de que los pacientes vean interrumpidas sus terapias, sino también en relación a la...
 
 ---
 
-## Homologación del acuerdo, relaciones de familia
+## Relaciones de familia, transacción, cosa juzgada
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085534
+- **Numero:** I0085537
 - **Caratula:** S., N. B. y I., J. C. c/ s/ homologación de convenio (civil)
 - **Fecha:** 2024-12-05
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** homologación del acuerdo, relaciones de familia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4355-800isoiramus
+- **Descriptores:** relaciones de familia, transacción, cosa juzgada
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7355-800isoiramus
 
-Aun cuando el juez en la homologación del convenio sobre las relaciones de familia de índole patrimonial no saneó la ausencia del doble patrocinio, como tampoco se observó el procedimiento previsto en el art. 3 del Reglamento de Presentaciones...
+Según el art. 1642 CCC, la transacción produce los efectos de la cosa juzgada sin necesidad de homologación judicial, y sin bien esto es de interpretación restrictiva, y el art. 1644 establece prohibiciones sobre lo que puede transigirse, esa misma...
 
 ---
 
-## Derecho de las niñas, niños y adolescentes a ser oídos, interés superior del niño
+## Derecho de las niñas, niños y adolescentes a ser oídos, actos y diligencias procesales
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085530
+- **Numero:** I0085529
 - **Caratula:** G. C., G. c/ V., M. D. s/ régimen de comunicación
 - **Fecha:** 2024-12-05
 - **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS
-- **Descriptores:** derecho de las niñas, niños y adolescentes a ser oídos, interés superior del niño
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0355-800isoiramus
+- **Materia:** DERECHOS HUMANOS-PROCESAL
+- **Descriptores:** derecho de las niñas, niños y adolescentes a ser oídos, actos y diligencias procesales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9255-800isoiramus
 
-En la audiencia especial de escucha del niño deben operar las garantías específicas que enuncia el "Protocolo de Buenas Prácticas para la Escucha de Niños, Niñas y Adolescentes en los Procesos de Familia" (Ac. Gral. N° 01/19 del 12/02/19, punto...
-
----
-
-## Relaciones de familia, homologación del acuerdo, derechos y garantías constitucionales
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085541
-- **Caratula:** S., N. B. y I., J. C. c/ s/ homologación de convenio (civil)
-- **Fecha:** 2024-12-05
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-CONSTITUCIONAL
-- **Descriptores:** relaciones de familia, homologación del acuerdo, derechos y garantías constitucionales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1455-800isoiramus
-
-Si en la homologación del convenio sobre las relaciones de familia se infringió la exigencia del del doble patrocinio, cabe presumir que los celebrantes no recibieron un asesoramiento legal adecuado. Por tratarse de una garantía y derecho de índole...
-
----
-
-## Relaciones de familia, homologación del acuerdo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085536
-- **Caratula:** S., N. B. y I., J. C. c/ s/ homologación de convenio (civil)
-- **Fecha:** 2024-12-05
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** relaciones de familia, homologación del acuerdo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6355-800isoiramus
-
-Si no se niega la firma de un convenio que luego fue homologado judicialmente, y no se alega y prueba alguna objeción jurídica intrínseca, como el abuso de derecho, vicios de la voluntad, o la afectación del derecho de terceros, lo pactado entre los...
+La escucha del niño no es un medio de prueba, sino un acto procesal atípico a partir del cual se garantiza un derecho suyo -arts. 12 CDN, arts. 3 inc.b) de la ley 26.061, 707 CCC, 6 LPF-, para que el juez o tribunal conozcan su voluntad o...
 
 ---
 
@@ -12255,19 +12207,51 @@ La homologación judicial de un convenio, lo es siempre en cuanto hubiere lugar 
 
 ---
 
-## Relaciones de familia, transacción, cosa juzgada
+## Cámara Gesell, defensa en juicio
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085537
+- **Numero:** I0085532
+- **Caratula:** G. C., G. c/ V., M. D. s/ régimen de comunicación
+- **Fecha:** 2024-12-05
+- **Provincia:** Entre Ríos
+- **Materia:** CONSTITUCIONAL
+- **Descriptores:** cámara Gesell, defensa en juicio
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2355-800isoiramus
+
+La denegación del acceso al registro videograbado de la audiencia de escucha del niño está vinculada al "principio de reserva reforzada", que debe prevalecer para el resguardo de esa audiencia por sobre el derecho de defensa de los adultos o de sus...
+
+---
+
+## Relaciones de familia, homologación del acuerdo, derechos y garantías constitucionales
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085541
+- **Caratula:** S., N. B. y I., J. C. c/ s/ homologación de convenio (civil)
+- **Fecha:** 2024-12-05
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-CONSTITUCIONAL
+- **Descriptores:** relaciones de familia, homologación del acuerdo, derechos y garantías constitucionales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1455-800isoiramus
+
+Si en la homologación del convenio sobre las relaciones de familia se infringió la exigencia del del doble patrocinio, cabe presumir que los celebrantes no recibieron un asesoramiento legal adecuado. Por tratarse de una garantía y derecho de índole...
+
+---
+
+## Homologación del acuerdo, relaciones de familia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085534
 - **Caratula:** S., N. B. y I., J. C. c/ s/ homologación de convenio (civil)
 - **Fecha:** 2024-12-05
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** relaciones de familia, transacción, cosa juzgada
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7355-800isoiramus
+- **Descriptores:** homologación del acuerdo, relaciones de familia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4355-800isoiramus
 
-Según el art. 1642 CCC, la transacción produce los efectos de la cosa juzgada sin necesidad de homologación judicial, y sin bien esto es de interpretación restrictiva, y el art. 1644 establece prohibiciones sobre lo que puede transigirse, esa misma...
+Aun cuando el juez en la homologación del convenio sobre las relaciones de familia de índole patrimonial no saneó la ausencia del doble patrocinio, como tampoco se observó el procedimiento previsto en el art. 3 del Reglamento de Presentaciones...
 
 ---
 
@@ -12287,19 +12271,51 @@ Los jueces no deben decidir en base a lo que el niño verbalice, aunque lo atien
 
 ---
 
-## Relaciones de familia, homologación del acuerdo, uniones convivenciales
+## Relaciones de familia, homologación del acuerdo, falta de firma
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085535
+- **Numero:** I0085542
 - **Caratula:** S., N. B. y I., J. C. c/ s/ homologación de convenio (civil)
 - **Fecha:** 2024-12-05
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** relaciones de familia, homologación del acuerdo, uniones convivenciales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5355-800isoiramus
+- **Descriptores:** relaciones de familia, homologación del acuerdo, falta de firma
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2455-800isoiramus
 
-Si bien el juez en la homologación del convenio sobre las relaciones de familia de índole patrimonial no saneó la ausencia del doble patrocinio como tampoco se observó el procedimiento previsto en el art. 3 del Reglamento de Presentaciones...
+Si el convenio sobre las relaciones de familia es homologado pero el instrumento carece de las firmas ológrafas de las partes, e incluso una de ellas ni siquiera aparece asesorada por un abogado de su confianza debido a la ausencia de un doble...
+
+---
+
+## Derecho de las niñas, niños y adolescentes a ser oídos, interés superior del niño
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085530
+- **Caratula:** G. C., G. c/ V., M. D. s/ régimen de comunicación
+- **Fecha:** 2024-12-05
+- **Provincia:** Entre Ríos
+- **Materia:** DERECHOS HUMANOS
+- **Descriptores:** derecho de las niñas, niños y adolescentes a ser oídos, interés superior del niño
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0355-800isoiramus
+
+En la audiencia especial de escucha del niño deben operar las garantías específicas que enuncia el "Protocolo de Buenas Prácticas para la Escucha de Niños, Niñas y Adolescentes en los Procesos de Familia" (Ac. Gral. N° 01/19 del 12/02/19, punto...
+
+---
+
+## Relaciones de familia, homologación del acuerdo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085536
+- **Caratula:** S., N. B. y I., J. C. c/ s/ homologación de convenio (civil)
+- **Fecha:** 2024-12-05
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** relaciones de familia, homologación del acuerdo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6355-800isoiramus
+
+Si no se niega la firma de un convenio que luego fue homologado judicialmente, y no se alega y prueba alguna objeción jurídica intrínseca, como el abuso de derecho, vicios de la voluntad, o la afectación del derecho de terceros, lo pactado entre los...
 
 ---
 
@@ -12335,51 +12351,35 @@ Si el convenio sobre las relaciones de familia mereció homologación judicial p
 
 ---
 
-## Relaciones de familia, homologación del acuerdo, falta de firma
+## Relaciones de familia, homologación del acuerdo, uniones convivenciales
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085542
+- **Numero:** I0085535
 - **Caratula:** S., N. B. y I., J. C. c/ s/ homologación de convenio (civil)
 - **Fecha:** 2024-12-05
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** relaciones de familia, homologación del acuerdo, falta de firma
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2455-800isoiramus
+- **Descriptores:** relaciones de familia, homologación del acuerdo, uniones convivenciales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5355-800isoiramus
 
-Si el convenio sobre las relaciones de familia es homologado pero el instrumento carece de las firmas ológrafas de las partes, e incluso una de ellas ni siquiera aparece asesorada por un abogado de su confianza debido a la ausencia de un doble...
-
----
-
-## Derecho de las niñas, niños y adolescentes a ser oídos, actos y diligencias procesales
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085529
-- **Caratula:** G. C., G. c/ V., M. D. s/ régimen de comunicación
-- **Fecha:** 2024-12-05
-- **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS-PROCESAL
-- **Descriptores:** derecho de las niñas, niños y adolescentes a ser oídos, actos y diligencias procesales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9255-800isoiramus
-
-La escucha del niño no es un medio de prueba, sino un acto procesal atípico a partir del cual se garantiza un derecho suyo -arts. 12 CDN, arts. 3 inc.b) de la ley 26.061, 707 CCC, 6 LPF-, para que el juez o tribunal conozcan su voluntad o...
+Si bien el juez en la homologación del convenio sobre las relaciones de familia de índole patrimonial no saneó la ausencia del doble patrocinio como tampoco se observó el procedimiento previsto en el art. 3 del Reglamento de Presentaciones...
 
 ---
 
-## Cámara Gesell, defensa en juicio
+## Resoluciones inapelables, cámara Gesell
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085532
+- **Numero:** I0085531
 - **Caratula:** G. C., G. c/ V., M. D. s/ régimen de comunicación
 - **Fecha:** 2024-12-05
 - **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL
-- **Descriptores:** cámara Gesell, defensa en juicio
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2355-800isoiramus
+- **Materia:** PROCESAL
+- **Descriptores:** resoluciones inapelables, cámara Gesell
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1355-800isoiramus
 
-La denegación del acceso al registro videograbado de la audiencia de escucha del niño está vinculada al "principio de reserva reforzada", que debe prevalecer para el resguardo de esa audiencia por sobre el derecho de defensa de los adultos o de sus...
+La denegación del acceso al registro videograbado de la audiencia de escucha del niño, resulta consecuencia de una expresa atribución o facultad ordenatoria del juez de familia -punto 8 "Confidencialidad", del "Protocolo de Buenas Prácticas para la...
 
 ---
 
@@ -12399,22 +12399,6 @@ Si la indemnización por los daños materiales sufridos en el automotor son supe
 
 ---
 
-## Violencia de género, medidas cautelares, interés superior del niño, plan de parentalidad
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085553
-- **Caratula:** J., W. T. c/ D., F. s/ violencia de genero
-- **Fecha:** 2024-12-02
-- **Provincia:** Entre Ríos
-- **Materia:** DERECHOS HUMANOS-PROCESAL
-- **Descriptores:** violencia de género, medidas cautelares, interés superior del niño, plan de parentalidad
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3555-800isoiramus
-
-En el marco de una denuncia por violencia de género, la medida provisional que condiciona la reanudación de la comunicación filial a que el progenitor denunciado acredite su participación en un espacio psicoterapéutico con resultados favorables,...
-
----
-
 ## Violencia de género, medidas cautelares, plan de parentalidad
 
 - **Tipo:** Jurisprudencia
@@ -12428,6 +12412,22 @@ En el marco de una denuncia por violencia de género, la medida provisional que 
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4555-800isoiramus
 
 En el marco de una denuncia por violencia de género, aun cuando deba mantenerse la medida provisional que dispone la participación del denunciado en un tratamiento terapéutico, el juez de oficio tiene que enderezar las actuaciones dirigidas a...
+
+---
+
+## Violencia de género, medidas cautelares, interés superior del niño, plan de parentalidad
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085553
+- **Caratula:** J., W. T. c/ D., F. s/ violencia de genero
+- **Fecha:** 2024-12-02
+- **Provincia:** Entre Ríos
+- **Materia:** DERECHOS HUMANOS-PROCESAL
+- **Descriptores:** violencia de género, medidas cautelares, interés superior del niño, plan de parentalidad
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3555-800isoiramus
+
+En el marco de una denuncia por violencia de género, la medida provisional que condiciona la reanudación de la comunicación filial a que el progenitor denunciado acredite su participación en un espacio psicoterapéutico con resultados favorables,...
 
 ---
 
@@ -12479,22 +12479,6 @@ Si de la opinión de los profesionales surge que las chances de la persona de so
 
 ---
 
-## Salud mental, internación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085475
-- **Caratula:** F., G. c/ s/ internación
-- **Fecha:** 2024-10-29
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** salud mental, internación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5745-800isoiramus
-
-Si no se brindan los tratamientos acordes con la naturaleza del cuadro de salud mental, se puede poner en peligro al paciente y a terceras personas; de allí la posibilidad excepcional legalmente contemplada de la internación involuntaria, destinada...
-
----
-
 ## Internación, revisión judicial
 
 - **Tipo:** Jurisprudencia
@@ -12511,19 +12495,19 @@ La internación involuntaria implica una restricción a un derecho humano fundam
 
 ---
 
-## Violencia de género, prórroga de la medida cautelar
+## Salud mental, internación
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085477
-- **Caratula:** P., M. M. c/ G., N. A. s/ violencia de género
-- **Fecha:** 2024-10-24
+- **Numero:** I0085475
+- **Caratula:** F., G. c/ s/ internación
+- **Fecha:** 2024-10-29
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
-- **Descriptores:** violencia de género, prórroga de la medida cautelar
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7745-800isoiramus
+- **Descriptores:** salud mental, internación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5745-800isoiramus
 
-Si mientras el tribunal de Alzada tiene para resolver el recurso de apelación interpuesto por el denunciado, se prorrogan las medidas de protección que son motivo de ese planteo de revisión, en función del principio de oficiosidad que impera en la...
+Si no se brindan los tratamientos acordes con la naturaleza del cuadro de salud mental, se puede poner en peligro al paciente y a terceras personas; de allí la posibilidad excepcional legalmente contemplada de la internación involuntaria, destinada...
 
 ---
 
@@ -12540,38 +12524,6 @@ Si mientras el tribunal de Alzada tiene para resolver el recurso de apelación i
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8745-800isoiramus
 
 Si el Juez no brinda motivos valederos para el sostenimiento de las medidas de protección que implican la prohibición de acercamiento sucesivamente prorrogadas, y en el contexto de los arts. 275 y 276 LPC y por el lapso temporal transcurrido no es...
-
----
-
-## Medidas cautelares, cuestión abstracta
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085480
-- **Caratula:** P., M. M. c/ G., N. A. s/ violencia de género
-- **Fecha:** 2024-10-24
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** medidas cautelares, cuestión abstracta
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0845-800isoiramus
-
-Si las medidas de protección objeto de la apelación ya no se encuentran vigentes, el recurso que se tiene para resolver deviene de abstracto tratamiento y, por tal motivo, no corresponde emitir un pronunciamiento, que en todo caso se convertiría en...
-
----
-
-## Vivienda, situación de vulnerabilidad, prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085489
-- **Caratula:** Bertoldi, Pedro y otros c/ Superior Gobierno de Entre Ríos y otro s/ medida cautelar genérica
-- **Fecha:** 2024-10-24
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** vivienda, situación de vulnerabilidad, prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9845-800isoiramus
-
-Para que el Estado esté obligado a proveer una vivienda es necesario la existencia de una incapacidad total y absoluta de procurarse una; la situación de vulnerabilidad en grado extremo debe estar acreditada.
 
 ---
 
@@ -12607,6 +12559,38 @@ Si los cedentes de derecho hereditarios hacia un tercero son herederos colateral
 
 ---
 
+## Medidas cautelares, cuestión abstracta
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085480
+- **Caratula:** P., M. M. c/ G., N. A. s/ violencia de género
+- **Fecha:** 2024-10-24
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** medidas cautelares, cuestión abstracta
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0845-800isoiramus
+
+Si las medidas de protección objeto de la apelación ya no se encuentran vigentes, el recurso que se tiene para resolver deviene de abstracto tratamiento y, por tal motivo, no corresponde emitir un pronunciamiento, que en todo caso se convertiría en...
+
+---
+
+## Violencia de género, prórroga de la medida cautelar
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085477
+- **Caratula:** P., M. M. c/ G., N. A. s/ violencia de género
+- **Fecha:** 2024-10-24
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** violencia de género, prórroga de la medida cautelar
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7745-800isoiramus
+
+Si mientras el tribunal de Alzada tiene para resolver el recurso de apelación interpuesto por el denunciado, se prorrogan las medidas de protección que son motivo de ese planteo de revisión, en función del principio de oficiosidad que impera en la...
+
+---
+
 ## Pariente colateral, investidura de la calidad de heredero
 
 - **Tipo:** Jurisprudencia
@@ -12620,6 +12604,22 @@ Si los cedentes de derecho hereditarios hacia un tercero son herederos colateral
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5155-800isoiramus
 
 Conforme lo previsto por los arts. 2337 y 2338 CCC, los parientes colaterales del causante no gozan de la calidad de herederos de pleno derecho y no pueden ejercer ninguna de las acciones que dependen de la sucesión, hasta tanto no se les atribuya...
+
+---
+
+## Vivienda, situación de vulnerabilidad, prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085489
+- **Caratula:** Bertoldi, Pedro y otros c/ Superior Gobierno de Entre Ríos y otro s/ medida cautelar genérica
+- **Fecha:** 2024-10-24
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** vivienda, situación de vulnerabilidad, prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9845-800isoiramus
+
+Para que el Estado esté obligado a proveer una vivienda es necesario la existencia de una incapacidad total y absoluta de procurarse una; la situación de vulnerabilidad en grado extremo debe estar acreditada.
 
 ---
 
@@ -12639,22 +12639,6 @@ El despliegue del Estado en torno a la violencia de género tiene suma prioridad
 
 ---
 
-## Daños y perjuicios, situación de vulnerabilidad, falta de prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085499
-- **Caratula:** Ibarra, Renzo Ariel c/ Rodríguez, Ricardo Demetrio y otro s/ ordinario daños y perjuicios
-- **Fecha:** 2024-10-23
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** daños y perjuicios, situación de vulnerabilidad, falta de prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9945-800isoiramus
-
-La ausencia de recursos económicos para los estudios o para hacerse de la prueba confusamente argumentada, no resultan una justificación ante la falta de prueba del daño físico para quien no articuló el pedido de prueba anticipada, ni impulsó la vía...
-
----
-
 ## Daño moral, prueba
 
 - **Tipo:** Jurisprudencia
@@ -12671,6 +12655,22 @@ Cuando existen lesiones a la integridad psicofísica, el daño moral o no patrim
 
 ---
 
+## Daños y perjuicios, situación de vulnerabilidad, falta de prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085499
+- **Caratula:** Ibarra, Renzo Ariel c/ Rodríguez, Ricardo Demetrio y otro s/ ordinario daños y perjuicios
+- **Fecha:** 2024-10-23
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** daños y perjuicios, situación de vulnerabilidad, falta de prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9945-800isoiramus
+
+La ausencia de recursos económicos para los estudios o para hacerse de la prueba confusamente argumentada, no resultan una justificación ante la falta de prueba del daño físico para quien no articuló el pedido de prueba anticipada, ni impulsó la vía...
+
+---
+
 ## Contestación de la demanda, acceso a la justicia, defensa en juicio
 
 - **Tipo:** Jurisprudencia
@@ -12684,6 +12684,22 @@ Cuando existen lesiones a la integridad psicofísica, el daño moral o no patrim
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1155-800isoiramus
 
 Si el Defensor de Ausentes contestó demanda en representación del ausente, pero los letrados particulares de éste solicitaron vinculación al expediente para concretar el mismo acto un dia antes de vencer el plazo que tenía el Defensor, corresponde...
+
+---
+
+## Accidente de tránsito, concesionario vial, relación de consumo, obligación de seguridad, responsabilidad objetiva, animales sueltos en la vía pública
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085494
+- **Caratula:** Contreras, Dino c/ Caminos Del Rio Uruguay S.A. de Construcciones y Concesiones Viales s/ sumarísimo (civil)
+- **Fecha:** 2024-10-18
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** accidente de tránsito, concesionario vial, relación de consumo, obligación de seguridad, responsabilidad objetiva, animales sueltos en la vía pública
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4945-800isoiramus
+
+Frente a un accidente vial en una ruta concesionada con motivo de la presencia de un animal suelto, es de remarcar que entre el concesionario y el usuario existe una relación de consumo, que torna aplicable las normas del estatuto especial de...
 
 ---
 
@@ -12707,22 +12723,6 @@ Frente a un accidente vial en una ruta concesionada con motivo de la presencia d
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085497
-- **Caratula:** Contreras, Dino c/ Caminos Del Rio Uruguay S.A. de Construcciones y Concesiones Viales s/ sumarísimo (civil)
-- **Fecha:** 2024-10-18
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** accidente de tránsito, concesionario vial, animales sueltos en la vía pública, obligación de seguridad
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7945-800isoiramus
-
-Frente a un accidente vial en una ruta concesionada con motivo de la presencia de un animal suelto, el argumento de la concesionaria respecto a que las medidas de prevención tienen un elevados costos con afectación de la rentabilidad, pone en...
-
----
-
-## Accidente de tránsito, concesionario vial, animales sueltos en la vía pública, obligación de seguridad
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
 - **Numero:** I0085495
 - **Caratula:** Contreras, Dino c/ Caminos Del Rio Uruguay S.A. de Construcciones y Concesiones Viales s/ sumarísimo (civil)
 - **Fecha:** 2024-10-18
@@ -12735,83 +12735,35 @@ Frente a un accidente vial en una ruta concesionada con motivo de la presencia d
 
 ---
 
-## Accidente de tránsito, concesionario vial, relación de consumo, obligación de seguridad, responsabilidad objetiva, animales sueltos en la vía pública
+## Accidente de tránsito, concesionario vial, animales sueltos en la vía pública, obligación de seguridad
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085494
+- **Numero:** I0085497
 - **Caratula:** Contreras, Dino c/ Caminos Del Rio Uruguay S.A. de Construcciones y Concesiones Viales s/ sumarísimo (civil)
 - **Fecha:** 2024-10-18
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** accidente de tránsito, concesionario vial, relación de consumo, obligación de seguridad, responsabilidad objetiva, animales sueltos en la vía pública
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4945-800isoiramus
+- **Descriptores:** accidente de tránsito, concesionario vial, animales sueltos en la vía pública, obligación de seguridad
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7945-800isoiramus
 
-Frente a un accidente vial en una ruta concesionada con motivo de la presencia de un animal suelto, es de remarcar que entre el concesionario y el usuario existe una relación de consumo, que torna aplicable las normas del estatuto especial de...
+Frente a un accidente vial en una ruta concesionada con motivo de la presencia de un animal suelto, el argumento de la concesionaria respecto a que las medidas de prevención tienen un elevados costos con afectación de la rentabilidad, pone en...
 
 ---
 
-## Ejecución hipotecaria, obligaciones en moneda extranjera
+## Astreintes, notificación, cuota alimentaria
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085491
-- **Caratula:** Bustamante, Oscar Alfredo y otros c/ Martín, Diego y otra s/ ejecución hipotecaria
+- **Numero:** I0085472
+- **Caratula:** Z., A. V. c/ M., A. R. S. s/ medida cautelar alimentos provisorios (N° 12450) s/ recurso de queja
 - **Fecha:** 2024-10-17
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** ejecución hipotecaria, obligaciones en moneda extranjera
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1945-800isoiramus
+- **Descriptores:** astreintes, notificación, cuota alimentaria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2745-800isoiramus
 
-Si bajo el principio de autonomía de la voluntad se pactó el cumplimiento de una obligación en dólares estadounidenses billetes conforme a la práctica del mercado inmobiliario -en el caso, ejecución de hipoteca pactada en aquélla moneda- cuando ya...
-
----
-
-## División en especie, división de condominio
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085517
-- **Caratula:** Alazard, Marta Silvia Raquel y otros c/ Alazard, Federico Francisco y otro s/ división de condominio
-- **Fecha:** 2024-10-17
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** división en especie, división de condominio
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7155-800isoiramus
-
-La división en especie es el principio y la opción que debe preferirse si es posible y no antieconómica, pero su imposibilidad surge de un informe de catastro municipal, organismo que en definitiva vela por la correcta aplicación de la legislación...
-
----
-
-## División de condominio, costas
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085518
-- **Caratula:** Alazard, Marta Silvia Raquel y otros c/ Alazard, Federico Francisco y otro s/ división de condominio
-- **Fecha:** 2024-10-17
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** división de condominio, costas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8155-800isoiramus
-
-Cuando quien demanda por división de condominio se ve obligado a recurrir a la vía judicial por la falta de respuesta del demandado para una división extrajudicial, éste debe cargar con las costas respectivas, pues su silencio o reticencia motivó la...
-
----
-
-## Accidente de tránsito, costas al vencido
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085509
-- **Caratula:** Nieva, Leonardo Sebastián y otro c/ Moreno, María Belén y otros s/ ordinario daños y perjuicios (vinc. 9333)
-- **Fecha:** 2024-10-17
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** accidente de tránsito, costas al vencido
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9055-800isoiramus
-
-El tercero damnificado de un accidente de tránsito en el que han intervenido dos o más vehículos, no tiene que averiguar la mecánica del hecho, pudiendo dirigir su demanda contra quienes considere responsables. En tales condiciones, las costas deben...
+La jurisdicción familiar tiene la obligación de derribar las barreras que obstaculicen o frustren la continuidad del trámite, utilizando los recursos que el propio sistema legal ha establecido en tutela de los derechos de personas estructuralmente...
 
 ---
 
@@ -12828,22 +12780,6 @@ El tercero damnificado de un accidente de tránsito en el que han intervenido do
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0945-800isoiramus
 
 En la discusión sobre la forma de cumplimiento de un pacto en dólares estadounidenses billetes -en el caso, ejecución de hipoteca pactada en aquélla moneda-, es necesario advertir que los arts. 765 y 766 del CCC fueron modificadas por los arts. 250...
-
----
-
-## Astreintes, notificación, cuota alimentaria
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085473
-- **Caratula:** Z., A. V. c/ M., A. R. S. s/ medida cautelar alimentos provisorios (N° 12450) s/ recurso de queja
-- **Fecha:** 2024-10-17
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** astreintes, notificación, cuota alimentaria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3745-800isoiramus
-
-La notificación que aplica astreintes -en el caso a un organismo nacional que incumple un embargo y depósito de un porcentaje de una pensión no contributiva para satisfacer una cuota alimentaria- debe ser cursada de manera gratuita por el telegrama...
 
 ---
 
@@ -12867,15 +12803,47 @@ Frente a una ejecución de hipoteca que se pactó en dólares estadounidenses bi
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085472
+- **Numero:** I0085473
 - **Caratula:** Z., A. V. c/ M., A. R. S. s/ medida cautelar alimentos provisorios (N° 12450) s/ recurso de queja
 - **Fecha:** 2024-10-17
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** astreintes, notificación, cuota alimentaria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2745-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3745-800isoiramus
 
-La jurisdicción familiar tiene la obligación de derribar las barreras que obstaculicen o frustren la continuidad del trámite, utilizando los recursos que el propio sistema legal ha establecido en tutela de los derechos de personas estructuralmente...
+La notificación que aplica astreintes -en el caso a un organismo nacional que incumple un embargo y depósito de un porcentaje de una pensión no contributiva para satisfacer una cuota alimentaria- debe ser cursada de manera gratuita por el telegrama...
+
+---
+
+## División de condominio, costas
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085518
+- **Caratula:** Alazard, Marta Silvia Raquel y otros c/ Alazard, Federico Francisco y otro s/ división de condominio
+- **Fecha:** 2024-10-17
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** división de condominio, costas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8155-800isoiramus
+
+Cuando quien demanda por división de condominio se ve obligado a recurrir a la vía judicial por la falta de respuesta del demandado para una división extrajudicial, éste debe cargar con las costas respectivas, pues su silencio o reticencia motivó la...
+
+---
+
+## Ejecución hipotecaria, obligaciones en moneda extranjera
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085491
+- **Caratula:** Bustamante, Oscar Alfredo y otros c/ Martín, Diego y otra s/ ejecución hipotecaria
+- **Fecha:** 2024-10-17
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** ejecución hipotecaria, obligaciones en moneda extranjera
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1945-800isoiramus
+
+Si bajo el principio de autonomía de la voluntad se pactó el cumplimiento de una obligación en dólares estadounidenses billetes conforme a la práctica del mercado inmobiliario -en el caso, ejecución de hipoteca pactada en aquélla moneda- cuando ya...
 
 ---
 
@@ -12892,6 +12860,38 @@ La jurisdicción familiar tiene la obligación de derribar las barreras que obst
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2945-800isoiramus
 
 Frente a una ejecución de hipoteca cuyo cumplimiento se pactó en dólares estadounidenses billetes, es de remarcar que los acreedores tienen una expectativa, totalmente lícita, de percibir su crédito de manera íntegra. Obligarlos a recibir el...
+
+---
+
+## División en especie, división de condominio
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085517
+- **Caratula:** Alazard, Marta Silvia Raquel y otros c/ Alazard, Federico Francisco y otro s/ división de condominio
+- **Fecha:** 2024-10-17
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** división en especie, división de condominio
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7155-800isoiramus
+
+La división en especie es el principio y la opción que debe preferirse si es posible y no antieconómica, pero su imposibilidad surge de un informe de catastro municipal, organismo que en definitiva vela por la correcta aplicación de la legislación...
+
+---
+
+## Accidente de tránsito, costas al vencido
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085509
+- **Caratula:** Nieva, Leonardo Sebastián y otro c/ Moreno, María Belén y otros s/ ordinario daños y perjuicios (vinc. 9333)
+- **Fecha:** 2024-10-17
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** accidente de tránsito, costas al vencido
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9055-800isoiramus
+
+El tercero damnificado de un accidente de tránsito en el que han intervenido dos o más vehículos, no tiene que averiguar la mecánica del hecho, pudiendo dirigir su demanda contra quienes considere responsables. En tales condiciones, las costas deben...
 
 ---
 
@@ -12927,6 +12927,22 @@ La inflación y la depreciación del valor del dinero es una realidad de públic
 
 ---
 
+## Regulación de honorarios, intereses moratorios
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085519
+- **Caratula:** Gualeguay Cereales S.A. c/ Ten S.R.L. s/ ejecutivo
+- **Fecha:** 2024-10-15
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** regulación de honorarios, intereses moratorios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9155-800isoiramus
+
+A raíz de la inflación acumulada informada en base al IPC del INDEC, si a la liquidación de los honorarios regulados se le aplican intereses TABNA desde la mora, frente a la insuficiencia de esa pauta de actualización que no alcanza a cubrir la...
+
+---
+
 ## Honorarios, control de razonabilidad
 
 - **Tipo:** Jurisprudencia
@@ -12943,35 +12959,19 @@ El art. 4 de la Ley N° 25.561, que sustituyó el art. 7 de la Ley N° 23.928, n
 
 ---
 
-## Honorarios, intereses moratorios
+## Inconstitucionalidad
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085521
+- **Numero:** I0085522
 - **Caratula:** Gualeguay Cereales S.A. c/ Ten S.R.L. s/ ejecutivo
 - **Fecha:** 2024-10-15
 - **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** honorarios, intereses moratorios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1255-800isoiramus
+- **Materia:** CONSTITUCIONAL
+- **Descriptores:** inconstitucionalidad
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2255-800isoiramus
 
-En la liquidación de los honorarios regulados, para establecer una equitativa actualización del crédito no corresponde aplicar intereses TABN desde la mora sino la inflación acumulada según IPC del INDEC. A su vez, corroborada la mora del obligado...
-
----
-
-## Regulación de honorarios, intereses moratorios
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085519
-- **Caratula:** Gualeguay Cereales S.A. c/ Ten S.R.L. s/ ejecutivo
-- **Fecha:** 2024-10-15
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** regulación de honorarios, intereses moratorios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9155-800isoiramus
-
-A raíz de la inflación acumulada informada en base al IPC del INDEC, si a la liquidación de los honorarios regulados se le aplican intereses TABNA desde la mora, frente a la insuficiencia de esa pauta de actualización que no alcanza a cubrir la...
+Por distintos motivos, ciertas normas, consideradas legítimas en su origen, pueden haberse tornado indefendibles desde el punto de vista constitucional con el transcurso del tiempo y el cambio de las circunstancias objetivas relacionadas con ellas.
 
 ---
 
@@ -12991,19 +12991,19 @@ A raíz del constante proceso inflacionario sufrido por nuestro país, resulta n
 
 ---
 
-## Inconstitucionalidad
+## Honorarios, intereses moratorios
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085522
+- **Numero:** I0085521
 - **Caratula:** Gualeguay Cereales S.A. c/ Ten S.R.L. s/ ejecutivo
 - **Fecha:** 2024-10-15
 - **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL
-- **Descriptores:** inconstitucionalidad
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2255-800isoiramus
+- **Materia:** PROCESAL
+- **Descriptores:** honorarios, intereses moratorios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1255-800isoiramus
 
-Por distintos motivos, ciertas normas, consideradas legítimas en su origen, pueden haberse tornado indefendibles desde el punto de vista constitucional con el transcurso del tiempo y el cambio de las circunstancias objetivas relacionadas con ellas.
+En la liquidación de los honorarios regulados, para establecer una equitativa actualización del crédito no corresponde aplicar intereses TABN desde la mora sino la inflación acumulada según IPC del INDEC. A su vez, corroborada la mora del obligado...
 
 ---
 
@@ -13039,22 +13039,6 @@ La atribución de la vivienda familiar es una restricción al derecho de propied
 
 ---
 
-## Vivienda única, menores
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085482
-- **Caratula:** F., A. N. c/ E., I. A. s/ compensación económica (y atribución de vivienda)
-- **Fecha:** 2024-10-09
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** vivienda única, menores
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2845-800isoiramus
-
-La atribución de la vivienda familiar es una tutela limitada en el tiempo por imposición normativa, que la jurisprudencia ha morigerado en algunos supuestos especiales y a modo de excepción, tal el caso en que existan hijos menores de edad o con...
-
----
-
 ## Escrito electrónico, incidentes
 
 - **Tipo:** Jurisprudencia
@@ -13068,6 +13052,22 @@ La atribución de la vivienda familiar es una tutela limitada en el tiempo por i
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4055-800isoiramus
 
 Conforme lo dispone el artículo 12 del Reglamento N° 1 sobre Presentaciones Electrónicas, el inicio de un incidente deber realizarse en el expediente principal permitiendo al juzgado formar el trámite incidental en el sistema de gestión de causas...
+
+---
+
+## Vivienda única, menores
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085482
+- **Caratula:** F., A. N. c/ E., I. A. s/ compensación económica (y atribución de vivienda)
+- **Fecha:** 2024-10-09
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** vivienda única, menores
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2845-800isoiramus
+
+La atribución de la vivienda familiar es una tutela limitada en el tiempo por imposición normativa, que la jurisprudencia ha morigerado en algunos supuestos especiales y a modo de excepción, tal el caso en que existan hijos menores de edad o con...
 
 ---
 
@@ -13087,19 +13087,19 @@ En el proceso de alimentos, así como en la instancia incidental de aumento o di
 
 ---
 
-## Confirmación de sentencia, seguros, cobertura
+## Daños y perjuicios, monto del juicio, depreciación monetaria
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085498
-- **Caratula:** Ricalde, Carmen Cristina y otra c/ Morales, Claudio Marcelo s/ ordinario daños y perjuicios
+- **Numero:** I0085501
+- **Caratula:** Callero, Osvaldo Alberto y otros c/ Rodríguez, Elsa Carmen y otra s/ ordinario daños y perjuicios
 - **Fecha:** 2024-10-03
 - **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** confirmación de sentencia, seguros, cobertura
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8945-800isoiramus
+- **Materia:** CIVIL
+- **Descriptores:** daños y perjuicios, monto de la condena, depreciación monetaria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1055-800isoiramus
 
-La adecuación del límite de cobertura oportunamente contratado a los montos dispuestos por la Superintendencia de Seguros de la Nación a la fecha de efectivo pago, resulta coincidente con el criterio sostenido por la Sala CyC del STJER en la causa...
+Cuando se condena por un monto superior al originalmente peticionado, a raíz de que en el intervalo se ha despreciado la moneda y con el objetivo de preservar el poder adquisitivo de la suma resarcitoria, no se produce una infracción al principio de...
 
 ---
 
@@ -13119,19 +13119,19 @@ A raíz de inflación y la depreciación del valor del dinero habida, debe conte
 
 ---
 
-## Procedimiento monitorio
+## Daños y perjuicios, indemnización, intereses, depreciación monetaria
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085513
-- **Caratula:** Sistema de Caja de Prev Social para Médicos y Bioquímicos de Entre Ríos c/ Pivas, Nazareno s/ monitorio apremio (67673)
+- **Numero:** I0085502
+- **Caratula:** Callero, Osvaldo Alberto y otros c/ Rodríguez, Elsa Carmen y otra s/ ordinario daños y perjuicios
 - **Fecha:** 2024-10-03
 - **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** procedimiento monitorio
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3155-800isoiramus
+- **Materia:** CIVIL
+- **Descriptores:** daños y perjuicios, indemnización, intereses, depreciación monetaria
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2055-800isoiramus
 
-La Ley provincial N° 8554 que faculta a la Caja de previsión social para médicos y bioquímicos a cobrar los aportes via apremio y expedir el título ejecutivo, no condiciona, como tampoco lo hacen las disposiciones del Código procedimental, la...
+Si a la suma reconocida por una indemnización se aplican intereses según TABNA desde la fecha del hecho y hasta su efectivo pago, el cálculo muestra que los importes nominales no representan la ideación del daño expuesta en la demanda, por efecto de...
 
 ---
 
@@ -13151,35 +13151,51 @@ Aun cuando la previa intimación extrajudicial no es un requisito o presupuesto 
 
 ---
 
-## Daños y perjuicios, indemnización, intereses, depreciación monetaria
+## Confirmación de sentencia, seguros, cobertura
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085502
-- **Caratula:** Callero, Osvaldo Alberto y otros c/ Rodríguez, Elsa Carmen y otra s/ ordinario daños y perjuicios
+- **Numero:** I0085498
+- **Caratula:** Ricalde, Carmen Cristina y otra c/ Morales, Claudio Marcelo s/ ordinario daños y perjuicios
 - **Fecha:** 2024-10-03
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** daños y perjuicios, indemnización, intereses, depreciación monetaria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2055-800isoiramus
+- **Materia:** COMERCIAL
+- **Descriptores:** confirmación de sentencia, seguros, cobertura
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8945-800isoiramus
 
-Si a la suma reconocida por una indemnización se aplican intereses según TABNA desde la fecha del hecho y hasta su efectivo pago, el cálculo muestra que los importes nominales no representan la ideación del daño expuesta en la demanda, por efecto de...
+La adecuación del límite de cobertura oportunamente contratado a los montos dispuestos por la Superintendencia de Seguros de la Nación a la fecha de efectivo pago, resulta coincidente con el criterio sostenido por la Sala CyC del STJER en la causa...
 
 ---
 
-## Daños y perjuicios, monto del juicio, depreciación monetaria
+## Procedimiento monitorio
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085501
-- **Caratula:** Callero, Osvaldo Alberto y otros c/ Rodríguez, Elsa Carmen y otra s/ ordinario daños y perjuicios
+- **Numero:** I0085513
+- **Caratula:** Sistema de Caja de Prev Social para Médicos y Bioquímicos de Entre Ríos c/ Pivas, Nazareno s/ monitorio apremio (67673)
 - **Fecha:** 2024-10-03
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** daños y perjuicios, monto de la condena, depreciación monetaria
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1055-800isoiramus
+- **Materia:** PROCESAL
+- **Descriptores:** procedimiento monitorio
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3155-800isoiramus
 
-Cuando se condena por un monto superior al originalmente peticionado, a raíz de que en el intervalo se ha despreciado la moneda y con el objetivo de preservar el poder adquisitivo de la suma resarcitoria, no se produce una infracción al principio de...
+La Ley provincial N° 8554 que faculta a la Caja de previsión social para médicos y bioquímicos a cobrar los aportes via apremio y expedir el título ejecutivo, no condiciona, como tampoco lo hacen las disposiciones del Código procedimental, la...
+
+---
+
+## Colación, regulación de honorarios
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085527
+- **Caratula:** Baggio, Rufino Pablo c/ Baggio, Juan Alejandro s/ ordinario acción de colación
+- **Fecha:** 2024-10-02
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** colación, regulación de honorarios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7255-800isoiramus
+
+A los fines de la base económica de regulación, la acción de colación que a la par motivó una reconvención respecto de bienes y sumas de dinero donadas, constituyen pretensiones que tienen un explícito contenido patrimonial vinculado al cómputo en...
 
 ---
 
@@ -13215,19 +13231,19 @@ El valor de la acción de colación constituye el importe contemplado para deter
 
 ---
 
-## Colación, regulación de honorarios
+## Competencia ordinaria, indemnización, pasaje aéreo
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085527
-- **Caratula:** Baggio, Rufino Pablo c/ Baggio, Juan Alejandro s/ ordinario acción de colación
-- **Fecha:** 2024-10-02
+- **Numero:** I0085507
+- **Caratula:** Irigoytia, Julieta c/ ALMUNDO.COM SRL y otro s sumarísimo (civil) s/
+- **Fecha:** 2024-10-01
 - **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** colación, regulación de honorarios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7255-800isoiramus
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** competencia ordinaria, indemnización, pasaje aéreo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7055-800isoiramus
 
-A los fines de la base económica de regulación, la acción de colación que a la par motivó una reconvención respecto de bienes y sumas de dinero donadas, constituyen pretensiones que tienen un explícito contenido patrimonial vinculado al cómputo en...
+Cuando el contrato tiene un punto de contacto internacional -en el caso reclamo de una indemnización igual al precio del pasaje aéreo internacional abonado-, el consumidor puede elegir entre interponer la demanda ante los jueces del lugar de...
 
 ---
 
@@ -13247,22 +13263,6 @@ Si la pretensión consiste en una indemnización igual al precio del pasaje aér
 
 ---
 
-## Competencia ordinaria, indemnización, pasaje aéreo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085507
-- **Caratula:** Irigoytia, Julieta c/ ALMUNDO.COM SRL y otro s sumarísimo (civil) s/
-- **Fecha:** 2024-10-01
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** competencia ordinaria, indemnización, pasaje aéreo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7055-800isoiramus
-
-Cuando el contrato tiene un punto de contacto internacional -en el caso reclamo de una indemnización igual al precio del pasaje aéreo internacional abonado-, el consumidor puede elegir entre interponer la demanda ante los jueces del lugar de...
-
----
-
 ## Competencia ordinaria, indemnización, pasaje aéreo, beneficio de justicia gratuita, defensa del consumidor
 
 - **Tipo:** Jurisprudencia
@@ -13279,166 +13279,6 @@ Frente al reclamo de una indemnización igual al precio del pasaje aéreo intern
 
 ---
 
-## Derecho laboral, actos impugnables, apreciación de la prueba, accidentes de trabajo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085459
-- **Caratula:** Migueles, Juan Daniel c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** Derecho laboral, actos impugnables, apreciación de la prueba, accidentes de trabajo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9545-800isoiramus
-
-En relación de las conclusiones de la pericia médica es pacífico el criterio de Sala, que al tratarse de un conocimiento científico ajeno al saber del juez, la prudencia aconseja que al apartamiento del mismo solo procede en los casos que se señalen...
-
----
-
-## Vivienda única, canon locativo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085484
-- **Caratula:** B., H. D. C. C- A., A. L. c/ s/ divorcio, Expte. N° 10714.- s/ incidente de fijación de canon locativo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** vivienda única, canon locativo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4845-800isoiramus
-
-En el uso o atribución provisoria de la vivienda familiar, la fijación del valor de la renta compensatoria no depende necesariamente del valor locativo de mercado sino de las circunstancias de hecho de cada supuesto, donde corresponde evaluar la...
-
----
-
-## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085408
-- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL-CIVIL
-- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8045-800isoiramus
-
-La Sala del Trabajo del STJER en doctrina que resulta de aplicación obligatoria (art. 284 y 285 del CPCC), es quien estableció que el análisis de la validez de la norma debía efectuarse, para cada caso concreto evaluando si la misma resultaba...
-
----
-
-## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085409
-- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL-CIVIL
-- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9045-800isoiramus
-
-Relativo a la aplicación de intereses compensatorios (12% anual), por el tiempo transcurrido desde el evento dañoso hasta la finalización del proceso, ello corresponde porque el actor se vio privado de su crédito, lo contrario permitiría un...
-
----
-
-## Vivienda única, canon locativo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085486
-- **Caratula:** B., H. D. C. C- A., A. L. c/ s/ divorcio, Expte. N° 10714.- s/ incidente de fijación de canon locativo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** vivienda única, canon locativo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6845-800isoiramus
-
-En el uso o atribución provisoria de la vivienda familiar, quien alegue la imposibilidad de afrontar el pago del canon pretendido debe acreditar tal circunstancia; mientras que contando con asistencia profesional, las consecuencia que ello apareja...
-
----
-
-## Accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085403
-- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL-CIVIL
-- **Descriptores:** accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3045-800isoiramus
-
-La enfermedad psíquica que el perito diagnostique debe dañar de manera perdurable una o varias de las siguientes funciones del sujeto: incapacidad para desempeñar sus tareas habituales, incapacidad para acceder al trabajo, incapacidad para ganar...
-
----
-
-## Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085453
-- **Caratula:** Migueles, Juan Daniel c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3545-800isoiramus
-
-La acción entablada en los presentes autos encuentra sustento en la vía civil que como damnificados invocan los accionantes en su carácter de padres del difunto trabajador, reclamando en la litis concretamente, los daños y perjuicios propios del...
-
----
-
-## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085410
-- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL-CIVIL
-- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0145-800isoiramus
-
-Analizó el STJER que, resguardado por la norma el valor real de la indemnización a través del mecanismo implementado para la actualización del ingreso base mensual -aplicación del decreto 669/19-, se debe atender al perjuicio ocasionado por el...
-
----
-
-## Accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085402
-- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL-CIVIL
-- **Descriptores:** accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2045-800isoiramus
-
-El daño psíquico es una entidad nosológica de origen mixto: psicológico y jurídico; que se aplica en los fueros Civil, Comercial y Laboral. En el fuero Penal, el daño psíquico es funcionalmente asimilable a las Lesiones Graves, en el sentido de...
-
----
-
-## Accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085405
-- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL-CIVIL
-- **Descriptores:** accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5045-800isoiramus
-
-En el caso, la contingencia sufrida por el actor, no se ha tratado de un gran trauma, y ni se aproxima a ello, ya que ni siquiera necesitó de una intervención quirúrgica, y además recuerdo que estamos ante una persona que se cayó de su propia moto,...
-
----
-
 ## Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
 
 - **Tipo:** Jurisprudencia
@@ -13452,134 +13292,6 @@ En el caso, la contingencia sufrida por el actor, no se ha tratado de un gran tr
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4545-800isoiramus
 
 La exclusión que hace el sistema de la ley de riesgos del trabajo ante la presencia de otros legitimados de grado anterior, no inhabilita a los actores -padres del trabajador fallecido-, para peticionar tal como lo efectuaron en juicio, las...
-
----
-
-## Accidentes de trabajo, Derecho laboral, incapacidad, prueba, aplicación de la ley
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085400
-- **Caratula:** Abreu, Lucas Mateo c/ Asociart Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-CIVIL-PROCESAL
-- **Descriptores:** accidentes de trabajo, Derecho laboral, incapacidad, prueba, aplicación de la ley
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0045-800isoiramus
-
-El baremo previsto para una acción sistémica -hoy regulado en el decreto 49/14-, es obligatorio. Es que, el Baremo no es una mera "tabla indicativa", sino una herramienta obligatoria para garantizar el trato igualitario de los siniestros laborales,...
-
----
-
-## Accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085406
-- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL-CIVIL
-- **Descriptores:** accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6045-800isoiramus
-
-Tal como lo señala concretamente el Baremo de ley (Tabla de evaluación de incapacidades laborales), en estos casos, donde se expresa por parte del perito actuante que el actor presenta "reacciones vivenciales anormales neuróticas (neurosis), "hay...
-
----
-
-## Riesgos del trabajo, prestaciones sistémicas, accidentes de trabajo, asistencia médica
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085396
-- **Caratula:** Gervasoni, Horacio Raúl c/ Instituto Autárquico Provincial del Seguro de Entre Rios Riesgos del Trabajo s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** riesgos del trabajo, prestaciones sistémicas, accidentes de trabajo, asistencia médica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6935-800isoiramus
-
-La petición de la accionada no es clara ni detallada para alterar las prestaciones en especie que se le están otorgando a una persona que sufrió un accidente gravísimo que le provocare lesión medular cervical, y que le generare un 83,5% de...
-
----
-
-## Derecho laboral, apreciación de la prueba, pericia médica, accidentes de trabajo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085411
-- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** Derecho laboral, apreciación de la prueba, pericia médica, accidentes de trabajo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1145-800isoiramus
-
-Esta Sala, en general -si bien ésto no es absoluto-, le ha otorgado preponderancia a la pericia judicial sobre las demás existentes en la litis -en el siguiente orden de primacía: por sobre el dictamen de comisión médica, la pericia del perito...
-
----
-
-## Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085455
-- **Caratula:** Migueles, Juan Daniel c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5545-800isoiramus
-
-No puede invocar la ART una cuestión extraña o no previsible en el caso, cuando la enfermedad que nos ocupa -hantavirus- fue incorporada como enfermedad profesional dentro de la misma Ley de Riesgos del Trabajo, a través del decreto 1167/2003, que...
-
----
-
-## Vivienda única, canon locativo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085485
-- **Caratula:** B., H. D. C. C- A., A. L. c/ s/ divorcio, Expte. N° 10714.- s/ incidente de fijación de canon locativo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** vivienda única, canon locativo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5845-800isoiramus
-
-En el uso o atribución provisoria de la vivienda familiar, la fijación del valor de la renta debe tratar de conjugar la necesidad de uno con la posibilidad del otro conforme al principio de igualdad, y considerar si el requerimiento se basa en que...
-
----
-
-## Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085457
-- **Caratula:** Migueles, Juan Daniel c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7545-800isoiramus
-
-En caso de responsabilidad civil objetiva por actividades riesgosas, lo fundamental no es la autoría del hecho, sino la autoría del riesgo y, por ello, el origen de la imputación no reside en el hecho lesivo último, sino en la primaria esfera de...
-
----
-
-## Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085456
-- **Caratula:** Migueles, Juan Daniel c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6545-800isoiramus
-
-Al accionante de autos no se lo capacitó en estas cuestiones, (solo al resto del personal una vez este fallecido), y por ende se lo privó de tener una mínima chance de evitar el daño, por lo que la ART es responsable dentro del ámbito civil. El...
 
 ---
 
@@ -13615,6 +13327,86 @@ Cuando se utiliza un criterio 'amplio' para establecer el Daño Psíquico tiende
 
 ---
 
+## Riesgos del trabajo, prestaciones sistémicas, accidentes de trabajo, asistencia médica
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085396
+- **Caratula:** Gervasoni, Horacio Raúl c/ Instituto Autárquico Provincial del Seguro de Entre Rios Riesgos del Trabajo s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** riesgos del trabajo, prestaciones sistémicas, accidentes de trabajo, asistencia médica
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6935-800isoiramus
+
+La petición de la accionada no es clara ni detallada para alterar las prestaciones en especie que se le están otorgando a una persona que sufrió un accidente gravísimo que le provocare lesión medular cervical, y que le generare un 83,5% de...
+
+---
+
+## Derecho laboral, actos impugnables, apreciación de la prueba, accidentes de trabajo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085459
+- **Caratula:** Migueles, Juan Daniel c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** Derecho laboral, actos impugnables, apreciación de la prueba, accidentes de trabajo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9545-800isoiramus
+
+En relación de las conclusiones de la pericia médica es pacífico el criterio de Sala, que al tratarse de un conocimiento científico ajeno al saber del juez, la prudencia aconseja que al apartamiento del mismo solo procede en los casos que se señalen...
+
+---
+
+## Accidentes de trabajo, Derecho laboral, incapacidad, prueba, aplicación de la ley
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085399
+- **Caratula:** Abreu, Lucas Mateo c/ Asociart Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-CIVIL-PROCESAL
+- **Descriptores:** accidentes de trabajo, Derecho laboral, incapacidad, prueba, aplicación de la ley
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9935-800isoiramus
+
+La intención del legislador en lo que concierne a las incapacidades laborales, fue sobre todo indemnizar o reparar las limitaciones funcionales de los distintos órganos, miembros o segmentos corporales del trabajador siniestrado, excluyendo en...
+
+---
+
+## Vivienda única, canon locativo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085483
+- **Caratula:** B., H. D. C. C- A., A. L. c/ s/ divorcio, Expte. N° 10714.- s/ incidente de fijación de canon locativo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** vivienda única, canon locativo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3845-800isoiramus
+
+Quien no goza del uso o atribución provisoria de la vivienda familiar está habilitado legalmente para solicitar una renta compensatoria por esa atribución. Conforme la redacción del art. 444 CCC, el juez puede incluso denegar la renta, de acuerdo...
+
+---
+
+## Accidentes de trabajo, Derecho laboral, incapacidad, prueba, aplicación de la ley
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085400
+- **Caratula:** Abreu, Lucas Mateo c/ Asociart Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-CIVIL-PROCESAL
+- **Descriptores:** accidentes de trabajo, Derecho laboral, incapacidad, prueba, aplicación de la ley
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0045-800isoiramus
+
+El baremo previsto para una acción sistémica -hoy regulado en el decreto 49/14-, es obligatorio. Es que, el Baremo no es una mera "tabla indicativa", sino una herramienta obligatoria para garantizar el trato igualitario de los siniestros laborales,...
+
+---
+
 ## Derecho laboral, actos impugnables, apreciación de la prueba, accidentes de trabajo
 
 - **Tipo:** Jurisprudencia
@@ -13628,6 +13420,246 @@ Cuando se utiliza un criterio 'amplio' para establecer el Daño Psíquico tiende
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8545-800isoiramus
 
 La carga de explicitación respecto de posibles enfermedades o accidentes que el trabajador pudo padecer desde el momento del accidente hasta que fue examinada por el perito médico, pesaba indudablemente sobre la posición de quien invocó tales...
+
+---
+
+## Vivienda única, canon locativo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085485
+- **Caratula:** B., H. D. C. C- A., A. L. c/ s/ divorcio, Expte. N° 10714.- s/ incidente de fijación de canon locativo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** vivienda única, canon locativo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5845-800isoiramus
+
+En el uso o atribución provisoria de la vivienda familiar, la fijación del valor de la renta debe tratar de conjugar la necesidad de uno con la posibilidad del otro conforme al principio de igualdad, y considerar si el requerimiento se basa en que...
+
+---
+
+## Vivienda única, canon locativo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085484
+- **Caratula:** B., H. D. C. C- A., A. L. c/ s/ divorcio, Expte. N° 10714.- s/ incidente de fijación de canon locativo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** vivienda única, canon locativo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4845-800isoiramus
+
+En el uso o atribución provisoria de la vivienda familiar, la fijación del valor de la renta compensatoria no depende necesariamente del valor locativo de mercado sino de las circunstancias de hecho de cada supuesto, donde corresponde evaluar la...
+
+---
+
+## Accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085403
+- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL-CIVIL
+- **Descriptores:** accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3045-800isoiramus
+
+La enfermedad psíquica que el perito diagnostique debe dañar de manera perdurable una o varias de las siguientes funciones del sujeto: incapacidad para desempeñar sus tareas habituales, incapacidad para acceder al trabajo, incapacidad para ganar...
+
+---
+
+## Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085456
+- **Caratula:** Migueles, Juan Daniel c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6545-800isoiramus
+
+Al accionante de autos no se lo capacitó en estas cuestiones, (solo al resto del personal una vez este fallecido), y por ende se lo privó de tener una mínima chance de evitar el daño, por lo que la ART es responsable dentro del ámbito civil. El...
+
+---
+
+## Accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085406
+- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL-CIVIL
+- **Descriptores:** accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6045-800isoiramus
+
+Tal como lo señala concretamente el Baremo de ley (Tabla de evaluación de incapacidades laborales), en estos casos, donde se expresa por parte del perito actuante que el actor presenta "reacciones vivenciales anormales neuróticas (neurosis), "hay...
+
+---
+
+## Vivienda única, canon locativo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085486
+- **Caratula:** B., H. D. C. C- A., A. L. c/ s/ divorcio, Expte. N° 10714.- s/ incidente de fijación de canon locativo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** vivienda única, canon locativo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6845-800isoiramus
+
+En el uso o atribución provisoria de la vivienda familiar, quien alegue la imposibilidad de afrontar el pago del canon pretendido debe acreditar tal circunstancia; mientras que contando con asistencia profesional, las consecuencia que ello apareja...
+
+---
+
+## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085410
+- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL-CIVIL
+- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0145-800isoiramus
+
+Analizó el STJER que, resguardado por la norma el valor real de la indemnización a través del mecanismo implementado para la actualización del ingreso base mensual -aplicación del decreto 669/19-, se debe atender al perjuicio ocasionado por el...
+
+---
+
+## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085408
+- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL-CIVIL
+- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8045-800isoiramus
+
+La Sala del Trabajo del STJER en doctrina que resulta de aplicación obligatoria (art. 284 y 285 del CPCC), es quien estableció que el análisis de la validez de la norma debía efectuarse, para cada caso concreto evaluando si la misma resultaba...
+
+---
+
+## Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085457
+- **Caratula:** Migueles, Juan Daniel c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7545-800isoiramus
+
+En caso de responsabilidad civil objetiva por actividades riesgosas, lo fundamental no es la autoría del hecho, sino la autoría del riesgo y, por ello, el origen de la imputación no reside en el hecho lesivo último, sino en la primaria esfera de...
+
+---
+
+## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085409
+- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL-CIVIL
+- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9045-800isoiramus
+
+Relativo a la aplicación de intereses compensatorios (12% anual), por el tiempo transcurrido desde el evento dañoso hasta la finalización del proceso, ello corresponde porque el actor se vio privado de su crédito, lo contrario permitiría un...
+
+---
+
+## Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085453
+- **Caratula:** Migueles, Juan Daniel c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3545-800isoiramus
+
+La acción entablada en los presentes autos encuentra sustento en la vía civil que como damnificados invocan los accionantes en su carácter de padres del difunto trabajador, reclamando en la litis concretamente, los daños y perjuicios propios del...
+
+---
+
+## Accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085407
+- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL-CIVIL
+- **Descriptores:** accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7045-800isoiramus
+
+Si bien la pericia psiquiátrica tiene autonomía por sí misma, debo decir que en estos casos donde las conclusiones a las que se arriban se basan en manifestaciones que el accionante le realiza a la profesional, y quien a partir de ellas y tomando a...
+
+---
+
+## Accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085405
+- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL-CIVIL
+- **Descriptores:** accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5045-800isoiramus
+
+En el caso, la contingencia sufrida por el actor, no se ha tratado de un gran trauma, y ni se aproxima a ello, ya que ni siquiera necesitó de una intervención quirúrgica, y además recuerdo que estamos ante una persona que se cayó de su propia moto,...
+
+---
+
+## Derecho laboral, carga de la prueba, contestación de la demanda, conducta de las partes
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085397
+- **Caratula:** Gervasoni, Horacio Raúl c/ Instituto Autárquico Provincial del Seguro de Entre Rios Riesgos del Trabajo s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL-CIVIL
+- **Descriptores:** Derecho laboral, carga de la prueba, contestación de la demanda, conducta de las partes
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7935-800isoiramus
+
+El cumplimiento de la "carga de explicitación", que pesa tanto sobre el actor como sobre el demandado, consiste en la obligación de ser lo más detallista que se pueda analizando a fondo las personas, las conductas, las circunstancias, procurando...
+
+---
+
+## Derecho laboral, apreciación de la prueba, pericia médica, accidentes de trabajo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085411
+- **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-30
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** Derecho laboral, apreciación de la prueba, pericia médica, accidentes de trabajo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1145-800isoiramus
+
+Esta Sala, en general -si bien ésto no es absoluto-, le ha otorgado preponderancia a la pericia judicial sobre las demás existentes en la litis -en el siguiente orden de primacía: por sobre el dictamen de comisión médica, la pericia del perito...
 
 ---
 
@@ -13651,63 +13683,47 @@ Si se intenta una acción con basamento en la LRT, es de aplicación la normativ
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085407
+- **Numero:** I0085402
 - **Caratula:** Capurro, Marcelo Daniel c/ Experta Art S.A. s/ accidente de trabajo
 - **Fecha:** 2024-09-30
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL-PROCESAL-CIVIL
 - **Descriptores:** accidentes de trabajo, Derecho laboral, prueba pericial, daño psíquico
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7045-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2045-800isoiramus
 
-Si bien la pericia psiquiátrica tiene autonomía por sí misma, debo decir que en estos casos donde las conclusiones a las que se arriban se basan en manifestaciones que el accionante le realiza a la profesional, y quien a partir de ellas y tomando a...
-
----
-
-## Accidentes de trabajo, Derecho laboral, incapacidad, prueba, aplicación de la ley
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085399
-- **Caratula:** Abreu, Lucas Mateo c/ Asociart Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-30
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-CIVIL-PROCESAL
-- **Descriptores:** accidentes de trabajo, Derecho laboral, incapacidad, prueba, aplicación de la ley
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9935-800isoiramus
-
-La intención del legislador en lo que concierne a las incapacidades laborales, fue sobre todo indemnizar o reparar las limitaciones funcionales de los distintos órganos, miembros o segmentos corporales del trabajador siniestrado, excluyendo en...
+El daño psíquico es una entidad nosológica de origen mixto: psicológico y jurídico; que se aplica en los fueros Civil, Comercial y Laboral. En el fuero Penal, el daño psíquico es funcionalmente asimilable a las Lesiones Graves, en el sentido de...
 
 ---
 
-## Derecho laboral, carga de la prueba, contestación de la demanda, conducta de las partes
+## Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085397
-- **Caratula:** Gervasoni, Horacio Raúl c/ Instituto Autárquico Provincial del Seguro de Entre Rios Riesgos del Trabajo s/ accidente de trabajo
+- **Numero:** I0085455
+- **Caratula:** Migueles, Juan Daniel c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
 - **Fecha:** 2024-09-30
 - **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL-CIVIL
-- **Descriptores:** Derecho laboral, carga de la prueba, contestación de la demanda, conducta de las partes
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7935-800isoiramus
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** Derecho laboral, legitimación activa, muerte del trabajador, enfermedad profesional
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5545-800isoiramus
 
-El cumplimiento de la "carga de explicitación", que pesa tanto sobre el actor como sobre el demandado, consiste en la obligación de ser lo más detallista que se pueda analizando a fondo las personas, las conductas, las circunstancias, procurando...
+No puede invocar la ART una cuestión extraña o no previsible en el caso, cuando la enfermedad que nos ocupa -hantavirus- fue incorporada como enfermedad profesional dentro de la misma Ley de Riesgos del Trabajo, a través del decreto 1167/2003, que...
 
 ---
 
-## Vivienda única, canon locativo
+## Derecho laboral, regla de prorrata, improcedencia del recurso, constitucionalidad, limitación de costas
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085483
-- **Caratula:** B., H. D. C. C- A., A. L. c/ s/ divorcio, Expte. N° 10714.- s/ incidente de fijación de canon locativo
-- **Fecha:** 2024-09-30
+- **Numero:** I0085438
+- **Caratula:** Machuca, Alejandro Marcelo c/ Experta Art. S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-28
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** vivienda única, canon locativo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3845-800isoiramus
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** Derecho laboral, regla de prorrata, improcedencia del recurso, constitucionalidad, limitación de costas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8345-800isoiramus
 
-Quien no goza del uso o atribución provisoria de la vivienda familiar está habilitado legalmente para solicitar una renta compensatoria por esa atribución. Conforme la redacción del art. 444 CCC, el juez puede incluso denegar la renta, de acuerdo...
+El art. 277 de la LCT en su parte pertinente y el art. 730 del C. Civil, no superan para el presente caso el test de constitucionalidad, pues violentan el principio protectorio consagrado en el art. 14 bis de la Constitución Nacional, como también...
 
 ---
 
@@ -13724,38 +13740,6 @@ Quien no goza del uso o atribución provisoria de la vivienda familiar está hab
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7345-800isoiramus
 
 En el caso, corresponde desestimar la pretensión de la recurrente del prorrateo de los honorarios y costas con base en el actual art. 730 del C. Civil, pues tanto dicha norma como el artículo 8 de la Ley 24.432 que modificó el art. 277 de la LCT,...
-
----
-
-## Recurso de apelación (procesal), cómputo del plazo, aplicación de la ley
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085436
-- **Caratula:** Machuca, Alejandro Marcelo c/ Experta Art. S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-28
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** recurso de apelación (procesal), cómputo del plazo, aplicación de la ley
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6345-800isoiramus
-
-La apelación de honorarios se rige por un sistema autónomo e independiente de la sentencia principal, de allí que contiene sus propios plazos -5 días art. 109 ley 7046- el cual se encuentra vencido al ser articulada la apelación recién con la...
-
----
-
-## Derecho laboral, regla de prorrata, improcedencia del recurso, constitucionalidad, limitación de costas
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085439
-- **Caratula:** Machuca, Alejandro Marcelo c/ Experta Art. S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-28
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** Derecho laboral, regla de prorrata, improcedencia del recurso, constitucionalidad, limitación de costas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9345-800isoiramus
-
-El art. 277 de la LCT en su parte pertinente y el art. 730 del C. Civil, no superan para el presente caso el test de constitucionalidad, pues violentan el principio protectorio consagrado en el art. 14 bis de la Constitución Nacional, como también...
 
 ---
 
@@ -13779,15 +13763,31 @@ Sin perjuicio de la naturaleza del interés que se aplica, seguramente estuvo en
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085438
+- **Numero:** I0085439
 - **Caratula:** Machuca, Alejandro Marcelo c/ Experta Art. S.A. s/ accidente de trabajo
 - **Fecha:** 2024-09-28
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL-PROCESAL
 - **Descriptores:** Derecho laboral, regla de prorrata, improcedencia del recurso, constitucionalidad, limitación de costas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8345-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9345-800isoiramus
 
 El art. 277 de la LCT en su parte pertinente y el art. 730 del C. Civil, no superan para el presente caso el test de constitucionalidad, pues violentan el principio protectorio consagrado en el art. 14 bis de la Constitución Nacional, como también...
+
+---
+
+## Recurso de apelación (procesal), cómputo del plazo, aplicación de la ley
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085436
+- **Caratula:** Machuca, Alejandro Marcelo c/ Experta Art. S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-28
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** recurso de apelación (procesal), cómputo del plazo, aplicación de la ley
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6345-800isoiramus
+
+La apelación de honorarios se rige por un sistema autónomo e independiente de la sentencia principal, de allí que contiene sus propios plazos -5 días art. 109 ley 7046- el cual se encuentra vencido al ser articulada la apelación recién con la...
 
 ---
 
@@ -13811,159 +13811,15 @@ En el caso, la apelante no dedica más que unos breves párrafos a manifestar su
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085389
+- **Numero:** I0085390
 - **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
 - **Fecha:** 2024-09-26
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-LABORAL-PROCESAL
 - **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9835-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0935-800isoiramus
 
-El argumento central que invalida constitucionalmente el art. 1° de la Ley 27.348 es la obligatoriedad de la instancia administrativa previa y excluyente que los trabajadores afectados por una contingencia o siniestro laboral deben agotar ante las...
-
----
-
-## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085384
-- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-26
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-LABORAL-PROCESAL
-- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4835-800isoiramus
-
-La revisión de lo decidido por las Comisiones Médicas queda en manos en definitiva del Poder Judicial de la Pcia. de Entre Ríos, y solo se obliga al trabajador siniestrado a que previamente transite su reclamo ante las Comisiones Médicas...
-
----
-
-## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085387
-- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-26
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-LABORAL-PROCESAL
-- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7835-800isoiramus
-
-Los trabajadores deberán cumplir el siguiente trámite: 1) Recurrir a la CM para que ésta se expida sobre la existencia de la contingencia, y/o naturaleza laboral o no de la contingencia denunciada, y a efectos de que se pronuncie sobre el porcentaje...
-
----
-
-## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085392
-- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-26
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-LABORAL-PROCESAL
-- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2935-800isoiramus
-
-Resulta inconstitucional sustraer de la competencia de los jueces naturales para atribuir a un tribunal médico, vgr., el determinar la existencia y características de un hecho para calificarlo como accidente de trabajo (lo cual implica ponderar...
-
----
-
-## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085385
-- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-26
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-LABORAL-PROCESAL
-- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5835-800isoiramus
-
-El Estado Provincial Entrerriano no está cediendo ni delegando nada, pues la decisión final a través del conocimiento amplio de la situación sigue en manos de los jueces laborales provinciales. Es que, a la luz de las disposiciones específicas de la...
-
----
-
-## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085381
-- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-26
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-LABORAL-PROCESAL
-- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1835-800isoiramus
-
-Las Comisiones Médicas fueron creadas por ley 24.241 -art. 51-. La independencia e imparcialidad de sus miembros, se ve garantizada en principio porque los profesionales que la integran deben lógicamente contar con título médico, matrícula y ser...
-
----
-
-## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085393
-- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-26
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-LABORAL-PROCESAL
-- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3935-800isoiramus
-
-El art. 1° de la Ley 27.348, en cuanto impone la instancia administrativa previa ante las C.M. como "obligatoria", resulta inconstitucional porque cercena el derecho de los trabajadores afectados por un infortunio laboral a un rápido y expedito...
-
----
-
-## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085383
-- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-26
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-LABORAL-PROCESAL
-- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3835-800isoiramus
-
-En relación a lo procedimental, advierto que con la adhesión en cuestión -materializada a través de la ley provincial n° 10.532-, no se ha trasladado a la Nación la potestad de los jueces provinciales de conocer y decidir en relación a situaciones...
-
----
-
-## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085386
-- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-26
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-LABORAL-PROCESAL
-- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6835-800isoiramus
-
-En el marco de la distribución de competencias entre la Nación y las provincias, estas últimas conservan todo el poder no delegado (art. 121, Const. nac.), en cuyo contexto se encuentra la facultad de organización y aseguramiento de su...
-
----
-
-## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085391
-- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
-- **Fecha:** 2024-09-26
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-LABORAL-PROCESAL
-- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1935-800isoiramus
-
-El principio de "razonabilidad" es el que no supera el art. 1° de la Ley 27.348 dado que cualquier persona del pueblo, lega en materia de Derecho, puede advertir lo ridículo que resulta que un médico "juzgue". Esto se evidencia tan disparatado como...
+Al disponer el art. 1 de la Ley 27.348, que la actuación de las Comisiones Médicas jurisdiccionales, creadas por el artículo 51 de la Ley N° 24.241, constituirá una instancia administrativa previa a la que el trabajador afectado por un infortunio...
 
 ---
 
@@ -13987,15 +13843,15 @@ El criterio vertido por la magistrada de grado luce impecable en mi opinión a l
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085380
+- **Numero:** I0085385
 - **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
 - **Fecha:** 2024-09-26
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-LABORAL-PROCESAL
 - **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0835-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5835-800isoiramus
 
-Considero que corresponde que el juez laboral de grado se avoque al tratamiento aun en los casos en los que la instancia administrativa no haya sido transitada, por mantener la convicción de que las normas contenidas en los artículos 1, 2, 4, 5 y 6...
+El Estado Provincial Entrerriano no está cediendo ni delegando nada, pues la decisión final a través del conocimiento amplio de la situación sigue en manos de los jueces laborales provinciales. Es que, a la luz de las disposiciones específicas de la...
 
 ---
 
@@ -14003,15 +13859,47 @@ Considero que corresponde que el juez laboral de grado se avoque al tratamiento 
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085390
+- **Numero:** I0085384
 - **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
 - **Fecha:** 2024-09-26
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-LABORAL-PROCESAL
 - **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0935-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4835-800isoiramus
 
-Al disponer el art. 1 de la Ley 27.348, que la actuación de las Comisiones Médicas jurisdiccionales, creadas por el artículo 51 de la Ley N° 24.241, constituirá una instancia administrativa previa a la que el trabajador afectado por un infortunio...
+La revisión de lo decidido por las Comisiones Médicas queda en manos en definitiva del Poder Judicial de la Pcia. de Entre Ríos, y solo se obliga al trabajador siniestrado a que previamente transite su reclamo ante las Comisiones Médicas...
+
+---
+
+## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085391
+- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-26
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-LABORAL-PROCESAL
+- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1935-800isoiramus
+
+El principio de "razonabilidad" es el que no supera el art. 1° de la Ley 27.348 dado que cualquier persona del pueblo, lega en materia de Derecho, puede advertir lo ridículo que resulta que un médico "juzgue". Esto se evidencia tan disparatado como...
+
+---
+
+## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085381
+- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-26
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-LABORAL-PROCESAL
+- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1835-800isoiramus
+
+Las Comisiones Médicas fueron creadas por ley 24.241 -art. 51-. La independencia e imparcialidad de sus miembros, se ve garantizada en principio porque los profesionales que la integran deben lógicamente contar con título médico, matrícula y ser...
 
 ---
 
@@ -14031,35 +13919,115 @@ La decisión de las leyes 27.348 y 10.532, al establecer que un conflicto de ín
 
 ---
 
-## Ley de defensa del consumidor, relación de consumo, asociaciones de consumidores, medicina prepaga, sociedades mutuales, ley de orden público, derechos y garantías constitucionales, cuota mensual, derechos del consumidor, grupos vulnerables
+## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085064
-- **Caratula:** Asociación Protección consumidores del Mercado Común del Sur c/ Asoc. Mutual personal jerárquico de bancos oficiales nacionales s/ ordinario
-- **Fecha:** 2024-09-25
+- **Numero:** I0085392
+- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-26
 - **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** ley de defensa del consumidor, defensa del consumidor, relación de consumo, asociaciones de consumidores, medicina prepaga, asociaciones mutuales, ley de orden público, derechos y garantías constitucionales, cuota mensual, derechos del consumidor, grupos vulnerables
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4605-800isoiramus
+- **Materia:** CIVIL-LABORAL-PROCESAL
+- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2935-800isoiramus
 
-La relación entre la agrupación de consumidores demandante y la mutual accionada en el caso en que la primera solicita se ordene a la demandada cesar con el débito que realiza mensualmente, debe encuadrarse en una relación de consumo en la cual los...
+Resulta inconstitucional sustraer de la competencia de los jueces naturales para atribuir a un tribunal médico, vgr., el determinar la existencia y características de un hecho para calificarlo como accidente de trabajo (lo cual implica ponderar...
 
 ---
 
-## Legitimación pasiva, excepciones procesales, ley de defensa del consumidor, relación de consumo, reforma legislativa, asociaciones de consumidores, cuota mensual, medicina prepaga, sociedades mutuales, entidades de bien público, ley de orden público, derechos del consumidor
+## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085063
-- **Caratula:** Asociación Protección consumidores del Mercado Común del Sur c/ Asoc. Mutual personal jerárquico de bancos oficiales nacionales s/ ordinario
-- **Fecha:** 2024-09-25
+- **Numero:** I0085393
+- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-26
 - **Provincia:** Entre Ríos
-- **Materia:** COMERCIAL
-- **Descriptores:** legitimación pasiva, excepciones previas, ley de defensa del consumidor, defensa del consumidor, relación de consumo, reforma legislativa, asociaciones de consumidores, cuota mensual, medicina prepaga, asociaciones mutuales, entidades sin fines de lucro, ley de orden público, derechos del consumidor
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3605-800isoiramus
+- **Materia:** CIVIL-LABORAL-PROCESAL
+- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3935-800isoiramus
 
-No cabe hacer lugar a la excepción de falta de legitimación pasiva deducida por la mutual demandada por una agrupación de consumidores, asociación que presta servicios de medicina prepaga, pues el argumento basado en que se trata de una institución...
+El art. 1° de la Ley 27.348, en cuanto impone la instancia administrativa previa ante las C.M. como "obligatoria", resulta inconstitucional porque cercena el derecho de los trabajadores afectados por un infortunio laboral a un rápido y expedito...
+
+---
+
+## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085387
+- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-26
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-LABORAL-PROCESAL
+- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7835-800isoiramus
+
+Los trabajadores deberán cumplir el siguiente trámite: 1) Recurrir a la CM para que ésta se expida sobre la existencia de la contingencia, y/o naturaleza laboral o no de la contingencia denunciada, y a efectos de que se pronuncie sobre el porcentaje...
+
+---
+
+## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085383
+- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-26
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-LABORAL-PROCESAL
+- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3835-800isoiramus
+
+En relación a lo procedimental, advierto que con la adhesión en cuestión -materializada a través de la ley provincial n° 10.532-, no se ha trasladado a la Nación la potestad de los jueces provinciales de conocer y decidir en relación a situaciones...
+
+---
+
+## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085380
+- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-26
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-LABORAL-PROCESAL
+- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0835-800isoiramus
+
+Considero que corresponde que el juez laboral de grado se avoque al tratamiento aun en los casos en los que la instancia administrativa no haya sido transitada, por mantener la convicción de que las normas contenidas en los artículos 1, 2, 4, 5 y 6...
+
+---
+
+## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085386
+- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-26
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-LABORAL-PROCESAL
+- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6835-800isoiramus
+
+En el marco de la distribución de competencias entre la Nación y las provincias, estas últimas conservan todo el poder no delegado (art. 121, Const. nac.), en cuyo contexto se encuentra la facultad de organización y aseguramiento de su...
+
+---
+
+## Aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085389
+- **Caratula:** Provera, Silvia Cristina c/ Berkley International Art S.A. s/ accidente de trabajo
+- **Fecha:** 2024-09-26
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-LABORAL-PROCESAL
+- **Descriptores:** aplicación de la ley, accidentes de trabajo, comisiones médicas, enfermedad profesional, competencia
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9835-800isoiramus
+
+El argumento central que invalida constitucionalmente el art. 1° de la Ley 27.348 es la obligatoriedad de la instancia administrativa previa y excluyente que los trabajadores afectados por una contingencia o siniestro laboral deben agotar ante las...
 
 ---
 
@@ -14079,22 +14047,6 @@ Conforme ha sostenido la jurisprudencia sobre los cambios introducidos en la nor
 
 ---
 
-## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085423
-- **Caratula:** Benitez, María Isabel c/ Instituto Autárquico Provincial del Seguro de Entre Rios Art s/ ejecución de sentencia
-- **Fecha:** 2024-09-25
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL-CIVIL
-- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3245-800isoiramus
-
-En autos, la liquidación, debe practicarse actualizando el crédito desde que es debido hasta la fecha que adquirió firmeza la sentencia, esto es en el caso, desde la fecha en que se denegó el recurso de inaplicabilidad de Ley, interpuesto por la...
-
----
-
 ## Relación de consumo, asociaciones de consumidores, medicina prepaga, sociedades mutuales, cuota mensual, consentimiento informado, derechos del consumidor, contrato por escrito, aceptación expresa, prueba documental
 
 - **Tipo:** Jurisprudencia
@@ -14111,19 +14063,67 @@ Si bien el vínculo jurídico existente entre la agrupación de consumidores dem
 
 ---
 
+## Legitimación pasiva, excepciones procesales, ley de defensa del consumidor, relación de consumo, reforma legislativa, asociaciones de consumidores, cuota mensual, medicina prepaga, sociedades mutuales, entidades de bien público, ley de orden público, derechos del consumidor
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085063
+- **Caratula:** Asociación Protección consumidores del Mercado Común del Sur c/ Asoc. Mutual personal jerárquico de bancos oficiales nacionales s/ ordinario
+- **Fecha:** 2024-09-25
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL
+- **Descriptores:** legitimación pasiva, excepciones previas, ley de defensa del consumidor, defensa del consumidor, relación de consumo, reforma legislativa, asociaciones de consumidores, cuota mensual, medicina prepaga, asociaciones mutuales, entidades sin fines de lucro, ley de orden público, derechos del consumidor
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3605-800isoiramus
+
+No cabe hacer lugar a la excepción de falta de legitimación pasiva deducida por la mutual demandada por una agrupación de consumidores, asociación que presta servicios de medicina prepaga, pues el argumento basado en que se trata de una institución...
+
+---
+
 ## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085425
+- **Numero:** I0085423
+- **Caratula:** Benitez, María Isabel c/ Instituto Autárquico Provincial del Seguro de Entre Rios Art s/ ejecución de sentencia
+- **Fecha:** 2024-09-25
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL-CIVIL
+- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3245-800isoiramus
+
+En autos, la liquidación, debe practicarse actualizando el crédito desde que es debido hasta la fecha que adquirió firmeza la sentencia, esto es en el caso, desde la fecha en que se denegó el recurso de inaplicabilidad de Ley, interpuesto por la...
+
+---
+
+## Ley de defensa del consumidor, relación de consumo, asociaciones de consumidores, medicina prepaga, sociedades mutuales, ley de orden público, derechos y garantías constitucionales, cuota mensual, derechos del consumidor, grupos vulnerables
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085064
+- **Caratula:** Asociación Protección consumidores del Mercado Común del Sur c/ Asoc. Mutual personal jerárquico de bancos oficiales nacionales s/ ordinario
+- **Fecha:** 2024-09-25
+- **Provincia:** Entre Ríos
+- **Materia:** COMERCIAL
+- **Descriptores:** ley de defensa del consumidor, defensa del consumidor, relación de consumo, asociaciones de consumidores, medicina prepaga, asociaciones mutuales, ley de orden público, derechos y garantías constitucionales, cuota mensual, derechos del consumidor, grupos vulnerables
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4605-800isoiramus
+
+La relación entre la agrupación de consumidores demandante y la mutual accionada en el caso en que la primera solicita se ordene a la demandada cesar con el débito que realiza mensualmente, debe encuadrarse en una relación de consumo en la cual los...
+
+---
+
+## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085428
 - **Caratula:** Castro, Gastón Exequiel c/ Instituto Autárquico Provincial del Seguro de Entre Ríos s/ accidente de trabajo
 - **Fecha:** 2024-09-24
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL-PROCESAL-CIVIL
 - **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5245-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8245-800isoiramus
 
-A los fines de liquidar el crédito debido al trabajador, debe tomarse la fecha en que deviene firme la sentencia de marras, oportunidad en la cual se debe practicar la correspondiente planilla liquidación, y por ende compararse en dicho momento y...
+La solución de combatir inflación mediante tasa de interés puede tener cierta utilidad en contextos inflacionarios de baja intensidad, pero cuando la depreciación monetaria aumenta, la elevación de la tasa encuentra límites en el instituto de la...
 
 ---
 
@@ -14163,15 +14163,15 @@ La "actualización" del crédito reconocido en la sentencia de condena laboral, 
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085427
+- **Numero:** I0085425
 - **Caratula:** Castro, Gastón Exequiel c/ Instituto Autárquico Provincial del Seguro de Entre Ríos s/ accidente de trabajo
 - **Fecha:** 2024-09-24
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL-PROCESAL-CIVIL
 - **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7245-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5245-800isoiramus
 
-Ya sea mediante la aplicación de un índice o mediante una tasa de interés la "actualización" del capital indemnizatorio que toca a la víctima de un siniestro laboral debe extenderse entre la fecha en que acaeció el siniestro hasta el día de la...
+A los fines de liquidar el crédito debido al trabajador, debe tomarse la fecha en que deviene firme la sentencia de marras, oportunidad en la cual se debe practicar la correspondiente planilla liquidación, y por ende compararse en dicho momento y...
 
 ---
 
@@ -14195,15 +14195,15 @@ En el ámbito judicial, o sea frente a los pleitos sucedidos reclamándose las p
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085428
+- **Numero:** I0085427
 - **Caratula:** Castro, Gastón Exequiel c/ Instituto Autárquico Provincial del Seguro de Entre Ríos s/ accidente de trabajo
 - **Fecha:** 2024-09-24
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL-PROCESAL-CIVIL
 - **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8245-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7245-800isoiramus
 
-La solución de combatir inflación mediante tasa de interés puede tener cierta utilidad en contextos inflacionarios de baja intensidad, pero cuando la depreciación monetaria aumenta, la elevación de la tasa encuentra límites en el instituto de la...
+Ya sea mediante la aplicación de un índice o mediante una tasa de interés la "actualización" del capital indemnizatorio que toca a la víctima de un siniestro laboral debe extenderse entre la fecha en que acaeció el siniestro hasta el día de la...
 
 ---
 
@@ -14239,54 +14239,6 @@ En lo atinente al reintegro, la afiliada obró de acuerdo a lo que la obra socia
 
 ---
 
-## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085430
-- **Caratula:** Ortiz, Roberto Marcelo c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
-- **Fecha:** 2024-09-19
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL-CIVIL
-- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0345-800isoiramus
-
-La Sala del Trabajo del STJER estableció en "Crettaz" que las consideraciones allí vertidas constituye doctrina que resulta de aplicación obligatoria (art. 284 y 285 del CPCC), al disponer que el análisis de la validez de la norma -en la especie el...
-
----
-
-## Enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085449
-- **Caratula:** Fiorotto, Benito Manuel Andrés c/ Instituto Autárquico Provincial del Seguro de Entre Ríos s/ enfermedad profesional
-- **Fecha:** 2024-09-19
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-CIVIL-PROCESAL
-- **Descriptores:** enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9445-800isoiramus
-
-Arriba indiscutido a esta instancia que ni la Provincia de Entre Ríos, empleadora del actor, ni el IAPSER -su ART- realizaron al actor el examen médico preocupacional (que los eximiría de responsabilidad por posibles patologías acarreadas por el...
-
----
-
-## Enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085451
-- **Caratula:** Fiorotto, Benito Manuel Andrés c/ Instituto Autárquico Provincial del Seguro de Entre Ríos s/ enfermedad profesional
-- **Fecha:** 2024-09-19
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL-CIVIL
-- **Descriptores:** enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1545-800isoiramus
-
-Conforme al principio de adquisición de la prueba, la teoría de la carga dinámica, el deber de colaboración para con el proceso, y por resultar de su propio interés jurídico, tocaba a la accionada acreditar la naturaleza extra laboral de la...
-
----
-
 ## Enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
 
 - **Tipo:** Jurisprudencia
@@ -14300,6 +14252,22 @@ Conforme al principio de adquisición de la prueba, la teoría de la carga diná
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8445-800isoiramus
 
 La ausencia de tales exámenes sirve conforme al art. 6 de la LRT, como un elemento de exoneración en favor de la dadora de trabajo, en relación a la patologías allí constatadas, y no como un instrumento de imputación sin mas hacia la misma frente a...
+
+---
+
+## Enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085444
+- **Caratula:** Fiorotto, Benito Manuel Andrés c/ Instituto Autárquico Provincial del Seguro de Entre Ríos s/ enfermedad profesional
+- **Fecha:** 2024-09-19
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-CIVIL-PROCESAL
+- **Descriptores:** enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4445-800isoiramus
+
+La lesión en las cervicales que padece el actor -hernias de discos-, no son atribuibles al trabajo sino a una cuestión degenerativa, y por ende excluida de ser reparada en este ámbito. No se advierte en la litis prueba contundente acerca de tal...
 
 ---
 
@@ -14323,15 +14291,15 @@ Si bien hoy, en el caso de autos, se aplica Ripte por ser mas beneficioso para e
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085444
+- **Numero:** I0085450
 - **Caratula:** Fiorotto, Benito Manuel Andrés c/ Instituto Autárquico Provincial del Seguro de Entre Ríos s/ enfermedad profesional
 - **Fecha:** 2024-09-19
 - **Provincia:** Entre Ríos
-- **Materia:** LABORAL-CIVIL-PROCESAL
+- **Materia:** LABORAL-PROCESAL-CIVIL
 - **Descriptores:** enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4445-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0545-800isoiramus
 
-La lesión en las cervicales que padece el actor -hernias de discos-, no son atribuibles al trabajo sino a una cuestión degenerativa, y por ende excluida de ser reparada en este ámbito. No se advierte en la litis prueba contundente acerca de tal...
+En autos, la pericia en higiene y seguridad informó que el actor se hallaba expuesto al "agente de riesgo 80011 (carga, posiciones forzadas y gestos repetitivos de la columna vertebral lumbosacra). Además indicó que el Hospital San Antonio donde...
 
 ---
 
@@ -14348,6 +14316,22 @@ La lesión en las cervicales que padece el actor -hernias de discos-, no son atr
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2545-800isoiramus
 
 Las precitadas disposiciones procesales no resultan inconstitucionales. La casación tiene por finalidad establecer una interpretación uniforme, que sea conocida por todos y con carácter de obligatoria, evitándose así la diáspora jurisprudencial o...
+
+---
+
+## Enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085445
+- **Caratula:** Fiorotto, Benito Manuel Andrés c/ Instituto Autárquico Provincial del Seguro de Entre Ríos s/ enfermedad profesional
+- **Fecha:** 2024-09-19
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-CIVIL-PROCESAL
+- **Descriptores:** enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5445-800isoiramus
+
+El baremo de aplicación obligatoria vigente en materia -dec. 49/14-, no contempla a la hernia de disco cervical como enfermedad profesional, -solo refiere a la lesión lumbo sacra y con períodos mínimos de tres años de exposición-, por lo que en...
 
 ---
 
@@ -14383,19 +14367,19 @@ En lo relativo a los exámenes de ingreso o preocupacionales, - a cargo del empl
 
 ---
 
-## Enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
+## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085445
-- **Caratula:** Fiorotto, Benito Manuel Andrés c/ Instituto Autárquico Provincial del Seguro de Entre Ríos s/ enfermedad profesional
+- **Numero:** I0085430
+- **Caratula:** Ortiz, Roberto Marcelo c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
 - **Fecha:** 2024-09-19
 - **Provincia:** Entre Ríos
-- **Materia:** LABORAL-CIVIL-PROCESAL
-- **Descriptores:** enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5445-800isoiramus
+- **Materia:** LABORAL-PROCESAL-CIVIL
+- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0345-800isoiramus
 
-El baremo de aplicación obligatoria vigente en materia -dec. 49/14-, no contempla a la hernia de disco cervical como enfermedad profesional, -solo refiere a la lesión lumbo sacra y con períodos mínimos de tres años de exposición-, por lo que en...
+La Sala del Trabajo del STJER estableció en "Crettaz" que las consideraciones allí vertidas constituye doctrina que resulta de aplicación obligatoria (art. 284 y 285 del CPCC), al disponer que el análisis de la validez de la norma -en la especie el...
 
 ---
 
@@ -14403,15 +14387,31 @@ El baremo de aplicación obligatoria vigente en materia -dec. 49/14-, no contemp
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085450
+- **Numero:** I0085451
 - **Caratula:** Fiorotto, Benito Manuel Andrés c/ Instituto Autárquico Provincial del Seguro de Entre Ríos s/ enfermedad profesional
 - **Fecha:** 2024-09-19
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL-PROCESAL-CIVIL
 - **Descriptores:** enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0545-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1545-800isoiramus
 
-En autos, la pericia en higiene y seguridad informó que el actor se hallaba expuesto al "agente de riesgo 80011 (carga, posiciones forzadas y gestos repetitivos de la columna vertebral lumbosacra). Además indicó que el Hospital San Antonio donde...
+Conforme al principio de adquisición de la prueba, la teoría de la carga dinámica, el deber de colaboración para con el proceso, y por resultar de su propio interés jurídico, tocaba a la accionada acreditar la naturaleza extra laboral de la...
+
+---
+
+## Enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085449
+- **Caratula:** Fiorotto, Benito Manuel Andrés c/ Instituto Autárquico Provincial del Seguro de Entre Ríos s/ enfermedad profesional
+- **Fecha:** 2024-09-19
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-CIVIL-PROCESAL
+- **Descriptores:** enfermedad profesional, afección lumbar, hernia de disco, decretos, aplicación de la ley, prueba testimonial, baremo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9445-800isoiramus
+
+Arriba indiscutido a esta instancia que ni la Provincia de Entre Ríos, empleadora del actor, ni el IAPSER -su ART- realizaron al actor el examen médico preocupacional (que los eximiría de responsabilidad por posibles patologías acarreadas por el...
 
 ---
 
@@ -14431,19 +14431,19 @@ A partir de que adquiere firmeza la sentencia, -en consonancia esto con el art. 
 
 ---
 
-## Derecho laboral, cobro de sumas de dinero, certificado de servicios, prueba
+## Derecho laboral, accidentes de trabajo, sentencia, pericia médica
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085465
-- **Caratula:** Fernandez, Joaquin Alberto c/ Hierro Max S.R.L. s/ cobro de pesos y entrega de certificación laboral
+- **Numero:** I0085467
+- **Caratula:** Bachini, Estaban Sebastian c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
 - **Fecha:** 2024-09-13
 - **Provincia:** Entre Ríos
-- **Materia:** LABORAL-CIVIL-PROCESAL
-- **Descriptores:** Derecho laboral, cobro de sumas de dinero, certificado de servicios, prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5645-800isoiramus
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** Derecho laboral, accidentes de trabajo, sentencia, pericia médica
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7645-800isoiramus
 
-En el caso, la fundamentación del memorial recursivo del actor dista enormemente de lo que técnicamente se espera de una expresión de agravios. No obstante, y como siempre repetimos, esta Sala tiene sentado un criterio harto amplio sobre el punto y...
+En el caso, la recurrente se alza cuestionando o atacando la sentencia vertida por el a-quo, puntualmente con apoyatura en el dictamen del perito médico interviniente en juicio, sin hacerse cargo de los fundamentos valorados en la sentencia puesta...
 
 ---
 
@@ -14479,22 +14479,6 @@ El fundamento del fallo de grado, según el cual el actor no era acreedor a dife
 
 ---
 
-## Derecho laboral, accidentes de trabajo, deserción, asegurador por riesgos del trabajo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085395
-- **Caratula:** Smidt, Luis Alberto c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
-- **Fecha:** 2024-09-13
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL
-- **Descriptores:** Derecho laboral, accidentes de trabajo, deserción, asegurador por riesgos del trabajo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5935-800isoiramus
-
-Es visible en el caso la ausencia de crítica "razonada y concreta" por parte de la ART apelante, resultando por tanto insuficientes los "pseudo" argumentos que trae a esta Alzada para abrir las compuertas de esta segunda instancia. Es que el...
-
----
-
 ## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
 
 - **Tipo:** Jurisprudencia
@@ -14511,35 +14495,35 @@ El decreto 669/19 que se aplica en autos, en lo puntual establece en su art. 2 q
 
 ---
 
+## Derecho laboral, accidentes de trabajo, deserción, asegurador por riesgos del trabajo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085395
+- **Caratula:** Smidt, Luis Alberto c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
+- **Fecha:** 2024-09-13
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL
+- **Descriptores:** Derecho laboral, accidentes de trabajo, deserción, asegurador por riesgos del trabajo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5935-800isoiramus
+
+Es visible en el caso la ausencia de crítica "razonada y concreta" por parte de la ART apelante, resultando por tanto insuficientes los "pseudo" argumentos que trae a esta Alzada para abrir las compuertas de esta segunda instancia. Es que el...
+
+---
+
 ## Derecho laboral, dictamen pericial, apreciación de la prueba, accidentes de trabajo
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085461
+- **Numero:** I0085462
 - **Caratula:** Moreyra, Facundo Gabriel c/ Experta S.A. s/ accidente de trabajo
 - **Fecha:** 2024-09-13
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL-PROCESAL
 - **Descriptores:** Derecho laboral, dictamen pericial, apreciación de la prueba, accidentes de trabajo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1645-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2645-800isoiramus
 
-Si bien antiguamente los códigos de procedimientos asignaban al dictamen pericial "fuerza de prueba legal", este arcaico criterio fue dejado de lado y actualmente, al igual que el resto de las pruebas, su fuerza convictiva debe ser determinada por...
-
----
-
-## Derecho laboral, accidentes de trabajo, sentencia, pericia médica
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085467
-- **Caratula:** Bachini, Estaban Sebastian c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
-- **Fecha:** 2024-09-13
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** Derecho laboral, accidentes de trabajo, sentencia, pericia médica
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7645-800isoiramus
-
-En el caso, la recurrente se alza cuestionando o atacando la sentencia vertida por el a-quo, puntualmente con apoyatura en el dictamen del perito médico interviniente en juicio, sin hacerse cargo de los fundamentos valorados en la sentencia puesta...
+Ha dicho la CSJN que queda satisfecha la labor del perito como auxiliar de la justicia si sus afirmaciones obedecen a elementos de juicio que tuvo en cuenta y se apoyan suficientemente en los antecedentes de la causa y en sus conocimientos técnicos...
 
 ---
 
@@ -14563,15 +14547,31 @@ En el caso de autos, el auxiliar médico interviniente forma parte del equipo m�
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085462
+- **Numero:** I0085461
 - **Caratula:** Moreyra, Facundo Gabriel c/ Experta S.A. s/ accidente de trabajo
 - **Fecha:** 2024-09-13
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL-PROCESAL
 - **Descriptores:** Derecho laboral, dictamen pericial, apreciación de la prueba, accidentes de trabajo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2645-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1645-800isoiramus
 
-Ha dicho la CSJN que queda satisfecha la labor del perito como auxiliar de la justicia si sus afirmaciones obedecen a elementos de juicio que tuvo en cuenta y se apoyan suficientemente en los antecedentes de la causa y en sus conocimientos técnicos...
+Si bien antiguamente los códigos de procedimientos asignaban al dictamen pericial "fuerza de prueba legal", este arcaico criterio fue dejado de lado y actualmente, al igual que el resto de las pruebas, su fuerza convictiva debe ser determinada por...
+
+---
+
+## Derecho laboral, cobro de sumas de dinero, certificado de servicios, prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085465
+- **Caratula:** Fernandez, Joaquin Alberto c/ Hierro Max S.R.L. s/ cobro de pesos y entrega de certificación laboral
+- **Fecha:** 2024-09-13
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-CIVIL-PROCESAL
+- **Descriptores:** Derecho laboral, cobro de sumas de dinero, certificado de servicios, prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5645-800isoiramus
+
+En el caso, la fundamentación del memorial recursivo del actor dista enormemente de lo que técnicamente se espera de una expresión de agravios. No obstante, y como siempre repetimos, esta Sala tiene sentado un criterio harto amplio sobre el punto y...
 
 ---
 
@@ -14591,22 +14591,6 @@ La accionada al contestar demanda, negó la categoría de playera alegada por la
 
 ---
 
-## Derecho laboral, prueba del contrato, presunciones, cobro de sumas de dinero
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085441
-- **Caratula:** Gall Marino, Ramón c/ Arellano, Alberto Domingo s/ accidente de trabajo (y cobro de pesos)
-- **Fecha:** 2024-09-06
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-CIVIL-PROCESAL
-- **Descriptores:** Derecho laboral, prueba del contrato, presunciones, cobro de sumas de dinero
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1445-800isoiramus
-
-Para que la presunción del art. 23 resulte operante, es menester dos presupuestos: a) probar el cumplimiento de una prestación de servicios; b) que dicha prestación haya sido en beneficio de aquel a quien se le atribuye la calidad de empleador....
-
----
-
 ## Derecho laboral, contratos, empleo no registrado, apreciación de la prueba, accidentes de trabajo, riesgos del trabajo
 
 - **Tipo:** Jurisprudencia
@@ -14623,51 +14607,35 @@ De la historia clínica agregada por el Hospital Centenario, surge que la lesió
 
 ---
 
+## Derecho laboral, prueba del contrato, presunciones, cobro de sumas de dinero
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085441
+- **Caratula:** Gall Marino, Ramón c/ Arellano, Alberto Domingo s/ accidente de trabajo (y cobro de pesos)
+- **Fecha:** 2024-09-06
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-CIVIL-PROCESAL
+- **Descriptores:** Derecho laboral, prueba del contrato, presunciones, cobro de sumas de dinero
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1445-800isoiramus
+
+Para que la presunción del art. 23 resulte operante, es menester dos presupuestos: a) probar el cumplimiento de una prestación de servicios; b) que dicha prestación haya sido en beneficio de aquel a quien se le atribuye la calidad de empleador....
+
+---
+
 ## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085414
+- **Numero:** I0085412
 - **Caratula:** Irigoyen, Francisco Agustín Ismael c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
 - **Fecha:** 2024-09-03
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL-PROCESAL-CIVIL
 - **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4145-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2145-800isoiramus
 
 Lo que el STJER decidió en "Crettaz" fue "actualizar" monetariamente la variable remuneratoria que se utiliza como "ingreso base" para calcular la prestación dineraria que la ART debe abonar para reparar el daño sufrido por la víctima de un...
-
----
-
-## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085421
-- **Caratula:** Irigoyen, Francisco Agustín Ismael c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
-- **Fecha:** 2024-09-03
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL-CIVIL
-- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1245-800isoiramus
-
-Recurrir al citado DNU como herramienta apta para paliar el flagelo inflacionario, resulta inapropiado. Esto porque la aplicación que se realiza en "Crettaz" indudablemente contraría los fines que movieron al "decretador" dado que conforme...
-
----
-
-## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085417
-- **Caratula:** Irigoyen, Francisco Agustín Ismael c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
-- **Fecha:** 2024-09-03
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL-CIVIL
-- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7145-800isoiramus
-
-El principio de reparación plena consiste en la restitución de la situación del damnificado al estado anterior al hecho dañoso, sea por el pago en dinero o en especie (art. 1740 CCC). Queda claro, entonces, que la restitutio in integrum abarca no...
 
 ---
 
@@ -14691,15 +14659,15 @@ La doctrina del precedente "Crettaz" no ha sido debidamente seguida por el a quo
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085419
+- **Numero:** I0085421
 - **Caratula:** Irigoyen, Francisco Agustín Ismael c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
 - **Fecha:** 2024-09-03
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL-PROCESAL-CIVIL
 - **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9145-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1245-800isoiramus
 
-Analizó el STJER que, resguardado por la norma el valor real de la indemnización a través del mecanismo implementado para la actualización del ingreso base mensual -aplicación del decreto 669/19-, se debe atender al perjuicio ocasionado por el...
+Recurrir al citado DNU como herramienta apta para paliar el flagelo inflacionario, resulta inapropiado. Esto porque la aplicación que se realiza en "Crettaz" indudablemente contraría los fines que movieron al "decretador" dado que conforme...
 
 ---
 
@@ -14707,15 +14675,47 @@ Analizó el STJER que, resguardado por la norma el valor real de la indemnizaci�
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085416
+- **Numero:** I0085420
 - **Caratula:** Irigoyen, Francisco Agustín Ismael c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
 - **Fecha:** 2024-09-03
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL-PROCESAL-CIVIL
 - **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6145-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0245-800isoiramus
 
-No soslayo la loable intención que mueve a los Sres. Vocales al intentar, mediante la aplicación del "mecanismo de actualización del DNU 669/19", beneficiar a la parte que se presenta en una situación de doblemente débilis (trabajador, siniestrado y...
+Consideramos que no se encontraban dados en el momento del dictado del decreto los extremos necesarios que habiliten su dictado y ello, no me parece cuestión menor, pues es el poder judicial quien debe velar por la división de poderes, y el respeto...
+
+---
+
+## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085414
+- **Caratula:** Irigoyen, Francisco Agustín Ismael c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
+- **Fecha:** 2024-09-03
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL-CIVIL
+- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4145-800isoiramus
+
+Lo que el STJER decidió en "Crettaz" fue "actualizar" monetariamente la variable remuneratoria que se utiliza como "ingreso base" para calcular la prestación dineraria que la ART debe abonar para reparar el daño sufrido por la víctima de un...
+
+---
+
+## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085417
+- **Caratula:** Irigoyen, Francisco Agustín Ismael c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
+- **Fecha:** 2024-09-03
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL-CIVIL
+- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7145-800isoiramus
+
+El principio de reparación plena consiste en la restitución de la situación del damnificado al estado anterior al hecho dañoso, sea por el pago en dinero o en especie (art. 1740 CCC). Queda claro, entonces, que la restitutio in integrum abarca no...
 
 ---
 
@@ -14755,22 +14755,6 @@ Relativo a la aplicación de intereses compensatorios (12% anual), por el tiempo
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085420
-- **Caratula:** Irigoyen, Francisco Agustín Ismael c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
-- **Fecha:** 2024-09-03
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL-CIVIL
-- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0245-800isoiramus
-
-Consideramos que no se encontraban dados en el momento del dictado del decreto los extremos necesarios que habiliten su dictado y ello, no me parece cuestión menor, pues es el poder judicial quien debe velar por la división de poderes, y el respeto...
-
----
-
-## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
 - **Numero:** I0085415
 - **Caratula:** Irigoyen, Francisco Agustín Ismael c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
 - **Fecha:** 2024-09-03
@@ -14787,15 +14771,63 @@ No es posible predicar la existencia de doctrina legal de obligatorio seguimient
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085412
+- **Numero:** I0085419
 - **Caratula:** Irigoyen, Francisco Agustín Ismael c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
 - **Fecha:** 2024-09-03
 - **Provincia:** Entre Ríos
 - **Materia:** LABORAL-PROCESAL-CIVIL
 - **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2145-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9145-800isoiramus
 
-Lo que el STJER decidió en "Crettaz" fue "actualizar" monetariamente la variable remuneratoria que se utiliza como "ingreso base" para calcular la prestación dineraria que la ART debe abonar para reparar el daño sufrido por la víctima de un...
+Analizó el STJER que, resguardado por la norma el valor real de la indemnización a través del mecanismo implementado para la actualización del ingreso base mensual -aplicación del decreto 669/19-, se debe atender al perjuicio ocasionado por el...
+
+---
+
+## Accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085416
+- **Caratula:** Irigoyen, Francisco Agustín Ismael c/ Instituto Autárquico Provincial del Seguro de Entre Rios s/ accidente de trabajo
+- **Fecha:** 2024-09-03
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL-CIVIL
+- **Descriptores:** accidentes de trabajo, Derecho laboral, liquidación, jurisprudencia aplicable, apreciación de la prueba
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6145-800isoiramus
+
+No soslayo la loable intención que mueve a los Sres. Vocales al intentar, mediante la aplicación del "mecanismo de actualización del DNU 669/19", beneficiar a la parte que se presenta en una situación de doblemente débilis (trabajador, siniestrado y...
+
+---
+
+## Notificación, traslado de la demanda, carta documento
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085374
+- **Caratula:** Villagra, Sergio Humberto y otra c/ López, José Orlando y otra s/ ordinario daños y perjuicios
+- **Fecha:** 2024-08-26
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** notificación, traslado de la demanda, carta documento
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4735-800isoiramus
+
+El empleo de la carta documento con aviso de visita y de retorno es un medio idóneo para realizar el particular acto de notificación del traslado de la demanda, en función de las condiciones y resguardos previstos para el mecanismo en el Resolución...
+
+---
+
+## Notificación, traslado de la demanda, carta documento
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085376
+- **Caratula:** Villagra, Sergio Humberto y otra c/ López, José Orlando y otra s/ ordinario daños y perjuicios
+- **Fecha:** 2024-08-26
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** notificación, traslado de la demanda, carta documento
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6735-800isoiramus
+
+En paralelo a las reglas del debido proceso, el nuevo paradigma constitucional exige el efectivo acceso a la justicia donde para ello la ley procesal debe interpretarse conforme al principio de instrumentalidad de las formas, de manera progresiva...
 
 ---
 
@@ -14819,31 +14851,15 @@ La carta documento emitida por el Correo Oficial de la República Argentina, com
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085359
+- **Numero:** I0085361
 - **Caratula:** A., G. R. c/ E., C. I. s/ ordinario acción de consignación (remitidopor juz. civil y comercial)
 - **Fecha:** 2024-08-26
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** contratos, obligaciones, pago, dólares
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9535-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1635-800isoiramus
 
-En la discusión sobre la forma de cumplimiento de un pacto en dólares estadounidenses billetes - en el caso, respecto del precio de un inmueble que integraba la comunidad de bienes extinguida-, es necesario advertir que los arts. 765 y 766 del CCC...
-
----
-
-## Contratos, obligaciones, pago, dólares
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085360
-- **Caratula:** A., G. R. c/ E., C. I. s/ ordinario acción de consignación (remitidopor juz. civil y comercial)
-- **Fecha:** 2024-08-26
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** contratos, obligaciones, pago, dólares
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0635-800isoiramus
-
-Si bajo el principio de autonomía de la voluntad se pactó el cumplimiento de una obligación en dólares estadounidenses billetes conforme a la práctica del mercado inmobiliario -en el caso respecto del precio de un inmueble que integraba la comunidad...
+En los acuerdos referidos al precio de inmuebles el valor estable de la divisa extranjera es tenido en cuenta a tales efectos, en consonancia con el valor comercial del bien, siendo un hecho notorio que el mercado inmobiliario se rige por ese...
 
 ---
 
@@ -14863,51 +14879,19 @@ El empleo de la carta documento para la notificación del traslado de la demanda
 
 ---
 
-## Notificación, traslado de la demanda, carta documento
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085377
-- **Caratula:** Villagra, Sergio Humberto y otra c/ López, José Orlando y otra s/ ordinario daños y perjuicios
-- **Fecha:** 2024-08-26
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** notificación, traslado de la demanda, carta documento
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7735-800isoiramus
-
-La notificación del traslado de la demanda por medio de carta documento no es un tema que involucre el "orden público procesal", si se atiende que sin desdeñar el resguardo de la seguridad del acto traslado de la demanda, de cuya trascendencia nadie...
-
----
-
-## Notificación, traslado de la demanda, carta documento
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085374
-- **Caratula:** Villagra, Sergio Humberto y otra c/ López, José Orlando y otra s/ ordinario daños y perjuicios
-- **Fecha:** 2024-08-26
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** notificación, traslado de la demanda, carta documento
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4735-800isoiramus
-
-El empleo de la carta documento con aviso de visita y de retorno es un medio idóneo para realizar el particular acto de notificación del traslado de la demanda, en función de las condiciones y resguardos previstos para el mecanismo en el Resolución...
-
----
-
 ## Contratos, obligaciones, pago, dólares
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085361
+- **Numero:** I0085359
 - **Caratula:** A., G. R. c/ E., C. I. s/ ordinario acción de consignación (remitidopor juz. civil y comercial)
 - **Fecha:** 2024-08-26
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
 - **Descriptores:** contratos, obligaciones, pago, dólares
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1635-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9535-800isoiramus
 
-En los acuerdos referidos al precio de inmuebles el valor estable de la divisa extranjera es tenido en cuenta a tales efectos, en consonancia con el valor comercial del bien, siendo un hecho notorio que el mercado inmobiliario se rige por ese...
+En la discusión sobre la forma de cumplimiento de un pacto en dólares estadounidenses billetes - en el caso, respecto del precio de un inmueble que integraba la comunidad de bienes extinguida-, es necesario advertir que los arts. 765 y 766 del CCC...
 
 ---
 
@@ -14931,79 +14915,31 @@ La discusión sobre la forma de cumplimiento de un pacto en dólares estadounide
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085376
+- **Numero:** I0085377
 - **Caratula:** Villagra, Sergio Humberto y otra c/ López, José Orlando y otra s/ ordinario daños y perjuicios
 - **Fecha:** 2024-08-26
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
 - **Descriptores:** notificación, traslado de la demanda, carta documento
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6735-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7735-800isoiramus
 
-En paralelo a las reglas del debido proceso, el nuevo paradigma constitucional exige el efectivo acceso a la justicia donde para ello la ley procesal debe interpretarse conforme al principio de instrumentalidad de las formas, de manera progresiva...
-
----
-
-## Responsabilidad civil, privación del uso de la cosa, presunciones
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085351
-- **Caratula:** Acosta, Luis Emilio c/ Barrionuevo, José Amado y otro s/ ordinario daños y perjuicios
-- **Fecha:** 2024-08-22
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** responsabilidad civil, privación del uso de la cosa, presunciones
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1535-800isoiramus
-
-En el reclamo de una indemnización por privación de uso del vehículo, la alegada ausencia de recursos económicos para efectuar la reparación del rodado por un lapso superior al que demande su reparación, se exhibe ciertamente y a partir de su propia...
+La notificación del traslado de la demanda por medio de carta documento no es un tema que involucre el "orden público procesal", si se atiende que sin desdeñar el resguardo de la seguridad del acto traslado de la demanda, de cuya trascendencia nadie...
 
 ---
 
-## Responsabilidad civil, privación del uso de la cosa, presunciones
+## Contratos, obligaciones, pago, dólares
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085350
-- **Caratula:** Acosta, Luis Emilio c/ Barrionuevo, José Amado y otro s/ ordinario daños y perjuicios
-- **Fecha:** 2024-08-22
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** responsabilidad civil, privación del uso de la cosa, presunciones
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0535-800isoiramus
-
-El objeto resarcible en la privación de uso del vehículo está dado por los gastos de traslado o los que demanden la sustitución transitoria del rodado. El lapso indemnizable, por otro lado, no debe superar el tiempo que demanden las reparaciones,...
-
----
-
-## Responsabilidad civil, privación del uso de la cosa, presunciones
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085349
-- **Caratula:** Acosta, Luis Emilio c/ Barrionuevo, José Amado y otro s/ ordinario daños y perjuicios
-- **Fecha:** 2024-08-22
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** responsabilidad civil, privación del uso de la cosa, presunciones
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9435-800isoiramus
-
-La presunción hominis -prueba indirecta- sobre la existencia y cuantía del daño por privación de uso está limitada a la cantidad de días que de ordinario demanda su reparación, remitiendo este último aspecto y por toda lógica a la entidad de los...
-
----
-
-## Incapacidad sobreviniente, base imponible, indemnización, daños y perjuicios
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085352
-- **Caratula:** Acosta, Luis Emilio c/ Barrionuevo, José Amado y otro s/ ordinario daños y perjuicios
-- **Fecha:** 2024-08-22
+- **Numero:** I0085360
+- **Caratula:** A., G. R. c/ E., C. I. s/ ordinario acción de consignación (remitidopor juz. civil y comercial)
+- **Fecha:** 2024-08-26
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** incapacidad sobreviniente, base imponible, indemnización, daños y perjuicios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2535-800isoiramus
+- **Descriptores:** contratos, obligaciones, pago, dólares
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0635-800isoiramus
 
-El empleo de fórmulas matemáticas de cara a la determinación de la indemnización por el rubro incapacidad sobreviniente no resulta antojadizo, sino que, por el contrario, apunta a la salvaguarda del derecho de defensa en juicio de las partes, ello...
+Si bajo el principio de autonomía de la voluntad se pactó el cumplimiento de una obligación en dólares estadounidenses billetes conforme a la práctica del mercado inmobiliario -en el caso respecto del precio de un inmueble que integraba la comunidad...
 
 ---
 
@@ -15036,6 +14972,70 @@ Si el juez al determinar la indemnización por incapacidad sobreviniente utiliza
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3535-800isoiramus
 
 Los serios inconvenientes que reporta la cuantificación de la incapacidad sobrevinientes sin recurrir al uso de fórmulas matemáticas, queda en evidencia cuando utilizando este último mecanismo la indemnización reclamada -en el caso, incapacidad...
+
+---
+
+## Incapacidad sobreviniente, base imponible, indemnización, daños y perjuicios
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085352
+- **Caratula:** Acosta, Luis Emilio c/ Barrionuevo, José Amado y otro s/ ordinario daños y perjuicios
+- **Fecha:** 2024-08-22
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** incapacidad sobreviniente, base imponible, indemnización, daños y perjuicios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2535-800isoiramus
+
+El empleo de fórmulas matemáticas de cara a la determinación de la indemnización por el rubro incapacidad sobreviniente no resulta antojadizo, sino que, por el contrario, apunta a la salvaguarda del derecho de defensa en juicio de las partes, ello...
+
+---
+
+## Responsabilidad civil, privación del uso de la cosa, presunciones
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085351
+- **Caratula:** Acosta, Luis Emilio c/ Barrionuevo, José Amado y otro s/ ordinario daños y perjuicios
+- **Fecha:** 2024-08-22
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** responsabilidad civil, privación del uso de la cosa, presunciones
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1535-800isoiramus
+
+En el reclamo de una indemnización por privación de uso del vehículo, la alegada ausencia de recursos económicos para efectuar la reparación del rodado por un lapso superior al que demande su reparación, se exhibe ciertamente y a partir de su propia...
+
+---
+
+## Responsabilidad civil, privación del uso de la cosa, presunciones
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085349
+- **Caratula:** Acosta, Luis Emilio c/ Barrionuevo, José Amado y otro s/ ordinario daños y perjuicios
+- **Fecha:** 2024-08-22
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** responsabilidad civil, privación del uso de la cosa, presunciones
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9435-800isoiramus
+
+La presunción hominis -prueba indirecta- sobre la existencia y cuantía del daño por privación de uso está limitada a la cantidad de días que de ordinario demanda su reparación, remitiendo este último aspecto y por toda lógica a la entidad de los...
+
+---
+
+## Responsabilidad civil, privación del uso de la cosa, presunciones
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085350
+- **Caratula:** Acosta, Luis Emilio c/ Barrionuevo, José Amado y otro s/ ordinario daños y perjuicios
+- **Fecha:** 2024-08-22
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** responsabilidad civil, privación del uso de la cosa, presunciones
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0535-800isoiramus
+
+El objeto resarcible en la privación de uso del vehículo está dado por los gastos de traslado o los que demanden la sustitución transitoria del rodado. El lapso indemnizable, por otro lado, no debe superar el tiempo que demanden las reparaciones,...
 
 ---
 
@@ -15075,22 +15075,6 @@ Si la regulación de honorarios obedece a una tarea realizada con anterioridad a
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085341
-- **Caratula:** R., R. c/ V., A. C. s/ incidente aumento cuota alimentaria
-- **Fecha:** 2024-08-16
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** alimentos, abuelos, recursos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1435-800isoiramus
-
-Al disponerse una obligación alimentaria a un ascendiente, debe hacerse mérito sobre ciertas circunstancias, como ser el sacrificio que le se impone atendiendo a su elevada edad -en el caso, 94 años-, que también es alimentante de otros nietos y que...
-
----
-
-## Alimentos, abuelos, recursos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
 - **Numero:** I0085340
 - **Caratula:** R., R. c/ V., A. C. s/ incidente aumento cuota alimentaria
 - **Fecha:** 2024-08-16
@@ -15100,6 +15084,22 @@ Al disponerse una obligación alimentaria a un ascendiente, debe hacerse mérito
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg0435-800isoiramus
 
 El hecho de que el abuelo perciba un beneficio previsional superior al mínimo que reciben los jubilados de este país, no es razón suficiente para activar su obligación subsidiaria sin evaluar su situación y la circunstancia de que el alimentado...
+
+---
+
+## Alimentos, abuelos, recursos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085341
+- **Caratula:** R., R. c/ V., A. C. s/ incidente aumento cuota alimentaria
+- **Fecha:** 2024-08-16
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** alimentos, abuelos, recursos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1435-800isoiramus
+
+Al disponerse una obligación alimentaria a un ascendiente, debe hacerse mérito sobre ciertas circunstancias, como ser el sacrificio que le se impone atendiendo a su elevada edad -en el caso, 94 años-, que también es alimentante de otros nietos y que...
 
 ---
 
@@ -15123,22 +15123,6 @@ Los alimentos requeridos a los abuelos deben ser ponderados bajo una óptica de 
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085334
-- **Caratula:** M., E. T. C. V., A. C. S. Alimentos c/ s/ incidente cese cuota alimentaria
-- **Fecha:** 2024-08-07
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** alimentos, obligación alimentaria, abuelos
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4335-800isoiramus
-
-El reclamo alimentario contra el abuelo en base al supuesto previsto por el art. 663 CCC -hijo mayor que se capacita-, permite apreciar la doble excepcionalidad con la que debe medirse su procedencia, desde que lo son por la circunstancia de...
-
----
-
-## Alimentos, obligación alimentaria, abuelos
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
 - **Numero:** I0085333
 - **Caratula:** M., E. T. C. V., A. C. S. Alimentos c/ s/ incidente cese cuota alimentaria
 - **Fecha:** 2024-08-07
@@ -15148,166 +15132,6 @@ El reclamo alimentario contra el abuelo en base al supuesto previsto por el art.
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3335-800isoiramus
 
 Los alimentos al hijo mayor que se capacita constituye una obligación en principio prevista sobre ambos progenitores, mientras que la muerte del alimentante provoca el cese de la obligación alimentaria -art. 554 inc. b) del CCC- y no se transmite a...
-
----
-
-## Notificación, traslado de la demanda, carta documento
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085373
-- **Caratula:** Municipalidad de San José de Gualeguaychú c/ Fernández, Mario Hugo S. Apremio s/ incidente (promov. por mara figueroa)
-- **Fecha:** 2024-08-07
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** notificación, traslado de la demanda, carta documento
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3735-800isoiramus
-
-Sin desconocer que ciertas reglamentaciones, algunas motivadas por hechos imprevisibles (v.gr. una pandemia) intentaron hallar algún medio alternativo para proseguir con el servicio de justicia en situaciones excepcionales habilitando medios de...
-
----
-
-## Sucesiones, bienes, documentos en poder de terceros, posesión
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085362
-- **Caratula:** Ledesma, Hugo Santiago c/ s/ sucesorio ab intestato (- tpro: sucesorio ab intestato)
-- **Fecha:** 2024-08-07
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** sucesiones, bienes, documentos en poder de terceros, posesión
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2635-800isoiramus
-
-Si la posesión o tenencia de ciertos bienes hereditarios la detenta un tercero, los herederos deben ejercitar las acciones pertinentes para obtener la restitución o devolución y, en su caso, con las medidas cautelares que al efecto deban ejercitarse...
-
----
-
-## Tercerías, inhibición general de bienes
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085366
-- **Caratula:** Municipalidad de San José de Gualeguaychú c/ Fernández, Mario Hugo S. Apremio s/ incidente (promov. por mara figueroa)
-- **Fecha:** 2024-08-07
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** tercerías, inhibición general de bienes
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6635-800isoiramus
-
-En materia de tercería, la referencia a "bienes embargados" por la normativa procesal no excluye la posibilidad de que el proceso que allí se instituye pueda encauzarse con el fin de procurar el levantamiento de la inhibición de bienes que pesa...
-
----
-
-## Tercerías, inhibición general de bienes
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085369
-- **Caratula:** Municipalidad de San José de Gualeguaychú c/ Fernández, Mario Hugo S. Apremio s/ incidente (promov. por mara figueroa)
-- **Fecha:** 2024-08-07
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** tercerías, inhibición general de bienes
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9635-800isoiramus
-
-Si la adquisición del bien por parte del primer adquirente del vehículo fue posterior al crédito del embargante, y el boleto de compraventa celebrado por el tercerista -segundo adquirente- lo fue con una persona distinta del titular registral -en el...
-
----
-
-## Notificación, traslado de la demanda, carta documento
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085371
-- **Caratula:** Municipalidad de San José de Gualeguaychú c/ Fernández, Mario Hugo S. Apremio s/ incidente (promov. por mara figueroa)
-- **Fecha:** 2024-08-07
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** notificación, traslado de la demanda, carta documento
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1735-800isoiramus
-
-Las reglas procesales se han establecido para respetar el derecho de defensa, el debido proceso y la igualdad ante la ley. Existe un órgano con la facultad de determinar cómo se notifica cada acto procesal, y ese órgano es el que dicta las leyes....
-
----
-
-## Alimentos, medidas cautelares, alimentos futuros
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085337
-- **Caratula:** M., D. A. por si y en representación de sus hijos menores C S.A..D. c/ s/ violencia familiar
-- **Fecha:** 2024-08-07
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** alimentos, medidas cautelares, alimentos futuros
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7335-800isoiramus
-
-Frente al despido e indemnización laboral del alimentante, debe atenderse que la pérdida de trabajo acreditada tiene potencialidad de agravar la situación de los alimentados, tornando ilusorio su derecho a la pensión e impone la necesidad de...
-
----
-
-## Tercerías, inhibición general de bienes
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085367
-- **Caratula:** Municipalidad de San José de Gualeguaychú c/ Fernández, Mario Hugo S. Apremio s/ incidente (promov. por mara figueroa)
-- **Fecha:** 2024-08-07
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** tercerías, inhibición general de bienes
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7635-800isoiramus
-
-Permitir que la tercería pueda articularse frente a una inhibición general de bienes, cuya finalidad es anotar registralmente el traspaso dominial a favor de un tercero de un bien del afectado, es la solución que mejor armoniza con un instituto que...
-
----
-
-## Tercerías, inhibición general de bienes
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085368
-- **Caratula:** Municipalidad de San José de Gualeguaychú c/ Fernández, Mario Hugo S. Apremio s/ incidente (promov. por mara figueroa)
-- **Fecha:** 2024-08-07
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** tercerías, inhibición general de bienes
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8635-800isoiramus
-
-La tercería de mejor derecho articulada por el adquirente de un vehículo por boleto no inscripto, es una via que contempla de modo excepcional situaciones en las que la estricta aplicación del régimen registral conllevaría una clara injusticia,...
-
----
-
-## Prescripción adquisitiva, poseedor, cesión de bienes, prueba, actos posesorios
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085346
-- **Caratula:** Rebossio, Ricardo Adolfo Hipólito c/ Quien O Quienes se consideren con Derecho sobre el Inmueble s/ usucapión
-- **Fecha:** 2024-08-07
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** prescripción adquisitiva, poseedor, cesión de bienes, prueba, actos posesorios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6435-800isoiramus
-
-Si el usucapiente para complementar el período que se necesita para prescribir se vale de los anteriores poseedores, la cuestión no se dirime con la existencia de un documento de cesión y lo dicho por testigos o cuántos impuestos se pagaron, sino...
-
----
-
-## Alimentos, medidas cautelares, alimentos futuros
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085338
-- **Caratula:** M., D. A. por si y en representación de sus hijos menores C S.A..D. c/ s/ violencia familiar
-- **Fecha:** 2024-08-07
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** alimentos, medidas cautelares, alimentos futuros
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8335-800isoiramus
-
-La falta de ofrecimiento de otras garantías por parte del alimentante suficientes en sustitución de la medida cautelar decretada que asegure el pago de alimentos "futuros, provisionales, definitivos o convenidos" (art. 135 LPF y 550 CCC), inhabilita...
 
 ---
 
@@ -15327,19 +15151,35 @@ Frente al reclamo alimentario contra un abuelo en base al supuesto previsto por 
 
 ---
 
-## Sucesiones, resoluciones judiciales, pretensión
+## Alimentos, medidas cautelares, alimentos futuros
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085363
-- **Caratula:** Ledesma, Hugo Santiago c/ s/ sucesorio ab intestato (- tpro: sucesorio ab intestato)
+- **Numero:** I0085336
+- **Caratula:** M., D. A. por si y en representación de sus hijos menores C S.A..D. c/ s/ violencia familiar
 - **Fecha:** 2024-08-07
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-PROCESAL
-- **Descriptores:** sucesiones, resoluciones judiciales, pretensión
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3635-800isoiramus
+- **Descriptores:** alimentos, medidas cautelares, alimentos futuros
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6335-800isoiramus
 
-Si en el marco de un proceso, las partes deducen determinada pretensión y el juez en respuesta habla de "ocurra por la vía que corresponda" sin mayores precisiones incumple con la razonable fundamentación que exige el art. 3 del CCC
+El art. 550 CCC consagra la posibilidad de asegurar mediante una cautelar el pago de alimentos futuros, provisionales, definitivos o convenidos. En materia cautelar opera un microsistema creado en torno a la necesidad de asegurar al acreedor...
+
+---
+
+## Tercerías, inhibición general de bienes
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085367
+- **Caratula:** Municipalidad de San José de Gualeguaychú c/ Fernández, Mario Hugo S. Apremio s/ incidente (promov. por mara figueroa)
+- **Fecha:** 2024-08-07
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** tercerías, inhibición general de bienes
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7635-800isoiramus
+
+Permitir que la tercería pueda articularse frente a una inhibición general de bienes, cuya finalidad es anotar registralmente el traspaso dominial a favor de un tercero de un bien del afectado, es la solución que mejor armoniza con un instituto que...
 
 ---
 
@@ -15375,6 +15215,22 @@ El modo en que se notifica el traslado de la demanda se encuentra expresamente r
 
 ---
 
+## Tercerías, inhibición general de bienes
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085366
+- **Caratula:** Municipalidad de San José de Gualeguaychú c/ Fernández, Mario Hugo S. Apremio s/ incidente (promov. por mara figueroa)
+- **Fecha:** 2024-08-07
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** tercerías, inhibición general de bienes
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6635-800isoiramus
+
+En materia de tercería, la referencia a "bienes embargados" por la normativa procesal no excluye la posibilidad de que el proceso que allí se instituye pueda encauzarse con el fin de procurar el levantamiento de la inhibición de bienes que pesa...
+
+---
+
 ## Prescripción adquisitiva, poseedor, cesión de bienes, prueba, actos posesorios
 
 - **Tipo:** Jurisprudencia
@@ -15391,35 +15247,115 @@ Si el usucapiente para complementar el período que se necesita para prescribir 
 
 ---
 
+## Tercerías, inhibición general de bienes
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085369
+- **Caratula:** Municipalidad de San José de Gualeguaychú c/ Fernández, Mario Hugo S. Apremio s/ incidente (promov. por mara figueroa)
+- **Fecha:** 2024-08-07
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** tercerías, inhibición general de bienes
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9635-800isoiramus
+
+Si la adquisición del bien por parte del primer adquirente del vehículo fue posterior al crédito del embargante, y el boleto de compraventa celebrado por el tercerista -segundo adquirente- lo fue con una persona distinta del titular registral -en el...
+
+---
+
+## Tercerías, inhibición general de bienes
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085368
+- **Caratula:** Municipalidad de San José de Gualeguaychú c/ Fernández, Mario Hugo S. Apremio s/ incidente (promov. por mara figueroa)
+- **Fecha:** 2024-08-07
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** tercerías, inhibición general de bienes
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8635-800isoiramus
+
+La tercería de mejor derecho articulada por el adquirente de un vehículo por boleto no inscripto, es una via que contempla de modo excepcional situaciones en las que la estricta aplicación del régimen registral conllevaría una clara injusticia,...
+
+---
+
+## Sucesiones, resoluciones judiciales, pretensión
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085363
+- **Caratula:** Ledesma, Hugo Santiago c/ s/ sucesorio ab intestato (- tpro: sucesorio ab intestato)
+- **Fecha:** 2024-08-07
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** sucesiones, resoluciones judiciales, pretensión
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3635-800isoiramus
+
+Si en el marco de un proceso, las partes deducen determinada pretensión y el juez en respuesta habla de "ocurra por la vía que corresponda" sin mayores precisiones incumple con la razonable fundamentación que exige el art. 3 del CCC
+
+---
+
+## Alimentos, obligación alimentaria, abuelos
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085334
+- **Caratula:** M., E. T. C. V., A. C. S. Alimentos c/ s/ incidente cese cuota alimentaria
+- **Fecha:** 2024-08-07
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** alimentos, obligación alimentaria, abuelos
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4335-800isoiramus
+
+El reclamo alimentario contra el abuelo en base al supuesto previsto por el art. 663 CCC -hijo mayor que se capacita-, permite apreciar la doble excepcionalidad con la que debe medirse su procedencia, desde que lo son por la circunstancia de...
+
+---
+
+## Sucesiones, bienes, documentos en poder de terceros, posesión
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085362
+- **Caratula:** Ledesma, Hugo Santiago c/ s/ sucesorio ab intestato (- tpro: sucesorio ab intestato)
+- **Fecha:** 2024-08-07
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** sucesiones, bienes, documentos en poder de terceros, posesión
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2635-800isoiramus
+
+Si la posesión o tenencia de ciertos bienes hereditarios la detenta un tercero, los herederos deben ejercitar las acciones pertinentes para obtener la restitución o devolución y, en su caso, con las medidas cautelares que al efecto deban ejercitarse...
+
+---
+
 ## Alimentos, medidas cautelares, alimentos futuros
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085336
+- **Numero:** I0085338
 - **Caratula:** M., D. A. por si y en representación de sus hijos menores C S.A..D. c/ s/ violencia familiar
 - **Fecha:** 2024-08-07
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL-PROCESAL
 - **Descriptores:** alimentos, medidas cautelares, alimentos futuros
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6335-800isoiramus
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8335-800isoiramus
 
-El art. 550 CCC consagra la posibilidad de asegurar mediante una cautelar el pago de alimentos futuros, provisionales, definitivos o convenidos. En materia cautelar opera un microsistema creado en torno a la necesidad de asegurar al acreedor...
+La falta de ofrecimiento de otras garantías por parte del alimentante suficientes en sustitución de la medida cautelar decretada que asegure el pago de alimentos "futuros, provisionales, definitivos o convenidos" (art. 135 LPF y 550 CCC), inhabilita...
 
 ---
 
-## Tercerías, medidas cautelares, procedencia del recurso
+## Notificación, traslado de la demanda, carta documento
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085365
+- **Numero:** I0085373
 - **Caratula:** Municipalidad de San José de Gualeguaychú c/ Fernández, Mario Hugo S. Apremio s/ incidente (promov. por mara figueroa)
 - **Fecha:** 2024-08-07
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
-- **Descriptores:** tercerías, medidas cautelares, procedencia del recurso
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5635-800isoiramus
+- **Descriptores:** notificación, traslado de la demanda, carta documento
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3735-800isoiramus
 
-Ambas clases de tercería - dominio y la de mejor derecho- proceden ante la traba de cualquier medida cautelar y no solo frente a un embargo.
+Sin desconocer que ciertas reglamentaciones, algunas motivadas por hechos imprevisibles (v.gr. una pandemia) intentaron hallar algún medio alternativo para proseguir con el servicio de justicia en situaciones excepcionales habilitando medios de...
 
 ---
 
@@ -15439,19 +15375,67 @@ Por aplicación del principio iura novit curia, es el juez quien debe calificar 
 
 ---
 
-## Responsabilidad civil, daño estético, daños y perjuicios
+## Alimentos, medidas cautelares, alimentos futuros
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085345
-- **Caratula:** Videla, Irina c/ Ramos, Ernestina Susana y otros s/ ordinario daños y perjuicios
-- **Fecha:** 2024-08-01
+- **Numero:** I0085337
+- **Caratula:** M., D. A. por si y en representación de sus hijos menores C S.A..D. c/ s/ violencia familiar
+- **Fecha:** 2024-08-07
 - **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** responsabilidad civil, daño estético, daños y perjuicios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5435-800isoiramus
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** alimentos, medidas cautelares, alimentos futuros
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7335-800isoiramus
 
-El daño estético no es una tercera categoría autónoma por fuera del binomio daño patrimonial/daño extrapatrimonial o moral. Si aquél no provoca un desorden orgánico o funcional que evidencie limitación física, y que como tal cabría su absorción...
+Frente al despido e indemnización laboral del alimentante, debe atenderse que la pérdida de trabajo acreditada tiene potencialidad de agravar la situación de los alimentados, tornando ilusorio su derecho a la pensión e impone la necesidad de...
+
+---
+
+## Notificación, traslado de la demanda, carta documento
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085371
+- **Caratula:** Municipalidad de San José de Gualeguaychú c/ Fernández, Mario Hugo S. Apremio s/ incidente (promov. por mara figueroa)
+- **Fecha:** 2024-08-07
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** notificación, traslado de la demanda, carta documento
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1735-800isoiramus
+
+Las reglas procesales se han establecido para respetar el derecho de defensa, el debido proceso y la igualdad ante la ley. Existe un órgano con la facultad de determinar cómo se notifica cada acto procesal, y ese órgano es el que dicta las leyes....
+
+---
+
+## Prescripción adquisitiva, poseedor, cesión de bienes, prueba, actos posesorios
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085346
+- **Caratula:** Rebossio, Ricardo Adolfo Hipólito c/ Quien O Quienes se consideren con Derecho sobre el Inmueble s/ usucapión
+- **Fecha:** 2024-08-07
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** prescripción adquisitiva, poseedor, cesión de bienes, prueba, actos posesorios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6435-800isoiramus
+
+Si el usucapiente para complementar el período que se necesita para prescribir se vale de los anteriores poseedores, la cuestión no se dirime con la existencia de un documento de cesión y lo dicho por testigos o cuántos impuestos se pagaron, sino...
+
+---
+
+## Tercerías, medidas cautelares, procedencia del recurso
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085365
+- **Caratula:** Municipalidad de San José de Gualeguaychú c/ Fernández, Mario Hugo S. Apremio s/ incidente (promov. por mara figueroa)
+- **Fecha:** 2024-08-07
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** tercerías, medidas cautelares, procedencia del recurso
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5635-800isoiramus
+
+Ambas clases de tercería - dominio y la de mejor derecho- proceden ante la traba de cualquier medida cautelar y no solo frente a un embargo.
 
 ---
 
@@ -15471,22 +15455,6 @@ En la responsabilidad objetiva por el riesgo originado en cosas inertes, no es e
 
 ---
 
-## Responsabilidad civil, lucro cesante, cosa riesgosa, daños y perjuicios
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085344
-- **Caratula:** Videla, Irina c/ Ramos, Ernestina Susana y otros s/ ordinario daños y perjuicios
-- **Fecha:** 2024-08-01
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** responsabilidad civil, lucro cesante, cosa riesgosa, daños y perjuicios
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4435-800isoiramus
-
-El lucro cesante debe ser justificado mediante prueba directa, recayendo la carga de la prueba sobre quien invoca su efectivo acaecimiento (art. 363 CPCC). No se trata entonces, por caso, de un daño in re ipsa, en tanto presuncionalmente se pueda...
-
----
-
 ## Responsabilidad civil, responsabilidad objetiva, daños y perjuicios, cosa riesgosa
 
 - **Tipo:** Jurisprudencia
@@ -15503,6 +15471,38 @@ El riesgo de la cosa inerte nunca es la causa exclusiva del daño, pues éste si
 
 ---
 
+## Responsabilidad civil, daño estético, daños y perjuicios
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085345
+- **Caratula:** Videla, Irina c/ Ramos, Ernestina Susana y otros s/ ordinario daños y perjuicios
+- **Fecha:** 2024-08-01
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** responsabilidad civil, daño estético, daños y perjuicios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5435-800isoiramus
+
+El daño estético no es una tercera categoría autónoma por fuera del binomio daño patrimonial/daño extrapatrimonial o moral. Si aquél no provoca un desorden orgánico o funcional que evidencie limitación física, y que como tal cabría su absorción...
+
+---
+
+## Responsabilidad civil, lucro cesante, cosa riesgosa, daños y perjuicios
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085344
+- **Caratula:** Videla, Irina c/ Ramos, Ernestina Susana y otros s/ ordinario daños y perjuicios
+- **Fecha:** 2024-08-01
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** responsabilidad civil, lucro cesante, cosa riesgosa, daños y perjuicios
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4435-800isoiramus
+
+El lucro cesante debe ser justificado mediante prueba directa, recayendo la carga de la prueba sobre quien invoca su efectivo acaecimiento (art. 363 CPCC). No se trata entonces, por caso, de un daño in re ipsa, en tanto presuncionalmente se pueda...
+
+---
+
 ## Uniones convivenciales, distribución de dividendos, bienes
 
 - **Tipo:** Jurisprudencia
@@ -15516,22 +15516,6 @@ El riesgo de la cosa inerte nunca es la causa exclusiva del daño, pues éste si
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7005-800isoiramus
 
 Demostrar que un bien determinado fue adquirido durante la vigencia de la unión convivencial no lo transforma en una especie de bien ganancial como ocurre en el matrimonio. Para demostrar que era de ambos integrantes de la ex pareja, quien no...
-
----
-
-## Cuestiones de competencia, prestaciones de la obra social, juicio sumarísimo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085014
-- **Caratula:** Daneri, Pablo Manuel c/ Asociación Mutual Sancor Salud (R.N.E.M.P. N° 1137) s/ sumarísimo (civil)
-- **Fecha:** 2024-07-25
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL
-- **Descriptores:** cuestiones de competencia, prestaciones de la obra social, juicio sumarísimo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4105-800isoiramus
-
-Si la pretensión está vinculada directamente con las consecuencias de la actividad específica en la prestación médica-asistencial atribuida a una obra social nacional, la competencia corresponde a la justicia federal, en tanto el art. 38 de la Ley...
 
 ---
 
@@ -15583,67 +15567,19 @@ Si bien el Reglamento de Presentaciones Electrónicas no podría modificar una a
 
 ---
 
-## Violencia familiar, violencia de género, medidas cautelares, mascotas
+## Cuestiones de competencia, prestaciones de la obra social, juicio sumarísimo
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085006
-- **Caratula:** M., R. S. c/ A., J. R. s/ violencia de género
-- **Fecha:** 2024-07-24
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-DERECHOS HUMANOS
-- **Descriptores:** violencia familiar, violencia de género, medidas cautelares, mascotas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6005-800isoiramus
-
-En el marco de una tutela de protección desplegada en función de una denuncia por violencia familiar o de género, la orden cautelar para que el denunciado reintegre las mascotas a la denunciante -tres perros de raza- en base a la verosimilitud de...
-
----
-
-## Revocación de sentencia, perros, sujetos de derecho, tenencia de animales, mascotas, uniones convivenciales
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0084722
-- **Caratula:** M. R. S. c/ A. J. R. s/ violencia de género
-- **Fecha:** 2024-07-24
+- **Numero:** I0085014
+- **Caratula:** Daneri, Pablo Manuel c/ Asociación Mutual Sancor Salud (R.N.E.M.P. N° 1137) s/ sumarísimo (civil)
+- **Fecha:** 2024-07-25
 - **Provincia:** Entre Ríos
 - **Materia:** PROCESAL
-- **Descriptores:** revocación de sentencia, perros, sujetos de derecho, tenencia de animales, mascotas, uniones convivenciales
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2274-800isoiramus
+- **Descriptores:** cuestiones de competencia, prestaciones de la obra social, juicio sumarísimo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg4105-800isoiramus
 
-Corresponde revocar lo dispuesto por el a quo que adjudicó en forma exclusiva la tenencia de los perros a una ex integrante de la pareja con quienes vivían los tres canes caniches, pues la cuestión no debe centrarse en lo que ellos sienten sino en...
-
----
-
-## Violencia familiar, violencia de género, medidas cautelares, mascotas
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085005
-- **Caratula:** M., R. S. c/ A., J. R. s/ violencia de género
-- **Fecha:** 2024-07-24
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-DERECHOS HUMANOS
-- **Descriptores:** violencia familiar, violencia de género, medidas cautelares, mascotas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5005-800isoiramus
-
-En el marco de una tutela de protección producto de una denuncia de género, la decisión cautelar de restituir las mascotas a uno de los integrantes de la ex pareja, debe atender que si aquéllas pertenecen a ambos y en razón de que los perros...
-
----
-
-## Violencia familiar, violencia de género, medidas cautelares, mascotas
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085003
-- **Caratula:** M., R. S. c/ A., J. R. s/ violencia de género
-- **Fecha:** 2024-07-24
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-DERECHOS HUMANOS
-- **Descriptores:** violencia familiar, violencia de género, medidas cautelares, mascotas
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3005-800isoiramus
-
-Los animales son sujeto de derechos pasibles de protección y presentan un cierto grado de raciocinio y características emocionales similares a la de los humanos. En virtud de ello, la solución cautelar en el marco de una tutela de protección...
+Si la pretensión está vinculada directamente con las consecuencias de la actividad específica en la prestación médica-asistencial atribuida a una obra social nacional, la competencia corresponde a la justicia federal, en tanto el art. 38 de la Ley...
 
 ---
 
@@ -15660,6 +15596,22 @@ Los animales son sujeto de derechos pasibles de protección y presentan un ciert
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3274-800isoiramus
 
 Conforme lo estableció la jurisprudencia en temas vinculados a sujetos no humanos (animales), debe aplicarse una interpretación jurídica dinámica que les reconozca su carácter de sujeto de derechos toda vez que se les otorgó la condición de personas...
+
+---
+
+## Violencia familiar, violencia de género, medidas cautelares, mascotas
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085006
+- **Caratula:** M., R. S. c/ A., J. R. s/ violencia de género
+- **Fecha:** 2024-07-24
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-DERECHOS HUMANOS
+- **Descriptores:** violencia familiar, violencia de género, medidas cautelares, mascotas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg6005-800isoiramus
+
+En el marco de una tutela de protección desplegada en función de una denuncia por violencia familiar o de género, la orden cautelar para que el denunciado reintegre las mascotas a la denunciante -tres perros de raza- en base a la verosimilitud de...
 
 ---
 
@@ -15695,6 +15647,22 @@ En el marco de una tutela de protección producto de una denuncia de género, la
 
 ---
 
+## Violencia familiar, violencia de género, medidas cautelares, mascotas
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085005
+- **Caratula:** M., R. S. c/ A., J. R. s/ violencia de género
+- **Fecha:** 2024-07-24
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-DERECHOS HUMANOS
+- **Descriptores:** violencia familiar, violencia de género, medidas cautelares, mascotas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5005-800isoiramus
+
+En el marco de una tutela de protección producto de una denuncia de género, la decisión cautelar de restituir las mascotas a uno de los integrantes de la ex pareja, debe atender que si aquéllas pertenecen a ambos y en razón de que los perros...
+
+---
+
 ## Denegatoria del recurso, perros, confirmación de sentencia, violencia familiar, medidas cautelares, tenencia de animales, medidas provisionales, mascotas, ENTRE RÍOS, derechos y garantías constitucionales, debido proceso, uniones convivenciales
 
 - **Tipo:** Jurisprudencia
@@ -15708,6 +15676,54 @@ En el marco de una tutela de protección producto de una denuncia de género, la
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5274-800isoiramus
 
 Corresponde rechazar el recurso planteado por quien apeló la decisión que ordenó la tenencia de los tres perros de quienes integraban una pareja solo a quien denunció violencia familiar, toda vez que su carácter es provisorio al haberse dispuesto en...
+
+---
+
+## Revocación de sentencia, perros, sujetos de derecho, tenencia de animales, mascotas, uniones convivenciales
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0084722
+- **Caratula:** M. R. S. c/ A. J. R. s/ violencia de género
+- **Fecha:** 2024-07-24
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL
+- **Descriptores:** revocación de sentencia, perros, sujetos de derecho, tenencia de animales, mascotas, uniones convivenciales
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2274-800isoiramus
+
+Corresponde revocar lo dispuesto por el a quo que adjudicó en forma exclusiva la tenencia de los perros a una ex integrante de la pareja con quienes vivían los tres canes caniches, pues la cuestión no debe centrarse en lo que ellos sienten sino en...
+
+---
+
+## Violencia familiar, violencia de género, medidas cautelares, mascotas
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085003
+- **Caratula:** M., R. S. c/ A., J. R. s/ violencia de género
+- **Fecha:** 2024-07-24
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-DERECHOS HUMANOS
+- **Descriptores:** violencia familiar, violencia de género, medidas cautelares, mascotas
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg3005-800isoiramus
+
+Los animales son sujeto de derechos pasibles de protección y presentan un cierto grado de raciocinio y características emocionales similares a la de los humanos. En virtud de ello, la solución cautelar en el marco de una tutela de protección...
+
+---
+
+## Derechos y garantías constitucionales, amparo por mora, derecho a la información
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085025
+- **Caratula:** Pérez, Dante Andrés c/ Municipalidad de Gualeguaychú s/ acción de amparo por mora
+- **Fecha:** 2024-07-07
+- **Provincia:** Entre Ríos
+- **Materia:** CONSTITUCIONAL
+- **Descriptores:** derechos y garantías constitucionales, amparo por mora, derecho a la información
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5205-800isoiramus
+
+En términos generales, el derecho a la información pública permite a los ciudadanos acceder a datos y conocimientos necesarios para adoptar decisiones personales y/o participar en actividades públicas. El acceso a esa información conlleva a la idea...
 
 ---
 
@@ -15727,19 +15743,19 @@ La transparencia en las acciones gubernamentales y la rendición de cuentas son 
 
 ---
 
-## Derechos y garantías constitucionales, amparo por mora, derecho a la información
+## Daño causado con la cosa, eximentes de responsabilidad, uso y habitación
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085025
-- **Caratula:** Pérez, Dante Andrés c/ Municipalidad de Gualeguaychú s/ acción de amparo por mora
-- **Fecha:** 2024-07-07
+- **Numero:** I0085011
+- **Caratula:** Escobar, Norberto Guillermo c/ Ramírez, Adolfo Francisco Juan Y/O Quien Resulte Responsable s/ ordinario daños y perjuicios
+- **Fecha:** 2024-07-04
 - **Provincia:** Entre Ríos
-- **Materia:** CONSTITUCIONAL
-- **Descriptores:** derechos y garantías constitucionales, amparo por mora, derecho a la información
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg5205-800isoiramus
+- **Materia:** CIVIL
+- **Descriptores:** daño causado con la cosa, eximentes de responsabilidad, uso y habitación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1105-800isoiramus
 
-En términos generales, el derecho a la información pública permite a los ciudadanos acceder a datos y conocimientos necesarios para adoptar decisiones personales y/o participar en actividades públicas. El acceso a esa información conlleva a la idea...
+En los supuestos en que el dueño o guardián aleguen como eximente de responsabilidad que la cosa dañosa fue usada en contra de su voluntad expresa o presunta (art. 1758 CCC), es necesario probar que el uso opuesto a la voluntad configuró una...
 
 ---
 
@@ -15775,22 +15791,6 @@ Si el dueño o guardián alegan el uso de la cosa en contra de su voluntad expre
 
 ---
 
-## Daño causado con la cosa, eximentes de responsabilidad, uso y habitación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085011
-- **Caratula:** Escobar, Norberto Guillermo c/ Ramírez, Adolfo Francisco Juan Y/O Quien Resulte Responsable s/ ordinario daños y perjuicios
-- **Fecha:** 2024-07-04
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** daño causado con la cosa, eximentes de responsabilidad, uso y habitación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1105-800isoiramus
-
-En los supuestos en que el dueño o guardián aleguen como eximente de responsabilidad que la cosa dañosa fue usada en contra de su voluntad expresa o presunta (art. 1758 CCC), es necesario probar que el uso opuesto a la voluntad configuró una...
-
----
-
 ## Alimentos, mayor de edad, educación
 
 - **Tipo:** Jurisprudencia
@@ -15804,22 +15804,6 @@ En los supuestos en que el dueño o guardián aleguen como eximente de responsab
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1005-800isoiramus
 
 Para la procedencia de los alimentos previstos para hijos mayores de 21 años que se capacitan, resulta necesario que la formación sea sostenida, regular y con cierta eficacia de acuerdo a las circunstancias de cada caso.
-
----
-
-## Alimentos, mayor de edad, educación
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085002
-- **Caratula:** F., R. M. y A., E. J. c/ s/ divorcio por mutuo consentimiento (incidente de cese y disminución de cuota alimentaria)
-- **Fecha:** 2024-07-03
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL
-- **Descriptores:** alimentos, mayor de edad, educación
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2005-800isoiramus
-
-En el caso de los alimentos previstos para hijos mayores de 21 años que se capacitan, el beneficiario debe probar que sus estudios le dificultan obtener íntegramente sus propios recursos, lo que conlleva la explicitación de las necesidades que no...
 
 ---
 
@@ -15839,19 +15823,19 @@ Si el demandado en una acción reivindicatoria realizó construcciones en el inm
 
 ---
 
-## Daños y perjuicios, accidente de tránsito, interpretación sistemática, aplicación de la ley
+## Alimentos, mayor de edad, educación
 
 - **Tipo:** Jurisprudencia
 - **Ambito:** Entre Ríos
-- **Numero:** I0085008
-- **Caratula:** González, Ximena Agostina c/ García, Sergio Miguel Y Otros s/ ordinario daños y perjuicios
-- **Fecha:** 2024-07-02
+- **Numero:** I0085002
+- **Caratula:** F., R. M. y A., E. J. c/ s/ divorcio por mutuo consentimiento (incidente de cese y disminución de cuota alimentaria)
+- **Fecha:** 2024-07-03
 - **Provincia:** Entre Ríos
 - **Materia:** CIVIL
-- **Descriptores:** daños y perjuicios, accidente de tránsito, interpretación sistemática, aplicación de la ley
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8005-800isoiramus
+- **Descriptores:** alimentos, mayor de edad, educación
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg2005-800isoiramus
 
-Quien desprecie las normas regulatorias de tránsito y su finalidad con un obrar prescindente de las condiciones de circulación en el tránsito y hasta temerario por su potencialidad dañosa, no puede pretender usar el mismo sistema legal - prioridad...
+En el caso de los alimentos previstos para hijos mayores de 21 años que se capacitan, el beneficiario debe probar que sus estudios le dificultan obtener íntegramente sus propios recursos, lo que conlleva la explicitación de las necesidades que no...
 
 ---
 
@@ -15871,6 +15855,22 @@ Si el reclamante al momento del siniestro vial gozaba de la prioridad de paso po
 
 ---
 
+## Daños y perjuicios, accidente de tránsito, interpretación sistemática, aplicación de la ley
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085008
+- **Caratula:** González, Ximena Agostina c/ García, Sergio Miguel Y Otros s/ ordinario daños y perjuicios
+- **Fecha:** 2024-07-02
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL
+- **Descriptores:** daños y perjuicios, accidente de tránsito, interpretación sistemática, aplicación de la ley
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg8005-800isoiramus
+
+Quien desprecie las normas regulatorias de tránsito y su finalidad con un obrar prescindente de las condiciones de circulación en el tránsito y hasta temerario por su potencialidad dañosa, no puede pretender usar el mismo sistema legal - prioridad...
+
+---
+
 ## Aumento de cuota alimentaria
 
 - **Tipo:** Jurisprudencia
@@ -15884,54 +15884,6 @@ Si el reclamante al momento del siniestro vial gozaba de la prioridad de paso po
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9064-800isoiramus
 
 Corresponde aumentar la cuota alimentaria a cargo del progenitor en favor de sus tres hijas a la suma equivalente a tres y medio salarios mínimos vitales y confirmar la obligación de los abuelos de hacerse cargo en forma subsidiaria de los alimentos...
-
----
-
-## Relaciones de familia, alimentos extraordinarios, presunciones, costo de vida
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0084861
-- **Caratula:** L., M. S. C c/ T., H. A. S s/ Incidente aumento cuota alimentaria
-- **Fecha:** 2024-05-31
-- **Provincia:** Entre Ríos
-- **Materia:** CIVIL-PROCESAL
-- **Descriptores:** relaciones de familia, alimentos extraordinarios, presunciones, costo de vida
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1684-800isoiramus
-
-Si el progenitor demandado no efectuó una oposición expresa y documentada a la celebración de la fiesta de 15 años de su hija -lo que autoriza a presumir su conformidad tácita (art. 641 CCC-)-, sino que, por el contrario, fue él mismo quien acompañó...
-
----
-
-## Recurso de inaplicabilidad de ley, aplicación de la ley, pago, inconstitucionalidad
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085127
-- **Caratula:** Balbi, Miguel Angel c/ Arriaga, Sebastian Miguel y otro s/ recurso de inaplicabilidad de ley
-- **Fecha:** 2024-05-31
-- **Provincia:** Entre Ríos
-- **Materia:** PROCESAL-CIVIL
-- **Descriptores:** recurso de inaplicabilidad de ley, aplicación de la ley, pago, inconstitucionalidad
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7215-800isoiramus
-
-No aparece justo, ni lógico que el cliente que se vio obligado a estar en juicio y lo ganó deba asumir la parte de los honorarios de sus abogados que quedan fuera de la prorrata, o de lo contrario, esa cuota no resultará cancelada por nadie, con el...
-
----
-
-## Derecho laboral, jornada de trabajo, carga de la prueba, certificado de trabajo
-
-- **Tipo:** Jurisprudencia
-- **Ambito:** Entre Ríos
-- **Numero:** I0085147
-- **Caratula:** Klaus, Mariana Elizabeth c/ Ltmm Sas y otra s/ cobro de pesos y entrega de certificación laboral
-- **Fecha:** 2024-05-31
-- **Provincia:** Entre Ríos
-- **Materia:** LABORAL-PROCESAL
-- **Descriptores:** Derecho laboral, jornada de trabajo, carga de la prueba, certificado de trabajo
-- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7415-800isoiramus
-
-El principio de tipicidad probatorio y la reglamentación normativa vigente (Resoluciones 150 y 265 de la DPT) indica que la prueba idónea para acreditar la extensión de la jornada resultan ser las "planillas de horario" que toda empleadora debe...
 
 ---
 
@@ -15951,6 +15903,38 @@ En un proceso monitorio, aun cuando puede constatarse una inactividad superior a
 
 ---
 
+## Derecho laboral, jornada de trabajo, carga de la prueba, certificado de trabajo
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085147
+- **Caratula:** Klaus, Mariana Elizabeth c/ Ltmm Sas y otra s/ cobro de pesos y entrega de certificación laboral
+- **Fecha:** 2024-05-31
+- **Provincia:** Entre Ríos
+- **Materia:** LABORAL-PROCESAL
+- **Descriptores:** Derecho laboral, jornada de trabajo, carga de la prueba, certificado de trabajo
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7415-800isoiramus
+
+El principio de tipicidad probatorio y la reglamentación normativa vigente (Resoluciones 150 y 265 de la DPT) indica que la prueba idónea para acreditar la extensión de la jornada resultan ser las "planillas de horario" que toda empleadora debe...
+
+---
+
+## Relaciones de familia, alimentos extraordinarios, presunciones, costo de vida
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0084861
+- **Caratula:** L., M. S. C c/ T., H. A. S s/ Incidente aumento cuota alimentaria
+- **Fecha:** 2024-05-31
+- **Provincia:** Entre Ríos
+- **Materia:** CIVIL-PROCESAL
+- **Descriptores:** relaciones de familia, alimentos extraordinarios, presunciones, costo de vida
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg1684-800isoiramus
+
+Si el progenitor demandado no efectuó una oposición expresa y documentada a la celebración de la fiesta de 15 años de su hija -lo que autoriza a presumir su conformidad tácita (art. 641 CCC-)-, sino que, por el contrario, fue él mismo quien acompañó...
+
+---
+
 ## Alimentos extraordinarios, responsabilidad parental
 
 - **Tipo:** Jurisprudencia
@@ -15964,6 +15948,22 @@ En un proceso monitorio, aun cuando puede constatarse una inactividad superior a
 - **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg9664-800isoiramus
 
 Los alimentos extraordinarios derivan de necesidades que no fueron previstas al momento de establecerse el monto de la cuota ordinaria, por ser sobrevinientes, pero que los progenitores deben cubrir por responder a las necesidades de cuidado y...
+
+---
+
+## Recurso de inaplicabilidad de ley, aplicación de la ley, pago, inconstitucionalidad
+
+- **Tipo:** Jurisprudencia
+- **Ambito:** Entre Ríos
+- **Numero:** I0085127
+- **Caratula:** Balbi, Miguel Angel c/ Arriaga, Sebastian Miguel y otro s/ recurso de inaplicabilidad de ley
+- **Fecha:** 2024-05-31
+- **Provincia:** Entre Ríos
+- **Materia:** PROCESAL-CIVIL
+- **Descriptores:** recurso de inaplicabilidad de ley, aplicación de la ley, pago, inconstitucionalidad
+- **Fuente:** https://www.saij.gob.ar/123456789-0abc-defg7215-800isoiramus
+
+No aparece justo, ni lógico que el cliente que se vio obligado a estar en juicio y lo ganó deba asumir la parte de los honorarios de sus abogados que quedan fuera de la prorrata, o de lo contrario, esa cuota no resultará cancelada por nadie, con el...
 
 ---
 
